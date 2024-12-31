@@ -1,0 +1,27 @@
+
+
+A/C GIAN CHAND AND SONS DET SUNGRA   In M/S RAM KISHAN JIVA RAM Page No. 1
+ C089 VILL.DET SUNGRA PO SUNGRA                   PAN            9805651580  2GG
+      AADHAR 677012904728 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/05/2023S N305332           TO SALE                      706.27        0.00         706.27
+12/05/2023C A303S             BY CASH N305332 GIAN CHA       0.00      706.27           0.00
+31/05/2023S N308179           TO SALE                     1209.64        0.00        1209.64
+02/06/2023C A303S             BY CASH N308179 GIAN CHA       0.00     1209.64           0.00
+08/06/2023S N309117           TO SALE                      919.80        0.00         919.80
+09/06/2023C A303S             BY CASH N309117 GIAN CHA       0.00      919.80           0.00
+21/06/2023S N310939           TO SALE                     1516.21        0.00        1516.21
+23/06/2023C A303S             BY CASH N310939 GIAN CHA       0.00     1516.21           0.00
+19/07/2023S N314259           TO SALE                     1095.02        0.00        1095.02
+22/07/2023C A303Y             BY CASH N314259 GIAN CHA       0.00     1095.02           0.00
+28/07/2023S N315248           TO SALE                      621.09        0.00         621.09
+28/07/2023S N315255           TO SALE                     1552.88        0.00        2173.97
+02/08/2023S O107166           TO SALE                    -1552.88        0.00         621.09
+02/08/2023C A205S             BY CASH N315248 GIAN CHA       0.00      621.09           0.00
+
+                         TOTAL                            6068.03     6068.03           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,23 @@
+
+
+A/C MYSORE DEEP PERFUMERY HOUSE AMBALA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ X121 VILL MOHRA                                  PANAAFFM4128G           0   0G
+      AADHAR          0   GSTIN 06AAFFM4128G1ZI
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        291.00
+11/04/2023J J93104            TO CH 010555               67800.00        0.00       68091.00
+15/04/2023P MDAMBM2324/0056   BY PURCHASE                    0.00    56646.00       11445.00
+22/04/2023P MDAMBM2324/0074   BY PURCHASE                    0.00    11431.00          14.00
+19/05/2023J J93604            TO CH 010203               32200.00        0.00       32214.00
+23/05/2023P MDAMBM2324/0326   BY PURCHASE                    0.00    31456.00         758.00
+20/06/2023J J94080            TO CH 010238               32200.00        0.00       32958.00
+28/06/2023P MDAMBM2324/0592   BY PURCHASE                    0.00    20604.00       12354.00
+06/07/2023P MDAMBM2324/0638   BY PURCHASE                    0.00    14394.00       -2040.00
+03/08/2023J J94689            TO CH 010830               52500.00        0.00       50460.00
+12/08/2023P MDAMBM2324/0861   BY PURCHASE                    0.00    49949.00         511.00
+06/10/2023J J95609            TO CH 010446               51300.00        0.00       51811.00
+13/10/2023P MDAMBM2324/1372   BY PURCHASE                    0.00    47873.00        3938.00
+18/10/2023P MDAMBM2324/1437   BY PURCHASE                    0.00     8891.00       -4953.00
+
+                         TOTAL                          236291.00   241244.00       -4953.00

@@ -1,0 +1,19 @@
+
+
+A/C SHARMA GENERAL STORE REKONG PEO   In M/S RAM KISHAN JIVA RAM Page No. 1
+ D185 MAIN BAZAR REKONG PEO                       PANGFSPK6496F  9459333593  KBG
+      AADHAR          0   GSTIN 02GFSPK6496F1ZX
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+19/10/2023S S462424           TO SALE                   139767.47        0.00      139767.47
+19/10/2023S S462443           TO SALE                   280454.11        0.00      420221.58
+07/11/2023J J-CH              BY CH 014039 Q101              0.00    60031.00      360190.58
+13/11/2023J J-CH              BY CH 014040 Q101              0.00    60031.00      300159.58
+17/11/2023J J-CH              BY CH 014041 Q101              0.00    60031.00      240128.58
+21/11/2023J J-CH              BY CH 014043 Q101              0.00    60031.00      180097.58
+
+                         TOTAL                          420221.58   240124.00      180097.58
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

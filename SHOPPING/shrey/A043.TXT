@@ -1,0 +1,10 @@
+
+
+A/C RD TRADERS JEORI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ A043 VPO JEORI TEH RAMPUR                        PAN            9418837770  5GG
+      AADHAR 659116717971 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/02/2023S O105388           TO SALE                    -1044.76        0.00       -1044.76
+28/02/2023S L162443           TO SALE                     1044.76        0.00           0.00

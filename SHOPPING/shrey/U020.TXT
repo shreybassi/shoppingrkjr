@@ -1,0 +1,31 @@
+
+
+A/C DS DRINKS AND BEVERAGES P LTD RAISON KULU  In M/S RAM KISHAN JIVA RAM Page No. 1
+ U020 VPO RAISON KULU MANALI ROAD KULU            PANAAECD6936H           0   GG
+      AADHAR          0   GSTIN 02AAECD6936H2ZR
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      -39197.00
+18/04/2023P DS15-I1-TI23000113BY PURCHASE                    0.00    12651.00      -51848.00
+18/04/2023P DS64-I1-TI23000178BY PURCHASE                    0.00    13379.00      -65227.00
+30/05/2023P DS15-I1-TI23000451BY PURCHASE                    0.00     8049.60      -73276.60
+30/05/2023P DS64-I1-TI23000937BY PURCHASE                    0.00    26758.32     -100034.92
+12/06/2023P DS15-I1-TI23000573BY PURCHASE                    0.00    12651.00     -112685.92
+12/06/2023P DS64-I1-TI23001155BY PURCHASE                    0.00    13379.00     -126064.92
+24/06/2023P DS15-I1-TI23000722BY PURCHASE                    0.00    13801.00     -139865.92
+24/06/2023P DS64-I1-TI23001421BY PURCHASE                    0.00    10034.00     -149899.92
+30/06/2023J J94223            TO ON LINE                100000.00        0.00      -49899.92
+31/07/2023P DS15-I1-TI23000996BY PURCHASE                    0.00     6325.00      -56224.92
+31/07/2023P DS64-I1-TI23001969BY PURCHASE                    0.00    33447.00      -89671.92
+11/08/2023J J94803            TO ON LINE                 89671.00        0.00          -0.92
+31/08/2023P DS15-I1-TI23001191BY PURCHASE                    0.00    11501.00      -11501.92
+31/08/2023P DS64-I1-TI23002440BY PURCHASE                    0.00    16724.00      -28225.92
+09/09/2023P DS64-I1-TI23002656BY PURCHASE                    0.00    16724.00      -44949.92
+09/09/2023P DS15-I1-TI23001282BY PURCHASE                    0.00    12076.00      -57025.92
+23/09/2023P DS15-I1-TI23001377BY PURCHASE                    0.00    13801.00      -70826.92
+23/09/2023P DS64-I1-TI23002888BY PURCHASE                    0.00    10034.00      -80860.92
+17/10/2023J J95779            TO ON LINE                 80860.00        0.00          -0.92
+23/10/2023P DS15-I1-TI23001581BY PURCHASE                    0.00     8050.00       -8050.92
+23/10/2023P DS64-I1-TI23003327BY PURCHASE                    0.00    26758.00      -34808.92
+
+                         TOTAL                          270531.00   305339.92      -34808.92

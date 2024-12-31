@@ -1,0 +1,40 @@
+
+
+A/C AMBIKA UDYOG JAGADHRI     In M/S RAM KISHAN JIVA RAM Page No. 1
+ X088 NEAR RAILWAY  OUT AGENCIES JAGADHARI        PANAAYPP9968J           0   1G
+      AADHAR          0   GSTIN 06AAYPP9968J1ZE
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+05/04/2023P AU1               BY PURCHASE                    0.00   107710.00     -107710.00
+07/04/2023J J93069            TO ON LINE                107710.00        0.00           0.00
+11/04/2023P AU6               BY PURCHASE                    0.00    18398.00      -18398.00
+27/04/2023P AU28              BY PURCHASE                    0.00    42895.00      -61293.00
+02/05/2023P AU34              BY PURCHASE                    0.00    59239.00     -120532.00
+03/05/2023J J93377            TO ON LINE                120532.00        0.00           0.00
+08/05/2023P AU42              BY PURCHASE                    0.00    21258.00      -21258.00
+13/05/2023P AU48              BY PURCHASE                    0.00    60027.00      -81285.00
+16/05/2023J J93554            TO ON LINE                 81285.00        0.00           0.00
+18/05/2023P AU60              BY PURCHASE                    0.00    88065.00      -88065.00
+22/05/2023P AU65              BY PURCHASE                    0.00    49133.00     -137198.00
+24/05/2023J J93655            TO ON LINE                137198.00        0.00           0.00
+10/06/2023P AU84              BY PURCHASE                    0.00   100413.00     -100413.00
+12/06/2023P AU87              BY PURCHASE                    0.00     5554.00     -105967.00
+15/06/2023J J94010            TO ON LINE                105967.00        0.00           0.00
+30/06/2023P AU98              BY PURCHASE                    0.00    88090.00      -88090.00
+05/07/2023J J94305            TO ON LINE                 88090.00        0.00           0.00
+27/07/2023P AU113             BY PURCHASE                    0.00    36226.00      -36226.00
+03/08/2023J J94692            TO ON LINE                 36226.00        0.00           0.00
+24/08/2023P AU137             BY PURCHASE                    0.00    36514.00      -36514.00
+25/08/2023P AU139             BY PURCHASE                    0.00    94976.00     -131490.00
+25/08/2023J J94992            TO ON LINE                 36514.00        0.00      -94976.00
+07/09/2023J J95180            TO ON LINE                 94976.00        0.00           0.00
+11/10/2023P AU184             BY PURCHASE                    0.00   151371.00     -151371.00
+23/10/2023J J95881            TO ON LINE                151371.00        0.00           0.00
+28/10/2023P AU208             BY PURCHASE                    0.00   288955.00     -288955.00
+02/11/2023P AU222             BY PURCHASE                    0.00    77840.00     -366795.00
+07/11/2023P AU231             BY PURCHASE                    0.00   110188.00     -476983.00
+14/11/2023P AU243             BY PURCHASE                    0.00    62039.00     -539022.00
+15/11/2023J J96281            TO ON LINE                476983.00        0.00      -62039.00
+
+                         TOTAL                         1436852.00  1498891.00      -62039.00

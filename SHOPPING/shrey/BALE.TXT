@@ -1,0 +1,148 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ A145 SALE AGAINST CHEQUES DRAFT                     21606.85
+ N044 ASHA NEGI WO D K NEGI KHANERI    SUNAM             0.00 0P
+ I010 SWATANTRA ADVOCATE             ANNI             3499.49
+ J030 NIHAL                          AVERI               0.12        0.12
+ J024 RAJ KALA ENTERPRISES           AVERI               0.60        0.60        0.60       0.60
+ K101 HEMA BOOK DEPOT                BAGIPUL          5666.04      106.12      106.12
+ O017 DALEEP SINGH                   BATALI          63069.66    63069.66    53919.63       3.95
+ O064 OM TRADER                      BATALI          98898.74    87616.56      257.40     257.40
+ H027 PATEL ENGINEERING LTD          BITHAL             18.04       18.04       18.04      18.04       18.04
+ I075 SHIV GENERAL STORE             BITHAL              1.34        1.34        1.34
+ I396 V B T MALL                     BITHAL              1.01        1.01        1.01       1.01        1.01
+ N183 ANITA GENERAL STORE            BROW            33177.03
+ N025 CHETAN RAM & SONS              BROW            45118.07    44605.25    35962.54
+ N071 DEEPAK GENERAL STORE           BROW            14318.68      655.27
+ N082 JIWAN BROTHER                  BROW            35718.28    35718.28    35718.28   35718.28    35718.28
+ N041 KASHYAP KARYANA SHOP           BROW            27906.51    20095.95    16338.03
+ N039 KRISHNA NAND AND SONS          BROW              999.82      999.82      999.82
+ N154 LAXMI CHAND                    BROW            38342.41    38342.41
+ N031 MOKTA TENT HOUSE               BROW           599442.93   589548.46        0.17
+ N045 PADAM RAM AND SONS             BROW           199700.22   161525.35    43912.98    4129.16
+ N128 PRADEEP GENERAL STORE          BROW            42809.78
+ N043 PRAKASH GENERAL STORE          BROW             2304.57     2304.57     2304.57    2304.57
+ N134 VIJAY KARYANA STORE            BROW            39682.73        0.13        0.13       0.13
+ D089 SEWA AMAR DAILY NEED           CHAGOON             0.09        0.09        0.09       0.09        0.09
+ K102 AMAR SINGH                     CHAMARLA       421355.52   421355.52   421355.52
+ K108 MANISHA GENERAL STORE          CHAMARLA       144805.32   144805.32   144805.32   81157.78    81157.78
+ N241 SHARMA HARDWARE                CHATI            2786.40     2786.40
+ N029 AUTO ZONE CHUHABAG             CHUHABAG           85.56 0P
+ N079 SHYAM ENTERPRISES              CHUHABAG       -17749.96 0P
+ N115 DEV DAILY NEEDS                DAKOLAN         36692.18    28416.30    28416.30
+ N242 AARTI TRADERS                  DAKOLAR             0.31        0.31        0.31       0.31        0.31
+ N200 AGGARWAL HARDWARES             DAKOLAR          4339.74
+ N164 AGSTYA TRADERS                 DAKOLAR         34948.34    34948.34    34948.34   34948.34    30498.56
+ N176 GUPTA DAILY NEED               DAKOLAR          3953.45 0P
+ O019 HOTEL THE GRAND SHANGRILA      DAKOLAR        125659.59    98988.21    61443.56
+ B831 KRISHNA DHABA                  DAKOLAR             0.00
+ N225 MEHAK GENERAL STORE            DAKOLAR            -0.18
+ N136 NARENDERA HARDWARE             DAKOLAR            -0.40
+ N060 PD SHARMA DAKOLAR              DAKOLAR           662.58      662.58      662.58     662.58      662.58
+ N062 SHARMA TRADERS DAKOLAR         DAKOLAR            -0.27
+ O047 RAMAN  KAITH                   DALOG          156593.85   117819.29   117819.29   53675.52    53675.52
+ H055 PRINCIPAL GOVT SSS             DELATH           -100.15
+ C095 NJPC EMPLOYEES CO OP CONS STOR DET SUNGRA     149625.91
+ O004 DHRAMA GENERAL STORE           DOBI             6140.62 0P
+ O504 SURESH KUMAR AND CO            DOBI            43617.12    22817.20
+ H054 PRINCIPAL GOVT SSS             DOFDA               0.00
+ O083 RAM SAIN BANKA RAM             DOFDA           17409.47
+ O152 TRILOK CHAND                   DOFDA              -2.08
+ K091 DHANVIR SINGH                  DOMEHLI         47828.21    47828.21    44868.21   44868.21
+ I016 VIDYA RAM VIPIN KUMAR          DURAH               0.00
+ I341 HIMGIRI KALYAN ASHRAM          DUTTNAGAR         923.78      923.78      923.78     923.78      923.78
+ I126 JN SONS                        DUTTNAGAR        5750.98
+ L030 LABOUR A/C                     FALERU           7730.38     7730.38     7730.38    2033.30     2033.30
+ L032 ROOP LAL MALI                  FHALERU             0.00
+ H048 PRINCIPAL GOVT S S SCHOOL      GAURA             267.76      267.76      267.76
+ N108 JAGDAMNI DAILY NEED            JAGATKHANA       3758.15 0P
+ N050 PAMMI TENT HOUSE               JAGATKHANA          0.52        0.52        0.52       0.52        0.52
+ N179 PAWAN KUMAR THAKUR             JAGATKHANA        -24.65 0P
+ N032 RAJ DAILY NEED SHOP            JAGATKHANA      16374.20        0.28        0.28
+ N151 SOHAN LAL THAKUR               JAGATKHANA          0.00
+ N260 SUNAKSHI TRADER                JAGATKHANA      13007.74    13007.74    13007.74   13007.74        0.30
+ N142 THAKUR ENTERPRISES             JAGATKHANA        835.75      835.75      835.75     835.75      835.75
+ I546 NITIN TRADERS                  JAIPUR              2.26        2.26        2.26       2.26
+ O153 DESH DEEP                      JALIND             -0.52
+ A179 DEVI RAM TRAFFIC INCHARGE      JEORI               0.00
+ A053 DURGA MANDIR                   JHAKRI              0.00
+ I314 KAITH GRUOP OF TECHNOLOGIES    KALEDA              0.00
+ I152 MATHU RAM                      KALEDA          90687.21
+ I015 MURARI LAL                     KALEDA           1830.87 0P
+ K080 MITUL THAKUR S/O KARAM SINGH   KALOTI          19774.49     9525.98     9525.98
+ K099 SHRI KHAND GENERAL STORE       KALOTI              0.00
+ D169 HOTEL THE GRAND SHAMBALA       KALPA               0.32        0.32        0.32       0.32        0.32
+ D007 THUPDAN TASHI AND SONS         KALPA          617720.63   617720.63   617720.63  617720.63
+ N223 BHAIK BROTHERS                 KALYANPUR       19717.84
+ N171 JAI SINGH S/O HARI DASS        KALYANPUR           0.48        0.48        0.48       0.48        0.48
+ A042 PREM SINGH                     KAOBIL             -0.13
+ O021 CHAMAN LAL SO LAKSHMI DASS     KASHAPAT         3044.03 0P                                                                  3044.03     3044.03    3044.03     3044.03
+ K040 ARYAN GENERAL STORE            KASHOLI         75900.53    63211.70    63211.70       0.98
+ K008 NORMA JOSHI                    KASHOLI          2035.41     2035.41     2035.41    2035.41     2035.41
+ G149 C T BODH                       KAZA             3581.38 0P
+ N234 BALBIR                         KHADIR           8118.64     8118.64     8118.64    8118.64
+ N177 GURDYAL S O BARFU RAM          KHADIR           1998.74     1998.74
+ O002 VIMAL SINGH                    KHAKROLA        12214.89      194.99      194.99
+ N110 BITTAM GARAGES                 KHANERI            -0.73
+ N224 DHARUV MEDICOS                 KHANERI            -0.04
+ N218 DINESH AUTO MOBILES            KHANERI        -24987.10
+ N132 HS KHANERI                     KHANERI             0.00
+ N235 JIWAN LATA SHARMA              KHANERI             0.52        0.52        0.52       0.52        0.52
+ N143 MONICA AUTOMOBILES             KHANERI         -9721.95 0P
+ N102 NEGI GENERAL STORE             KHANERI             0.00
+ N157 RAJ KUMAR AND SONS             KHANERI         36875.89    36875.89    36875.89   36875.89    36875.89
+ N188 RAMA ENTERPRISES               KHANERI             0.46        0.46
+ N238 SATISH KUMAR NEGI              KHANERI           -44.95
+ N065 TRS TRADERS                    KHANERI         24338.43
+ N072 VERMA GENERAL STORE            KHANERI          -353.92 0P
+ I046 RUMAL SINGH DEVENDER SINGH     KHANOG           5422.55     5422.55
+ N262 KHOPRI MANDIR                  KHOPRI          -1776.36
+ A045 ADVANCE BOOKING CUSTOMER       KINNOUR       -105028.88
+ B808 RAMESH                         LALSA               0.00
+ O112 SHARMA GOLDEN PARADISE         LALSA             -61.00 0P
+ O059 SHEESH KUMAR GOVT CONTRACTOR   LALSA            -277.92
+ I131 SHAKUMBRI STORE                LUHRI            -715.34 0P
+ I018 BHALIE GENERAL STORE           NEHRA              -0.02
+ I233 SHARMA FOOD CORNER             NIRATH           1070.94     1070.94     1070.94    1070.94
+ I323 SUMIT ENTERPRISES              NIRATH          25500.00    25500.00
+ I040 MAHESH REGENCY                 NIRSU          264128.08   138415.32    98308.97       0.05
+ I095 SHIV LAL GUPTA                 NIRSU              -0.17
+ B801 CMC ENTERPRISES                NOGLI              -0.76
+ O121 SHAMSHER SINGH                 NOGLI               0.00
+ N152 PAPU GENERAL STORE             PADAMNAGAR      40046.69    40046.69    36914.50
+ N090 MOHAN LAL                      PANASHA          9999.70     9999.70     9999.70    9999.70     9999.70
+ N214 SHOBHA RAM                     PANASHA             0.32
+ N261 BD TRADERS                     RAMPUR             -0.94
+ M253 HOTEL MADHURAM BAR AND RESTORE RAMPUR          18987.79    18987.79    18987.79
+ H061 HRTC DRIVER UNION              RAMPUR              0.00
+ M131 KANTA PRASAD                   RAMPUR             12.47       12.47       12.47      12.47       12.47
+ M254 MOHAN ENTERPRISES              RAMPUR             -0.03
+ A594 PEND PAYMENT ACC RAJESH KUMAR  RAMPUR              1.09        1.09        1.09       1.09        1.09
+ M160 SAI ENGINEERS                  RAMPUR              0.00
+ M141 SIGMA                          RAMPUR            799.42      799.42      799.42     634.22      634.22
+ U202 VIDYA LAL HP923076             RAMPUR         116593.41    82382.47    79982.17   14932.87
+ A139 SUBHASH SEWGI                  RATTANPUR       13797.80 0P
+ C004 BIRBAL SINGH CHAURA            RUPI            46820.39    46820.39    25131.15     365.47
+ I156 HOTEL ATUL REGENCY             SAINJ            4621.57
+ D168 PUSHP POWER CONSTRUCTIONS      SANGLA              0.00
+ I415 THE THRILL HIMALAYA            SANJAULI            0.00
+ H021 COMMANDENT T.C SSB MESS 1      SARAHAN           249.57      249.57      249.57     249.57      249.57
+ H024 I T B P BONDA                  SARAHAN            -0.53
+ B074 NOVAE ENTERPRISES              SARAHAN            -0.14
+ I536 BRESTU RAM                     SHARVI          68636.17    68636.17    66700.81   37993.69     6534.31
+ H056 RAM KRISHAN MISHAN             SHIMLA              1.62        1.62        1.62       1.62        1.62
+ O118 RANJNA TANDON                  SHINGLA        124813.68 0P
+ O024 BISHESHAR LAL                  SHINGRA         43208.79    43208.79
+ J022 DHARMENDAR SHARMA NR DEO DHANK SHISHWA           -93.13      486.40      486.40     486.40      486.40
+ J065 SAT ENTERPRISES                SHISHWA         75012.73    75012.73
+ I057 GOPAL SINGH MEHTA              SURAD            2020.57
+ D074 MEHTA GENERAL STORE            TAPRI          118802.62    84294.96    31678.12
+ N141 MRIDUL DAILY NEEDS             THACHWA         88285.40    17642.21
+ K024 BHAGAT RAM                     THARLA          51914.51    51914.51
+ K081 TR THARLA                      THARLA             -0.36
+ N232 SHARMA GENERAL STORE           UPPER DAKOLA    10265.48 0P
+ O049 KARAM SINGH VERMA              URU                 0.59        0.59        0.59       0.59        0.59
+ I130 DOGAR GENERAL STORE            VIRGARH            -0.18
+ C068 ML NEGI                        WANGTOO         22469.66    22469.66    18042.33

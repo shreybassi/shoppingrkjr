@@ -1,0 +1,20 @@
+
+
+A/C PADMA TANDUP TAILING      In M/S RAM KISHAN JIVA RAM Page No. 1
+ G184 VILL TAILING PO MUDH                        PAN            8278719928  Z1I
+      AADHAR 616359419545 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+11/10/2023S S461369           TO SALE                      601.90        0.00         601.90
+11/10/2023S S461372           TO SALE                    11019.88        0.00       11621.78
+11/10/2023S S461373           TO SALE                    12918.06        0.00       24539.84
+11/10/2023S S461374           TO SALE                    11087.60        0.00       35627.44
+11/10/2023S S461384           TO SALE                    30938.52        0.00       66565.96
+11/10/2023S S461385           TO SALE                    31188.28        0.00       97754.24
+19/10/2023J J95821            BY TRANS                       0.00    97755.00          -0.76
+
+                         TOTAL                           97754.24    97755.00          -0.76
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

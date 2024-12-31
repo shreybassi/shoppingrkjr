@@ -1,0 +1,12 @@
+
+
+A/C YOURS DELHI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ Y023 HOUSE NO 95 MAN MOHAN SINGH VILL PRALADP    PANBTMPK9328M           0   0G
+      AADHAR          0   GSTIN 07BTMPK9328M2ZW
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+16/03/2023P YS151             BY PURCHASE                    0.00    44482.00      -44482.00
+16/03/2023J J92623            TO CH 010382               44482.00        0.00           0.00
+
+                         TOTAL                           44482.00    44482.00           0.00

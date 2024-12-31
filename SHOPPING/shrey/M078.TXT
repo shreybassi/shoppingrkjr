@@ -1,0 +1,20 @@
+
+
+A/C HP STATE CIVIL SUPPLY CORP LTD SHIMLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M078 BLOCK 16-17S SDA COMM COMP KAS              PANAABCH4054K  9418570003  I7I
+      AADHAR          0   GSTIN 02AABCH4054K1ZV
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+26/04/2023S H397745           TO SALE                    73547.88        0.00       73547.88
+01/05/2023S H397867           TO SALE                     1612.35        0.00       75160.23
+07/07/2023S R251883           TO SALE                     1502.50        0.00       76662.73
+07/07/2023J J94337            BY GOOGLE                      0.00     1502.00       75160.73
+20/07/2023S R251955           TO SALE                     1502.50        0.00       76663.23
+20/07/2023J J94491            BY GOOGLE                      0.00     1502.00       75161.23
+01/08/2023J J94634            BY CH 89070                    0.00    75160.00           1.23
+
+                         TOTAL                           78165.23    78164.00           1.23
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

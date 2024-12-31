@@ -1,0 +1,15 @@
+
+
+A/C KIRPA RAM DALIP KUMAR RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ U113 VPO RAMPUR TEH RAMPUR                       PAN                     0   0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+14/04/2023P KR2235            BY PURCHASE                    0.00    19000.00      -19000.00
+14/04/2023J J93152            TO ONLINE                  19000.00        0.00           0.00
+10/11/2023S Q164110           TO SALE                    17357.00        0.00       17357.00
+15/11/2023P KR2249            BY PURCHASE                    0.00    75600.00      -58243.00
+16/11/2023J J96304            TO ON LINE                 58243.00        0.00           0.00
+
+                         TOTAL                           94600.00    94600.00           0.00

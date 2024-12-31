@@ -1,0 +1,20 @@
+
+
+A/C ACC VISHWANATH KARYANA STORE RISPA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F095 VPO RISPA TEH MOORANG                       PANAOYPV3946A  9816610065  P0G
+      AADHAR 705729407122 GSTIN 02AOYPV3946A1ZO
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+11/04/2023S A173591           TO SALE                   124800.00        0.00      124800.00
+13/04/2023S A173593           TO SALE                   124800.00        0.00      249600.00
+15/04/2023J J93158            TO BILL NO D166705         36721.33        0.00      286321.33
+18/05/2023J J93577            TO BNO A173611            135200.00        0.00      421521.33
+29/05/2023S A173642           TO SALE                   149099.52        0.00      570620.85
+01/07/2023S A173674           TO SALE                   108598.28        0.00      679219.13
+16/11/2023J J96295            BY TFR                         0.00    55856.86      623362.27
+
+                         TOTAL                          679219.13    55856.86      623362.27
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

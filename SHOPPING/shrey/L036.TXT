@@ -1,0 +1,25 @@
+
+
+A/C HARI RAM FOR BANDAL       In M/S RAM KISHAN JIVA RAM Page No. 1
+ L036 VILL BANDAL PO URTOO TEH NIRMAND            PAN            9459465130  X3G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       5719.92
+11/04/2023C C1                RN36560                        0.00     1000.00        4719.92
+12/05/2023C C                 RN 39601                       0.00     5390.00        -670.08
+17/05/2023J J93562            TO WE                       5390.00        0.00        4719.92
+08/11/2023J J96153            BY ON LINE                     0.00     4720.00          -0.08
+15/11/2023S S466026           TO SALE                      365.08        0.00         365.00
+16/11/2023S S466111           TO SALE                     1649.66        0.00        2014.66
+17/11/2023C A403S             BY CASH S466026 HARI RAM       0.00      365.08        1649.58
+17/11/2023C A403S             BY CASH S466111 HARI RAM       0.00     1649.66          -0.08
+22/11/2023S S466919           TO SALE                      849.99        0.00         849.91
+23/11/2023S S466994           TO SALE                     4245.70        0.00        5095.61
+24/11/2023C A403S             BY CASH S466919 HARI RAM       0.00      849.99        4245.62
+24/11/2023C A403S             BY CASH S466994 HARI RAM       0.00     4245.70          -0.08
+
+                         TOTAL                           18220.35    18220.43          -0.08
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,28 @@
+
+
+A/C SA STEEL PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U344 PLOT NO 80 INDS AREA SEC 1                  PANBNOPG7351J           0   GG
+      AADHAR          0   GSTIN 02BNOPG7351J1ZW
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+05/04/2023P SA803             BY PURCHASE                    0.00    93672.00      -93672.00
+28/04/2023J J93311            TO CH 10573                93672.00        0.00           0.00
+04/05/2023P SA849             BY PURCHASE                    0.00   153208.00     -153208.00
+17/05/2023P SA876             BY PURCHASE                    0.00    84947.00     -238155.00
+06/06/2023P SA906             BY PURCHASE                    0.00    74666.00     -312821.00
+08/06/2023J J93913            TO CH 010227              312821.00        0.00           0.00
+13/06/2023P SA924             BY PURCHASE                    0.00    25084.00      -25084.00
+30/06/2023P SA964             BY PURCHASE                    0.00   106118.00     -131202.00
+10/07/2023P SA987             BY PURCHASE                    0.00    78992.00     -210194.00
+29/07/2023P SA1002            BY PURCHASE                    0.00    35869.00     -246063.00
+31/07/2023P SA1005            BY PURCHASE                    0.00    62250.00     -308313.00
+07/08/2023J J94740            TO CH 10753               246063.00        0.00      -62250.00
+12/08/2023P SA1036            BY PURCHASE                    0.00    55125.00     -117375.00
+25/08/2023P SS1056            BY PURCHASE                    0.00    79843.00     -197218.00
+05/09/2023P SA1062            BY PURCHASE                    0.00    31312.00     -228530.00
+22/09/2023J J95387            TO CH 010422              228530.00        0.00           0.00
+28/09/2023P SA1095            BY PURCHASE                    0.00    87431.00      -87431.00
+25/10/2023P SA1172            BY PURCHASE                    0.00   115410.00     -202841.00
+
+                         TOTAL                          881086.00  1083927.00     -202841.00

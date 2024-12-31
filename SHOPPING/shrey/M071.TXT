@@ -1,0 +1,28 @@
+
+
+A/C SELECTION FURNITURE RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M071 OPP NARENDRA HOTEL INDIRA MARKET            PANBDLPB5216N  6239508867  L7H
+      AADHAR          0   GSTIN 02BDLPB5216N1ZP
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+14/04/2023S L165723           TO SALE                    14393.64        0.00       14393.64
+15/04/2023J J93160            BY ONLINE                      0.00    14393.00           0.64
+10/05/2023S L167610           TO SALE                    10241.08        0.00       10241.72
+12/05/2023S L167744           TO SALE                    16754.21        0.00       26995.93
+12/05/2023J J93510            BY ONLINE                      0.00    10240.00       16755.93
+12/05/2023J J93510            BY ONLINE                      0.00    16754.00           1.93
+26/05/2023S P230551           TO SALE                    23849.76        0.00       23851.69
+27/05/2023J J93711            BY ON LINE                     0.00    23849.00           2.69
+05/08/2023S P230938           TO SALE                    19195.71        0.00       19198.40
+09/08/2023J J94770            BY ON LINE                     0.00    19195.00           3.40
+29/08/2023S L175345           TO SALE                    17124.31        0.00       17127.71
+05/09/2023J J95153            BY ON LINE                     0.00    17124.00           3.71
+03/10/2023S L177781           TO SALE                    18732.82        0.00       18736.53
+04/10/2023J J95559            BY ON LINE                     0.00    18732.00           4.53
+04/11/2023S L180262           TO SALE                    19195.71        0.00       19200.24
+
+                         TOTAL                          139487.24   120287.00       19200.24
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

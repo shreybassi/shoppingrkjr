@@ -1,0 +1,11 @@
+
+
+A/C STERLING GROCERIES PVT LTD DELHI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ Y194 C-29 PATPAR GANJ INDS AREA DELHI            PANAAICS2426H  9418033431   GP
+      AADHAR          0   GSTIN 07AAICS2426H1ZE
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F         -76.61
+06/04/2023S C626977           TO SALE                     1624.31        0.00        1547.70
+
+                         TOTAL                            1624.31       76.61        1547.70

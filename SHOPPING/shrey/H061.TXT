@@ -1,0 +1,21 @@
+
+
+A/C HRTC DRIVER UNION RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ H061 RAMPUR BUSHAR                               PAN            9805492662  E1I
+      AADHAR 263378140238 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+28/10/2023S B551959           TO SALE                    25850.42        0.00       25850.42
+28/10/2023S B551960           TO SALE                     7760.99        0.00       33611.41
+28/10/2023C C52796            TO CASH D172243             5940.33        0.00       39551.74
+30/10/2023S B551999           TO SALE                     3118.68        0.00       42670.42
+30/10/2023S C631071           TO SALE                      111.42        0.00       42781.84
+30/10/2023S G288833           TO SALE                     2086.74        0.00       44868.58
+31/10/2023S M206737           TO SALE                    -3032.60        0.00       41835.98
+31/10/2023C C2                RN50724                        0.00    41835.98           0.00
+
+                         TOTAL                           41835.98    41835.98           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

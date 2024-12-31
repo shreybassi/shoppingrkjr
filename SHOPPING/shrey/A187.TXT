@@ -1,0 +1,20 @@
+
+
+A/C NEGI HARDWARE RATTANPUR    In M/S RAM KISHAN JIVA RAM Page No. 1
+ A187 VPO RATTANPUR TEH RAMPUR                    PANAFGPN9397E  9418441581  45G
+      AADHAR          0   GSTIN 02AFGPN9397E1Z8
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+15/09/2023S N321646           TO SALE                     5141.55        0.00        5141.55
+16/09/2023S N321666           TO SALE                    38374.45        0.00       43516.00
+16/09/2023C A305S             BY CASH N321646 NEGI HAR       0.00     5141.55       38374.45
+18/09/2023C C52246            TO CASH N321616             5141.55        0.00       43516.00
+18/09/2023J J-CH              BY CH 259422 Q101              0.00    43516.00           0.00
+18/11/2023S N329736           TO SALE                    11464.84        0.00       11464.84
+20/11/2023J J-CH              BY CH 259424 Q101              0.00    11465.00          -0.16
+
+                         TOTAL                           60122.39    60122.55          -0.16
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

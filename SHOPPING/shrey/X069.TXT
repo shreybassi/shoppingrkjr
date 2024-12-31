@@ -1,0 +1,12 @@
+
+
+A/C ATMA RAM PAWAN KUMAR AMBALA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ X069 AMBALA                                      PANACCPJ1102G           0   BG
+      AADHAR          0   GSTIN 06ACCPJ1102G1ZF
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+30/12/2022S C624909           TO SALE                     1225.00        0.00        1225.00
+14/01/2023J J91929            BY TRANS                       0.00     1225.00           0.00
+
+                         TOTAL                            1225.00     1225.00           0.00

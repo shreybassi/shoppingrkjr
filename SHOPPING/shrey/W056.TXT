@@ -1,0 +1,12 @@
+
+
+A/C RADHA KRISHAN ELECTRICALS BULANDSHAHR  In M/S RAM KISHAN JIVA RAM Page No. 1
+ W056 374 NEW SHIV PURI JUCTION ROAD KHURJA       PANBGCPG6796G           0   0G
+      AADHAR          0   GSTIN 09BGCPG6796G1Z1
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+23/07/2021P APIN-3174         BY PURCHASE                    0.00     3357.00       -3357.00
+31/07/2021J J85493            TO ON LINE                  3357.00        0.00           0.00
+
+                         TOTAL                            3357.00     3357.00           0.00

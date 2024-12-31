@@ -1,0 +1,22 @@
+
+
+A/C KINGSON STUDIO RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M019 VILL.   PO RAMPUR BUSHAHR                   PANAAJPH2186F  9418134442  LBG
+      AADHAR          0   GSTIN 02AAJPH2186F1Z2
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        812.23
+11/04/2023S B543433           TO SALE                     1560.00        0.00        2372.23
+21/04/2023C C                 RN36857                        0.00     1000.00        1372.23
+21/04/2023C C2                RN38211                        0.00     1000.00         372.23
+30/05/2023C C1                RN41060                        0.00      500.00        -127.77
+06/06/2023S C628336           TO SALE                     1181.38        0.00        1053.61
+26/06/2023C C1                RN 42745                       0.00      500.00         553.61
+28/06/2023S C628740           TO SALE                      297.58        0.00         851.19
+28/06/2023C C                 RN42592                        0.00      300.00         551.19
+30/06/2023C C1                RN43550                        0.00      551.19           0.00
+
+                         TOTAL                            3851.19     3851.19           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

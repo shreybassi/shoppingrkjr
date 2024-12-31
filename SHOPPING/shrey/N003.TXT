@@ -1,0 +1,20 @@
+
+
+A/C JAGDISH CHAND KALYANPUR RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ N003 VILL. KALYANPUR PO RAMPUR                   PAN            9418008454  LCG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        330.88
+03/04/2023S H397222           TO SALE                     9309.58        0.00        9640.46
+26/04/2023C C                 RN37682                        0.00     6000.00        3640.46
+08/05/2023C C1                RN38674                        0.00     2000.00        1640.46
+25/05/2023C C                 RN39966                        0.00     1640.46           0.00
+19/06/2023S Q163603           TO SALE                     9253.00        0.00        9253.00
+09/08/2023C C                 RN46555                        0.00     9253.00           0.00
+16/10/2023S H400823           TO SALE                     6135.44        0.00        6135.44
+
+                         TOTAL                           25028.90    18893.46        6135.44
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

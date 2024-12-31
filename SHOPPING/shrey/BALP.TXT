@@ -1,0 +1,242 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ F027 AKPA GENERAL STORE             AKPA              444.47      444.47
+ F071 HARI BAHADUR SON OF HASI RAM   AKPA              581.33     1284.57      974.57
+ F003 KARAM CHAND LIPTA              AKPA                0.13        0.13        0.13       0.13        0.13
+ F019 VISHAL LIPTA                   AKPA            54660.11    15033.02        0.27       0.27
+ F063 DEWA GENERAL STORE             ASRANG          -1430.43
+ F818 BALDEV                         CHARANG         16147.35    16147.35    16147.35   16147.35    16147.35
+ G042 ACC RIGZ TASHI ASSOCIATE       DUBLING        978492.34   978492.34   978492.34  596894.62   469695.38
+ G023 DUBLING SHER SINGH             DUBLING          -884.00
+ G007 JAMBAL RAM BHAGWAN SINGH       DUBLING          1038.82     1038.82     1038.82    1038.82
+ F993 LAXMAN SINGH                   DUBLING             1.34
+ G048 RIGZ TASHI ASSOCIATE           DUBLING        154042.93        1.91
+ F987 ROBIN NEGI 8553200009          DUBLING             0.41        0.41        0.41       0.41
+ F791 JIWAN LAL 76499 99021          GIABONG         42423.25
+ G089 KARMA NEGI GIABONG             GIABONG        890925.04   890925.04        0.38       0.38
+ G096 PADAMVIR NEGI                  GIABONG        609862.10   609862.10        0.59       0.59        0.59
+ F893 SANAM DORJEY G080              GIABONG         32156.54
+ G088 CHERING DANDUP AND SONS        GIABUNG        110347.91    44216.62
+ F780 AMRIT  LAL                     GIAWANG        109456.96   109456.96
+ G044 BAHADUR SINGH SON OF DHARAM SI GIAWANG        133037.06    38637.06    38637.06
+ G029 D SINGH DVIWEDI                GIAWANG        683079.11   683079.11   683079.11
+ F894 DINESH KUMAR G080              GIAWANG           916.34        0.29        0.29
+ F886 KHALSU 9418856087              GIAWANG             0.00
+ F789 LAXMI NARAYAN G080             GIAWANG             0.00
+ F879 LOJANG CHOPAL G080             GIAWANG          1499.94
+ G111 MEHTA GENERAL STORE            GIAWANG         78554.44    78554.44    78554.44   14435.88    14435.88
+ F824 NARSUKH G080                   GIAWANG         38244.59    38244.59        0.10       0.10
+ F826 NEEMA HOZER  G080              GIAWANG          5605.88        1.67        1.67
+ F921 PADAM SINGH G080               GIAWANG            -0.22
+ G168 SHYAM LAL CONTRACTOR           GIAWANG             0.00
+ G001 ACC UTTAM SAIN                 GIAWONG           268.80      268.80      268.80     268.80
+ G040 CHERING LAL AND SONS           GIAWONG             0.00
+ G002 CHERING LAL ROSHAN LAL         GIAWONG        175407.26   100984.85    92643.72
+ G080 SANAM CHAND BHADUR SINGH       GIAWONG         42520.60    42520.60    42520.60
+ F710 DORJEY GIALCHAN                HANGO           43302.92    43302.92    43302.92   43302.92    43302.92
+ F066 PANMA RINGCHIN                 JANGI           79750.61    79750.61    79750.61   79750.61    79750.61
+ F092 PUJARAS BROTHERS               JANGI               0.96        0.96        0.96       0.96        0.96
+ F848 CHETAN FUNCHUK G072            KANAM           34835.59    34835.59
+ G085 DHARAM KIRTI NEGI              KANAM          184447.78
+ F798 DHARAM SINGH C/O DHANVIR       KANAM               0.90        0.90
+ F102 GIAN PAL SINGH                 KANAM              -0.40
+ F744 GULAB SINGH KS                 KANAM               0.00
+ G072 HEMVATI NANDAN                 KANAM          284699.68   284699.68      184.73     184.73      184.73
+ F726 JAMBAL PAL G072                KANAM               0.00
+ F797 LALIT NEGI                     KANAM              -0.50
+ G016 MOTI HOTEL                     KANAM           -3035.09
+ F863 PADAM CHAND NEGI               KANAM              -0.47
+ F891 PAKASH CHAND DV                KANAM              -0.56
+ F815 PARTAP G072                    KANAM               0.00
+ F718 SANAM NARPAL G016              KANAM               0.04 0P                                                                     0.04        0.04       0.04        0.04
+ G027 SAVITRI DEVI KANAM             KANAM          146693.17   146693.17   123811.91
+ F719 SIDARTH                        KANAM              -0.42
+ F793 SUBHASH G072                   KANAM           30125.80    30125.80
+ G108 SUKH DEV                       KANAM          131632.03
+ F996 TANJIN FUNCHUK G027            KANAM               0.00
+ G061 TANZIN FUNCHOK                 KANAM          187686.98     3488.17     3488.17
+ F801 DELAK GIACHOO 98059 49745      KARLA           46749.74    46749.74      953.59     953.59
+ F047 HOTEL JIWAN SINGH              KHARO           22850.06    22850.06        0.55       0.55
+ F787 AJAY KUMAR DV                  LABRANG         27506.23    27506.23
+ F965 AMAR LASPA                     LABRANG         50633.30    50633.30
+ G013 BEERU GENERAL STORE            LABRANG        128097.32   128097.32
+ F953 DALEEP NEGI 8628830077         LABRANG         17115.23    17115.23
+ F968 DG NEGI                        LABRANG            -0.20
+ F877 HIMAT SINGH G013               LABRANG        121839.25
+ G079 JAGAT SINGH NEGI               LABRANG         28843.63    28843.63    28843.63   28843.63
+ F734 JAGDISH CHANDER NEGI XEN       LABRANG         72717.15
+ F887 JAGDISH DV                     LABRANG           907.47 0P
+ F948 KALJANG NIMA                   LABRANG            -0.99
+ F774 KAMLESH KUMARI JS              LABRANG             0.40        0.40
+ F821 LAL SINGH                      LABRANG         36699.75    36699.75
+ F770 PADAM DEV G013                 LABRANG             0.42        0.42
+ F776 PATRAP NEGI                    LABRANG         54484.70    54484.70    54484.70   54484.70    14367.87
+ F761 PREM CHAND DP 9816865843       LABRANG            -0.46
+ F729 RAJESH DV                      LABRANG         17014.53    17014.53
+ G065 SANAM MEDUP                    LABRANG            -0.24
+ F805 SUNDER MANI DV                 LABRANG             0.49        0.49
+ F762 SURAJ MANI                     LABRANG         27710.31    27710.31
+ F739 VIDYA SAGAR DV                 LABRANG         54279.13
+ F784 VILAYAT SINGH DP 8894737550    LABRANG             0.15        0.15
+ F727 VINOD KUMAR G013               LABRANG         20504.39    20504.39
+ F928 YASHWANT                       LABRANG         21802.73    21802.73
+ G095 CHERING TANDUP ATUL NEGI       LEO                -0.97
+ F976 DEVI SINGH LEO                 LEO             46671.08    46671.08    46671.08   46671.08    46671.08
+ G169 HEMANT KUMAR VERMA             LEO                 0.38        0.38        0.38       0.38        0.38
+ F049 AYUSH GEN. STORE LIPA          LIPA           129029.16    30184.18    30184.18   30184.18
+ F013 BUDH DEV NEGI LIPPA            LIPPA          185486.45    38756.38     1792.14
+ F741 KALZANG NIMA LAMA 94181 51141  LIPPA               0.22
+ F008 LIPPA GENERAL STORE            LIPPA             -74.38
+ F001 ADAR SAIN NIMA NAMGYAL         MOORANG         86740.87    24471.07
+ F851 ANJU                           MOORANG             0.00 0P
+ F831 BHARAT CHAND                   MOORANG         20577.80
+ F888 CHERING NARGOO                 MOORANG            -3.24
+ F091 DANDUB CHHEWANG                MOORANG        572771.96
+ F878 DAYA PALDAN 9805630903         MOORANG            -0.50
+ F738 GIAN BHANDARI                  MOORANG             0.00
+ F836 HAPPY GENERAL STORE            MOORANG             0.00
+ F009 JOGINDER SINGH AND BROS        MOORANG         59613.20    24458.87
+ F703 KIRAN KUMARI F846              MOORANG         37540.69    37540.69    37540.69
+ F096 MADHU SUDAN                    MOORANG             0.00
+ F073 PC BROTHER                     MOORANG            -0.13
+ F802 SAROJ KUMARI                   MOORANG         24714.77      194.07      194.07     194.07      194.07
+ F846 SHARF LAMA 9805890245          MOORANG        -37540.05
+ F814 SHEESH DHWAJ                   MOORANG            -0.33
+ F023 SHIV KUMAR                     MOORANG             0.00
+ F036 SHIV KUMAR NEGI KENCHY MOR     MOORANG        201711.73
+ F072 SURJEET RAJEEV BROS            MOORANG        530844.47   530844.47   530844.47  530844.47   171022.58
+ F094 UMESH NEGI                     MOORANG        168778.42    47030.12        0.08       0.08
+ F020 DAULAT SINGH AND SONS          MORANG          58377.83      950.63      950.63     950.63
+ F044 KAILASH NEGI UPP.MORANG        MORANG           6594.33     6594.33     6594.33    6594.33
+ F033 KARAN C/O YOGINDER UPP MORANG  MORANG          46347.23    46347.23     6098.46
+ F054 LAKSHMI GENERAL STORE          MORANG             -1.54
+ F069 LAXMAN SINGH UPPER MORANG      MORANG          18962.52    18962.52    18962.52   18962.52    18962.52
+ F079 ROSHAN LAL FAUJI UPP MORANG    MORANG             22.00       22.00       22.00     840.16
+ F081 SHRIKANT TRADERS               MORANG              0.00 0P
+ G901 YANGTHANG GEN STORE            NAKO               -1.79
+ G028 KUNJANG CHERING NEGI           NAMGIA          36974.30
+ G018 PALZANG RAM AND SONS           NAMGIA          90986.22
+ G046 TEJ SINGH                      NAMGIA         100000.00   100000.00   100000.00
+ F060 ASHOK KUMAR                    NESANG          99164.06    99164.06        0.30
+ F920 CHERING NAMGIAL 8894840019     NESANG          76635.77    76635.77
+ F045 INDER KUMAR                    NESANG          56175.10        4.20        4.20       4.20
+ F074 MOHINDRA KUMARI                NESANG          82740.30    82740.30
+ F807 ANCHUK KORO LAMA               POOH               -0.15
+ F750 ANCHUK NEGI  8626857168        POOH                0.30        0.30        0.30       0.30
+ F975 BALDEV                         POOH            48622.30
+ G171 BHIM SAIN NEGI                 POOH                0.00
+ F832 BHUSHAN NEGI                   POOH            16324.00    16324.00    16324.00   16324.00    16324.00
+ F808 BS NEGI                        POOH            53324.62
+ G133 C G C ENTERPRISES              POOH               -2.95
+ G064 CHEELA GENERAL STORE           POOH            45565.11        8.12        8.12       8.12
+ G101 CHOPRA SANJEEV KUMAR           POOH           169234.28   138031.66   138031.66
+ G167 DAWA DORJEY                    POOH                0.00
+ F843 DAWA DORJEY C/O PUNEET         POOH                0.88        0.88        0.88       0.88
+ F822 DAYA KRISHAN 9418343055        POOH                1.38        1.38        1.38       1.38        1.38
+ F724 GAUTAM LAMA 78072 32636        POOH                0.00
+ F702 GAUTAM NEGI                    POOH            23939.51        0.69        0.69       0.69        0.69
+ G017 HOTEL OM                       POOH             5906.74     5906.74     5906.74
+ F728 HUKAM CHAND 78072 32636        POOH            -1573.94
+ F795 JAI SINGH 94185 71275          POOH            17805.53
+ G026 KANWAR SINGH                   POOH               -2.38
+ G145 KARMA GENERAL STORE            POOH            50348.69    50348.69    50348.69   50348.69    50348.69
+ F701 KRISHAN GURUJI                 POOH                2.02        2.02        2.02       2.02        2.02
+ G090 KULDEEP RAJ                    POOH                0.06        0.06        0.06       0.06        0.06
+ G163 LUNGTA CAFE C O PUNEET         POOH               -3.94
+ G113 MANOJ KUMAR CHHIPI             POOH            83284.82        1.12        1.12       1.12
+ F769 MIKAL 9418401780               POOH                0.48        0.48        0.48       0.48
+ G155 NEGI GENERAL STORE             POOH           171449.87   153232.00   153232.00   66758.83
+ F800 NK NEGI                        POOH             7363.26     7363.26     7363.26    7363.26
+ G076 PUNEET GENERAL STORE           POOH           136383.55    83984.90
+ F842 RAJ KUMAR SWEET SHOP           POOH            13258.72        0.88
+ F834 RAJENDER NEGI                  POOH              341.76      341.76      341.76     341.76
+ F835 RAKSHA DEVI                    POOH                0.02        0.02        0.02
+ F876 SANDUP NEGI SK                 POOH                1.00        1.00        1.00       1.00
+ F914 SANJAY NEGI 9418402578         POOH               -1.21
+ G041 SANJEEV KUMAR AND BROS         POOH           133499.01    52653.47    52653.47
+ G501 SATISH KUMAR POOH              POOH           108365.38        0.95
+ G004 SHYAM SUNDER SHARMA AND SONS   POOH             4951.59
+ G091 SONDHI BROTHER                 POOH           222415.96    58925.32
+ G112 SURAJ KUMAR C O SATISH KUMAR   POOH                0.66        0.66        0.66       0.66
+ G147 TANJIN RAM                     POOH             -174.92
+ F709 TANJIN RAPTAN 9418645397       POOH            36832.85
+ G132 TANZIN BAKERS                  POOH            64755.41    64755.41    64755.41   64755.41    64755.41
+ G070 URMILA KUMARI WO DES RAJ       POOH                0.04        0.04        0.04
+ G102 VIDYA SAGAR NEGI POOH          POOH            65665.00    65665.00
+ G166 VIJAY KUMAR SHARMA             POOH             4099.27     4099.27     4099.27
+ D013 SWAGAT GENERAL STOREN          POWARI              0.62 0P                                                                     0.62        0.62       0.62        0.62
+ A591 CASH ON DELIVERY SM 2335       RAMPUR              0.00
+ A592 CASH ON DELIVERY SM 3P POOH    RAMPUR         886663.83   195368.13
+ F101 ANOOP BRICE                    RARANG             -0.20
+ F065 KUNGA TANJIN NEGI              RARANG             -0.60
+ F043 MOHENDER SINGH                 RARANG          29772.42    29772.42     2067.31
+ F030 SANTOOK LAL MEHAR SINGH        RARANG          86314.95    86314.95
+ F052 DUGGAL DAILY NEED              RIBA           349596.82   349596.82   349596.82   77970.07
+ F051 HIRA RATTAN                    RIBA              -13.97
+ F028 ADESH KUMAR NEGI               RIBBA             141.59      141.59
+ F858 BRIJ MOHAN                     RIBBA          -18639.84
+ F024 CHANDER LAL NEGI               RIBBA              -2.68
+ F084 CHANDER SINGH                  RIBBA              -0.21
+ F055 DOLMA NEGI                     RIBBA          224249.21    45831.36
+ F007 HARI KESHAV NEGI               RIBBA          145023.35   145023.35   145023.35  145023.35
+ F839 NEEL KAMAL                     RIBBA              -0.26
+ F064 RAJ GULSHAN NEGI               RIBBA              -0.35
+ F100 RAJGULSHAN AND SONS            RIBBA          289887.07   289887.07   167071.57
+ F940 SAT PAL 9805788986             RIBBA           74841.01    74841.01    73841.01
+ F046 SURYA ENTERPRISES              RIBBA              -0.10
+ F037 VIJAY LAL                      RIBBA          123436.06   123436.06        1.01       1.01        1.01
+ F095 ACC VISHWANATH KARYANA STORE   RISPA          623362.27   623362.27   623362.27  623362.27   623362.27
+ F861 B S NEGI                       RISPA           56605.99        0.20        0.20
+ F875 CD NEGI                        RISPA            2796.84        0.33        0.33
+ F924 DARSHAN SINGH                  RISPA           11045.13
+ F931 GURWACHAN NEGI                 RISPA               0.44        0.44        0.44
+ F090 PARMOD KUMAR                   RISPA               0.00 0P
+ F077 PARVEEN KUMAR                  RISPA             386.15 0P
+ F838 PREM RAJ                       RISPA          122068.84        0.13        0.13       0.13        0.13
+ F967 SANGHYA DOLMA                  RISPA               0.00
+ F827 SHAKUNTLA DEVI                 RISPA               0.00
+ F932 UDESH KUMARI                   RISPA               0.44        0.44        0.44
+ F779 VANEET  NEGI                   RISPA              -0.30
+ F760 VIDYA RAM                      RISPA               0.43        0.43        0.43
+ F864 VINAY KUMAR                    RISPA           52957.96        0.01        0.01       0.01
+ F010 VISHWANATH NEGI                RISPA          -46198.04
+ G078 ASHWANI KUMAR                  ROPA              902.33 0P
+ F819 HARI CHAND                     ROPA            73241.98    73241.98
+ F816 INDER LAL 9459480337           ROPA            83481.45    81311.45
+ G110 NARBOO RAM ROPA                ROPA           342113.58   304534.78
+ F817 ROSHAN LAL                     ROPA             6560.80     6560.80     6560.80    6560.80     6560.80
+ G045 SHYAM PROVISIONAL STORE        ROPA            85714.84    85714.84    85714.84   90727.54
+ G170 SIDHI BAHADUR CONTRACTOR       ROPA                0.20        0.20        0.20       0.20        0.20
+ F977 TARA NEGI                      ROPA               -0.73
+ G014 TSS ORCHARD                    ROPA           558052.42   558052.42    45521.16   45521.16
+ G031 GEDANG DORJEY                  RUSHKALANG     455476.08   455476.08
+ F026 DHAN SINGH BALA RAM AND SONS   SKIBA          443177.94   367331.18   341547.32  341547.32   337083.32
+ F097 REENA NEGI                     SKIBA            1525.60     1525.60
+ F059 SARVAN KUMAR                   SKIBBA             -0.18
+ F086 SHIV LAL NEGI                  SKIBBA          20001.40     1475.44
+ G099 HOTEL HIMANI                   SPILLO             -0.36
+ G012 SPILLO SHARMA DAILY NEEDS      SPILLO            754.80      754.80      754.80     754.80
+ G153 AMAR SINGH NEGI                SPILLOW             0.00
+ F915 HOTEL SATLUJ                   SPILLOW         11264.48    11264.48       98.26      98.26
+ G115 PRAKASH CHAND                  SPILLOW             0.42        0.42        0.42       0.42        0.42
+ G160 SHARMA GENERAL STORE           SPILLOW        121463.05   121463.05
+ G084 RAGHU RAM RAM LAL              SPILOW          28871.41    28871.41    28871.41
+ G103 RAKESH KUNAR                   SPILOW             -0.79
+ G083 RIYA NEHA GENERAL STORE        SPILOW          57284.11    57284.11        0.96       0.96        0.96
+ G059 SPILLO LITTLE CHEF             SPILOW           8901.05     2046.65        1.75       1.75        1.75
+ G035 MEDUP DORJAY                   SUNAM           31822.70
+ F810 RAM DASS C/O SUNDER NEGI (ASI) SUNAM               0.00
+ G049 VIJAY CHANDER NEGI SUNAM       SUNAM          148736.51     7955.11     7955.11    7955.11     7955.11
+ F022 ACC DSP GENERAL STORE          THANGI              0.36        0.36        0.36       0.36        0.36
+ F015 DHAN SINGH PUJARI              THANGI          22009.85    22009.85    22009.85
+ F085 KIRAN BALA                     THANGI         152713.60   152713.60        0.14       0.14
+ F034 RATTAN BROTHER GENERAL STORE   THANGI          75148.64    75148.64
+ F708 RAVINDER NEGI 9418395197       THANGI              0.08        0.08
+ F740 SARSWATI PRAKASH               THANGI              0.08        0.08        0.08       0.08        0.08
+ F837 SHARAB LAMO                    THANGI          52007.33    52007.33
+ F890 SHARAB TANZIN                  THANGI            134.52      134.52
+ F048 SUJATA KUMARI                  THANGI         164855.17 0P
+ F041 THANGI INDER PRAKASH NEGI      THANGI         168819.32    20000.64
+ F082 YUV RAJ MORANG                 UPP. MORANG         0.09        0.09        0.09       0.09        0.09

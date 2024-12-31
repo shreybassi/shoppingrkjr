@@ -1,0 +1,12 @@
+
+
+A/C BHUSHAN FOOD CHEEKA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ X129 SADREHRI KHUSHAL MAJRA ROAD CHEEKA          PANBQAPD8804L           0   0G
+      AADHAR          0   GSTIN 06BQAPD8804L1ZV
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+24/06/2023P BFSL-196          BY PURCHASE                    0.00   878804.00     -878804.00
+29/06/2023J J94207            TO ON LINE                857461.00        0.00      -21343.00
+
+                         TOTAL                          857461.00   878804.00      -21343.00

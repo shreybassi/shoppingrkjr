@@ -1,0 +1,19 @@
+
+
+A/C DEEPAK AGRO CHEMICAL RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ N046 VILL.   PO  RAMPUR  BUSHAHR                 PANAAEFD8233G  9418033095  YBG
+      AADHAR          0   GSTIN 02AAEFD8233G1ZU
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+09/08/2023S P230976           TO SALE                    47997.03        0.00       47997.03
+09/08/2023J J-CH              BY CH 376637 Q106              0.00    47997.00           0.03
+17/08/2023S P231022           TO SALE                    57600.02        0.00       57600.05
+18/08/2023J J-CH              BY CH 376643 Q106              0.00    57600.00           0.05
+19/08/2023S B548852           TO SALE                    76800.02        0.00       76800.07
+06/09/2023J J-CH              BY CH 356953 Q106              0.00    76800.00           0.07
+
+                         TOTAL                          182397.07   182397.00           0.07
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

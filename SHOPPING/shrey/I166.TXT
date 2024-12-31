@@ -1,0 +1,21 @@
+
+
+A/C SK BROTHER ROHROO       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I166 PANKAJ MEHTA VPO ROHROO TEH ROHROO          PANAXGPM4375F  9418073215  OGG
+      AADHAR          0   GSTIN 02AXGPM4375F1ZM
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       -3981.25
+22/05/2023S L168462           TO SALE                  1005114.54        0.00     1001133.29
+25/05/2023J J93679            BY ON LINE                     0.00  1005114.00       -3980.71
+29/05/2023S L168960           TO SALE                   527138.39        0.00      523157.68
+30/05/2023J J93765            BY CH 691223                   0.00   527138.00       -3980.32
+12/10/2023S L178551           TO SALE                   787067.46        0.00      783087.14
+16/10/2023S L178796           TO SALE                  1020940.03        0.00     1804027.17
+18/10/2023J J95795            BY ON LINE                     0.00   787067.00     1016960.17
+20/10/2023J J95842            BY CH 529621                   0.00  1020940.00       -3979.83
+
+                         TOTAL                         3340260.42  3344240.25       -3979.83
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

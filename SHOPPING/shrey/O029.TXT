@@ -1,0 +1,22 @@
+
+
+A/C NOGLI GUPTA SALES CORPORATION NOGLI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ O029 NOGLI                                       PANAEFPG4350J  9816802377  1GG
+      AADHAR          0   GSTIN 02AEFPG4350J1ZW
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+26/04/2023S P230378           TO SALE                    11316.71        0.00       11316.71
+27/04/2023J J-CH              BY CH 000409 Q102              0.00    11317.00          -0.29
+19/05/2023S P230514           TO SALE                    12391.23        0.00       12390.94
+19/05/2023J J-CH              BY CH 000413 Q102              0.00    12391.00          -0.06
+23/06/2023S P230731           TO SALE                     6273.20        0.00        6273.14
+23/06/2023J J-CH              BY CH 000417 Q102              0.00     6273.00           0.14
+26/09/2023S N322944           TO SALE                     2649.82        0.00        2649.96
+27/09/2023S N323085           TO SALE                     4763.42        0.00        7413.38
+30/09/2023J J-CH              BY CH 000427 Q102              0.00     7413.00           0.38
+
+                         TOTAL                           37394.38    37394.00           0.38
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

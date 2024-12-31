@@ -1,0 +1,20 @@
+
+
+A/C VICTORY MARKITING PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U227 PLOT NO 9SECTOR 1 PARWANOO                  PANABLPN2104L  9418033431   0G
+      AADHAR          0   GSTIN 02ABLPN2104L2ZW
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F     -336419.00
+20/04/2023J J93221            TO CH 10278               336419.00        0.00           0.00
+22/05/2023P VMMAHAK/0046/23-24BY PURCHASE                    0.00   170732.00     -170732.00
+22/05/2023P VMMAHAK/0045/23-24BY PURCHASE                    0.00   232207.00     -402939.00
+19/06/2023J J94055            TO CH 10468               402939.00        0.00           0.00
+31/07/2023P VMMAHAK/0087/23-24BY PURCHASE                    0.00   365879.00     -365879.00
+22/08/2023J J94933            TO CH 10765               365879.00        0.00           0.00
+20/09/2023P VMMAHAK/0129/23-24BY PURCHASE                    0.00   385854.00     -385854.00
+10/10/2023S G288591           TO SALE                     4953.87        0.00     -380900.13
+12/10/2023J J95705            TO CH 010704              380900.00        0.00          -0.13
+22/11/2023P VMLOTUS/0301/23-24BY PURCHASE                    0.00   339986.00     -339986.13
+
+                         TOTAL                         1491090.87  1831077.00     -339986.13

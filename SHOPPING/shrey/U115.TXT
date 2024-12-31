@@ -1,0 +1,12 @@
+
+
+A/C SNOWVIEW MOTORS BADDI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ U115 NEAR SALE TAX BARRIER BADDI                 PANAFDPJ5576J  9816030305   0G
+      AADHAR          0   GSTIN 02AFDPJ5576J1ZF
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/03/2023J J92578            BY BILL                        0.00     2021.34       -2021.34
+11/03/2023J J92582            TO WE                       2021.34        0.00           0.00
+
+                         TOTAL                            2021.34     2021.34           0.00

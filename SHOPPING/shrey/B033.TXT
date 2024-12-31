@@ -1,0 +1,29 @@
+
+
+A/C DHARAM MANI TOTA RAM RAVI SARAHAN In M/S RAM KISHAN JIVA RAM Page No. 1
+ B033 VILL. RANVI PO BONDA VIA JEORI              PAN            9459806411  RGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+12/04/2023S L165544           TO SALE                     1072.00        0.00        1072.00
+12/04/2023S L165545           TO SALE                     1264.72        0.00        2336.72
+12/04/2023S L165564           TO SALE                     1563.16        0.00        3899.88
+12/04/2023C C                 RN36274                        0.00     3000.00         899.88
+25/04/2023C C1                RN37063                        0.00      500.00         399.88
+23/05/2023C C2                RN40737                        0.00      500.00        -100.12
+19/07/2023S L172675           TO SALE                     2034.57        0.00        1934.45
+19/07/2023S L172676           TO SALE                     1343.10        0.00        3277.55
+19/07/2023S L172692           TO SALE                     1374.52        0.00        4652.07
+26/07/2023C C                 RN45247                        0.00     3000.00        1652.07
+23/08/2023S L174961           TO SALE                     2793.00        0.00        4445.07
+23/08/2023C C                 RN46769                        0.00     2500.00        1945.07
+29/08/2023C C2                RN46865                        0.00      900.00        1045.07
+12/09/2023C C2                RN48833                        0.00     1200.00        -154.93
+13/09/2023S L176357           TO SALE                     1108.54        0.00         953.61
+16/09/2023C C52236            TO CASH FRT                   40.00        0.00         993.61
+
+                         TOTAL                           12593.61    11600.00         993.61
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

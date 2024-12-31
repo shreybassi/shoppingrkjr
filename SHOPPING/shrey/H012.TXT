@@ -1,0 +1,24 @@
+
+
+A/C GOVT S S SCHOOL DHANSA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ H012 VPO DHANSA TEH RAMPUR                       PAN            9418271545  IGI
+      AADHAR 880257230453 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+13/06/2023S C628457           TO SALE                    22104.14        0.00       22104.14
+13/06/2023C C51235            TO CASH B316592             4083.12        0.00       26187.26
+14/06/2023S L170110           TO SALE                      882.00        0.00       27069.26
+14/06/2023S L170111           TO SALE                    73883.44        0.00      100952.70
+14/06/2023J J-CH              BY CH 011166 Q106              0.00    30000.00       70952.70
+14/06/2023J J-CH              BY CH 557744 Q101              0.00    50000.00       20952.70
+15/06/2023C C                 RN7310                         0.00    20952.00           0.70
+21/06/2023S O106709           TO SALE                    -8675.60        0.00       -8674.90
+21/06/2023C C51323            TO CASH                     8675.60        0.00           0.70
+03/10/2023J J95554            BY ON LINE                     0.00    73883.00      -73882.30
+04/10/2023J J95561            TO CH 298849               73883.00        0.00           0.70
+
+                         TOTAL                          174835.70   174835.00           0.70
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

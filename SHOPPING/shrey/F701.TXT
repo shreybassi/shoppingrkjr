@@ -1,0 +1,27 @@
+
+
+A/C KRISHAN GURUJI POOH         In M/S RAM KISHAN JIVA RAM Page No. 1
+ F701                                             PAN            9459523452  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+29/05/2023S L169030           TO SALE                    18366.40        0.00       18366.40
+29/05/2023S L169031           TO SALE                    16346.40        0.00       34712.80
+29/05/2023S L169049           TO SALE                    12873.28        0.00       47586.08
+03/06/2023J J93851            BY CH 426369                   0.00    47585.00           1.08
+09/06/2023S S445406           TO SALE                     6409.46        0.00        6410.54
+15/06/2023J J94007            BY ON LINE                     0.00     5751.00         659.54
+17/06/2023S L170554           TO SALE                      637.50        0.00        1297.04
+17/06/2023S L170555           TO SALE                      452.16        0.00        1749.20
+26/06/2023J J94168            BY UPI                         0.00     1090.00         659.20
+29/06/2023S O106816           TO SALE                     -657.20        0.00           2.00
+10/08/2023S L174059           TO SALE                    14740.02        0.00       14742.02
+15/08/2023J J-CH              BY CH 426378 Q101              0.00    14740.00           2.02
+21/09/2023S L176925           TO SALE                    21950.00        0.00       21952.02
+23/09/2023J J95402            BY GOOGLE                      0.00    21950.00           2.02
+
+                         TOTAL                           91118.02    91116.00           2.02
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

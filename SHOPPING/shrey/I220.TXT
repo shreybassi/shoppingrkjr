@@ -1,0 +1,26 @@
+
+
+A/C SK GEN STORE KINGAL       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I220 KINGAL                                      PANBIEPK3976N  9817036155  91G
+      AADHAR          0   GSTIN 02BIEPK3976N1ZX
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+01/04/2023S S436366           TO SALE                    60246.84        0.00       60246.84
+12/04/2023J J-CH              BY CH 000696 Q109              0.00    60246.00           0.84
+20/05/2023S S442804           TO SALE                    77410.26        0.00       77411.10
+22/05/2023S S442931           TO SALE                     9558.51        0.00       86969.61
+25/05/2023J J-CH              BY CH 000706 Q109              0.00    86968.00           1.61
+10/06/2023C C                 RN40881                        0.00     2000.00       -1998.39
+17/06/2023S S446706           TO SALE                    60246.87        0.00       58248.48
+24/06/2023J J94139            TO RN40881                  2000.00        0.00       60248.48
+26/06/2023J J-CH              BY CH 000711 Q109              0.00    60246.00           2.48
+22/07/2023S S450968           TO SALE                    60246.87        0.00       60249.35
+21/08/2023J J-CH              BY CH 000721 Q109              0.00    60250.00          -0.65
+30/09/2023S S459817           TO SALE                    60246.87        0.00       60246.22
+05/10/2023J J-CH              BY CH 000734 Q109              0.00    60246.00           0.22
+
+                         TOTAL                          329956.22   329956.00           0.22
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

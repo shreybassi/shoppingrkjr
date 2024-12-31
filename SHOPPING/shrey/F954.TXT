@@ -1,0 +1,19 @@
+
+
+A/C DEEP LAL THANGI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ F954                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+24/11/2022S L155687           TO SALE                     6428.96        0.00        6428.96
+24/11/2022S L155690           TO SALE                    23681.13        0.00       30110.09
+24/11/2022S L155691           TO SALE                    17799.32        0.00       47909.41
+28/11/2022C C48955            TO FRT                       930.00        0.00       48839.41
+28/11/2022J J-CH              BY CH 306753 Q101              0.00    48839.00           0.41
+08/02/2023J MINBAL            BY MINOR BALANCE TRANSFE       0.00        0.41           0.00
+
+                         TOTAL                           48839.41    48839.41           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,27 @@
+
+
+A/C NEGI DHABA LUHRI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ K850 VPO LUHRI TEH ANNI                          PAN            8894458591  1GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+16/05/2023S N306154           TO SALE                      991.94        0.00         991.94
+17/05/2023S N306232           TO SALE                     2675.40        0.00        3667.34
+18/05/2023C A302S             BY CASH N306154 NEGI DHA       0.00      991.94        2675.40
+18/05/2023C A302S             BY CASH N306232 NEGI DHA       0.00     2675.40           0.00
+27/06/2023S N311638           TO SALE                    14166.00        0.00       14166.00
+29/06/2023C A302S             BY CASH N311638 NEGI DHA       0.00    14166.00           0.00
+11/10/2023S N324960           TO SALE                    15382.50        0.00       15382.50
+12/10/2023C A302S             BY CASH N324960 NEGI DHA       0.00    15382.50           0.00
+25/10/2023S N326714           TO SALE                     5250.76        0.00        5250.76
+26/10/2023C A312S             BY CASH N326714 NEGI DHA       0.00     5250.76           0.00
+21/11/2023S N330092           TO SALE                     2562.00        0.00        2562.00
+22/11/2023S N330208           TO SALE                     4939.80        0.00        7501.80
+23/11/2023C A302S             BY CASH N330092 NEGI DHA       0.00     2562.00        4939.80
+23/11/2023C A302S             BY CASH N330208 NEGI DHA       0.00     4939.80           0.00
+
+                         TOTAL                           45968.40    45968.40           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

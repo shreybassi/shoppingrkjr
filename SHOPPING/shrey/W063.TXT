@@ -1,0 +1,13 @@
+
+
+A/C MANGLAM AMITOSH INDUSTRIES HINDAUN CITY In M/S RAM KISHAN JIVA RAM Page No. 1
+ W063 INDUSTRIEAL AREA HINDAUN CITY               PANAAGHM3620Q           0   0G
+      AADHAR          0   GSTIN 08AAGHM3620Q1ZT
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+06/09/2023P MA659             BY PURCHASE                    0.00    53519.00      -53519.00
+12/10/2023J J95703            TO ON LINE                 53519.00        0.00           0.00
+25/11/2023P MA1003            BY PURCHASE                    0.00    65080.00      -65080.00
+
+                         TOTAL                           53519.00   118599.00      -65080.00

@@ -1,0 +1,20 @@
+
+
+A/C MATA SHREE TRADING CO KANGRA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I093 SHOP NO 16 RAJPUT SHABHA BHAWAN             PANLCGPS7962G  9882609112  OGG
+      AADHAR          0   GSTIN 02LCGPS7962G1Z3
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+06/11/2023S L180385           TO SALE                   174000.00        0.00      174000.00
+08/11/2023J J96147            BY ON LINE                     0.00   174000.00           0.00
+15/11/2023S T101183           TO SALE                   215824.00        0.00      215824.00
+17/11/2023J J96315            BY ON LINE                     0.00   184000.00       31824.00
+18/11/2023J J96332            BY ON LINE                     0.00    31824.00           0.00
+22/11/2023S B553059           TO SALE                    15272.00        0.00       15272.00
+23/11/2023J J96412            BY ON LINE                     0.00    15272.00           0.00
+
+                         TOTAL                          405096.00   405096.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

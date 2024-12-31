@@ -1,0 +1,12 @@
+
+
+A/C VINAYAK TRADERS AMBALA CANTT In M/S RAM KISHAN JIVA RAM Page No. 1
+ X141 5281 ANAJ MANDI AMBALA CANTT                PANAHKPG7688M           0   0G
+      AADHAR          0   GSTIN 06AHKPG7688M1ZK
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+13/10/2023P VTVT/23-24/00395  BY PURCHASE                    0.00     4890.00       -4890.00
+16/10/2023J J95761            TO ONLINE                   4890.00        0.00           0.00
+
+                         TOTAL                            4890.00     4890.00           0.00

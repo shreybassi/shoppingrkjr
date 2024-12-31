@@ -1,0 +1,29 @@
+
+
+A/C PANMA RINGCHIN JANGI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F066 VPO JANGI TEH MOORANG                       PAN            9418587211  P0G
+      AADHAR 529234985640 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+11/04/2023J J93102            BY ON LINE                     0.00    50000.00      -50000.00
+12/04/2023S L165478           TO SALE                    32120.14        0.00      -17879.86
+12/04/2023S L165479           TO SALE                    72577.80        0.00       54697.94
+12/04/2023S L165492           TO SALE                    34791.82        0.00       89489.76
+17/05/2023J J93572            BY ON LINE                     0.00    50000.00       39489.76
+29/05/2023S L168998           TO SALE                    16373.90        0.00       55863.66
+29/05/2023S L168999           TO SALE                    76703.46        0.00      132567.12
+29/05/2023S L169015           TO SALE                     7319.98        0.00      139887.10
+31/05/2023J J-CH              BY CH 000018 Q109              0.00    40000.00       99887.10
+31/07/2023J J94625            BY GOOGLE                      0.00    50000.00       49887.10
+21/08/2023J J-CH              BY CH 000002 Q109              0.00    50000.00        -112.90
+25/08/2023S S455073           TO SALE                     6532.26        0.00        6419.36
+26/08/2023S S455187           TO SALE                   183331.25        0.00      189750.61
+28/08/2023J J95025            BY ON LINE                     0.00    35000.00      154750.61
+28/08/2023J J95025            BY ON LINE                     0.00    25000.00      129750.61
+20/11/2023J J96360            BY ON LINE                     0.00    50000.00       79750.61
+
+                         TOTAL                          429750.61   350000.00       79750.61
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

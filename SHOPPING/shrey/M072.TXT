@@ -1,0 +1,32 @@
+
+
+A/C PRASHANT TRADERS RAMPUR RAMPUR BR.   In M/S RAM KISHAN JIVA RAM Page No. 1
+ M072 VILL.   PO RAMPUR BUSHAHR                   PANAFKPG8325H  9805033318  LBG
+      AADHAR          0   GSTIN 02AFKPG8325H1ZN
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+01/04/2023S B542961           TO SALE                     2750.52        0.00        2750.52
+01/04/2023S P230147           TO SALE                     2879.49        0.00        5630.01
+01/04/2023J J93001            BY ON LINE                     0.00     2879.49        2750.52
+01/04/2023J J93001            BY ON LINE                     0.00     2750.52           0.00
+02/06/2023S B545698           TO SALE                     2154.91        0.00        2154.91
+03/06/2023J J93842            BY ON LINE                     0.00     2154.91           0.00
+21/06/2023J J94090            BY BILL 3314                   0.00     5625.00       -5625.00
+13/07/2023J J94399            TO CH 010810                5625.00        0.00           0.00
+15/08/2023S B548666           TO SALE                      617.40        0.00         617.40
+16/08/2023J J94860            BY ON LINE                     0.00      617.40           0.00
+08/09/2023S P231161           TO SALE                      717.43        0.00         717.43
+09/09/2023J J95210            BY ON LINE                     0.00      717.43           0.00
+14/09/2023S B550031           TO SALE                     2176.68        0.00        2176.68
+14/09/2023S P231206           TO SALE                     1280.43        0.00        3457.11
+14/09/2023J J95281            BY ON LINE                     0.00     3457.11           0.00
+07/10/2023S L178185           TO SALE                     1161.12        0.00        1161.12
+07/10/2023J J95635            BY ON LINE                     0.00     1161.12           0.00
+18/10/2023S B551522           TO SALE                     4116.00        0.00        4116.00
+19/10/2023J J95815            BY ON LINE                     0.00     4116.00           0.00
+
+                         TOTAL                           23478.98    23478.98           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

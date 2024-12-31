@@ -1,0 +1,24 @@
+
+
+A/C PATRAP NEGI LABRANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F776                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+23/08/2023S E191825           TO SALE                     6997.78        0.00        6997.78
+24/08/2023S S454801           TO SALE                     2111.00        0.00        9108.78
+13/09/2023J J95255            BY TRANS E191825               0.00     6997.70        2111.08
+13/09/2023J J95255            BY TRANS S454801               0.00     2111.00           0.08
+20/09/2023S E192040           TO SALE                     6410.35        0.00        6410.43
+20/09/2023S G288341           TO SALE                     7957.44        0.00       14367.87
+10/10/2023S B551168           TO SALE                    11932.03        0.00       26299.90
+10/10/2023S L178380           TO SALE                     1396.20        0.00       27696.10
+10/10/2023S L178449           TO SALE                    23470.00        0.00       51166.10
+10/10/2023C C52551            TO CASH                     3000.00        0.00       54166.10
+13/10/2023S S461775           TO SALE                      318.60        0.00       54484.70
+
+                         TOTAL                           63593.40     9108.70       54484.70
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

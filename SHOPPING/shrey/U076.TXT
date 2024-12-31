@@ -1,0 +1,18 @@
+
+
+A/C SHOGHI AGROTECH PVT LTD SHOGHI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ U076 PLOT NO 25 INDUSTRIAL AREA SHOGHI           PANAANCS0828A  9453961507   GG
+      AADHAR          0   GSTIN 02AANCS0828A1ZV
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+15/04/2023P SA41              BY PURCHASE                    0.00   356000.00     -356000.00
+19/04/2023J J93206            TO ON LINE                356000.00        0.00           0.00
+19/05/2023P SA124             BY PURCHASE                    0.00   373265.00     -373265.00
+23/05/2023J J93640            TO DIFF                     2315.00        0.00     -370950.00
+23/05/2023J J93645            TO ON LINE                370950.00        0.00           0.00
+30/09/2023P SA516             BY PURCHASE                    0.00   412250.00     -412250.00
+03/10/2023J J95543            TO ON LINE                400000.00        0.00      -12250.00
+24/10/2023J J95892            TO ONLINE                  12250.00        0.00           0.00
+
+                         TOTAL                         1141515.00  1141515.00           0.00

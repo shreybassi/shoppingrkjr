@@ -1,0 +1,12 @@
+
+
+A/C NATURE PROTEINS PVT LTD PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ T009 52, INDL AREA SECTOR 1                      PAN                     0    P
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+07/03/2023J J92527            TO ON LINE               1376035.00        0.00     1376035.00
+10/03/2023J J92570            BY WE                          0.00  1376035.00           0.00
+
+                         TOTAL                         1376035.00  1376035.00           0.00

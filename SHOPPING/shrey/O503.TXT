@@ -1,0 +1,19 @@
+
+
+A/C JIA LAL DOBI         In M/S RAM KISHAN JIVA RAM Page No. 1
+ O503 VILL. DOBI PO                               PAN            9418441250  6GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/11/2023S N328853           TO SALE                     1696.34        0.00        1696.34
+10/11/2023S N328871           TO SALE                     6860.86        0.00        8557.20
+11/11/2023C A105Y             BY CASH N328853 JIA LAL        0.00     1696.34        6860.86
+11/11/2023C A105Y             BY CASH N328871 JIA LAL        0.00     6860.86           0.00
+13/11/2023S H401447           TO SALE                     5720.82        0.00        5720.82
+14/11/2023C C                 RN53738                        0.00     5720.00           0.82
+
+                         TOTAL                           14278.02    14277.20           0.82
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

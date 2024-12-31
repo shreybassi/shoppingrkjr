@@ -1,0 +1,23 @@
+
+
+A/C FRIGHT RECEIVABLE ACCOUNT              In M/S RAM KISHAN JIVA RAM Page No. 1
+ N250                                             PAN                     0   0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F     289199.22
+26/05/2023C C                 RN39983                        0.00    19000.00      270199.22
+26/05/2023C C                 RN39984                        0.00    19500.00      250699.22
+27/05/2023C C1                RN40094                        0.00    19000.00      231699.22
+31/05/2023C C                 RN39294                        0.00    19000.00      212699.22
+31/05/2023C C                 RN39295                        0.00    19000.00      193699.22
+31/05/2023C C                 RN39296                        0.00    12000.00      181699.22
+27/07/2023C C                 RN44296                        0.00    19500.00      162199.22
+27/07/2023C C                 RN44297                        0.00    19500.00      142699.22
+27/07/2023C C                 RN44298                        0.00     2500.00      140199.22
+28/07/2023C C                 RN44092                        0.00    11500.00      128699.22
+
+                         TOTAL                          289199.22   160500.00      128699.22
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

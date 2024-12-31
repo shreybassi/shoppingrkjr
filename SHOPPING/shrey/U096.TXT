@@ -1,0 +1,12 @@
+
+
+A/C J B ROLLING MILLS LTD KALA AMB     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U096 INDS AREA TRILOKPUR ROAD                    PANAACCG2489A           0   GG
+      AADHAR          0   GSTIN 02AACCG2489A3Z3
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+30/05/2023P JBJB23Y-02226     BY PURCHASE                    0.00   805727.00     -805727.00
+03/06/2023J J93843            TO ON LINE                798179.00        0.00       -7548.00
+
+                         TOTAL                          798179.00   805727.00       -7548.00

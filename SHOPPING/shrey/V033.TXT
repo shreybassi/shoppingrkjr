@@ -1,0 +1,37 @@
+
+
+A/C MAYA SEWING MACHINE CO. JALANDHAR    In M/S RAM KISHAN JIVA RAM Page No. 1
+ V033 230,D GALI NO 2, HARNAMDASS PURA K ROAD     PANAAWPK3109J           0   GG
+      AADHAR          0   GSTIN 03AAWPK3109J1ZM
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/04/2023P MS822             BY PURCHASE                    0.00    47096.00      -47096.00
+26/04/2023P MS823             BY PURCHASE                    0.00    35616.00      -82712.00
+29/04/2023P MS824             BY PURCHASE                    0.00    41541.00     -124253.00
+08/05/2023J J93445            TO ON LINE                120000.00        0.00       -4253.00
+30/05/2023C C51055            TO CASH                      400.00        0.00       -3853.00
+21/06/2023P MS836             BY PURCHASE                    0.00    26460.00      -30313.00
+10/07/2023P MS841             BY PURCHASE                    0.00    21336.00      -51649.00
+10/07/2023P MS842             BY PURCHASE                    0.00     5664.00      -57313.00
+11/08/2023P MS851             BY PURCHASE                    0.00     8213.00      -65526.00
+15/08/2023P MS854             BY PURCHASE                    0.00    36680.00     -102206.00
+01/09/2023J J95077            TO ONLINE                 102256.00        0.00          50.00
+05/09/2023J J95143            BY DIFF                        0.00       50.00           0.00
+19/09/2023P MS861             BY PURCHASE                    0.00    30554.00      -30554.00
+26/09/2023C C52363            TO CASH                      400.00        0.00      -30154.00
+28/09/2023P MS864             BY PURCHASE                    0.00    43568.00      -73722.00
+10/10/2023P MS860             BY PURCHASE                    0.00    29344.00     -103066.00
+11/10/2023P MS867             BY PURCHASE                    0.00    24892.00     -127958.00
+11/10/2023P MS869             BY PURCHASE                    0.00    14896.00     -142854.00
+11/10/2023P MS870             BY PURCHASE                    0.00    16496.00     -159350.00
+01/11/2023P MS875             BY PURCHASE                    0.00    46928.00     -206278.00
+08/11/2023P MS877             BY PURCHASE                    0.00    20800.00     -227078.00
+08/11/2023P MS878             BY PURCHASE                    0.00    25760.00     -252838.00
+12/11/2023P MS882             BY PURCHASE                    0.00    49112.00     -301950.00
+14/11/2023P MS880             BY PURCHASE                    0.00    35056.00     -337006.00
+17/11/2023P MS884             BY PURCHASE                    0.00    26684.00     -363690.00
+18/11/2023C C53058            TO CASH                     3690.00        0.00     -360000.00
+20/11/2023J J96349            TO CH 254245              360000.00        0.00           0.00
+
+                         TOTAL                          586746.00   586746.00           0.00

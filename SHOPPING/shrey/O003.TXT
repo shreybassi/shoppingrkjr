@@ -1,0 +1,17 @@
+
+
+A/C KV COLD TYRE NOGLI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ O003                                             PANAJOPC8678B  9418033431  EGG
+      AADHAR          0   GSTIN 02AJOPC8678B2Z9
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+24/02/2021J J83882            TO CH 8756                 13788.00        0.00       13788.00
+28/02/2021E KV413             BILL KV R069IMG738             0.00     9388.00        4400.00
+28/02/2021E KV409             BILL KV R069737                0.00     2000.00        2400.00
+28/02/2021E KV411             BILL KV R069IMG736             0.00     2400.00           0.00
+
+                         TOTAL                           13788.00    13788.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

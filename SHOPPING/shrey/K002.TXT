@@ -1,0 +1,24 @@
+
+
+A/C CHAUHAN BROTHER ARSU         In M/S RAM KISHAN JIVA RAM Page No. 1
+ K002 VPO ARSU TEH NIRMAND                        PANABGPC2906G  9805095824  WGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/04/2023S S439072           TO SALE                     3779.83        0.00        3779.83
+22/04/2023S S439153           TO SALE                      690.60        0.00        4470.43
+24/04/2023C A405S             BY CASH S439072 CHAUHAN        0.00     3779.83         690.60
+24/04/2023C A405S             BY CASH S439153 CHAUHAN        0.00      690.60           0.00
+11/08/2023S S453270           TO SALE                     1573.39        0.00        1573.39
+12/08/2023S S453383           TO SALE                      653.60        0.00        2226.99
+14/08/2023C A405S             BY CASH S453270 CHAUHAN        0.00     1573.39         653.60
+14/08/2023C A405S             BY CASH S453383 CHAUHAN        0.00      653.60           0.00
+03/11/2023S S464390           TO SALE                     1031.60        0.00        1031.60
+04/11/2023S S464489           TO SALE                      690.60        0.00        1722.20
+08/11/2023J J-CH              BY CH 716771 Q119              0.00     1721.00           1.20
+
+                         TOTAL                            8419.62     8418.42           1.20
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

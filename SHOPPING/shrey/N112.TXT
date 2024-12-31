@@ -1,0 +1,27 @@
+
+
+A/C *SHARMA GENERAL STORE JAGATKHANA   In M/S RAM KISHAN JIVA RAM Page No. 1
+ N112                                             PANBIBPK5344P  9418475323  3FG
+      AADHAR 581830129881 GSTIN 02BIBPK5344P1Z6
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+27/04/2019S A163823           TO SALE                     8142.90        0.00        8142.90
+27/04/2019S E171595           TO SALE                      665.01        0.00        8807.91
+27/04/2019S Q127621           TO SALE                    43848.46        0.00       52656.37
+27/04/2019S Q127622           TO SALE                    50269.61        0.00      102925.98
+15/05/2019J J-CH              BY CH 185883 Q119              0.00   102926.00          -0.02
+28/06/2019S O218240           TO SALE                    26067.52        0.00       26067.50
+28/06/2019S S319066           TO SALE                      590.48        0.00       26657.98
+01/07/2019J J-CH              BY CH 185885 Q119              0.00    26658.00          -0.02
+13/08/2019S C558443           TO SALE                    10000.40        0.00       10000.38
+13/08/2019S E173902           TO SALE                     4608.92        0.00       14609.30
+13/08/2019S G246560           TO SALE                      735.14        0.00       15344.44
+13/08/2019S Q134109           TO SALE                    44370.83        0.00       59715.27
+13/08/2019S Q134110           TO SALE                    40639.65        0.00      100354.92
+31/08/2019J J-CH              BY CH 185888 Q119              0.00   100355.00          -0.08
+
+                         TOTAL                          229938.92   229939.00          -0.08
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET TIN STATEMENT

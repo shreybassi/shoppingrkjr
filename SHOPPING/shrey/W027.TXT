@@ -1,0 +1,16 @@
+
+
+A/C IVY MOBILITY SOLUTIONS PVT LTD CHENNAI      In M/S RAM KISHAN JIVA RAM Page No. 1
+ W027 CHENNAI                                     PANAABCE0269M           0   GG
+      AADHAR          0   GSTIN 33AABCE0269M2ZN
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+12/04/2023E ILINVIND028215    BILL R065EXP712                0.00     2407.00       -2407.00
+17/05/2023J J93564            TO TRANS                    2407.20        0.00           0.20
+12/07/2023E IYINVIND031059    BILL R065EXP913                0.00     2407.20       -2407.00
+26/08/2023J J95000            TO IVY MOBILITY             2407.20        0.00           0.20
+04/10/2023E ILINVIND033465    BILL SOFTWARE EXP073           0.00      881.46        -881.26
+04/10/2023E ILINVIND033079    BILL SOFTWARE EXP074           0.00     2407.20       -3288.46
+
+                         TOTAL                            4814.40     8102.86       -3288.46

@@ -1,0 +1,32 @@
+
+
+A/C SHYAM LAL AGGARWAL & SONS KUMARSAIN    In M/S RAM KISHAN JIVA RAM Page No. 1
+ U079 MAIN BAZAR KUMARSAIN DISTT SHIMLA           PANASWPK7060N           0   GG
+      AADHAR          0   GSTIN 02ASWPK7060N1Z5
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      -71254.00
+27/04/2023P SLSLA-53          BY PURCHASE                    0.00    47502.00     -118756.00
+01/05/2023J J93329            TO CH 298717              118756.00        0.00           0.00
+25/05/2023P SLSLA-98          BY PURCHASE                    0.00    71254.00      -71254.00
+08/06/2023P SLSLA-122         BY PURCHASE                    0.00    23001.00      -94255.00
+19/06/2023J J94058            TO CH 298761               94255.00        0.00           0.00
+28/06/2023P SLSLA-162         BY PURCHASE                    0.00    46002.00      -46002.00
+18/07/2023P SLSLA-208         BY PURCHASE                    0.00    15801.00      -61803.00
+26/07/2023P SLSLA-224         BY PURCHASE                    0.00    39502.00     -101305.00
+31/07/2023J J94613            TO CH 298794              101305.00        0.00           0.00
+31/07/2023P SASLA-244         BY PURCHASE                    0.00    39502.00      -39502.00
+08/08/2023P SLSLA-253         BY PURCHASE                    0.00    23701.00      -63203.00
+18/08/2023P SLSLA-268         BY PURCHASE                    0.00    79004.00     -142207.00
+23/08/2023P SLSLA-279         BY PURCHASE                    0.00    79004.00     -221211.00
+28/08/2023J J95017            TO CH 298820              221211.00        0.00           0.00
+30/08/2023P SLSLA-288         BY PURCHASE                    0.00    79004.00      -79004.00
+13/09/2023P SLSLA-314         BY PURCHASE                    0.00   118506.00     -197510.00
+03/10/2023J J95543            TO CH 298848              197510.00        0.00           0.00
+06/10/2023P SLSLA-338         BY PURCHASE                    0.00    79004.00      -79004.00
+17/10/2023J J95778            TO CH 298866               79004.00        0.00           0.00
+24/10/2023P SLSLA-365         BY PURCHASE                    0.00   118506.00     -118506.00
+01/11/2023J J96017            TO CH 298865              118506.00        0.00           0.00
+17/11/2023P SLSLA-394         BY PURCHASE                    0.00    79004.00      -79004.00
+
+                         TOTAL                          930547.00  1009551.00      -79004.00

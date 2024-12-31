@@ -1,0 +1,44 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ A580 CASH ON DELIVERY SM A5                         68603.98
+ I357 CHAUHAN GENERAL STORE          BANOT              -0.41
+ I372 SANJAY CHAUHAN GENERAL STORE   BANOT               0.22        0.22
+ I340 PRADEEP GENERAL STORE          BATARI           8264.46     8264.46
+ K930 PAWAN                          BHUTTI              2.43
+ I111 SUMAN GENERAL STORE            BHUTTI          18769.04
+ I074 MOHAN LAL DALAN                DALAN           37382.38    15888.77
+ I078 KULDEEP GENERAL STORE          JAROL               0.60        0.60        0.60       0.60        0.60
+ I041 MAST RAM                       JAROL           60985.24    31612.26
+ I132 MEHTA BROTHER                  JAROL           44054.70
+ I087 ROSHAN LAL JAROL               JAROL           11783.78
+ I866 YASHVIR GENERAL STORE          JAROL              -0.06
+ I388 SANTOSH GENERAL STORE          KANDAMOR        17666.88     4716.66
+ I389 SURENDER SINGH                 NALTINALA          -0.98
+ K933 GAURAV GUPTA                   NARKANDA        14758.51        1.78
+ N081 HPTDC HOTEL HATU               NARKANDA       241363.19   241363.19    85138.99   85138.99    85138.99
+ I061 KD ASSOCIATE                   NARKANDA        19769.84    19769.84
+ I022 KD PHARMA                      NARKANDA            0.42        0.42        0.42       0.42        0.42
+ I623 KEDAR NATH PARDEEP KUMAR       NARKANDA            0.18        0.18        0.18       0.18        0.18
+ I029 MUNISH GENERAL STORE           NARKANDA            0.01        0.01
+ I332 PIYUSH RESIDENCY               NARKANDA         -677.84
+ I390 RAJIT GEN STORE AND VEGITABLES NARKANDA          -87.62
+ I338 SATISH GENERAL STORE           NARKANDA           29.35       29.35
+ K929 ANIL KUMAR & BROTHER           ODDI              -22.01
+ I820 RANJEET GENERAL STORE          ODDI            21771.93    20096.49
+ K932 SAHAJ RAM                      ODDI                0.00 0P                                                                  1902.40     1902.40    1902.40     1902.40
+ I805 SHIV SHANKAR                   ODI               -28.28
+ I307 GRACK ENTERPRISES              PAMLAHI          2586.14        6.05
+ I239 SOHAN GENERAL STORE            POMLAHI          8930.77
+ I315 ANUPA ENTERPRISES              POMLAI           -511.72 0P
+ I399 THE WILDERNESS                 TANNIJUBBER     15968.69
+ I119 AKASH BROTHER                  THANADHAR       61152.94
+ I807 BD SHARMA                      THANADHAR           0.17
+ I305 MUNISH KUMAR ASHISH KUMAR      THANADHAR       -1413.94
+ I398 MUNISH KUMAR ASHISH KUMAR      THANADHAR       23717.03     4643.40
+ I289 VINOD KUMAR                    THANADHAR       21476.36
+ I104 CMP SOCIETY                    THANEDHAR          -5.18
+ I108 SATISH ENTERPRISES             THANEDHAR        9277.82     1427.23
+ K931 SURAJ GUPTA                    THANEDHAR           1.41
+ I868 CHAUHAN GENERAL STORE          CHAKTHI          3245.37        0.13

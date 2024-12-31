@@ -1,0 +1,21 @@
+
+
+A/C DEVA SINGH KILBA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ D864                                             PAN                     0  SXG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+13/05/2023S L167889           TO SALE                    34319.70        0.00       34319.70
+15/05/2023C C50882            TO CASH CH NO L5558 HP06     730.00        0.00       35049.70
+31/05/2023S Q163536           TO SALE                     1376.98        0.00       36426.68
+27/09/2023S L177401           TO SALE                    37440.60        0.00       73867.28
+27/09/2023S L177402           TO SALE                    22307.14        0.00       96174.42
+29/09/2023C C52393            TO CASH L177401 L177402     1090.00        0.00       97264.42
+24/10/2023J J95888            BY TRF CH NO 022086            0.00    36427.00       60837.42
+26/10/2023J J-CH              BY CH 618291 Q103              0.00    60838.00          -0.58
+
+                         TOTAL                           97264.42    97265.00          -0.58
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

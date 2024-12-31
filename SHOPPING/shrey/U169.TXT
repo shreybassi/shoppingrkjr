@@ -1,0 +1,13 @@
+
+
+A/C MAHAJAN POLYMERS SAPROON      In M/S RAM KISHAN JIVA RAM Page No. 1
+ U169 NEAR POST OFFICE SAPROON SOLAN              PANANUPM9298H           0   0G
+      AADHAR          0   GSTIN 02ANUPM9298H1Z8
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+03/03/2023P MP417             BY PURCHASE                    0.00    32568.00      -32568.00
+09/03/2023J J92553            TO CH 0108                 81420.00        0.00       48852.00
+10/03/2023P MP452             BY PURCHASE                    0.00    48852.00           0.00
+
+                         TOTAL                           81420.00    81420.00           0.00

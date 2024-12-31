@@ -1,0 +1,20 @@
+
+
+A/C MADHU SUDAN MOORANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F096 VPO RISPA TEH MOORANG                       PANCGCPS3889M  9816610065  P0C
+      AADHAR 854869682124 GSTIN 02CGCPS3889M1ZT
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+18/04/2023S A173600           TO SALE                   126001.16        0.00      126001.16
+18/04/2023S A173601           TO SALE                    31500.28        0.00      157501.44
+01/08/2023J J94645            BY ON LINE                     0.00   157501.44           0.00
+22/09/2023S A173818           TO SALE                   124800.00        0.00      124800.00
+07/11/2023C C                 RN52297                        0.00   124800.00           0.00
+13/11/2023J J-CH              BY CH 000246 Q109              0.00   200000.00     -200000.00
+16/11/2023J J96295            TO TFR WE                 200000.00        0.00           0.00
+
+                         TOTAL                          482301.44   482301.44           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

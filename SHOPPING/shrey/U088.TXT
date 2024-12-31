@@ -1,0 +1,23 @@
+
+
+A/C KRISHNA COMPANIES BALERA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ U088 VPO BALERA TEH ARKI                         PANIABPK1804H  6230025502   GG
+      AADHAR          0   GSTIN 02IABPK1804H1Z8
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F         99.46
+03/04/2023P KC301             BY PURCHASE                    0.00   366379.00     -366279.54
+03/04/2023J J93007            TO CH 298694              366280.00        0.00           0.46
+15/05/2023J J93535            TO CH NO 298735           357549.00        0.00      357549.46
+16/05/2023P KC303             BY PURCHASE                    0.00   357549.00           0.46
+04/07/2023P KC307             BY PURCHASE                    0.00   254090.00     -254089.54
+04/07/2023J J94286            TO CH 298768              254090.00        0.00           0.46
+19/08/2023J J94899            TO CH 298815              373388.00        0.00      373388.46
+21/08/2023P KC309             BY PURCHASE                    0.00   271650.00      101738.46
+21/08/2023E KC310             BILL R013EXP984                0.00   101738.71          -0.25
+17/10/2023P KC312             BY PURCHASE                    0.00   267160.00     -267160.25
+17/10/2023J J95777            TO CH 298870              267160.00        0.00          -0.25
+06/11/2023P KC314             BY PURCHASE                    0.00   380049.00     -380049.25
+07/11/2023J J96124            TO CH 334161              380049.00        0.00          -0.25
+
+                         TOTAL                         1998615.46  1998615.71          -0.25

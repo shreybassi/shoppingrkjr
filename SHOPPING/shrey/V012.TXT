@@ -1,0 +1,37 @@
+
+
+A/C SHAM SINGH TARLOCHAN SINGH AMRITSAR     In M/S RAM KISHAN JIVA RAM Page No. 1
+ V012 MISRI BAZAR AMRITSAR                        PANAILPS9449L           0   GG
+      AADHAR          0   GSTIN 03AILPS9449L1ZH
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+04/04/2023P SS201             BY PURCHASE                    0.00    31689.00      -31689.00
+07/04/2023J J93070            TO ON LINE                 31689.00        0.00           0.00
+14/04/2023P SS266             BY PURCHASE                    0.00    43402.00      -43402.00
+19/04/2023J J93205            TO ON LINE                 43402.00        0.00           0.00
+27/04/2023P SS312             BY PURCHASE                    0.00    95412.00      -95412.00
+03/05/2023J J93370            TO ON LINE                 95412.00        0.00           0.00
+16/05/2023P SS452             BY PURCHASE                    0.00    78690.00      -78690.00
+23/05/2023J J93652            TO ON LINE                 78690.00        0.00           0.00
+31/05/2023P SS512             BY PURCHASE                    0.00    21872.00      -21872.00
+13/06/2023P SS578             BY PURCHASE                    0.00    54377.00      -76249.00
+16/06/2023P SS596             BY PURCHASE                    0.00    56520.00     -132769.00
+21/06/2023J J94096            TO ON LINE                132769.00        0.00           0.00
+27/06/2023P SS662             BY PURCHASE                    0.00    51870.00      -51870.00
+29/06/2023J J94207            TO ON LINE                 51870.00        0.00           0.00
+22/07/2023P SS751             BY PURCHASE                    0.00    55940.00      -55940.00
+01/08/2023J J94650            TO ON LINE                 55940.00        0.00           0.00
+21/08/2023P SS886             BY PURCHASE                    0.00    49500.00      -49500.00
+23/08/2023J J94956            TO ON LINE                 49500.00        0.00           0.00
+29/08/2023P SS912             BY PURCHASE                    0.00     4725.00       -4725.00
+14/09/2023P SS1006            BY PURCHASE                    0.00    56625.00      -61350.00
+15/09/2023J J95296            TO ON LINE                 61350.00        0.00           0.00
+30/09/2023P SS1109            BY PURCHASE                    0.00    46750.00      -46750.00
+03/10/2023J J95536            TO ON LINE                 46750.00        0.00           0.00
+09/10/2023P SS1146            BY PURCHASE                    0.00    55965.00      -55965.00
+11/10/2023J J95684            TO ONLINE                  55965.00        0.00           0.00
+30/10/2023P SS1290            BY PURCHASE                    0.00    58437.00      -58437.00
+03/11/2023J J96068            TO ON LINE                 58437.00        0.00           0.00
+
+                         TOTAL                          761774.00   761774.00           0.00

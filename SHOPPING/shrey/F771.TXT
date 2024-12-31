@@ -1,0 +1,17 @@
+
+
+A/C RING CHIN MEDUP G072 KANAM        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F771                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+01/12/2022S L156357           TO SALE                     2695.41        0.00        2695.41
+01/12/2022S L156358           TO SALE                    16174.90        0.00       18870.31
+01/12/2022S L156359           TO SALE                    17564.03        0.00       36434.34
+22/12/2022J J91644            BY ON LINE                     0.00    36434.34           0.00
+
+                         TOTAL                           36434.34    36434.34           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

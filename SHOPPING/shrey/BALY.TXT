@@ -1,0 +1,16 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ I397 JISHTUS APPLE CARE             BADHRASH            0.76        0.76        0.76       0.76        0.76
+ I545 VISHWA MACHINERY STORE         CHIRGAON           -0.60
+ A185 MEHTA AGRO CHEMICALS           JEORI              -0.01
+ F098 BISHT AGRO CHEMICALS           MORANG          53980.45    53980.45    53980.45   53980.45
+ C144 THE NICHAR CMP SOCIETY AGRO    PONDA          516400.14   516400.14   516400.14  516400.14   516400.14
+ M251 BUSHAHR  GREEN VALLY PRODUCER  RAMPUR         182499.96   182499.96   182499.96  182499.96
+ N046 DEEPAK AGRO CHEMICAL           RAMPUR              0.07        0.07        0.07       0.07        0.07
+ M156 MUNSHI RAM ASA RAM             RAMPUR         163000.00   163000.00   163000.00  163000.00
+ M249 RAJINDRA AGRO CHEMICALS        RAMPUR              0.02        0.02        0.02       0.02        0.02
+ I409 SHASHI AGRO CHEMICALS          ROHRU               0.96        0.96        0.96       0.96        0.96
+ F099 AJAY AGRO CHEMICALS            SKIBA               1.71        1.71        1.71       1.71
+ G158 PANMA KUNKHEN                  CHAGO               0.00

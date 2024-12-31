@@ -1,0 +1,26 @@
+
+
+A/C SATISH GENERAL STORE NARKANDA     In M/S RAM KISHAN JIVA RAM Page No. 1
+ I338 HOTEL SNOW PLACE HPMC BUILDING NARKANDA     PANBKGPK4457A  8219977335  B5G
+      AADHAR          0   GSTIN 02BKGPK4457A1ZO
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      12996.07
+05/04/2023J J-CH              BY CH 068084 Q101              0.00    12988.00           8.07
+12/04/2023S S437746           TO SALE                     7467.42        0.00        7475.49
+17/04/2023J J-CH              BY CH 068086 Q101              0.00     7467.00           8.49
+03/05/2023S S440521           TO SALE                     8064.73        0.00        8073.22
+06/05/2023J J-CH              BY CH 068090 Q101              0.00     8065.00           8.22
+17/05/2023S S442369           TO SALE                    10075.54        0.00       10083.76
+18/05/2023S S442406           TO SALE                     4432.15        0.00       14515.91
+25/05/2023J J-CH              BY CH 068092 Q101              0.00    14486.00          29.91
+14/06/2023S S446162           TO SALE                     8203.81        0.00        8233.72
+15/06/2023S S446242           TO SALE                     1052.08        0.00        9285.80
+17/06/2023J J-CH              BY CH 068096 Q101              0.00     9256.00          29.80
+08/11/2023S S465113           TO SALE                      826.55        0.00         856.35
+10/11/2023C C1                RN53452                        0.00      827.00          29.35
+
+                         TOTAL                           53118.35    53089.00          29.35
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

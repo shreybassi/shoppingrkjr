@@ -1,0 +1,18 @@
+
+
+A/C PRINCIPAL GOVT SSS DOFDA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ H054 VPO DOFDA TEH RAMPUR                        PAN            9418081409  E1G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+16/06/2023S L170483           TO SALE                    15461.46        0.00       15461.46
+17/06/2023S L170510           TO SALE                    94417.36        0.00      109878.82
+22/06/2023C C1                RN42489                        0.00   109878.82           0.00
+29/06/2023S M206303           TO SALE                     -230.00        0.00        -230.00
+29/06/2023C C51410            TO CASH M206303              230.00        0.00           0.00
+
+                         TOTAL                          109878.82   109878.82           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

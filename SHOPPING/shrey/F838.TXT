@@ -1,0 +1,22 @@
+
+
+A/C PREM RAJ RISPA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F838                                             PAN                     0  PGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+29/05/2023S L169003           TO SALE                    39964.90        0.00       39964.90
+29/05/2023S L169004           TO SALE                    32503.79        0.00       72468.69
+29/05/2023S L169017           TO SALE                    23921.76        0.00       96390.45
+07/06/2023C C51154            TO FRT                      1800.00        0.00       98190.45
+01/08/2023J J94645            BY ON LINE                     0.00    65612.32       32578.13
+20/11/2023S S466623           TO SALE                   104465.56        0.00      137043.69
+20/11/2023C C                 RN53868                        0.00    32578.00      104465.69
+22/11/2023S L181670           TO SALE                    13574.87        0.00      118040.56
+22/11/2023S L181681           TO SALE                     4028.28        0.00      122068.84
+
+                         TOTAL                          220259.16    98190.32      122068.84
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

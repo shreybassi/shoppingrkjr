@@ -1,0 +1,25 @@
+
+
+A/C TEN SQUARE BITHAL       In M/S RAM KISHAN JIVA RAM Page No. 1
+ U148 VILL BITHAL PO SHAMATLA                     PANBLSPP7039L           0   0G
+      AADHAR          0   GSTIN 02BLSPP7039L2ZH
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+09/06/2023P TS23-24/TS-262    BY PURCHASE                    0.00   298321.00     -298321.00
+13/06/2023J J93977            TO CH 010234              298321.00        0.00           0.00
+16/06/2023P TS23-24/TS-302    BY PURCHASE                    0.00    82914.00      -82914.00
+16/06/2023P TS23-24/TS-303    BY PURCHASE                    0.00    99284.00     -182198.00
+16/06/2023P TS23-24/TS-301    BY PURCHASE                    0.00   341777.00     -523975.00
+29/06/2023P TS23-24/TS-375    BY PURCHASE                    0.00   195525.00     -719500.00
+30/06/2023J J94223            TO CH 010247              523975.00        0.00     -195525.00
+11/07/2023P TS23-24/TS-427    BY PURCHASE                    0.00   113098.00     -308623.00
+12/07/2023P TS23-24/TS-426    BY PURCHASE                    0.00   265287.00     -573910.00
+14/07/2023P TS23-24/TS-428    BY PURCHASE                    0.00     9075.00     -582985.00
+14/07/2023J J94412            TO CH 010812              582985.00        0.00           0.00
+30/08/2023P TS23-24/TS-616    BY PURCHASE                    0.00    67609.00      -67609.00
+06/09/2023J J95161            TO CH 010406               67609.00        0.00           0.00
+05/10/2023P TS23-244/TS-800   BY PURCHASE                    0.00   187115.00     -187115.00
+10/10/2023J J95657            TO CH NO 10702            187115.00        0.00           0.00
+
+                         TOTAL                         1660005.00  1660005.00           0.00

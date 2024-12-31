@@ -1,0 +1,15 @@
+
+
+A/C VEH A/C AKT 9875/3764/5535/835 PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ M203                                             PAN            9418034104  MBI
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      10789.00
+15/07/2023C C51599            BY FRT CH 32342 HP643764       0.00     4382.00        6407.00
+27/10/2023G E1647AA           BY FRT 32599                   0.00     4872.00        1535.00
+
+                         TOTAL                           10789.00     9254.00        1535.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

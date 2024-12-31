@@ -1,0 +1,20 @@
+
+
+A/C GANPAT RAM PREM CHAND RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M124 VILL.   PO RAMPUR BUSHAHR                   PANAABFG3083A  9418033091  LBG
+      AADHAR          0   GSTIN 02AABFG3083A1Z8
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       -1899.06
+27/04/2023J J93296            TO CN                       3860.00        0.00        1960.94
+27/04/2023J J93296            BY BILL 187                    0.00    12390.00      -10429.06
+26/05/2023J J93693            TO CH 010211               10429.00        0.00          -0.06
+05/06/2023S L169490           TO SALE                     1049.67        0.00        1049.61
+22/06/2023S P230726           TO SALE                     5376.00        0.00        6425.61
+24/06/2023S L171102           TO SALE                    12842.54        0.00       19268.15
+27/06/2023J J94183            BY ON LINE                     0.00    18218.54        1049.61
+
+                         TOTAL                           33557.21    32507.60        1049.61
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

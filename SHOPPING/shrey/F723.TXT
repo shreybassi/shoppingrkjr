@@ -1,0 +1,20 @@
+
+
+A/C JAGAT SINGH JANGI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F723                                             PAN            9459480337  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/11/2022S L155327           TO SALE                    17834.83        0.00       17834.83
+21/11/2022S L155328           TO SALE                    17778.48        0.00       35613.31
+30/11/2022J J91340            BY CASH ON LINE                0.00    35615.00          -1.69
+14/12/2022S L157332           TO SALE                    16475.35        0.00       16473.66
+14/12/2022S L157334           TO SALE                     9949.10        0.00       26422.76
+19/12/2022J J-CH              BY CH 238571 Q101              0.00    26425.00          -2.24
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       2.24        0.00           0.00
+
+                         TOTAL                           62040.00    62040.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,25 @@
+
+
+A/C ANJNI KUMAR SONU KUMAR DUTTNAGAR    In M/S RAM KISHAN JIVA RAM Page No. 1
+ I128 VPO DUTTNAGAR TEH NIRMAND                   PAN            8894194625  1BG
+      AADHAR 670445165433 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+11/04/2023S N301425           TO SALE                     1324.61        0.00        1324.61
+12/04/2023S N301463           TO SALE                     3635.92        0.00        4960.53
+12/04/2023C A302S             BY CASH N301425 ANJNI KU       0.00     1324.61        3635.92
+12/04/2023C A302N             BY CASH N301463 ANJNI KU       0.00     3635.92           0.00
+18/04/2023S N302315           TO SALE                     1834.65        0.00        1834.65
+19/04/2023S N302458           TO SALE                     1056.38        0.00        2891.03
+20/04/2023C A302S             BY CASH N302315 ANJNI KU       0.00     1834.65        1056.38
+20/04/2023C A302Y             BY CASH N302458 ANJNI KU       0.00     1056.38           0.00
+06/06/2023S N308839           TO SALE                     2371.74        0.00        2371.74
+07/06/2023S N308978           TO SALE                     1047.84        0.00        3419.58
+08/06/2023C A302S             BY CASH N308839 ANJNI KU       0.00     2371.74        1047.84
+08/06/2023C A302S             BY CASH N308978 ANJNI KU       0.00     1047.84           0.00
+
+                         TOTAL                           11271.14    11271.14           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

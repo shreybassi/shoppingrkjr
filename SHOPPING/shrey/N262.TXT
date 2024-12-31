@@ -1,0 +1,29 @@
+
+
+A/C KHOPRI MANDIR KHOPRI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ N262 VPO RAMPUR TEH RAMPUR                       PAN            9418033428  E0I
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+20/10/2023S C630882           TO SALE                      918.76        0.00         918.76
+20/10/2023S L179149           TO SALE                      277.05        0.00        1195.81
+20/10/2023S L179150           TO SALE                    12792.79        0.00       13988.60
+20/10/2023S L179151           TO SALE                    14523.38        0.00       28511.98
+20/10/2023S L179152           TO SALE                    22242.34        0.00       50754.32
+20/10/2023C C52697            TO CASH B347969             8016.08        0.00       58770.40
+21/10/2023C C52705            TO CASH B347970             3100.61        0.00       61871.01
+21/10/2023C C52710            TO CASH B348051              268.80        0.00       62139.81
+26/10/2023S C630993           TO SALE                     1604.50        0.00       63744.31
+26/10/2023S O108187           TO SALE                    -3239.00        0.00       60505.31
+26/10/2023S O108188           TO SALE                    -3062.18        0.00       57443.13
+28/10/2023S O108210           TO SALE                      -51.65        0.00       57391.48
+28/10/2023S O108225           TO SALE                    -1527.70        0.00       55863.78
+31/10/2023S L179872           TO SALE                      155.66        0.00       56019.44
+31/10/2023S O108241           TO SALE                     -352.80        0.00       55666.64
+02/11/2023J J-CH              BY CH 372404 Q106              0.00    57443.00       -1776.36
+
+                         TOTAL                           55666.64    57443.00       -1776.36
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

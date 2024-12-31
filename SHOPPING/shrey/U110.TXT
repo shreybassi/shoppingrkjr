@@ -1,0 +1,19 @@
+
+
+A/C OM SAI AUTOMOBILE SHOGHI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ U110 VILL AGWAHI PO SHOGI NEAR POLICE CHECK      PANAAHFO4411G           0   0G
+      AADHAR          0   GSTIN 02AAHFO4411G1ZS
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+07/04/2023J J93073            TO ON LINE                 26327.00        0.00       26327.00
+07/04/2023E OSJS35112324/7    BILL R069EXP703                0.00     2308.55       24018.45
+07/04/2023E OSJS35112324/7    BILL R069EXP703                0.00     8114.42       15904.03
+07/04/2023E OSJS35112324/7    BILL R069EXP703                0.00     9178.21        6725.82
+07/04/2023E OSJS35112324/7    BILL R069EXP703                0.00     6726.00          -0.18
+17/10/2023E OSJS35112324/701  BILL REPAIR EXP112             0.00     7721.16       -7721.34
+17/10/2023E OSJS35112324/701  BILL REPAIR EXP112             0.00     5994.05      -13715.39
+17/10/2023E OSJS35112324/701  BILL REPAIR EXP112             0.00    18821.00      -32536.39
+23/10/2023J J95880            TO ON LINE                 32536.00        0.00          -0.39
+
+                         TOTAL                           58863.00    58863.39          -0.39

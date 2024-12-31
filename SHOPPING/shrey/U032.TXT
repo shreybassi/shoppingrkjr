@@ -1,0 +1,20 @@
+
+
+A/C OM SONS STEEL PVT LTD PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U032 PLOT 7 , SECTOR 1                           PANAAACO5233C           0   BG
+      AADHAR          0   GSTIN 02AAACO5233C2Z6
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+24/05/2023P OS1107            BY PURCHASE                    0.00    19850.00      -19850.00
+27/06/2023J J94187            TO CH 10483                19850.00        0.00           0.00
+01/07/2023P OS1925            BY PURCHASE                    0.00    20000.00      -20000.00
+15/07/2023J J94431            TO CH 10492                20000.00        0.00           0.00
+12/08/2023P OS2679            BY PURCHASE                    0.00    37350.00      -37350.00
+19/08/2023P OS2805            BY PURCHASE                    0.00    37350.00      -74700.00
+23/08/2023J J94947            TO CH 10768                37350.00        0.00      -37350.00
+30/08/2023J J95048            TO CH NO 10773             37500.00        0.00         150.00
+01/09/2023J J95074            TO CH NO 10773             37350.00        0.00       37500.00
+01/09/2023J J95074            BY CH 10773                    0.00    37500.00           0.00
+
+                         TOTAL                          152050.00   152050.00           0.00

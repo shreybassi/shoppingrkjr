@@ -1,0 +1,14 @@
+
+
+A/C TR ENTERPRISES NALAGARH     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U143                                             PANAALPR7212G           0   0G
+      AADHAR          0   GSTIN 02AALPR7212G1ZV
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+09/10/2023J J95642            TO ON LINE                 15700.00        0.00       15700.00
+11/10/2023E INV8150230001813  R069EXP086                     0.00     4164.76       11535.24
+11/10/2023E INV8150230001813  R069EXP086                     0.00     9366.99        2168.25
+11/10/2023E INV8150230001814  R069EXP084                     0.00     2168.00           0.25
+
+                         TOTAL                           15700.00    15699.75           0.25

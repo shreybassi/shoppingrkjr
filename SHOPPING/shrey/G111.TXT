@@ -1,0 +1,30 @@
+
+
+A/C MEHTA GENERAL STORE GIAWANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ G111 VILL.   PO GIABUNG VIA CHIASO               PANDOSPS1356N  9459980380  PGG
+      AADHAR 807986798817 GSTIN 02DOSPS1356N1ZB
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       -2572.82
+11/04/2023S S437530           TO SALE                     3337.09        0.00         764.27
+11/04/2023S S437536           TO SALE                      195.56        0.00         959.83
+17/04/2023C C1                RN36647                        0.00      961.00          -1.17
+18/05/2023S L168185           TO SALE                      178.18        0.00         177.01
+12/06/2023S S445861           TO SALE                     7405.26        0.00        7582.27
+13/06/2023S S445952           TO SALE                    36610.28        0.00       44192.55
+16/06/2023J J-CH              BY CH 301393 Q101              0.00    44016.00         176.55
+23/08/2023S S454617           TO SALE                     1345.20        0.00        1521.75
+23/08/2023S S454634           TO SALE                    40626.95        0.00       42148.70
+28/08/2023C C                 RN47143                        0.00     1971.00       40177.70
+04/09/2023S S456212           TO SALE                   117759.88        0.00      157937.58
+04/09/2023S S456233           TO SALE                     6638.30        0.00      164575.88
+05/09/2023J J-CH              BY CH 301399 Q101              0.00    40000.00      124575.88
+07/09/2023S O107655           TO SALE                    -5040.00        0.00      119535.88
+14/10/2023J J95744            BY CH 301406                   0.00   105100.00       14435.88
+06/11/2023S S464700           TO SALE                    58296.00        0.00       72731.88
+06/11/2023S S464717           TO SALE                     5822.56        0.00       78554.44
+
+                         TOTAL                          273175.26   194620.82       78554.44
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

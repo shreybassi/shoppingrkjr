@@ -1,0 +1,39 @@
+
+
+A/C HDFC BANK LTD. RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M222 VPO RAMPUR TEH RAMPUR                       PANAAACH2702H  8629000391  I7G
+      AADHAR          0   GSTIN 02AAACH2702H1ZC
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+18/05/2023S C627893           TO SALE                      922.76        0.00         922.76
+03/08/2023S B548159           TO SALE                      420.12        0.00        1342.88
+05/08/2023S B548219           TO SALE                      420.12        0.00        1763.00
+08/08/2023S B548352           TO SALE                      420.12        0.00        2183.12
+10/08/2023S B548485           TO SALE                      360.02        0.00        2543.14
+11/08/2023S B548528           TO SALE                      529.99        0.00        3073.13
+17/08/2023S B548745           TO SALE                      632.16        0.00        3705.29
+21/08/2023S B548858           TO SALE                      648.04        0.00        4353.33
+22/08/2023S B548912           TO SALE                      280.08        0.00        4633.41
+23/08/2023S B548964           TO SALE                      317.99        0.00        4951.40
+23/08/2023J J94948            BY ON LINE                     0.00      420.12        4531.28
+23/08/2023J J94948            BY ON LINE                     0.00      420.12        4111.16
+23/08/2023J J94948            BY ON LINE                     0.00      360.02        3751.14
+24/08/2023S B549017           TO SALE                      212.00        0.00        3963.14
+25/08/2023S B549076           TO SALE                      424.00        0.00        4387.14
+28/08/2023S B549203           TO SALE                      560.16        0.00        4947.30
+05/09/2023J J95141            BY BILL PAYMENT                0.00      648.04        4299.26
+05/09/2023J J95142            BY ON LINE                     0.00      632.16        3667.10
+05/09/2023J J95142            BY ON LINE                     0.00      560.16        3106.94
+05/09/2023J J95142            BY ON LINE                     0.00      424.00        2682.94
+05/09/2023J J95142            BY ON LINE                     0.00      529.99        2152.95
+05/09/2023J J95142            BY ON LINE                     0.00      212.00        1940.95
+05/09/2023J J95142            BY ON LINE                     0.00      280.08        1660.87
+27/09/2023J J95444            BY ON LINE                     0.00      922.76         738.11
+27/09/2023J J95444            BY ON LINE                     0.00      420.12         317.99
+27/09/2023J J95444            BY ON LINE                     0.00      317.99           0.00
+
+                         TOTAL                            6147.56     6147.56           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

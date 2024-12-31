@@ -1,0 +1,17 @@
+
+
+A/C SATISH KUMAR NITHAR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I106                                             PAN            9418270191  DBG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       2993.85
+08/04/2023C C                 RN36531                        0.00     1000.00        1993.85
+06/05/2023C C                 RN39119                        0.00     1000.00         993.85
+20/05/2023C C                 RN39467                        0.00      500.00         493.85
+27/05/2023C C                 RN40757                        0.00      500.00          -6.15
+
+                         TOTAL                            2993.85     3000.00          -6.15
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

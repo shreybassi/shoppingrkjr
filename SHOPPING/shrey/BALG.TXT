@@ -1,0 +1,35 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ N216 RAVI GENERAL STORE             DAKOLAR          2484.03     2484.03     2484.03    2484.03     2484.03
+ O146 GUPTA GENERAL STORE            DANSA           14848.20    14848.20
+ O148 HARDAYAL CHINEESE DHABA        DHANSA              2.50
+ O037 PITAMBER SINGH KAITH           DHANSA          32432.16    32432.16
+ B807 RADHA DEVI                     DHANSA            881.78
+ O005 SHARMA GENERAL STORE           DHANSA         101212.55    72309.03    38891.60
+ O022 SUNDER SINGH                   DHANSA          34219.45        0.20        0.20
+ O138 SUNITA DEVI                    DHANSA              0.80
+ O140 VED PRAKASH                    DHANSA             14.58
+ O143 JANVI GENERAL STORE            DHAR                0.42
+ O139 KAPIL GENERAL STORE            DHAR              -17.21
+ O150 RAM LAL                        DHAR                2.29
+ O158 BS KAITH                       JAGUNI              0.95
+ O157 BS NEGI AND SONS               JAGUNI           1115.38
+ O155 SHER SINGH                     JAGUNI           6743.67
+ O156 VINOD GENERAL STORE            KARALI              0.00
+ O135 BL SHARMA                      LALSA            4161.77
+ B805 BR LALSA                       LALSA          414543.29   414543.29    50272.69   50272.69
+ O034 GD SHARMA AND SONS             LALSA           13707.43     4922.00
+ O145 JAGAT SHARMA                   LALSA              -0.69
+ O142 MADAN MOHAN SHARMA             LALSA              -4.98
+ O149 NR SHARMA                      LALSA             844.76
+ O144 PRAKASH CHAND                  LALSA               3.93        3.93
+ O141 SAKSHI GENERAL STORE           LALSA           10063.16
+ O137 SUKHA NAND SHARMA              LALSA               3.44
+ O010 TILAK RAJ S/O SH PARMA NAND    LALSA           20244.78 0P                                                                 20244.78    20244.78   20244.78    20244.78
+ B834 VIJAY BROTHER                  LALSA           12617.44
+ O136 ROSHAN LAL SHARMA              PANOLI             -0.06
+ B809 YASH PAL                       PANOLI DANSA     3309.58
+ O120 POOJA ENTERPRISES              SHINGRA             1.10
+ O043 RUPESH SHARMA                  SHINGRA             0.96        0.96

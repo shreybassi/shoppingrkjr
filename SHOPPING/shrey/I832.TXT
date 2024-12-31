@@ -1,0 +1,26 @@
+
+
+A/C HIRA SINGH KARANGALA    In M/S RAM KISHAN JIVA RAM Page No. 1
+ I832                                             PAN            8580614415  0BG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+27/07/2023S H399409           TO SALE                    29621.74        0.00       29621.74
+27/07/2023S H399410           TO SALE                    48147.00        0.00       77768.74
+27/07/2023S R252005           TO SALE                    19732.52        0.00       97501.26
+28/08/2023J J95011            BY CH 811655                   0.00    97502.00          -0.74
+21/10/2023S H400931           TO SALE                    13987.02        0.00       13986.28
+21/10/2023S H400932           TO SALE                    37955.00        0.00       51941.28
+21/10/2023S H400933           TO SALE                    18436.00        0.00       70377.28
+21/10/2023S R252508           TO SALE                     9365.79        0.00       79743.07
+23/10/2023J J-CH              BY CH 811657 Q101              0.00    79744.00          -0.93
+22/11/2023S T101267           TO SALE                    59653.85        0.00       59652.92
+22/11/2023S T101268           TO SALE                     9475.16        0.00       69128.08
+22/11/2023S T101269           TO SALE                    28916.24        0.00       98044.32
+23/11/2023J J-CH              BY CH 811658 Q101              0.00    98045.00          -0.68
+
+                         TOTAL                          275290.32   275291.00          -0.68
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

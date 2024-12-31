@@ -1,0 +1,17 @@
+
+
+A/C SURINDER LAL & CO SHIMLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ U009 36/4 GUNJ BAZAR SHIMLA                      PANAANHS9745R           0   BP
+      AADHAR          0   GSTIN 02AANHS9745R1Z4
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      -84000.00
+12/04/2023P SL3852            BY PURCHASE                    0.00    12479.00      -96479.00
+12/04/2023J J93120            TO CH 010557               84000.00        0.00      -12479.00
+17/04/2023J J93170            TO CH 298710               12479.00        0.00           0.00
+25/05/2023P SL3861            BY PURCHASE                    0.00     7560.00       -7560.00
+14/09/2023J J95272            TO CH 298839                7560.00        0.00           0.00
+14/10/2023P SL3878            BY PURCHASE                    0.00   122500.00     -122500.00
+27/10/2023J J95938            TO CH 298878              122500.00        0.00           0.00
+
+                         TOTAL                          226539.00   226539.00           0.00

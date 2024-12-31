@@ -1,0 +1,16 @@
+
+
+A/C GOLDEN HOSIERY MFG CO PVT LTD DELHI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ Y241 5032,RUI MANDI SADAR BAZAR DELHI 6          PANAAACG0909P           0   1P
+      AADHAR          0   GSTIN 07AAACG0909P1ZH
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+11/05/2023P GHR/MP/23-24/009  BY PURCHASE                    0.00    67326.00      -67326.00
+11/05/2023P GHR/MP/23-24/010  BY PURCHASE                    0.00    13902.00      -81228.00
+02/06/2023J J93829            TO CH 010219               78791.00        0.00       -2437.00
+16/09/2023J J95306            TO CD                       2437.00        0.00           0.00
+19/09/2023P GHR/MP/23-24/034  BY PURCHASE                    0.00    44623.00      -44623.00
+04/10/2023J J95560            TO CH 010441               44623.00        0.00           0.00
+
+                         TOTAL                          125851.00   125851.00           0.00

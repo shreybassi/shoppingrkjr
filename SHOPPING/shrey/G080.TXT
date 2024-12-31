@@ -1,0 +1,21 @@
+
+
+A/C SANAM CHAND BHADUR SINGH GIAWONG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ G080 VILL.   PO GIABUNG                          PAN            9459879043  PGG
+      AADHAR 941520185196 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F         -83.25
+11/04/2023S S437528           TO SALE                    30145.58        0.00       30062.33
+11/04/2023S S437533           TO SALE                    53096.77        0.00       83159.10
+25/05/2023J J93673            BY CH 108288                   0.00    10000.00       73159.10
+27/07/2023J J94584            BY CH 108295                   0.00    10000.00       63159.10
+14/09/2023J J95282            BY CH 108297                   0.00    10000.00       53159.10
+30/10/2023S L179847           TO SALE                     4231.50        0.00       57390.60
+31/10/2023J J-CH              BY CH 199639 Q101              0.00   100000.00      -42609.40
+01/11/2023S L179945           TO SALE                    85130.00        0.00       42520.60
+
+                         TOTAL                          172603.85   130083.25       42520.60
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

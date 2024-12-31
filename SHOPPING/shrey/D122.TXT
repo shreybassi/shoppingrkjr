@@ -1,0 +1,20 @@
+
+
+A/C TALWAR GENERAL STORE RECKONG PEO  In M/S RAM KISHAN JIVA RAM Page No. 1
+ D122 VILL.  PO REKONG PEO                        PANACDPP1548H  9816030661  K7G
+      AADHAR          0   GSTIN 02ACDPP1548H1ZW
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+13/06/2023S S446035           TO SALE                    18674.26        0.00       18674.26
+27/06/2023J J-CH              BY CH 000772 Q109              0.00    18424.00         250.26
+06/09/2023S S456460           TO SALE                    34496.35        0.00       34746.61
+06/09/2023S S456473           TO SALE                    18954.03        0.00       53700.64
+09/09/2023S L176176           TO SALE                      217.36        0.00       53918.00
+21/09/2023J J-CH              BY CH 000182 Q102              0.00    53450.00         468.00
+24/10/2023J J95885            BY TRANS                       0.00      468.00           0.00
+
+                         TOTAL                           72342.00    72342.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,13 @@
+
+
+A/C PICCADILY AGRO INDUSTRIES LTD. INDARI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ X120                                             PANAABCP7343R           0   GG
+      AADHAR          0   GSTIN 06AABCP7343R1ZV
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/02/2022J J87646            TO ON LINE                541013.00        0.00      541013.00
+23/02/2022J J87655            TO ON LINE                   541.00        0.00      541554.00
+24/02/2022P PAA3613/2021-22   BY PURCHASE                    0.00   541554.50          -0.50
+
+                         TOTAL                          541554.00   541555.50          -1.50

@@ -1,0 +1,54 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ A587 CASH ON DELIVERY SM A4                        171405.72
+ J084 RD VIMAL ENTERPRISES           AVERA            7828.73        0.40        0.40
+ K963 THAKUR GENERAL STORE           AVERI             -31.05
+ J039 JOGINDER SINGH                 AVERY           26855.35
+ K965 ANSHUL GENERAL STORE           BLOCK KAINCH       68.13       68.13
+ I832 HIRA SINGH                     KARANGALA          -0.68
+ H057 CHIRAG NGO                     NANITAL             0.48        0.48        0.48       0.48        0.48
+ K824 RAVI GENERAL STORE             NIRAMND'1720    30089.27        3.01
+ J031 AMAR FANCY                     NIRMAND             0.00
+ J077 AMBIKA ENTERPRISES HARNAM FOR  NIRMAND             0.37
+ J081 AMBIKA GENERAL STORE FOR       NIRMAND          8182.06      330.62
+ J045 AMBIKA MEDICAL STORE           NIRMAND          4413.27      527.92
+ K872 BALAK RAM AND SONS             NIRMAND             0.00
+ K827 BISHT HARDWARE                 NIRMAND             0.62        0.62        0.62       0.62
+ K875 DHARMANDER KUMAR               NIRMAND             0.00
+ J041 DURGA FANCY SHOP               NIRMAND             0.73        0.73        0.73       0.73
+ J063 DURGA FANCY STORE              NIRMAND             0.28      375.48        0.28       0.28
+ J019 DURGA GENERAL STORE            NIRMAND         78449.34    68774.91        0.14
+ J042 GUPTA FRUIT AND VEG            NIRMAND          1116.07     1116.07
+ K880 GUPTA GENERAL STORE            NIRMAND         18948.64
+ K967 HARI GENERAL STORE             NIRMAND            -1.69
+ J062 HCSW-K-MART                    NIRMAND         44774.04      504.18
+ J053 HEM LATA GENERAL STORE         NIRMAND          5151.70     5151.70
+ J044 JAGDAMBA MEDICAL STORE         NIRMAND           -14.63
+ K882 JAI MAA AMBIKA                 NIRMAND            -0.61
+ K876 JEEVA RAM                      NIRMAND            -0.15
+ K807 KAVYA GENERAL STORE            NIRMAND         62715.52    17955.28
+ J056 KGS ENTERPRISES                NIRMAND             0.75        0.75
+ J070 KISHORI LAL                    NIRMAND            -0.54
+ J059 KRISHNA ENTERPRISES            NIRMAND             2.01        2.01        2.01
+ K879 LAMA DHABA                     NIRMAND             0.42
+ J800 M R T                          NIRMAND         11855.71        0.29
+ J046 NAINA MEDICAL                  NIRMAND         17131.23      282.81
+ K887 NEELAM CHAND                   NIRMAND           -85.20
+ J026 NIRMLA TRADING CO              NIRMAND         35270.94    19910.15
+ K886 OM PARKASH SHUKLA              NIRMAND            -0.68
+ K885 PREMA SHARMA                   NIRMAND            -1.40
+ J079 PRITAM GENERAL STORE FOR       NIRMAND         11142.63       12.47
+ K877 PUBLIC MEDICAL STORE           NIRMAND            -0.02
+ J083 RISHITA GENERAL STORE          NIRMAND         21070.35    13270.06
+ J078 RUPANSHI GENERAL STORE FOR     NIRMAND          3321.77
+ J035 SAI ENTERPRISES                NIRMAND         14564.36    14564.36
+ J050 SHARMA BROTHER BOOK SELAR      NIRMAND          1350.81     1350.81
+ J048 SHARMA STATIONERY              NIRMAND             0.00
+ J085 SHIV DAYAL                     NIRMAND          1956.35        1.00
+ J066 TIKKAM RAM AND BROTHER FOR     NIRMAND         35739.65        3.99
+ K968 VIRENDER RANA                  NIRMAND          -232.71
+ J080 YUGAL TRADERS FOR              NIRMAND        103635.57    58873.84
+ J082 MOHAN AND SONS FOR             SHARVI          77572.87    38080.95
+ A576 CASH ON DELIVERY SM 3P MAINLIN                 33314.77

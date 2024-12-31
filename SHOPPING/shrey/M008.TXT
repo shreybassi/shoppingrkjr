@@ -1,0 +1,25 @@
+
+
+A/C DEVAKI NANDAN AND SONS RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M008 VILL.   PO RAMPUR BUSHAHR                   PANABTPA7534K  9418033069  LBG
+      AADHAR          0   GSTIN 02ABTPA7534K2ZJ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        325.20
+18/04/2023S P230313           TO SALE                      937.04        0.00        1262.24
+11/05/2023E DNS/23-24/190     TO BILL R047EXP781             0.00     2599.98       -1337.74
+24/05/2023S C628030           TO SALE                      867.90        0.00        -469.84
+24/05/2023S P230537           TO SALE                      572.72        0.00         102.88
+13/06/2023S P230675           TO SALE                      864.94        0.00         967.82
+02/08/2023S C629310           TO SALE                      465.80        0.00        1433.62
+24/08/2023E DN714             BILL R047EXP997                0.00      160.00        1273.62
+26/09/2023S P231280           TO SALE                      373.24        0.00        1646.86
+23/10/2023E DN1041            BILL WIRE EXP120               0.00      120.39        1526.47
+18/11/2023C C53057            TO CASH                       40.00        0.00        1566.47
+18/11/2023E DN1212            BILL ELEC EXP175               0.00       40.00        1526.47
+22/11/2023E DN1223            BILL STREET LIGHT EXP176       0.00     1400.00         126.47
+
+                         TOTAL                            4446.84     4320.37         126.47
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

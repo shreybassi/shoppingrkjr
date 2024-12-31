@@ -1,0 +1,13 @@
+
+
+A/C R B TRADERS NEW DELHI    In M/S RAM KISHAN JIVA RAM Page No. 1
+ Y024 WZ-34 HIND NAGAR TILAK NAGAR                PANAAMPS0064Q           0   0G
+      AADHAR          0   GSTIN 07AAMPS0064Q1Z2
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      -28485.00
+07/04/2023J J93070            TO ON LINE                 28485.00        0.00           0.00
+06/05/2023P RBGST/2268/23-24  BY PURCHASE                    0.00    15458.00      -15458.00
+29/06/2023J J94207            TO ON LINE                 15458.00        0.00           0.00
+
+                         TOTAL                           43943.00    43943.00           0.00

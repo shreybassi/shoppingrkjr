@@ -1,0 +1,21 @@
+
+
+A/C HIRA LAL KALEDA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I153 VILL KALEDA PO SURAD                        PAN            9418902141  CGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       4469.36
+23/06/2023C C1                RN41698                        0.00     4500.00         -30.64
+11/11/2023S L180836           TO SALE                      278.55        0.00         247.91
+11/11/2023S L180837           TO SALE                     2056.43        0.00        2304.34
+11/11/2023S L180842           TO SALE                    22743.74        0.00       25048.08
+11/11/2023S L180843           TO SALE                    48828.40        0.00       73876.48
+22/11/2023C C                 RN54545                        0.00    50000.00       23876.48
+23/11/2023S L181877           TO SALE                    23393.55        0.00       47270.03
+23/11/2023S L181878           TO SALE                    27230.92        0.00       74500.95
+
+                         TOTAL                          129000.95    54500.00       74500.95
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

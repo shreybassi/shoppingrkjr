@@ -1,0 +1,18 @@
+
+
+A/C BRIJ MOHAN RIBBA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F858                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+12/11/2023S L180948           TO SALE                     3419.91        0.00        3419.91
+12/11/2023S L180957           TO SALE                    50954.25        0.00       54374.16
+13/11/2023S O108388           TO SALE                   -19650.00        0.00       34724.16
+20/11/2023C C53074            TO FRT                      1580.00        0.00       36304.16
+21/11/2023J J-CH              BY CH 640096 Q106              0.00    54944.00      -18639.84
+
+                         TOTAL                           36304.16    54944.00      -18639.84
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

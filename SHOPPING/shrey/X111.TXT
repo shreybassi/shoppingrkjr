@@ -1,0 +1,19 @@
+
+
+A/C DEVENDRA TRADING CO MEHAM        In M/S RAM KISHAN JIVA RAM Page No. 1
+ X111 THANA ROAD MEHAM                            PANAABFD2364D           0   0G
+      AADHAR          0   GSTIN 06AABFD2364D1ZZ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+06/04/2023P DTHR/BD/23-24/01  BY PURCHASE                    0.00   111152.00     -111152.00
+07/04/2023J J93069            TO ON LINE                111152.00        0.00           0.00
+09/05/2023P DTHR/BD/23-24/18  BY PURCHASE                    0.00   576263.00     -576263.00
+16/05/2023J J93554            TO ON LINE                576263.00        0.00           0.00
+09/06/2023P DTUK/BD/23-24/12  BY PURCHASE                    0.00   354350.00     -354350.00
+19/06/2023J J94068            TO ON LINE                354350.00        0.00           0.00
+24/10/2023P DTHR/BD/23-24/72  BY PURCHASE                    0.00   243996.00     -243996.00
+17/11/2023J J96316            TO ON LINE                243996.00        0.00           0.00
+25/11/2023P DTHR/BD/23-24/83  BY PURCHASE                    0.00   236233.00     -236233.00
+
+                         TOTAL                         1285761.00  1521994.00     -236233.00

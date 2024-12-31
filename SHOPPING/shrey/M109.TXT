@@ -1,0 +1,20 @@
+
+
+A/C HOTEL HIGHWAY HOME RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M109 VILL.   PO RAMPUR BUSHAHR                   PANAQPPS0163D  9418033198  LBR
+      AADHAR          0   GSTIN 02AQPPS0163D1Z3
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      33534.53
+05/04/2023J J-CH              BY CH 239332 Q101              0.00    33534.00           0.53
+11/08/2023S B548521           TO SALE                    21902.90        0.00       21903.43
+11/08/2023S C629488           TO SALE                    22608.56        0.00       44511.99
+16/08/2023S B548706           TO SALE                     2394.20        0.00       46906.19
+11/09/2023J J-CH              BY CH 302054 Q101              0.00    46905.00           1.19
+09/11/2023S B552493           TO SALE                    30496.95        0.00       30498.14
+09/11/2023S C631322           TO SALE                    18153.58        0.00       48651.72
+
+                         TOTAL                          129090.72    80439.00       48651.72
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

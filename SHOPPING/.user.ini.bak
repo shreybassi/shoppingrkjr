@@ -1,0 +1,4 @@
+[PHP]
+error_reporting=22519
+open_basedir="G:/PleskVhosts//rkjr.co.in\;C:\Windows\Temp\"
+error_log="G:\PleskVhosts\rkjr.co.in\logs\php_errors\rkjrrampur.in\php_error.log"

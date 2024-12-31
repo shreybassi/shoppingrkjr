@@ -1,0 +1,20 @@
+
+
+A/C AJAY AGRO CHEMICALS SKIBA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F099 VILL SKIBA PO RIBBA TEH MORANG              PANFXGPS2376H  9805136684  Y1G
+      AADHAR          0   GSTIN 02FXGPS2376H1ZA
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+17/07/2023S S450290           TO SALE                    18099.99        0.00       18099.99
+26/07/2023J J94563            BY ON LINE                     0.00    18099.00           0.99
+18/08/2023S L174642           TO SALE                    15700.00        0.00       15700.99
+06/09/2023J J95159            BY ON LINE                     0.00    15700.00           0.99
+05/10/2023S B550965           TO SALE                   340000.72        0.00      340001.71
+05/10/2023J J95590            BY ON LINE                     0.00   150000.00      190001.71
+19/10/2023J J95813            BY ON LINE                     0.00   190000.00           1.71
+
+                         TOTAL                          373800.71   373799.00           1.71
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

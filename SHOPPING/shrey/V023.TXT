@@ -1,0 +1,27 @@
+
+
+A/C BHARAJ MANUFACTURING CO JALANDHAR    In M/S RAM KISHAN JIVA RAM Page No. 1
+ V023 B-18 MODEL HOUSE                            PANAAAFB7226K           0   1G
+      AADHAR          0   GSTIN 03AAAFB7226K1ZQ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+11/04/2023P BMTI/23-24/143    BY PURCHASE                    0.00    77632.00      -77632.00
+13/04/2023J J93129            TO TRANS                    2632.00        0.00      -75000.00
+14/04/2023J J93149            TO ONLINE                  75000.00        0.00           0.00
+10/05/2023P BMTI/23-24/152    BY PURCHASE                    0.00   116140.00     -116140.00
+16/05/2023J J93555            TO TFR                      3937.00        0.00     -112203.00
+23/05/2023J J93644            TO ON LINE                112203.00        0.00           0.00
+21/06/2023P BMTI/23-24/166    BY PURCHASE                    0.00    88868.00      -88868.00
+26/06/2023J J94160            TO TRF                      3012.00        0.00      -85856.00
+28/06/2023J J94199            TO ON LINE                 85856.00        0.00           0.00
+11/08/2023P BMTI/23-24/186    BY PURCHASE                    0.00    65249.00      -65249.00
+17/08/2023J J94868            TO TRANS                    2211.00        0.00      -63038.00
+19/08/2023J J94899            TO ON LINE                 63038.00        0.00           0.00
+21/09/2023P BMTI/23-24/198    BY PURCHASE                    0.00    81222.00      -81222.00
+25/09/2023J J95412            TO TRANS                    2753.00        0.00      -78469.00
+02/10/2023J J95529            TO ON LINE                 78469.00        0.00           0.00
+08/11/2023P BMTI/23-24/211    BY PURCHASE                    0.00    66594.00      -66594.00
+14/11/2023J J96249            TO CD                       2660.00        0.00      -63934.00
+
+                         TOTAL                          431771.00   495705.00      -63934.00

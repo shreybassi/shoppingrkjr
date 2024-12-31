@@ -1,0 +1,26 @@
+
+
+A/C CHERING TANDUP ATUL NEGI LEO          In M/S RAM KISHAN JIVA RAM Page No. 1
+ G095                                             PAN            9418401610  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        -232.99
+01/05/2023S S440198           TO SALE                    17947.78        0.00       17714.79
+01/05/2023S S440213           TO SALE                    24216.92        0.00       41931.71
+10/05/2023J J-CH              BY CH 825544 Q103              0.00    42164.00        -232.29
+31/05/2023S S444225           TO SALE                    15591.74        0.00       15359.45
+01/06/2023S S444312           TO SALE                    58978.13        0.00       74337.58
+07/06/2023J J93898            BY ON LINE                     0.00    74570.00        -232.42
+22/08/2023S S454422           TO SALE                     7618.05        0.00        7385.63
+22/08/2023S S454449           TO SALE                    66765.28        0.00       74150.91
+22/08/2023S S454450           TO SALE                     8079.12        0.00       82230.03
+28/08/2023C C1                RN46064                        0.00    31768.00       50462.03
+29/08/2023J J-CH              BY CH 757108 Q106              0.00    50463.00          -0.97
+21/09/2023S H400406           TO SALE                    32228.00        0.00       32227.03
+27/09/2023J J-CH              BY CH 493068 Q119              0.00    32228.00          -0.97
+
+                         TOTAL                          231425.02   231425.99          -0.97
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

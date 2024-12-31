@@ -1,0 +1,19 @@
+
+
+A/C PREM SINGH KAOBIL       In M/S RAM KISHAN JIVA RAM Page No. 1
+ A042 VILL. KAOBIL  PO. JEORI                     PAN            9816920546  EGG
+      AADHAR 461599097825 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+03/04/2023S S436450           TO SALE                    20282.78        0.00       20282.78
+04/04/2023S S436554           TO SALE                    47145.02        0.00       67427.80
+06/04/2023J J-CH              BY CH 657909 Q103              0.00    67428.00          -0.20
+24/04/2023S S439316           TO SALE                    12432.47        0.00       12432.27
+25/04/2023S S439396           TO SALE                    42669.60        0.00       55101.87
+27/04/2023J J-CH              BY CH 657910 Q103              0.00    55102.00          -0.13
+
+                         TOTAL                          122529.87   122530.00          -0.13
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

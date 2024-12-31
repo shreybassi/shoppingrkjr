@@ -1,0 +1,25 @@
+
+
+A/C BRIJ RAJ NEGI KILBA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ D050 VILL.KILWA PO KERCHAM                       PAN            8580837969  SXG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        657.61
+06/04/2023S L164968           TO SALE                    70372.91        0.00       71030.52
+06/04/2023S L164969           TO SALE                    19337.63        0.00       90368.15
+06/04/2023S L164971           TO SALE                    12721.05        0.00      103089.20
+20/04/2023S L166194           TO SALE                     1737.00        0.00      104826.20
+20/04/2023S L166230           TO SALE                    32183.47        0.00      137009.67
+20/04/2023S L166231           TO SALE                    22315.50        0.00      159325.17
+22/04/2023J J93244            BY ON LINE                     0.00    20000.00      139325.17
+11/05/2023J J93485            BY ONLINE                      0.00    20000.00      119325.17
+12/06/2023J J93967            BY ON LINE                     0.00    30000.00       89325.17
+20/07/2023J J94487            BY ON LINE                     0.00    30000.00       59325.17
+18/09/2023J J95328            BY ON LINE                     0.00    40000.00       19325.17
+11/10/2023J J95676            BY ONLINE                      0.00    19000.00         325.17
+
+                         TOTAL                          159325.17   159000.00         325.17
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

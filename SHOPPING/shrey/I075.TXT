@@ -1,0 +1,38 @@
+
+
+A/C SHIV GENERAL STORE BITHAL       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I075 VILL BITHAL PO KUMARSAIN TEH KUMARSAIN      PANCZQPK8398Q  9816978649  EGG
+      AADHAR          0   GSTIN 02CZQPK8398Q1Z6
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      31950.00
+18/04/2023J J93192            BY ON LINE                     0.00    31950.00           0.00
+12/05/2023S B544832           TO SALE                    31950.00        0.00       31950.00
+30/05/2023J J93767            BY ON LINE                     0.00    31950.00           0.00
+14/06/2023S N309903           TO SALE                    13571.50        0.00       13571.50
+05/07/2023S B547117           TO SALE                    26750.00        0.00       40321.50
+17/07/2023J J-CH              BY CH 361608 Q119              0.00    13571.00       26750.50
+24/07/2023J J94538            BY ON LINE                     0.00    26750.00           0.50
+01/08/2023S B548067           TO SALE                    26750.00        0.00       26750.50
+03/08/2023S N315912           TO SALE                    21066.50        0.00       47817.00
+17/08/2023J J94872            BY ON LINE                     0.00    26750.00       21067.00
+17/08/2023J J-CH              BY CH 361627 Q119              0.00    21066.00           1.00
+24/08/2023S N318616           TO SALE                     4058.35        0.00        4059.35
+24/08/2023S N318637           TO SALE                    10010.08        0.00       14069.43
+26/08/2023S B549154           TO SALE                    21600.00        0.00       35669.43
+06/09/2023J J-CH              BY CH 361639 Q119              0.00    14068.00       21601.43
+07/09/2023S N320526           TO SALE                     2436.11        0.00       24037.54
+07/09/2023S N320542           TO SALE                    11711.80        0.00       35749.34
+16/09/2023J J95313            BY ON LINE                     0.00    21600.00       14149.34
+29/09/2023S B550684           TO SALE                    34475.00        0.00       48624.34
+07/10/2023J J-CH              BY CH 361917 Q119              0.00    14148.00       34476.34
+11/10/2023J J95691            BY ONLINE                      0.00    34475.00           1.34
+12/10/2023S B551265           TO SALE                    30350.00        0.00       30351.34
+02/11/2023J J96048            BY ON LINE                     0.00    30350.00           1.34
+07/11/2023S A173850           TO SALE                    48625.00        0.00       48626.34
+21/11/2023J J96378            BY ON LINE                     0.00    48625.00           1.34
+
+                         TOTAL                          315304.34   315303.00           1.34
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

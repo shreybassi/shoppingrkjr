@@ -1,0 +1,24 @@
+
+
+A/C RAM DASS C/O SUNDER NEGI (ASI) SUNAM        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F810 94187 59933                                 PAN            9418222055  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       8528.47
+01/04/2023C C                 RN36511                        0.00     3000.00        5528.47
+18/04/2023C C                 RN36673                        0.00     5528.47           0.00
+23/05/2023S B545298           TO SALE                     2606.45        0.00        2606.45
+29/05/2023S L169022           TO SALE                     4801.10        0.00        7407.55
+29/05/2023S L169023           TO SALE                     1620.54        0.00        9028.09
+29/05/2023S L169059           TO SALE                     3494.40        0.00       12522.49
+07/06/2023C C51154            TO FRT                       200.00        0.00       12722.49
+16/06/2023C C2                RN42334                        0.00     9000.00        3722.49
+15/07/2023C C2                RN43986                        0.00     3722.49           0.00
+07/10/2023S S460761           TO SALE                     8366.64        0.00        8366.64
+27/10/2023J J95941            BY CARD                        0.00     8366.64           0.00
+
+                         TOTAL                           29617.60    29617.60           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

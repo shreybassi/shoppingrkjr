@@ -1,0 +1,15 @@
+
+
+A/C *SR GARMENTS AND GENERAL STORE RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M094 NEW BUS STAND VPO RAMPUR                    PANAMLPS9798N  9816033982  QXX
+      AADHAR          0   GSTIN 02AMLPS9798N1ZV
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+14/11/2023J J-CH              BY CH 280265 Q101              0.00    44877.00      -44877.00
+24/11/2023J J96432            TO TFR N230                44877.00        0.00           0.00
+
+                         TOTAL                           44877.00    44877.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

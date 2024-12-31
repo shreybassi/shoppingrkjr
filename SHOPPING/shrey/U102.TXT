@@ -1,0 +1,27 @@
+
+
+A/C MAA ENTERPRISES PARWAMOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U102 VPO PARWANOO                                PANAGTPP1230A  9418033431   BP
+      AADHAR          0   GSTIN 02AGTPP1230A1ZZ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      -21774.99
+05/04/2023J J93042            TO CH 10269                21775.00        0.00           0.01
+25/04/2023P MEGST-449         BY PURCHASE                    0.00    18430.00      -18429.99
+02/05/2023P MEGST-584         BY PURCHASE                    0.00    14194.00      -32623.99
+09/05/2023J J93461            TO CH 10294                32623.00        0.00          -0.99
+25/05/2023P MEGST-1012        BY PURCHASE                    0.00     6537.00       -6537.99
+26/05/2023P MEGST-1076        BY PURCHASE                    0.00   170476.00     -177013.99
+26/05/2023J J93698            TO CN 60                    2500.00        0.00     -174513.99
+29/05/2023P MEGST-1129        BY PURCHASE                    0.00     6743.00     -181256.99
+01/06/2023J J93798            TO CH 10459               181256.00        0.00          -0.99
+17/06/2023P MEGST-1468        BY PURCHASE                    0.00    18405.00      -18405.99
+21/06/2023P MEGST-1410        BY PURCHASE                    0.00     8223.00      -26628.99
+21/06/2023J J94098            TO CH 10474                18406.00        0.00       -8222.99
+29/06/2023J J94211            TO CH 10484                 8222.00        0.00          -0.99
+21/10/2023P MEGST-3866        BY PURCHASE                    0.00    18875.00      -18875.99
+26/10/2023J J95924            TO CH 10661                18056.00        0.00        -819.99
+28/10/2023P MEGST-4049        BY PURCHASE                    0.00    17852.00      -18671.99
+09/11/2023J J96170            TO CH 10671                16916.00        0.00       -1755.99
+
+                         TOTAL                          299754.00   301509.99       -1755.99

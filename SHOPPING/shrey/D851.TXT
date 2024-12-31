@@ -1,0 +1,23 @@
+
+
+A/C INDER KUMARI SANGLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ D851 VPO SANGLA TEH SANGLA                       PAN            9816717146  S0G
+      AADHAR 694156158981 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+25/05/2023S L168690           TO SALE                      703.00        0.00         703.00
+26/05/2023S L168732           TO SALE                     4669.00        0.00        5372.00
+26/05/2023S L168733           TO SALE                     2099.62        0.00        7471.62
+31/05/2023J J-CH              BY CH 666527 Q106              0.00     7472.00          -0.38
+28/06/2023S L171264           TO SALE                     1425.70        0.00        1425.32
+28/06/2023S L171265           TO SALE                     4375.92        0.00        5801.24
+04/07/2023J J94285            BY ON LINE                     0.00     5801.00           0.24
+26/09/2023S L177316           TO SALE                     4398.74        0.00        4398.98
+26/09/2023S L177322           TO SALE                     6689.84        0.00       11088.82
+30/09/2023C C                 RN48649                        0.00    11088.00           0.82
+
+                         TOTAL                           24361.82    24361.00           0.82
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

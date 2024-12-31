@@ -1,0 +1,15 @@
+
+
+A/C MOHAN SINGH HP35 2432 KULTHA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ U203 VILL KULTHA PO URTOO TEH NIRMAND            PANCLVPS4579J  8219684835  X1I
+      AADHAR 465407487240 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+19/10/2023J J95810            TO BILL HS                  2965.76        0.00        2965.76
+31/10/2023J J95985            BY 2432                        0.00    33710.00      -30744.24
+02/11/2023J J96038            TO BILL HS                 14141.56        0.00      -16602.68
+10/11/2023J J96191            TO ON LINE                 16602.00        0.00          -0.68
+21/11/2023J J96368            TO BILL HS                 11927.55        0.00       11926.87
+
+                         TOTAL                           45636.87    33710.00       11926.87

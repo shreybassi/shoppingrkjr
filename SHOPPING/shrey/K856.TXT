@@ -1,0 +1,17 @@
+
+
+A/C MADAN GENERAL STORE ARSU         In M/S RAM KISHAN JIVA RAM Page No. 1
+ K856 VPO ARSU TEH NIRMAND                        PAN            9459373781  WGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+02/06/2023S S444496           TO SALE                     1081.40        0.00        1081.40
+02/06/2023S S444519           TO SALE                     3844.38        0.00        4925.78
+05/06/2023C A405S             BY CASH S444496 MADAN GE       0.00     1081.40        3844.38
+05/06/2023C A405S             BY CASH S444519 MADAN GE       0.00     3844.38           0.00
+
+                         TOTAL                            4925.78     4925.78           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

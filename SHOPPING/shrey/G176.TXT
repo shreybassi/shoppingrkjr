@@ -1,0 +1,16 @@
+
+
+A/C NAMDOL GAICHOO GULLING      In M/S RAM KISHAN JIVA RAM Page No. 1
+ G176 VPO GULLING TEH KAZA                        PANBPOPG4813F  8988836773   0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/09/2023J J95372            BY CH 530992                   0.00    18727.00      -18727.00
+22/09/2023S S458598           TO SALE                     9704.54        0.00       -9022.46
+22/09/2023S S458609           TO SALE                     9021.65        0.00          -0.81
+
+                         TOTAL                           18726.19    18727.00          -0.81
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

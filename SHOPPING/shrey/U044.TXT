@@ -1,0 +1,21 @@
+
+
+A/C SS AGENCY PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U044 PLOT NO 411ST FLOOR SEC 2GABRIL ROAD        PANBISPA7023C  9318048800   GG
+      AADHAR          0   GSTIN 02BISPA7023C1ZU
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+20/04/2023P SS24              BY PURCHASE                    0.00    56928.00      -56928.00
+27/04/2023J J93299            TO CH 10285                56928.00        0.00           0.00
+06/07/2023P SS115             BY PURCHASE                    0.00    42960.00      -42960.00
+11/07/2023J J94375            TO CH 10488                42960.00        0.00           0.00
+22/08/2023P SS189             BY PURCHASE                    0.00    24184.00      -24184.00
+31/08/2023P SS207             BY PURCHASE                    0.00    23328.00      -47512.00
+05/09/2023J J95146            TO CH 10780                47512.00        0.00           0.00
+29/09/2023P SS263             BY PURCHASE                    0.00    33600.00      -33600.00
+19/10/2023J J95816            TO CH 10653                33600.00        0.00           0.00
+20/10/2023P SS301             BY PURCHASE                    0.00    28015.00      -28015.00
+31/10/2023J J95991            TO CH 10663                28015.00        0.00           0.00
+
+                         TOTAL                          209015.00   209015.00           0.00

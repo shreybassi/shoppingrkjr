@@ -1,0 +1,33 @@
+
+
+A/C GAZAL FOOD MART BITHAL       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I298 NH 5 BITHAL                                 PANATSPK9349P  9816459780  11G
+      AADHAR          0   GSTIN 02ATSPK9349P3ZP
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F         -48.82
+04/04/2023S N300398           TO SALE                     1142.42        0.00        1093.60
+05/04/2023S N300470           TO SALE                     7633.41        0.00        8727.01
+07/04/2023J J93066            BY GOOGLE                      0.00     8775.00         -47.99
+13/04/2023S N301749           TO SALE                     6785.62        0.00        6737.63
+17/04/2023J J93177            BY GOOGLE                      0.00     6785.00         -47.37
+26/04/2023S N303378           TO SALE                     1446.28        0.00        1398.91
+04/05/2023J J93399            BY GOOGLE                      0.00     1446.00         -47.09
+11/05/2023S N305562           TO SALE                     2528.26        0.00        2481.17
+12/05/2023J J93507            BY UPI                         0.00     2528.00         -46.83
+06/06/2023S N308847           TO SALE                     3844.25        0.00        3797.42
+07/06/2023S N308967           TO SALE                     6356.16        0.00       10153.58
+08/06/2023J J93906            BY GOOGLE                      0.00    10200.00         -46.42
+05/07/2023S N312558           TO SALE                     7945.20        0.00        7898.78
+06/07/2023J J94324            BY GOOGLE                      0.00     7945.00         -46.22
+13/07/2023S N313434           TO SALE                     5510.77        0.00        5464.55
+17/07/2023J J94445            BY GOOGLE                      0.00     5511.00         -46.45
+08/08/2023S N316460           TO SALE                     3086.20        0.00        3039.75
+14/08/2023J J94836            BY GOOGLE                      0.00     3086.00         -46.25
+08/11/2023S N328455           TO SALE                    21617.94        0.00       21571.69
+10/11/2023J J96196            BY GOOGLE                      0.00    21617.00         -45.31
+
+                         TOTAL                           67896.51    67941.82         -45.31
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,27 @@
+
+
+A/C DAYA NAND SO PADAM RAM FOR REMU         In M/S RAM KISHAN JIVA RAM Page No. 1
+ K120 VILL REMU PO NISHANI TEH NIRMAND            PAN            9418921592  W7G
+      AADHAR 303814333205 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       1768.00
+07/04/2023S S437108           TO SALE                    17638.05        0.00       19406.05
+08/04/2023S S437221           TO SALE                     2674.76        0.00       22080.81
+20/04/2023J J-CH              BY CH 991705 Q103              0.00    22081.00          -0.19
+25/08/2023S S455050           TO SALE                    22660.77        0.00       22660.58
+26/08/2023S S455115           TO SALE                      655.82        0.00       23316.40
+05/09/2023J J-CH              BY CH 192669 Q103              0.00    23316.00           0.40
+22/09/2023S S458627           TO SALE                    26533.54        0.00       26533.94
+23/09/2023S S458775           TO SALE                     4262.28        0.00       30796.22
+06/10/2023J J-CH              BY CH 192680 Q103              0.00    30796.00           0.22
+13/10/2023S S461694           TO SALE                     3261.93        0.00        3262.15
+14/10/2023S S461825           TO SALE                     9878.21        0.00       13140.36
+26/10/2023J J-CH              BY CH 192692 Q103              0.00    13140.00           0.36
+10/11/2023S S465404           TO SALE                     1655.43        0.00        1655.79
+11/11/2023C A415S             BY CASH S465404 DAYA NAN       0.00     1655.43           0.36
+
+                         TOTAL                           90988.79    90988.43           0.36
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

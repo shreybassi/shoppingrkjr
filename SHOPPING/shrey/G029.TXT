@@ -1,0 +1,24 @@
+
+
+A/C D SINGH DVIWEDI GIAWANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ G029 VILL.  PO GIABUNG VIA CHIASO                PAN            9418135297  PGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       2885.45
+31/10/2023S I100163           TO SALE                   104264.00        0.00      107149.45
+31/10/2023S I100164           TO SALE                   104264.00        0.00      211413.45
+31/10/2023S I100165           TO SALE                    93595.40        0.00      305008.85
+31/10/2023S I100166           TO SALE                    97560.00        0.00      402568.85
+31/10/2023S I100167           TO SALE                    71613.00        0.00      474181.85
+31/10/2023S I100168           TO SALE                    46908.76        0.00      521090.61
+31/10/2023S I100169           TO SALE                    46908.76        0.00      567999.37
+31/10/2023S I100170           TO SALE                    46908.76        0.00      614908.13
+31/10/2023S I100171           TO SALE                    25486.14        0.00      640394.27
+31/10/2023S I100172           TO SALE                    23677.50        0.00      664071.77
+02/11/2023S H401186           TO SALE                    19007.34        0.00      683079.11
+
+                         TOTAL                          683079.11        0.00      683079.11
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

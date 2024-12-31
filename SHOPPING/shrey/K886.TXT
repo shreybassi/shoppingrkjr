@@ -1,0 +1,30 @@
+
+
+A/C OM PARKASH SHUKLA NIRMAND      In M/S RAM KISHAN JIVA RAM Page No. 1
+ K886 OM PRAKASH VILL PANAGLI PO JADOLI TEH NM    PAN            9625795093  0GG
+      AADHAR 911123005793 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+06/04/2023S S436965           TO SALE                     1519.80        0.00        1519.80
+08/04/2023C A404S             BY CASH S436965 OM PARKA       0.00     1519.80           0.00
+04/05/2023S S440716           TO SALE                     1585.60        0.00        1585.60
+06/05/2023C A404S             BY CASH S440716 OM PARKA       0.00     1585.60           0.00
+08/06/2023S S445298           TO SALE                      604.38        0.00         604.38
+08/06/2023S S445315           TO SALE                      690.60        0.00        1294.98
+10/06/2023C A404S             BY CASH S445298 OM PARKA       0.00      604.38         690.60
+10/06/2023C A404S             BY CASH S445315 OM PARKA       0.00      690.60           0.00
+27/07/2023S S451485           TO SALE                     5308.79        0.00        5308.79
+29/07/2023C A404S             BY CASH S451485 OM PARKA       0.00     5308.79           0.00
+25/08/2023S S454914           TO SALE                     2430.60        0.00        2430.60
+26/08/2023C A404S             BY CASH S454914 OM PARKA       0.00     2430.60           0.00
+07/09/2023S S456739           TO SALE                     3173.76        0.00        3173.76
+09/09/2023C C                 RN47694                        0.00     2847.00         326.76
+12/09/2023S O107689           TO SALE                     -327.44        0.00          -0.68
+22/09/2023S S458549           TO SALE                     1312.56        0.00        1311.88
+23/09/2023C A404S             BY CASH S458549 OM PARKA       0.00     1312.56          -0.68
+
+                         TOTAL                           16298.65    16299.33          -0.68
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

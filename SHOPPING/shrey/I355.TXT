@@ -1,0 +1,21 @@
+
+
+A/C BHAGWATI MOTOR ARPU         In M/S RAM KISHAN JIVA RAM Page No. 1
+ I355 VILL ARPU PO KIRTI TEH KOTGARH              PANAQQPK0257K  9805730628  11H
+      AADHAR          0   GSTIN 02AQQPK0257K1ZS
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+18/04/2023S N302323           TO SALE                      975.62        0.00         975.62
+19/04/2023S N302444           TO SALE                     3894.00        0.00        4869.62
+20/04/2023C A302S             BY CASH N302323 BHAGWATI       0.00      975.62        3894.00
+20/04/2023C A302Y             BY CASH N302444 BHAGWATI       0.00     3894.00           0.00
+06/06/2023S N308850           TO SALE                     5069.40        0.00        5069.40
+08/06/2023C A302S             BY CASH N308850 BHAGWATI       0.00     5069.40           0.00
+06/09/2023S N320341           TO SALE                     6490.00        0.00        6490.00
+07/09/2023C A302S             BY CASH N320341 BHAGWATI       0.00     6490.00           0.00
+
+                         TOTAL                           16429.02    16429.02           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,21 @@
+
+
+A/C H.S ENTERPRISES CHOLING      In M/S RAM KISHAN JIVA RAM Page No. 1
+ D017 140 ANAND NIWAS ENGINE GHAR SANJAULI        PANAETPA3678P  8627882311  SGG
+      AADHAR          0   GSTIN 02AETPA3678P1ZZ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+02/04/2019J J77406            BY ON LINE                     0.00   130000.00     -130000.00
+04/04/2019S Q126165           TO SALE                    55832.31        0.00      -74167.69
+04/04/2019S Q126166           TO SALE                    73226.36        0.00        -941.33
+28/05/2019S A164343           TO SALE                    10775.00        0.00        9833.67
+28/05/2019S Q129385           TO SALE                    44152.50        0.00       53986.17
+28/05/2019S Q129386           TO SALE                    25700.92        0.00       79687.09
+20/08/2019J J-CH              BY CH 101379 Q101              0.00    60000.00       19687.09
+29/08/2019J J78769            BY ON LINE                     0.00    19687.09           0.00
+
+                         TOTAL                          209687.09   209687.09           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET TIN STATEMENT

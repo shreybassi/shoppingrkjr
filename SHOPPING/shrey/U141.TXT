@@ -1,0 +1,19 @@
+
+
+A/C SHREE SIDDH PRODUCTS INDIA ANDORA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ U141 MAIN MARKET LOWER ANDORA TEH AMB            PANAAMPJ1487G           0   0G
+      AADHAR          0   GSTIN 02AAMPJ1487G1ZT
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      -48569.00
+29/04/2023J J93321            TO CH 449820               48569.00        0.00           0.00
+13/05/2023P SS73/2023-24      BY PURCHASE                    0.00    45549.00      -45549.00
+07/06/2023J J93894            TO CH 010226               45549.00        0.00           0.00
+16/06/2023P SS143/2023-24     BY PURCHASE                    0.00    98057.00      -98057.00
+27/07/2023J J94576            TO CH 010821               98057.00        0.00           0.00
+10/08/2023P SS213/2023-24     BY PURCHASE                    0.00    33929.00      -33929.00
+07/10/2023J J95630            TO CH 10443                33929.00        0.00           0.00
+24/10/2023P SS305/2023-24     BY PURCHASE                    0.00   101488.00     -101488.00
+31/10/2023P SS351/2023-24     BY PURCHASE                    0.00     4653.00     -106141.00
+
+                         TOTAL                          226104.00   332245.00     -106141.00

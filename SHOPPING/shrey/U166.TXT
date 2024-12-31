@@ -1,0 +1,15 @@
+
+
+A/C GANESH AGENCIES SHIMLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ U166 RAJAT NIWAS BHATTA KUFFAR SHIMLA            PANBLSPS2785J  8894006400   0G
+      AADHAR          0   GSTIN 02BLSPS2785J1ZG
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      -12208.00
+13/04/2023J J93135            TO CH 298709             1664662.00        0.00     1652454.00
+14/04/2023P GAI/23-24/730     BY PURCHASE                    0.00  1664644.00      -12190.00
+14/04/2023P GAI/23-24/731     BY PURCHASE                    0.00   120157.00     -132347.00
+08/05/2023J J93444            TO CH 298729               12208.00        0.00     -120139.00
+18/05/2023J J93588            TO CH 298737              120139.00        0.00           0.00
+
+                         TOTAL                         1797009.00  1797009.00           0.00

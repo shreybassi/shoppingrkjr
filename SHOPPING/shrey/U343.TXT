@@ -1,0 +1,12 @@
+
+
+A/C BALAK RAM MAHAJAN AND SONS MANDI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ U343 VPO BAGGI DISTT MANDI                       PANAEQPG0186F           0   GG
+      AADHAR          0   GSTIN 02AEQPG0186F2ZR
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+26/05/2023P BMBRM/GST/1007    BY PURCHASE                    0.00  1172214.00    -1172214.00
+07/07/2023J J94335            TO ON LINE               1172214.00        0.00           0.00
+
+                         TOTAL                         1172214.00  1172214.00           0.00

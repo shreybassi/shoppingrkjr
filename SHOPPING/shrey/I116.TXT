@@ -1,0 +1,18 @@
+
+
+A/C O.P GENERAL STORE NIRSU        In M/S RAM KISHAN JIVA RAM Page No. 1
+ I116                                             PANCCAPP5027Q  9459737147  8GG
+      AADHAR          0   GSTIN 02CCAPP5027Q1ZG
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+08/07/2019S R195102           TO SALE                    10494.92        0.00       10494.92
+15/07/2019S H321106           TO SALE                    14171.92        0.00       24666.84
+15/07/2019S R195501           TO SALE                     6612.43        0.00       31279.27
+16/08/2019C C                 RN3907                         0.00    30000.00        1279.27
+26/08/2019C C                 RN3926                         0.00     1279.22           0.05
+
+                         TOTAL                           31279.27    31279.22           0.05
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET TIN STATEMENT

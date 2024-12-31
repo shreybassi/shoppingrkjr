@@ -1,0 +1,18 @@
+
+
+A/C FINO RAM DHANAWALI    In M/S RAM KISHAN JIVA RAM Page No. 1
+ I847 VPO DHANAWALI TEH NANKHARI                  PAN            9625006905  cGG
+      AADHAR 626771639001 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+17/10/2023S S462186           TO SALE                    17215.46        0.00       17215.46
+17/10/2023S S462189           TO SALE                   120207.73        0.00      137423.19
+19/10/2023C C                 RN51081                        0.00    37422.00      100001.19
+19/10/2023J J-CH              BY CH 000063 Q109              0.00    50000.00       50001.19
+19/10/2023J J-CH              BY CH 000062 Q109              0.00    50000.00           1.19
+
+                         TOTAL                          137423.19   137422.00           1.19
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

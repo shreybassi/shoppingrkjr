@@ -1,0 +1,35 @@
+
+
+A/C AK MEDICAL STORE DALASH       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I859 VPO DALASH TEH ANI                          PAN            8894049880  DGG
+      AADHAR 367333935570 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       1159.57
+13/04/2023S S437922           TO SALE                     6018.23        0.00        7177.80
+13/04/2023S S437947           TO SALE                      938.72        0.00        8116.52
+15/04/2023C C                 RN 37728                       0.00     8116.00           0.52
+20/04/2023S S438866           TO SALE                     4814.03        0.00        4814.55
+26/04/2023J J93291            BY CASH ON LINE                0.00     4800.00          14.55
+29/06/2023S S448323           TO SALE                    11178.68        0.00       11193.23
+29/06/2023S S448327           TO SALE                    10855.42        0.00       22048.65
+17/07/2023J J94447            BY ON LINE                     0.00    22000.00          48.65
+10/08/2023S S453088           TO SALE                     5146.71        0.00        5195.36
+11/08/2023S S453156           TO SALE                     3820.02        0.00        9015.38
+01/09/2023J J95071            BY ONLINE                      0.00     9000.00          15.38
+07/09/2023S S456775           TO SALE                    12699.67        0.00       12715.05
+08/09/2023S S456784           TO SALE                     7566.60        0.00       20281.65
+27/09/2023J J95459            BY ON LINE                     0.00    20000.00         281.65
+19/10/2023S S462607           TO SALE                     6606.22        0.00        6887.87
+20/10/2023S S462633           TO SALE                     8541.63        0.00       15429.50
+26/10/2023S S463392           TO SALE                     2875.40        0.00       18304.90
+26/10/2023J J95919            BY CASH ON LINE                0.00     9000.00        9304.90
+27/10/2023S S463518           TO SALE                     2363.18        0.00       11668.08
+14/11/2023J J96252            BY ON LINE                     0.00    11000.00         668.08
+23/11/2023S S467057           TO SALE                    10824.37        0.00       11492.45
+24/11/2023S S467150           TO SALE                     2308.38        0.00       13800.83
+
+                         TOTAL                           97716.83    83916.00       13800.83
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

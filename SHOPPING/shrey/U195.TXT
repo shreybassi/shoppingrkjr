@@ -1,0 +1,12 @@
+
+
+A/C GANESH TRADING COMPANY PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U195 SCF NO 19 SEC 1 PARWANOO                    PANACPPK7482B           0   0G
+      AADHAR          0   GSTIN 02ACPPK7482B1ZO
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+04/11/2023P SG2831            BY PURCHASE                    0.00   262500.00     -262500.00
+18/11/2023J J96332            TO CH 10675               262500.00        0.00           0.00
+
+                         TOTAL                          262500.00   262500.00           0.00

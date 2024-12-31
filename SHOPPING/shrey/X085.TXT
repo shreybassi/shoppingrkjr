@@ -1,0 +1,16 @@
+
+
+A/C ARIHANT TRADER AMBALA CITY  In M/S RAM KISHAN JIVA RAM Page No. 1
+ X085 5-BSENA NAGAR MODEL TOWN CROSSING           PANAETPJ0909E           0   GG
+      AADHAR          0   GSTIN 06AETPJ0909E1ZL
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/05/2023P ATAT/23-24/113    BY PURCHASE                    0.00    20250.00      -20250.00
+13/05/2023J J93521            TO ONLINE                  20250.00        0.00           0.00
+24/07/2023P ATAT/23-24/241    BY PURCHASE                    0.00    20650.00      -20650.00
+03/08/2023J J94693            TO ON LINE                 20650.00        0.00           0.00
+15/09/2023P ATAT/23-24/356    BY PURCHASE                    0.00    26400.00      -26400.00
+22/09/2023J J95381            TO ON LINE                 26400.00        0.00           0.00
+
+                         TOTAL                           67300.00    67300.00           0.00

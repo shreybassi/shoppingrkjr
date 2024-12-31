@@ -1,0 +1,21 @@
+
+
+A/C GURU NANAK SUGAR AGENCY AMBALACITY   In M/S RAM KISHAN JIVA RAM Page No. 1
+ X087 OLD ANAJ MANDI AMBALACITY                   PANAFKPR6616L           0   0G
+      AADHAR          0   GSTIN 06AFKPR6616L1ZX
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+06/04/2023J J93056            TO ON LINE                580388.00        0.00      580388.00
+07/04/2023J J93075            TO ON LINE                 38693.00        0.00      619081.00
+10/04/2023P GN8/2023-24       BY PURCHASE                    0.00   619080.00           1.00
+04/05/2023J J93399            TO ON LINE                685125.00        0.00      685126.00
+05/05/2023P GN89/2023-24      BY PURCHASE                    0.00   685125.00           1.00
+09/11/2023J J96165            TO ON LINE                620550.00        0.00      620551.00
+12/11/2023P GN767/2023-24     BY PURCHASE                    0.00   620550.00           1.00
+17/11/2023J J96312            TO ON LINE                629212.00        0.00      629213.00
+20/11/2023J J96350            TO ON LINE                838950.00        0.00     1468163.00
+23/11/2023P GN798/2023-24     BY PURCHASE                    0.00   755055.00      713108.00
+24/11/2023P GN803/2023-24     BY PURCHASE                    0.00   713108.00           0.00
+
+                         TOTAL                         3392918.00  3392918.00           0.00

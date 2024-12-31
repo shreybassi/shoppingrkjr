@@ -1,0 +1,48 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ A575 CASH ON DELIVERY SM 3P GAURA                   19206.11
+ O063 JAG MOHAN DOBI                 DOBI              761.73
+ O503 JIA LAL                        DOBI                0.82        0.82
+ O026 RANA GENERAL STORE             DOBI                0.58
+ O039 HARI CHAND AND SONS            DOFDA            -420.44
+ B825 KAKA GENERAL STORE             DOFDA               0.62
+ O065 LOK RAJ DOFDA                  DOFDA           29074.70
+ O068 VIDYA RAM AND SONS             DOFDA              -0.44
+ O090 BS CHAUHAN                     GAURA             -13.93
+ O151 CHINTA MANI                    GAURA            -179.49
+ O070 DEVENDER GEN STORE             GAURA               0.62
+ O057 GUPTA GENRAL STORE             GAURA             -11.86
+ O056 KARAM CHAND KEWAL RAM          GAURA             -85.86
+ O089 MOHAN SINGH                    GAURA               2.13
+ O501 PAPU GENERAL STORE             GAURA              -0.17
+ B818 PATIAL GENERAL STORE           GAURA              -0.02
+ O103 BUSHAHR GENERAL STORE          KINNU              -2.31
+ O502 DEEPAK ENTERPRISES             MAGHARA            -1.71
+ O106 JOKTTA DAILY NEED              MAGHARA            -3.31
+ O147 MUNI LAL                       MAGHARA            -0.85
+ O128 NITIN                          MAGHARA          8484.63      188.43      188.43
+ O044 BRIGHTWAY ENTERPRISES          MASHNU              0.07        0.07        0.07
+ O076 DURGA SINGH AND SONS           MASHNU             -1.07
+ O055 HASHTA GENERAL STORE           MASHNU         115787.24   120594.06   120594.06  120594.06
+ O073 HIRA LALL MASHNOO              MASHNU              0.51        0.51
+ O074 ROOP LALL                      MASHNU           8372.27
+ O053 VIKAS GENERAL STORE            MASHNU           -125.47
+ N037 PADAM GENERAL STORE            PADAM NAGAR     61131.19    16972.52
+ N205 PADAM DASS JIA LAL             PADAMNAGAR      80644.79    69288.79
+ N211 AMRIT LAL SHARMA               PIPTY               0.00
+ N101 JISTU GEN STORE                PIPTY            5580.15
+ N021 SONU PIPTY                     PIPTY            4056.88
+ N213 SUMITRA GENERAL STORE          PIPTY            6150.37
+ O046 VANSHIKA DAILY NEEDS           PIPTY           13593.32     3114.47
+ N254 ARJUN GENERAL STORE            RACHOLI         27720.36
+ N057 CHAMAN LAL                     RACHOLI             1.95
+ N228 KD AZAD                        RACHOLI         26563.06     3221.12
+ N067 KRATE BROTHER                  RACHOLI             5.90
+ N210 KRATE GENERAL STORE            RACHOLI             0.63        0.63
+ N105 MEHTA GEN STORE                RACHOLI             0.00
+ N094 NIKHIL PRIYANSHI DAILY NEEDS   RACHOLI           -15.48
+ N106 PRAVEEN KUMAR                  RACHOLI          4585.56
+ B800 RAHUL GENERAL STORE            RACHOLI         41276.97
+ I408 HIMALAYAN GENERAL STORE        ANI                 7.44

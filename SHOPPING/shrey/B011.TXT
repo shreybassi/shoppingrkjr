@@ -1,0 +1,22 @@
+
+
+A/C DEV RAJ DEVENDER SINGH GHARAT       In M/S RAM KISHAN JIVA RAM Page No. 1
+ B011 VILL GHARAT PO BONDA                        PAN            9459277448  RGG
+      AADHAR 570579577965 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+02/05/2023C C2                RN38173                        0.00    10000.00      -10000.00
+03/05/2023S L167145           TO SALE                    12473.77        0.00        2473.77
+04/05/2023S L167194           TO SALE                     1711.05        0.00        4184.82
+04/05/2023S L167195           TO SALE                     8549.90        0.00       12734.72
+17/05/2023C C                 RN38766                        0.00     3000.00        9734.72
+30/05/2023C C1                RN40161                        0.00     3000.00        6734.72
+07/06/2023C C                 RN41247                        0.00     3000.00        3734.72
+20/06/2023C C3                RN42088                        0.00     2000.00        1734.72
+27/06/2023C C1                RN42759                        0.00     1735.00          -0.28
+
+                         TOTAL                           22734.72    22735.00          -0.28
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

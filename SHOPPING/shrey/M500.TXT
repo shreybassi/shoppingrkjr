@@ -1,0 +1,13 @@
+
+
+A/C CARD SWIPE TWICE              In M/S RAM KISHAN JIVA RAM Page No. 1
+ M500                                             PAN                     0  M3G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       -6414.90
+
+                         TOTAL                               0.00     6414.90       -6414.90
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

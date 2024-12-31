@@ -1,0 +1,20 @@
+
+
+A/C KINFED TAPRI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ D127 THE KIN DISTT CO-OP MTG CONSUMER FED LTD    PANAAAAT3089R  9805443651  SBG
+      AADHAR          0   GSTIN 02AAAAT3089R2Z0
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/09/2023S L177086           TO SALE                     9346.34        0.00        9346.34
+22/09/2023S L177092           TO SALE                   105563.67        0.00      114910.01
+22/09/2023S L177093           TO SALE                   138053.40        0.00      252963.41
+19/10/2023J J95813            BY ON LINE                     0.00   200000.00       52963.41
+08/11/2023J J96153            BY ON LINE                     0.00    52963.32           0.09
+20/11/2023S L181531           TO SALE                    11580.84        0.00       11580.93
+21/11/2023S L181612           TO SALE                   264779.24        0.00      276360.17
+
+                         TOTAL                          529323.49   252963.32      276360.17
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

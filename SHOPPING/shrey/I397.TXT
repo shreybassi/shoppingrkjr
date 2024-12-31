@@ -1,0 +1,26 @@
+
+
+A/C JISHTUS APPLE CARE BADHRASH     In M/S RAM KISHAN JIVA RAM Page No. 1
+ I397 VPO BADHRASH TEH RAMPUR                     PANAKOPA6967E  7009407217  Y0G
+      AADHAR          0   GSTIN 02AKOPA6967E1Z8
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+25/07/2023S L173004           TO SALE                   201250.88        0.00      201250.88
+26/07/2023J J-CH              BY CH 000226 Q102              0.00   201251.00          -0.12
+28/07/2023S B547957           TO SALE                   256000.25        0.00      256000.13
+31/07/2023J J-CH              BY CH 000228 Q102              0.00   256000.00           0.13
+03/08/2023S T100316           TO SALE                   216000.67        0.00      216000.80
+08/08/2023S P230971           TO SALE                    20400.00        0.00      236400.80
+09/08/2023J J-CH              BY CH 000234 Q102              0.00   216000.00       20400.80
+21/08/2023S B548860           TO SALE                   653199.96        0.00      673600.76
+22/08/2023J J-CH              BY CH 000237 Q102              0.00   320400.00      353200.76
+31/08/2023S P231106           TO SALE                    22000.02        0.00      375200.78
+07/09/2023J J-CH              BY CH 000241 Q102              0.00   375200.00           0.78
+16/09/2023S P231220           TO SALE                    53999.98        0.00       54000.76
+09/10/2023J J-CH              BY CH 000247 Q102              0.00    54000.00           0.76
+
+                         TOTAL                         1422851.76  1422851.00           0.76
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

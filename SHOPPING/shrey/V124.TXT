@@ -1,0 +1,17 @@
+
+
+A/C YARA FERTILISERS INDIA PVT LTD LUDHIANA     In M/S RAM KISHAN JIVA RAM Page No. 1
+ V124 BEOL HOUSE 1223-A OPP PNB CIVIL LINE        PANAAACY4766C           0   0G
+      AADHAR          0   GSTIN 03AAACY4766C1ZJ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+19/05/2023P YFIN1924000859    BY PURCHASE                    0.00   107644.32     -107644.32
+23/05/2023P YFIN1924000867    BY PURCHASE                    0.00   724605.00     -832249.32
+08/06/2023J J93915            TO TRANS                  832249.32        0.00           0.00
+05/07/2023P YFCM1924001409    BY PURCHASE                    0.00    -8524.32        8524.32
+05/08/2023J J94727            BY TRANS X126                  0.00     8524.32           0.00
+03/10/2023P YFIN1924004836    BY PURCHASE                    0.00   598387.00     -598387.00
+07/10/2023J J95620            TO TFR                    598387.00        0.00           0.00
+
+                         TOTAL                         1430636.32  1430636.32           0.00

@@ -1,0 +1,44 @@
+
+
+A/C DURGA FANCY STORE NIRMAND      In M/S RAM KISHAN JIVA RAM Page No. 1
+ J063 GHANSHYAM VPO NIRMAND                       PANATSPG1728N  8988138850  0GG
+      AADHAR          0   GSTIN 02ATSPG1728N1ZG
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+20/04/2023S S438832           TO SALE                     2017.98        0.00        2017.98
+21/04/2023S O106071           TO SALE                      -12.64        0.00        2005.34
+22/04/2023C C                 RN37035                        0.00     2005.00           0.34
+27/04/2023S S439795           TO SALE                     1428.66        0.00        1429.00
+29/04/2023C A404S             BY CASH S439795 DURGA FA       0.00     1428.66           0.34
+11/05/2023S S441626           TO SALE                     1298.20        0.00        1298.54
+13/05/2023C A404S             BY CASH S441626 DURGA FA       0.00     1298.20           0.34
+08/06/2023S S445282           TO SALE                      713.66        0.00         714.00
+10/06/2023C A404S             BY CASH S445282 DURGA FA       0.00      713.66           0.34
+15/06/2023S S446345           TO SALE                     1212.03        0.00        1212.37
+17/06/2023C A404S             BY CASH S446345 DURGA FA       0.00     1212.03           0.34
+29/06/2023S S448242           TO SALE                     1737.56        0.00        1737.90
+01/07/2023C A404S             BY CASH S448242 DURGA FA       0.00     1737.56           0.34
+13/07/2023S S449882           TO SALE                      824.36        0.00         824.70
+15/07/2023C A404S             BY CASH S449882 DURGA FA       0.00      824.36           0.34
+20/07/2023S S450621           TO SALE                     1057.07        0.00        1057.41
+22/07/2023C A404S             BY CASH S450621 DURGA FA       0.00     1057.07           0.34
+27/07/2023S S451467           TO SALE                      713.84        0.00         714.18
+29/07/2023C A404S             BY CASH S451467 DURGA FA       0.00      713.84           0.34
+10/08/2023S S453129           TO SALE                      873.04        0.00         873.38
+12/08/2023C A404S             BY CASH S453129 DURGA FA       0.00      873.04           0.34
+24/08/2023S S454844           TO SALE                      536.15        0.00         536.49
+26/08/2023C A404S             BY CASH S454844 DURGA FA       0.00      536.15           0.34
+07/09/2023S S456723           TO SALE                      204.20        0.00         204.54
+09/09/2023C A404S             BY CASH S456723 DURGA FA       0.00      204.20           0.34
+21/09/2023S S458482           TO SALE                      893.94        0.00         894.28
+21/10/2023C C                 RN51773                        0.00      894.00           0.28
+26/10/2023S S463459           TO SALE                     5959.72        0.00        5960.00
+28/10/2023C A404S             BY CASH S463459 DURGA FA       0.00     5959.72           0.28
+16/11/2023S S466248           TO SALE                      375.20        0.00         375.48
+20/11/2023S M206801           TO SALE                     -375.20        0.00           0.28
+
+                         TOTAL                           19457.77    19457.49           0.28
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

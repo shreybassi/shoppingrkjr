@@ -1,0 +1,11 @@
+
+
+A/C SHIVAM ENTERPRISES BADDI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ U176 MAIN BUS STAND BADDI TEH BADDI              PANAEXPC6770N           0   0G
+      AADHAR          0   GSTIN 02AEXPC6770N1ZY
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+19/09/2023P SESE1689          BY PURCHASE                    0.00    48020.00      -48020.00
+
+                         TOTAL                               0.00    48020.00      -48020.00

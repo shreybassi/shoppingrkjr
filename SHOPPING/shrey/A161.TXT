@@ -1,0 +1,19 @@
+
+
+A/C KASHYAP TRADERS JHAKRI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ A161 VPO JHAKRI TEH RAMPUR                       PANAFQPK2086K  9418005000  F1G
+      AADHAR          0   GSTIN 02AFQPK2086K2Z7
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+14/04/2023S H397485           TO SALE                     5389.00        0.00        5389.00
+15/04/2023J J93164            BY ONLINE                      0.00     5389.00           0.00
+13/11/2023S H401450           TO SALE                     4480.06        0.00        4480.06
+13/11/2023J J96226            BY GOOGLE                      0.00     4480.00           0.06
+24/11/2023S N330488           TO SALE                     8979.90        0.00        8979.96
+25/11/2023C A304S             BY CASH N330488 KASHYAP        0.00     8979.90           0.06
+
+                         TOTAL                           18848.96    18848.90           0.06
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

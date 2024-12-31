@@ -1,0 +1,12 @@
+
+
+A/C PCI PEST CONTROL PVT LTD PANCHKULA    In M/S RAM KISHAN JIVA RAM Page No. 1
+ X026 PLOT NO 315 INDS AREA PHASE 2 PANCHKULA     PANAABCJ9086F           0   GG
+      AADHAR          0   GSTIN 06AABCJ9086F1ZE
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+13/09/2023E PC466GT232400992  BILL R067EXP031                0.00    17280.86      -17280.86
+30/09/2023J J95502            TO ON LINE                 17281.00        0.00           0.14
+
+                         TOTAL                           17281.00    17280.86           0.14

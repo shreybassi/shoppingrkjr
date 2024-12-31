@@ -1,0 +1,13 @@
+
+
+A/C GSD AGENCY PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U321 PLOT NO 41 1ST FLOOR SEC-2 GABRIL ROAD      PANBBRPK3059A           0   GG
+      AADHAR          0   GSTIN 02BBRPK3059A1Z0
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+03/01/2023P GS247             BY PURCHASE                    0.00     8610.61       -8610.61
+05/01/2023J J91813            TO CH 9859                  8610.00        0.00          -0.61
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       0.61        0.00           0.00
+
+                         TOTAL                            8610.61     8610.61           0.00

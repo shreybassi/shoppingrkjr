@@ -1,0 +1,12 @@
+
+
+A/C SANGAM WEAVERS APPARELS PVT LT LUDHIANA     In M/S RAM KISHAN JIVA RAM Page No. 1
+ V115 E-579 PHASE V11 FOCAL POINT LUDHIANA        PANAALCS8007R           0   0G
+      AADHAR          0   GSTIN 03AALCS8007R1ZT
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+28/11/2022E SW39              BILL SANGAMWEAR                0.00   146055.00     -146055.00
+30/11/2022J J91340            TO ON LINE                146055.00        0.00           0.00
+
+                         TOTAL                          146055.00   146055.00           0.00

@@ -1,0 +1,91 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ A584 CASH ON DELIVERY SM 3P SANGLA                 162130.48    32480.65
+ D053 CHANDER KISHORE NEGI ASHOK KR  BANINGSERING   172666.53   172666.53    66930.39   66930.39
+ D126 MOHAN MEHTA                    BARANG          40475.64 0P
+ D101 AMIT NEGI BATSERI              BATSERI          -359.78
+ D093 BHUPENDER SINGH BATSERI        BATSERI             0.51        0.51
+ D155 KINNER CAMPS                   BATSERI            -0.17
+ D025 SANGLA HOLIDAYS                BATSERI            -0.15
+ D057 SUMATI DEVI WO INDER BHAGAT    BATSERI          -626.50
+ D854 USHA BHANDARI                  BATSERI          3021.03     3021.03     3021.03    3021.03
+ D056 BHANDARI DAILY NEEDS           BRUA            51402.10    51402.10
+ D095 ARVIND KUMAR NEGI AND BROTHER  CHITKUL            -1.25
+ D853 BHAG SINGH 94184 08422         CHITKUL             0.01        0.01        0.01       0.01        0.01
+ D900 DHARMA NAND                    CHITKUL             0.00
+ D112 NEHAR LAL NEGI                 CHITKUL        305683.48   305683.48   305683.48  305683.48    45332.71
+ D202 SUKH CHAIN NEGI                CHITKULL        17167.63    17167.63    17167.63   17167.63
+ D059 SUNILA NEGI DAILY NEEDS        CHOLING        359979.27   359979.27   359979.27   56814.93    56951.81
+ D027 JAGAT SINGH AND BROTHER        KAMRU          103062.84    93062.84    56033.19   56033.19
+ D084 SUNDER SINGH NEGI              KAMRU           90751.84    90751.84    90751.84   90751.84
+ D907 JAI CHAND BHANDARI             KARCHAM        114062.85    90312.47    90312.47    3418.01
+ D050 BRIJ RAJ NEGI                  KILBA             325.17      325.17      325.17     325.17      325.17
+ D864 DEVA SINGH                     KILBA              -0.58
+ D120 JITENDER NEGI                  KILBA          362329.21   362329.21   362329.21  362329.21   362329.21
+ D203 SANDEEP DAILY NEEDS AND G STOR KILBA           40389.64 0P
+ D026 UDAY SINGH NEGI                KILBA          178148.16   178148.16   178148.16  178148.16
+ D113 PARVEEN GENERAL STORE          KUPA                1.77        1.77        1.77       1.77        1.77
+ L854 AJEET KUMAR                    MEERU             321.07 0P
+ D054 VINOD AND SONS                 RAKHCHAM       107735.13    71778.79    71198.79    1227.55
+ D159 4 PILLARS LLP                  SANGLA            168.27      168.27      168.27     168.27
+ D100 ABHINASH GENERAL STORE         SANGLA              5.06        5.06        5.06       5.06
+ D156 ADARASH KASHMIR                SANGLA         150550.98   149050.98        0.32       0.32
+ D861 ARCHNA NEGI                    SANGLA             46.82       46.82       46.82
+ D099 BASPA GENERAL STORE            SANGLA              1.77        1.77
+ D850 BASPA SOCIETY                  SANGLA          71389.41    71389.41        0.37       0.37        0.37
+ D073 BEST PISE SHOP                 SANGLA          10282.12    10282.12    10282.12   10282.12    10282.12
+ D123 BHAGAT AND BHAGATI             SANGLA         117551.00   117551.00   117551.00
+ D061 CHANRESH KUMARI                SANGLA          95112.55    95112.55        0.32       0.32
+ D075 CHHODUP CHHERING KASHMIR       SANGLA             -0.38
+ D035 DAILY NEED SHOP                SANGLA          18248.23 0P                                                                 18248.23    18248.23   18248.23    18248.23
+ D111 DEEKAY GENERAL STORE           SANGLA              0.74        0.74        0.74       0.74        0.74
+ D040 GANESH NEGI                    SANGLA         124983.37        0.21
+ D098 HARI CHAND NEAR HOSPITAL       SANGLA          24478.79    24478.79    24478.79   24478.79    24478.79
+ D170 HIMALAYAN HOTEL                SANGLA          13134.54    13134.54    13134.54   13134.54    13134.54
+ D008 HOTEL VARUN                    SANGLA              0.17        0.17        0.17       0.17
+ D851 INDER KUMARI                   SANGLA              0.82        0.82        0.82       0.82        0.82
+ D076 INDER MOHAN                    SANGLA             53.47       53.47       53.47      53.47       53.47
+ D002 INDER PARKASH                  SANGLA            889.03      889.03
+ D173 JYOTI NEGI                     SANGLA         203268.96    72487.20    16471.62    2208.42
+ D031 KARTAR SWEET SHOP              SANGLA          28906.73    28906.73       48.13
+ D137 LAKSH DRY FRUIT                SANGLA          20130.54 0P
+ D171 LALIT KUMAR                    SANGLA          34975.74    34975.74    20000.34   20000.34    20000.34
+ D800 LOKENDER SINGH                 SANGLA             -0.15
+ D014 MAHESH NEGI                    SANGLA         124384.05   124384.05   124384.05  124384.05
+ D077 MAYA RAM                       SANGLA              4.64
+ D164 MR BROTHER                     SANGLA             -0.39
+ D174 MR BROTHER FOR                 SANGLA         315491.26   315491.26        3.44       3.44        3.44
+ D083 NALANDA DAILY NEED             SANGLA              0.03        0.03        0.03       0.03        0.03
+ D860 NEEL KAMAL                     SANGLA             -1.12
+ D107 NIKUNJ DAILY NEEDS             SANGLA         109607.50   109607.50    38727.66       0.67
+ D079 P K TRADERS                    SANGLA          32299.64    32299.64    32299.64   32299.64
+ D062 PARKASH GENERAL STORE          SANGLA         228221.69   147434.20   145434.20
+ D044 PARKASH GUEST HOUSE            SANGLA          33438.83    31438.83    31438.83   31438.83
+ D103 PARMITA BISHT                  SANGLA         166185.59   166185.59   166185.59
+ D859 PAYARA SINGH                   SANGLA          34046.44    34046.44        2.53
+ D003 PEE CEE SONS GENERAL STORE     SANGLA        1557476.41   763278.56   490429.66
+ D034 PRITAM SINGH AND BROTHER       SANGLA         149112.17   111909.92
+ D121 RAHUL KUMAR                    SANGLA         101140.75    63955.66
+ D018 RAJESH KHOKHRYAAN              SANGLA          21782.46 0P                                                                 21782.46    21782.46   21782.46    21782.46
+ D852 RAVINDER KUMAR                 SANGLA             -4.62
+ D858 SALOCHNA NEGI                  SANGLA              0.00
+ D030 SHANTI DEVI                    SANGLA         108873.26   107093.26
+ D085 SONU FANCY STOR PAVITRA KUMARI SANGLA          88887.89    36880.04    36880.04   22120.54
+ D161 SURAJ AND BROTHER              SANGLA           -438.21 0P
+ D023 VINOR SINGH SANGLA             SANGLA             -5.29
+ D072 YASH DAILY NEEDS               SANGLA          10919.15     3180.79        3.97
+ D063 YOGVINDER SINGH                SANGLA           1399.86     1399.86     1399.86    1399.86
+ D065 ANMOL BHOJNALAYA               TAPRI           45046.13    45046.13    40870.67
+ D005 GIAN CHAND YASH PALL           TAPRI             -62.11
+ D149 GIAN TECHNOLOGIES              TAPRI               0.50        0.50
+ D163 KAPILA FRUIT AND VEGETBLE SHOP TAPRI          572749.73   373444.30   351298.50    4997.81
+ D127 KINFED                         TAPRI          276360.17        0.09        0.09       0.09        0.09
+ D116 PAPPU HOTEL                    TAPRI          242686.11   242686.11   242686.11  242686.11
+ D067 SANTOSH KUMAR                  TAPRI           30143.63    30143.63    30143.63
+ D019 SHANKER GENERAL STORE          TAPRI           44363.10 0P
+ D117 SAKSHI NEGI THEMGARANG         THEMGARANG      37769.87    37769.87    37769.87   37769.87    37769.87
+ D131 VISHAL SINGH                   THEMGARANG      34974.96 0P
+ L801 BRIJ RAJ                       URNI           157290.01   156460.01    34775.17
+ K913 BALWANT KUMAR                  KHANOTU             0.09        0.09        0.09       0.09

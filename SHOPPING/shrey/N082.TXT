@@ -1,0 +1,27 @@
+
+
+A/C JIWAN BROTHER BROW         In M/S RAM KISHAN JIVA RAM Page No. 1
+ N082 VILL RANDAL PO RAMPUR                       PAN            9857432371  EBG
+      AADHAR 690241238539 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      29657.95
+13/04/2023S B543525           TO SALE                    17997.30        0.00       47655.25
+13/04/2023S C627164           TO SALE                     9318.76        0.00       56974.01
+13/04/2023S E190934           TO SALE                     1457.21        0.00       58431.22
+13/04/2023S G286032           TO SALE                     3950.13        0.00       62381.35
+13/04/2023C C                 RN36292                        0.00    28157.95       34223.40
+12/06/2023S B546130           TO SALE                    20051.69        0.00       54275.09
+12/06/2023S C628446           TO SALE                    12275.90        0.00       66550.99
+12/06/2023S G286972           TO SALE                     4292.98        0.00       70843.97
+12/06/2023C C                 RN41843                        0.00    33000.00       37843.97
+15/06/2023C C                 RN41300                        0.00     1250.00       36593.97
+22/08/2023S B548948           TO SALE                    18669.97        0.00       55263.94
+22/08/2023S C629669           TO SALE                    12888.15        0.00       68152.09
+22/08/2023S G287958           TO SALE                     4166.19        0.00       72318.28
+22/08/2023C C                 RN46299                        0.00    36600.00       35718.28
+
+                         TOTAL                          134726.23    99007.95       35718.28
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

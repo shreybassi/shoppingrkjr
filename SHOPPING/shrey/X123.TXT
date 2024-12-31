@@ -1,0 +1,12 @@
+
+
+A/C MOHAN LAL SUBHASH CHAND JIND         In M/S RAM KISHAN JIVA RAM Page No. 1
+ X123 OLD ANAJ MANDI INDIRA BAZAR JIND            PANAAEFM5191L           0   0G
+      AADHAR          0   GSTIN 06AAEFM5191L1ZZ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+27/02/2023P MSMS/14582/2022-23BY PURCHASE                    0.00   424620.00     -424620.00
+27/02/2023J J92401            TO ON LINE                424620.00        0.00           0.00
+
+                         TOTAL                          424620.00   424620.00           0.00

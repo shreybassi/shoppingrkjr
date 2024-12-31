@@ -1,0 +1,25 @@
+
+
+A/C SHRUTI GUST HOUSE AND COTTAGE SANGLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ D039 VPO SANGLA TEH SANGLA                       PAN            9816514461  SBG
+      AADHAR          0   GSTIN 02BEKPK5973F1ZG
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+25/07/2019S A165479           TO SALE                     9446.57        0.00        9446.57
+25/07/2019S Q132969           TO SALE                    10982.65        0.00       20429.22
+25/07/2019S Q132970           TO SALE                    31357.36        0.00       51786.58
+29/07/2019C C                 RN43616                        0.00     6390.00       45396.58
+29/07/2019J J-CH              BY CH 179716 Q101              0.00    45063.00         333.58
+01/08/2019S S320325           TO SALE                     3345.16        0.00        3678.74
+02/08/2019S Q133416           TO SALE                     6101.50        0.00        9780.24
+06/08/2019J J-CH              BY CH 084106 Q101              0.00     9800.00         -19.76
+23/09/2019S A166613           TO SALE                     1730.92        0.00        1711.16
+23/09/2019S Q136656           TO SALE                     7098.11        0.00        8809.27
+23/09/2019S Q136657           TO SALE                     9210.08        0.00       18019.35
+30/09/2019J J-CH              BY CH 084117 Q101              0.00    18034.00         -14.65
+
+                         TOTAL                           79272.35    79287.00         -14.65
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET TIN STATEMENT

@@ -1,0 +1,13 @@
+
+
+A/C AR ASSOCIATE PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U016 KHASRA NO 427/2 OLD TIMBER D SEC 4 PWN      PANAAMFA8590R           0   BP
+      AADHAR          0   GSTIN 02AAMFA8590R1ZQ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+08/02/2021P ARARSL56          BY PURCHASE                    0.00   246068.00     -246068.00
+08/02/2021J J83744            TO ON LINE                237248.00        0.00       -8820.00
+16/02/2021J J83813            TO FRT                      8820.00        0.00           0.00
+
+                         TOTAL                          246068.00   246068.00           0.00

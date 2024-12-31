@@ -1,0 +1,29 @@
+
+
+A/C LEKH RAJ HARDWARE AND ELEC STO TAKLECH      In M/S RAM KISHAN JIVA RAM Page No. 1
+ O058 VPO TAKLECH TEH RAMPUR                      PANASBPR0154K  9418694253  T1G
+      AADHAR          0   GSTIN 02ASBPR0154K1Z0
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/04/2023S S437413           TO SALE                      960.76        0.00         960.76
+11/04/2023S S437494           TO SALE                     3764.00        0.00        4724.76
+11/04/2023C A401S             BY CASH S437413 LEKH RAJ       0.00      960.76        3764.00
+11/04/2023C A401S             BY CASH S437494 LEKH RAJ       0.00     3764.00           0.00
+01/05/2023S S440233           TO SALE                      908.60        0.00         908.60
+02/05/2023C C2                RN38810                        0.00      909.00          -0.40
+11/07/2023S S449760           TO SALE                     1405.00        0.00        1404.60
+13/07/2023C A401S             BY CASH S449760 LEKH RAJ       0.00     1405.00          -0.40
+15/08/2023S S453605           TO SALE                     1249.00        0.00        1248.60
+16/08/2023C A401S             BY CASH S453605 LEKH RAJ       0.00     1249.00          -0.40
+11/09/2023S S457176           TO SALE                      733.48        0.00         733.08
+12/09/2023S S457265           TO SALE                      625.00        0.00        1358.08
+13/09/2023C A401S             BY CASH S457176 LEKH RAJ       0.00      733.48         624.60
+13/09/2023C A401S             BY CASH S457265 LEKH RAJ       0.00      625.00          -0.40
+07/11/2023S S464856           TO SALE                     6009.40        0.00        6009.00
+08/11/2023C C                 RN53713                        0.00     6009.00           0.00
+
+                         TOTAL                           15655.24    15655.24           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,16 @@
+
+
+A/C TARUN FILLING CENTRE PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U130 NH 22 SEC 2 PARWANOO                        PANABXPG0531G           0   0G
+      AADHAR          0   GSTIN 02ABXPG0531G3ZY
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+12/06/2023J J93963            TO CH 10467                10057.00        0.00       10057.00
+15/06/2023J J94009            BY BILL                        0.00    10115.41         -58.41
+11/08/2023J J94808            BY BILL                        0.00     6333.24       -6391.65
+14/08/2023J J94834            TO CH 10761                 9941.00        0.00        3549.35
+13/09/2023J J95260            TO CH 10525                 5960.00        0.00        9509.35
+23/10/2023J J95869            TO CH 10658                 3405.00        0.00       12914.35
+
+                         TOTAL                           29363.00    16448.65       12914.35

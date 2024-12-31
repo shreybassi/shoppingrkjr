@@ -1,0 +1,17 @@
+
+
+A/C BUSHAHR BOOK DEPOT SARAHAN      In M/S RAM KISHAN JIVA RAM Page No. 1
+ B039                                             PAN            9418148504  5GG
+      AADHAR 504547122650 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/04/2023S N303028           TO SALE                     1231.84        0.00        1231.84
+24/04/2023S N303044           TO SALE                     3314.50        0.00        4546.34
+25/04/2023C A306S             BY CASH N303028 BUSHAHR        0.00     1231.84        3314.50
+25/04/2023C A306S             BY CASH N303044 BUSHAHR        0.00     3314.50           0.00
+
+                         TOTAL                            4546.34     4546.34           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

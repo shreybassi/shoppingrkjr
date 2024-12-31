@@ -1,0 +1,22 @@
+
+
+A/C CHAMARU RAM GOVT CONTRACTOR RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M244 VPO RAMPUR TEH RAMPUR                       PANAJGPR3911E  9418344064  E1C
+      AADHAR          0   GSTIN 02AJGPR3911E3ZL
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+06/03/2023S B541852           TO SALE                     2430.01        0.00        2430.01
+06/03/2023J J92502            BY GOOGLE                      0.00     2430.01           0.00
+17/03/2023S B542324           TO SALE                     2020.00        0.00        2020.00
+17/03/2023J J92635            BY UPI                         0.00     2020.00           0.00
+20/03/2023S B542446           TO SALE                      504.99        0.00         504.99
+20/03/2023J J92669            BY UPI                         0.00      505.00          -0.01
+21/03/2023S B542508           TO SALE                      504.99        0.00         504.98
+21/03/2023J J92693            BY GOOGLE                      0.00      505.00          -0.02
+30/03/2023J MINBAL            TO MINOR BALANCE TRANSFE       0.02        0.00           0.00
+
+                         TOTAL                            5460.01     5460.01           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

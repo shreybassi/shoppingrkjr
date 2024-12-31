@@ -1,0 +1,17 @@
+
+
+A/C VINAY KUMAR RISPA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F864                                             PAN                     0  PGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+19/10/2023S S462451           TO SALE                    37724.85        0.00       37724.85
+19/10/2023S S462478           TO SALE                    20277.16        0.00       58002.01
+07/11/2023C C                 RN52298                        0.00    58002.00           0.01
+22/11/2023S L181680           TO SALE                    52957.95        0.00       52957.96
+
+                         TOTAL                          110959.96    58002.00       52957.96
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,19 @@
+
+
+A/C NARBOO RAM ROPA ROPA         In M/S RAM KISHAN JIVA RAM Page No. 1
+ G110 VILL.   PO ROPA VIA CHIASO KHU              PAN            9418070155  PGP
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        -318.42
+16/11/2023S I100217           TO SALE                    95039.00        0.00       94720.58
+16/11/2023S I100218           TO SALE                    91326.20        0.00      186046.78
+16/11/2023S I100219           TO SALE                    39612.00        0.00      225658.78
+16/11/2023S I100220           TO SALE                    38850.00        0.00      264508.78
+16/11/2023S I100221           TO SALE                    40026.00        0.00      304534.78
+25/11/2023S I100233           TO SALE                    37578.80        0.00      342113.58
+
+                         TOTAL                          342432.00      318.42      342113.58
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

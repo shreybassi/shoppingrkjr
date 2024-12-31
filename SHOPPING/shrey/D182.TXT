@@ -1,0 +1,27 @@
+
+
+A/C BALA JI REKONG PEO   In M/S RAM KISHAN JIVA RAM Page No. 1
+ D182 TEH PURANPUR PIPRIA JAIBHADRA               PAN            8219882452  K0G
+      AADHAR 714647130211 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+24/07/2023S S451063           TO SALE                     1199.52        0.00        1199.52
+24/07/2023S S451078           TO SALE                    11709.59        0.00       12909.11
+31/07/2023J J94615            BY GOOGLE                      0.00    12980.00         -70.89
+16/08/2023S S453789           TO SALE                     3464.13        0.00        3393.24
+16/08/2023S S453805           TO SALE                    11901.74        0.00       15294.98
+21/08/2023C C                 RN45584                        0.00    15300.00          -5.02
+30/08/2023S S455532           TO SALE                     1861.58        0.00        1856.56
+04/09/2023C C1                RN47826                        0.00     1860.00          -3.44
+05/10/2023S S460500           TO SALE                     3861.03        0.00        3857.59
+06/10/2023S S460567           TO SALE                     8040.58        0.00       11898.17
+20/10/2023J J95838            BY GOOGLE                      0.00    11900.00          -1.83
+25/10/2023S S463311           TO SALE                      643.50        0.00         641.67
+26/10/2023S S463399           TO SALE                    17615.21        0.00       18256.88
+13/11/2023C C                 RN53064                        0.00    18260.00          -3.12
+
+                         TOTAL                           60296.88    60300.00          -3.12
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

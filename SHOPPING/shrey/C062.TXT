@@ -1,0 +1,24 @@
+
+
+A/C JOGI RAM HAKAM CHAND NATHPA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ C062 VPO NATHPA TEH NICHAR                       PANAFBPT9174J  9418096030  FBG
+      AADHAR          0   GSTIN 02AFBPT9174J1Z5
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/04/2023S H397391           TO SALE                     3660.32        0.00        3660.32
+10/04/2023S R251296           TO SALE                    13650.12        0.00       17310.44
+15/05/2023J J-CH              BY CH 251847 Q101              0.00    13650.00        3660.44
+25/05/2023J J93674            BY GOOGLE                      0.00     3660.00           0.44
+15/06/2023S H398699           TO SALE                     9401.11        0.00        9401.55
+15/06/2023S R251746           TO SALE                     5254.37        0.00       14655.92
+12/08/2023S H399755           TO SALE                    16865.15        0.00       31521.07
+12/08/2023S R252118           TO SALE                     8539.52        0.00       40060.59
+12/08/2023J J94820            BY GOOGLE                      0.00    14000.00       26060.59
+12/08/2023J J94820            BY GOOGLE                      0.00      655.00       25405.59
+11/09/2023J J95235            BY CH 292547                   0.00    25405.00           0.59
+
+                         TOTAL                           57370.59    57370.00           0.59
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

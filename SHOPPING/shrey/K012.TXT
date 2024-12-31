@@ -1,0 +1,35 @@
+
+
+A/C HARSHA NAND TIKRI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ K012 VILL. TIKRI PO ARSU VIA NIRMAN              PAN            9817718113  X0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+12/04/2023S S437817           TO SALE                     3055.98        0.00        3055.98
+18/04/2023C C1                RN37657                        0.00     3056.00          -0.02
+03/05/2023S S440567           TO SALE                     7018.14        0.00        7018.12
+04/05/2023S S440609           TO SALE                     2071.81        0.00        9089.93
+05/05/2023C C1                RN38187                        0.00      900.00        8189.93
+09/05/2023C C2                RN39023                        0.00     2800.00        5389.93
+17/05/2023J J93562            BY RN 39601                    0.00     5390.00          -0.07
+07/06/2023S S445078           TO SALE                      256.05        0.00         255.98
+09/06/2023C A403S             BY CASH S445078 HARSHA N       0.00      256.05          -0.07
+14/06/2023S S446217           TO SALE                     1068.48        0.00        1068.41
+15/06/2023C C1                RN41876                        0.00     1068.00           0.41
+26/10/2023S S463356           TO SALE                     1082.60        0.00        1083.01
+27/10/2023C A403S             BY CASH S463356 HARSHA N       0.00     1082.60           0.41
+01/11/2023S S464103           TO SALE                     1163.80        0.00        1164.21
+03/11/2023C C                 RN53247                        0.00     1163.00           1.21
+09/11/2023S S465211           TO SALE                      663.70        0.00         664.91
+09/11/2023S S465212           TO SALE                     1982.90        0.00        2647.81
+11/11/2023J J96204            BY GOOGLE                      0.00     2645.00           2.81
+15/11/2023S S466012           TO SALE                      685.44        0.00         688.25
+17/11/2023C A403S             BY CASH S466012 HARSHA N       0.00      685.44           2.81
+22/11/2023S S466906           TO SALE                     1831.30        0.00        1834.11
+24/11/2023C A403S             BY CASH S466906 HARSHA N       0.00     1831.30           2.81
+
+                         TOTAL                           20880.20    20877.39           2.81
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

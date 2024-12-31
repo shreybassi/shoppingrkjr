@@ -1,0 +1,15 @@
+
+
+A/C JAI PAL TANDI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ L012 VILL TANDI PO GHATOO                        PAN            9418120704  NBG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+28/04/2022S S395561           TO SALE                     2102.00        0.00        2102.00
+29/04/2022C A403S             BY CASH S395561 JAI PAL        0.00     2102.00           0.00
+
+                         TOTAL                            2102.00     2102.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

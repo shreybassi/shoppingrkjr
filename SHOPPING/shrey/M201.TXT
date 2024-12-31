@@ -1,0 +1,15 @@
+
+
+A/C ADVANCE TO VEHICLE BY BGTC              In M/S RAM KISHAN JIVA RAM Page No. 1
+ M201                                             PAN            9418033628  MBI
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+04/07/2023G E1063AC           BY FRT 32319                   0.00     2500.00       -2500.00
+18/11/2023J J96332            TO CH 010603                2500.00        0.00           0.00
+
+                         TOTAL                            2500.00     2500.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

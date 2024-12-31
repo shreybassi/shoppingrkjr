@@ -1,0 +1,18 @@
+
+
+A/C B S NEGI RISPA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F861                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+03/11/2023S L180150           TO SALE                     3841.84        0.00        3841.84
+03/11/2023S L180158           TO SALE                    83453.36        0.00       87295.20
+20/11/2023S S466624           TO SALE                    45533.33        0.00      132828.53
+20/11/2023C C                 RN53867                        0.00    87295.00       45533.53
+22/11/2023S L181679           TO SALE                    11072.46        0.00       56605.99
+
+                         TOTAL                          143900.99    87295.00       56605.99
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

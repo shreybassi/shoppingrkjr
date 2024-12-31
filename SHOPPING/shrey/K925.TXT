@@ -1,0 +1,31 @@
+
+
+A/C HEM RAJ HOTEL TAKLECH      In M/S RAM KISHAN JIVA RAM Page No. 1
+ K925 VPO TAKLECH TEH RAMPUR                      PAN            9805960541  TGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+01/05/2023S S440226           TO SALE                     6314.91        0.00        6314.91
+02/05/2023S S440309           TO SALE                     1199.77        0.00        7514.68
+06/05/2023C C                 RN38665                        0.00     7515.00          -0.32
+22/05/2023S S442990           TO SALE                     5103.97        0.00        5103.65
+23/05/2023S S443027           TO SALE                     5405.44        0.00       10509.09
+24/05/2023S O106375           TO SALE                    -5103.97        0.00        5405.12
+24/05/2023S O106378           TO SALE                    -5378.44        0.00          26.68
+27/05/2023J J93720            BY DIFF                        0.00       26.68           0.00
+26/06/2023S S447808           TO SALE                     1114.60        0.00        1114.60
+27/06/2023S S447878           TO SALE                     1438.64        0.00        2553.24
+01/07/2023J J94237            BY GOOGLE                      0.00     2554.00          -0.76
+13/11/2023S S465751           TO SALE                     8379.00        0.00        8378.24
+14/11/2023S S465818           TO SALE                     3968.54        0.00       12346.78
+18/11/2023J J96337            BY GOOGLE                      0.00    12347.00          -0.22
+20/11/2023S S466655           TO SALE                     8241.23        0.00        8241.01
+21/11/2023S S466749           TO SALE                     2386.90        0.00       10627.91
+21/11/2023C C1                RN55035                        0.00     2400.00        8227.91
+25/11/2023C C1                RN55320                        0.00     4230.00        3997.91
+
+                         TOTAL                           33070.59    29072.68        3997.91
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

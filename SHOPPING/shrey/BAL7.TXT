@@ -1,0 +1,56 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ I408 HIMALAYAN GENERAL STORE        ANI                 7.44
+ I271 MEHTA ENTERPRISES              ANI            249774.96 0P
+ K960 RAJENDER KUMAR                 ANI                 5.72        5.72        5.72       5.72        5.72
+ I270 SAHIL SHARMA                   ANI                -0.36
+ K837 ARJUN BROTHER                  ANNI               -0.44
+ K836 ASHA EMPORIAM                  ANNI               -0.25
+ I503 BISHAN DASS AND SONS           ANNI             -146.28     2014.00     2840.20
+ I036 BR GENERAL STORE               ANNI             3081.35     1355.37     1355.37
+ I345 CHAMAN GENERAL STORE           ANNI            66842.53    42469.04
+ I296 CHANDEL MEDICAL STORE          ANNI               -1.62
+ I306 CHAUHAN MEDICOS                ANNI                0.15        0.15        0.15
+ K806 CLOTH FANCY                    ANNI            33193.52        0.40
+ I162 DEV RAJ RAM PAL                ANNI               -0.29
+ I509 DHANPAL                        ANNI            55134.14
+ K852 GIAN CHAND SHARMA              ANNI                0.79        0.79        0.79
+ I092 GUPTA STORE                    ANNI             -108.00
+ K945 HAPPY MEDICAL STORE            ANNI             4489.09        2.41        2.41
+ K841 JL VERMA                       ANNI               -3.64
+ I327 JPN MULTIPLE STORE             ANNI              -20.81
+ K839 KRITIKA BEAUTY PARLAR          ANNI                0.56
+ I251 LAKSHYA KUMAR BHOJNALAYA G STO ANNI            65968.61    65968.61    42305.82
+ I122 LC KARYANA STORE               ANNI               -0.33 0P
+ K840 MEHUL GENERAL STORE            ANNI            11075.08        0.09        0.09       0.09        0.09
+ I099 MOHAR SINGH DALEEP SINGH       ANNI                2.63        2.63        2.63
+ I297 PANNA LAL                      ANNI                0.00
+ I170 SHARMA PROVISIONAL STORE       ANNI            13103.14
+ I326 THAKUR TRADER                  ANNI               -9.20
+ I276 THE MISHRA REGENCY             ANNI              153.68      153.68      153.68     153.68      153.68
+ I021 VIVEK TRADER                   ANNI            -1188.38
+ K828 BHARTI                         CHAWAI           6276.24 0P
+ K825 JBM                            CHONTI           -179.58
+ I910 ASHAPURI GENERAL STORE         CHOWAI          43552.49    27774.36
+ I283 BHAG CHAND                     CHOWAI          -1008.51
+ K854 BHUSHAN HARDWARE               CHOWAI              1.05        1.05        1.05       1.05        1.05
+ K832 DEE GUPTA AGENCIES             CHOWAI           1772.85      780.05      780.05
+ I386 DEVENDER SINGH                 CHOWAI             15.48       15.48
+ K855 DIWAN CHAND                    CHOWAI              0.01        0.01
+ I407 GOPI CHAND                     CHOWAI           7693.50
+ K853 PREM FOOD                      CHOWAI           6633.39 0P                                                                  6633.39     6633.39    6633.39     6633.39
+ K962 RACHNA MEDICAL STORE           CHOWAI             -0.48
+ K835 RAJEEV GENERAL STORE           CHOWAI              0.86
+ I911 RAMESH GENERAL STORE           CHOWAI             -0.36
+ K833 SANJEEV GENERAL STORE          CHOWAI              0.81        0.81
+ I284 SHAURYA GENERAL STORE          CHOWAI             -5.03
+ K849 DEEPIKA GENERAL STORE          HARIPUR             0.00
+ K847 RAMESH GENERAL STORE           HARIPUR             0.25
+ I369 A KAY SHARMA                   NIGAN            2122.83
+ K961 CHAUHAN GENERAL STORE          NIGAN               0.10
+ I853 SHARMA GENERAL STORE NIGAN     NIGAN               0.00
+ I370 AC SHARMA                      SHAMSHAR           -0.46
+ I295 NEGI GENERAL STORE             SHOWAD           5314.67 0P
+ K146 ANITA SHARMA                   BAYAL               0.09

@@ -1,0 +1,22 @@
+
+
+A/C PADMA GENERAL STORE TAKLECH      In M/S RAM KISHAN JIVA RAM Page No. 1
+ O092 VPO TAKLECH TEH RAMPUR                      PAN            8278798012  T7G
+      AADHAR 736206594166 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        -134.53
+01/04/2023C C                 RN36353                        0.00     3500.00       -3634.53
+03/04/2023S S436504           TO SALE                     2892.33        0.00        -742.20
+04/04/2023S S436572           TO SALE                     7405.46        0.00        6663.26
+04/04/2023C C1                RN36237                        0.00     5000.00        1663.26
+08/04/2023C C1                RN36929                        0.00     3000.00       -1336.74
+10/04/2023S S437416           TO SALE                     3961.78        0.00        2625.04
+11/04/2023S S437504           TO SALE                     4374.58        0.00        6999.62
+06/05/2023C C                 RN38660                        0.00     4000.00        2999.62
+20/05/2023C C1                RN40424                        0.00     3000.00          -0.38
+
+                         TOTAL                           18634.15    18634.53          -0.38
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

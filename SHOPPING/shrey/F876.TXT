@@ -1,0 +1,21 @@
+
+
+A/C SANDUP NEGI SK POOH         In M/S RAM KISHAN JIVA RAM Page No. 1
+ F876                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+06/05/2023S L167443           TO SALE                     8820.00        0.00        8820.00
+10/05/2023J J93481            BY ONLINE                      0.00     8820.00           0.00
+04/07/2023S S448792           TO SALE                    15976.00        0.00       15976.00
+10/07/2023J J94364            BY ON LINE                     0.00    15976.00           0.00
+23/08/2023S S454627           TO SALE                    12848.50        0.00       12848.50
+02/09/2023J J95088            BY ONLINE                      0.00    12848.00           0.50
+13/10/2023S S461742           TO SALE                    26160.50        0.00       26161.00
+19/10/2023J J95823            BY ON LINE                     0.00    26160.00           1.00
+
+                         TOTAL                           63805.00    63804.00           1.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

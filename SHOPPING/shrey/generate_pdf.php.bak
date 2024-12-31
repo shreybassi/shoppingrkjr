@@ -1,0 +1,22 @@
+<?php
+
+require('fpdf.php');
+$f = $_POST['ledger'].'.txt';
+// Read the text file
+$filename = $f;
+$content = file_get_contents($filename);
+
+// Create a new PDF document
+$pdf = new FPDF();
+$pdf->AddPage();
+
+// Set font for the PDF
+$pdf->SetFont('Arial', '', 12);
+
+// Add the text content
+$pdf->MultiCell(0, 10, $content);
+
+// Output the PDF
+$pdf->Output('D', 'output.pdf'); // 'D' forces download, 'I' outputs in browser
+?>
+

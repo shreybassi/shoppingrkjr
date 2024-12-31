@@ -1,0 +1,28 @@
+
+
+A/C AGSTYA TRADERS DAKOLAR      In M/S RAM KISHAN JIVA RAM Page No. 1
+ N164 VILL DAKOLAR PO SHINGRA TEH RAMPUR          PANAVSPK2969B  9625132211  EGG
+      AADHAR 853411482573 GSTIN 02AVSPK2969B1ZK
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+26/04/2023S T100013           TO SALE                    19442.84        0.00       19442.84
+03/05/2023E AT3202            BILL Q601EXP766                0.00    51501.00      -32058.16
+04/05/2023J J93397            TO CH 554153               51501.00        0.00       19442.84
+12/05/2023J J93505            TO CH NO 554161            16075.00        0.00       35517.84
+12/05/2023E AT3217            TO BILL Q601EXP783             0.00    35518.00          -0.16
+25/05/2023S T100063           TO SALE                    16961.18        0.00       16961.02
+31/05/2023S T100077           TO SALE                    25236.64        0.00       42197.66
+17/06/2023S T100131           TO SALE                    10748.38        0.00       52946.04
+17/06/2023J J94040            BY GOOGLE                      0.00     5374.00       47572.04
+17/06/2023J J94040            BY GOOGLE                      0.00     5374.00       42198.04
+04/08/2023J J94708            BY ON LINE                     0.00    35000.00        7198.04
+07/08/2023J J94744            BY ON LINE                     0.00     7500.00        -301.96
+09/08/2023S T100349           TO SALE                    36800.52        0.00       36498.56
+09/10/2023S T100743           TO SALE                     4449.78        0.00       40948.34
+09/10/2023J J95646            BY GOOGLE                      0.00     6000.00       34948.34
+
+                         TOTAL                          181215.34   146267.00       34948.34
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

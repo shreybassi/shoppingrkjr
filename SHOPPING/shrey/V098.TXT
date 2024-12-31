@@ -1,0 +1,13 @@
+
+
+A/C GOYAL ROLLER FLOUR MILLS SANGRUR      In M/S RAM KISHAN JIVA RAM Page No. 1
+ V098 UBHEWAL ROAD SANGRUR                        PANAXOPG6482D           0   0G
+      AADHAR          0   GSTIN 03AXOPG6482D1ZI
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+14/02/2022P GR1502            BY PURCHASE                    0.00   180550.00     -180550.00
+14/02/2022P GR1503            BY PURCHASE                    0.00    94200.00     -274750.00
+14/02/2022J J87558            TO ON LINE                270628.00        0.00       -4122.00
+
+                         TOTAL                          270628.00   274750.00       -4122.00

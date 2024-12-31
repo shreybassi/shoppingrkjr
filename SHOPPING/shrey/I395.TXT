@@ -1,0 +1,46 @@
+
+
+A/C ARCHANA KARYANA STORE LUHRI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ I395 VPO LUHRI TEH ANI                           PAN            8679168939  11G
+      AADHAR 410329847004 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+15/08/2023S N317395           TO SALE                      879.96        0.00         879.96
+16/08/2023S N317513           TO SALE                     1200.16        0.00        2080.12
+17/08/2023C A302S             BY CASH N317395 ARCHANA        0.00      879.96        1200.16
+17/08/2023C A302S             BY CASH N317513 ARCHANA        0.00     1200.16           0.00
+29/08/2023S N319281           TO SALE                      409.76        0.00         409.76
+30/08/2023S N319358           TO SALE                     1929.75        0.00        2339.51
+31/08/2023C A302S             BY CASH N319281 ARCHANA        0.00      409.76        1929.75
+31/08/2023C A302S             BY CASH N319358 ARCHANA        0.00     1929.75           0.00
+12/09/2023S N321214           TO SALE                     2358.62        0.00        2358.62
+13/09/2023S N321227           TO SALE                     3150.87        0.00        5509.49
+16/09/2023J J95315            BY ON LINE                     0.00     5509.00           0.49
+19/09/2023S N322030           TO SALE                     1462.60        0.00        1463.09
+20/09/2023S N322128           TO SALE                     1558.38        0.00        3021.47
+22/09/2023J J95390            BY ON LINE                     0.00     3021.00           0.47
+03/10/2023S N323908           TO SALE                     2172.90        0.00        2173.37
+04/10/2023S N324018           TO SALE                     1996.46        0.00        4169.83
+05/10/2023C A302S             BY CASH N323908 ARCHANA        0.00     2172.90        1996.93
+05/10/2023C A302S             BY CASH N324018 ARCHANA        0.00     1996.46           0.47
+17/10/2023S N325752           TO SALE                     1364.76        0.00        1365.23
+18/10/2023S N325854           TO SALE                     2284.98        0.00        3650.21
+19/10/2023C A302S             BY CASH N325752 ARCHANA        0.00     1364.76        2285.45
+19/10/2023C A302S             BY CASH N325854 ARCHANA        0.00     2284.98           0.47
+24/10/2023S N326614           TO SALE                     1420.12        0.00        1420.59
+25/10/2023S N326713           TO SALE                     2354.65        0.00        3775.24
+26/10/2023C A312S             BY CASH N326614 ARCHANA        0.00     1420.12        2355.12
+26/10/2023C A312S             BY CASH N326713 ARCHANA        0.00     2354.65           0.47
+07/11/2023S N328312           TO SALE                      826.04        0.00         826.51
+08/11/2023S N328426           TO SALE                     2101.60        0.00        2928.11
+08/11/2023C A302S             BY CASH N328312 ARCHANA        0.00      826.04        2102.07
+08/11/2023C A302N             BY CASH N328426 ARCHANA        0.00     2101.60           0.47
+14/11/2023S N329243           TO SALE                     1072.96        0.00        1073.43
+15/11/2023S N329321           TO SALE                     5849.68        0.00        6923.11
+17/11/2023J J96323            BY ON LINE                     0.00     6922.00           1.11
+
+                         TOTAL                           34394.25    34393.14           1.11
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,21 @@
+
+
+A/C DIWAN CHAND CHOWAI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ K855 VPO CHOWAI TEH ANNI                         PAN                     0  7GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+24/10/2023S S463138           TO SALE                     1516.01        0.00        1516.01
+25/10/2023S S463191           TO SALE                     1071.00        0.00        2587.01
+26/10/2023C C                 RN52743                        0.00     1587.00        1000.01
+08/11/2023J J96160            BY BQR                         0.00     1000.00           0.01
+14/11/2023S S465955           TO SALE                     1327.43        0.00        1327.44
+14/11/2023S S465959           TO SALE                     2293.86        0.00        3621.30
+16/11/2023C A402S             BY CASH S465955 DIWAN CH       0.00     1327.43        2293.87
+16/11/2023C A402S             BY CASH S465959 DIWAN CH       0.00     2293.86           0.01
+
+                         TOTAL                            6208.30     6208.29           0.01
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,31 @@
+
+
+A/C INDER PARKASH SANGLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ D002 VILL.  PO. SANGLA VIA TAPRI                 PAN            9816119247  SCG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+19/04/2023J J93204            BY GOOGLE                      0.00     2200.00       -2200.00
+20/04/2023S L166221           TO SALE                     3180.00        0.00         980.00
+24/04/2023C C50642            TO FRT                        90.00        0.00        1070.00
+02/05/2023C C                 RN37083                        0.00     1070.00           0.00
+15/05/2023S L167925           TO SALE                     5504.10        0.00        5504.10
+15/05/2023S L167926           TO SALE                     3385.12        0.00        8889.22
+06/06/2023C C                 RN41713                        0.00     8890.00          -0.78
+15/06/2023S L170309           TO SALE                      909.20        0.00         908.42
+15/06/2023S L170323           TO SALE                     4669.00        0.00        5577.42
+15/06/2023S L170324           TO SALE                     4685.58        0.00       10263.00
+28/06/2023J J94200            BY ON LINE                     0.00    10264.00          -1.00
+10/08/2023S L174117           TO SALE                     5148.25        0.00        5147.25
+10/08/2023S L174118           TO SALE                     6437.66        0.00       11584.91
+12/08/2023J J94826            BY ON LINE                     0.00    11586.00          -1.09
+02/11/2023S L180027           TO SALE                     4767.12        0.00        4766.03
+03/11/2023S L180141           TO SALE                    61950.00        0.00       66716.03
+07/11/2023J J96139            BY ON LINE                     0.00    66717.00          -0.97
+11/11/2023C C52967            TO FRT                       890.00        0.00         889.03
+
+                         TOTAL                          101616.03   100727.00         889.03
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

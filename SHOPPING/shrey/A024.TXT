@@ -1,0 +1,18 @@
+
+
+A/C AADVIK ENGINEERING WORKS KOCHRI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ A024 VPO JEORI TEH RAMPUR                        PANCWRPD0072L  9459269496  5GG
+      AADHAR 386989800329 GSTIN 02CWRPD0072L1ZL
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+04/10/2023S N324113           TO SALE                      985.46        0.00         985.46
+05/10/2023C A103S             BY CASH N324113 AADVIK E       0.00      985.46           0.00
+14/10/2023S N325442           TO SALE                     1000.02        0.00        1000.02
+16/10/2023S N325617           TO SALE                    52663.17        0.00       53663.19
+17/10/2023J J-CH              BY CH 187169 Q101              0.00    53663.00           0.19
+
+                         TOTAL                           54648.65    54648.46           0.19
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,11 @@
+
+
+A/C ANAND SHOE COMPANY PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U117 PLOT NO 80 SEC 1 PARWANOO                   PANAAYPK3569J           0   0G
+      AADHAR          0   GSTIN 02AAYPK3569J2Z5
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       -6360.00
+08/06/2023J J93913            TO CH 010228                6360.00        0.00           0.00
+
+                         TOTAL                            6360.00     6360.00           0.00

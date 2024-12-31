@@ -1,0 +1,26 @@
+
+
+A/C DINESH INDUSTRIES RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M065                                             PAN            7018983748  LBG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       2490.97
+12/04/2023S B543474           TO SALE                    13889.55        0.00       16380.52
+12/05/2023C C                 RN 38399                       0.00    12800.00        3580.52
+22/05/2023S B545238           TO SALE                     2835.00        0.00        6415.52
+25/07/2023S B547823           TO SALE                     2835.00        0.00        9250.52
+25/07/2023C C                 RN44067                        0.00     6500.00        2750.52
+13/10/2023S B551328           TO SALE                    17365.93        0.00       20116.45
+13/10/2023P LPA8205           BY PURCHASE                    0.00     8709.60       11406.85
+13/10/2023J J95719            TO TRANS                    5959.08        0.00       17365.93
+14/10/2023S A173835           TO SALE                   -17365.93        0.00           0.00
+14/10/2023S B551374           TO SALE                    12840.23        0.00       12840.23
+23/10/2023C C2                RN52612                        0.00      500.00       12340.23
+02/11/2023S B552160           TO SALE                    29581.54        0.00       41921.77
+02/11/2023C C                 RN52584                        0.00    12500.00       29421.77
+
+                         TOTAL                           70431.37    41009.60       29421.77
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

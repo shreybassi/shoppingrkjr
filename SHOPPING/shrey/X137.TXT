@@ -1,0 +1,23 @@
+
+
+A/C VED AGRO INDUSTRIES NASIRPUR     In M/S RAM KISHAN JIVA RAM Page No. 1
+ X137 VILL NASIRPUR HISAR ROAD AMBALA CITY        PANAAFFV0069F           0   0G
+      AADHAR          0   GSTIN 06AAFFV0069F1ZB
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+14/09/2023P VA878             BY PURCHASE                    0.00   315315.00     -315315.00
+15/09/2023J J95286            TO ON LINE                312162.00        0.00       -3153.00
+16/09/2023J J95299            TO ON LINE                312162.00        0.00      309009.00
+18/09/2023J J95321            BY TRANS                       0.00   312162.00       -3153.00
+25/09/2023P VA883             BY PURCHASE                    0.00   381982.00     -385135.00
+28/09/2023J J95463            TO ON LINE                378162.00        0.00       -6973.00
+30/09/2023P VA889             BY PURCHASE                    0.00   413400.00     -420373.00
+03/10/2023J J95536            TO ON LINE                409266.00        0.00      -11107.00
+06/10/2023P VA894             BY PURCHASE                    0.00   508482.00     -519589.00
+10/10/2023J J95660            TO ONLINE                 503397.00        0.00      -16192.00
+13/10/2023P VA898             BY PURCHASE                    0.00   508482.00     -524674.00
+18/10/2023J J95798            TO ON LINE                503397.00        0.00      -21277.00
+24/11/2023P VA906             BY PURCHASE                    0.00   353600.00     -374877.00
+
+                         TOTAL                         2418546.00  2793423.00     -374877.00

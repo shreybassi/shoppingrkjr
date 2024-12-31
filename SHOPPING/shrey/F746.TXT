@@ -1,0 +1,18 @@
+
+
+A/C PADAM SUKH 9805889325 THANGI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ F746                                             PAN                     0  PGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+15/12/2022S L157442           TO SALE                    11234.01        0.00       11234.01
+15/12/2022S L157443           TO SALE                    24757.03        0.00       35991.04
+15/12/2022S L157464           TO SALE                     2830.30        0.00       38821.34
+27/12/2022J J91691            BY ON LINE                     0.00    38822.00          -0.66
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       0.66        0.00           0.00
+
+                         TOTAL                           38822.00    38822.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

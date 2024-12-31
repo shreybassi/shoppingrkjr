@@ -1,0 +1,44 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ B030 CHAUHAN KARYANA STORE          BATHARA         43693.92    29138.64
+ B001 DEEPAK KUMAR                   BONDA           30580.61    30580.61    20239.05   20239.05
+ B100 MUNISH GENERAL STORE           BONDA           28832.35    22728.12     4047.84
+ B068 NIRMLA GENERAL STORE           BONDA           10808.10     5826.17     1396.07
+ B016 RAM SINGH B.BLOCK              BONDA           14841.39    13387.67     9136.48    9136.48
+ B029 VEENA GENERAL STORE            BONDA            6687.32     6687.32
+ B015 SHOBHA RAM                     DHEU            58505.86    29130.00    29130.00
+ B066 RENUKA CARE OF DHARAM MANI     GAMSOT          21203.83    21203.83     7333.75
+ B028 CHAUHAN TRADER                 GHARAT             -0.17
+ B046 CHERING GHARAT                 GHARAT          30523.51    24807.97     6622.02
+ B011 DEV RAJ DEVENDER SINGH         GHARAT             -0.28
+ C804 JAGDISH NEGI                   GHARAT           2240.65     2240.65     2240.65    2240.65     2240.65
+ B071 ROOP DASS AND SONS             GHARAT         386109.56   368007.25   118284.48   94152.76
+ B021 SHYAM LAL AND SONS             GHARAT            892.16      892.16
+ B024 SURENDER SINGH                 GHARAT          32274.07    32274.07
+ B031 TASHI NEGI                     GHARAT              0.00
+ B050 THAKUR GENERAL STORE           GHARAT           2116.18
+ B042 TSP GENERAL STORE              GHARAT             93.18       93.18       93.18
+ B026 LUMBI DEVI                     MAJHGAON        60381.95    60381.95    19826.83   19826.83
+ B081 ABHI DAILY NEED                RANGORI            -0.98
+ B075 AMIT KUMAR CONTRACTOR          RANGORI         70628.76    70628.76    67148.56       0.09
+ B035 SHARMA KARYANA STORE           RANVI               2.86 0P                                                                     2.86        2.86       2.86        2.86
+ B079 SHIVA TRADERS                  RANVI            5491.48        0.08
+ B014 SUSHMA DEVI CARE OF LALIT      RANVI          135732.61   108936.85    23965.42
+ B033 DHARAM MANI TOTA RAM           RAVI SARAHAN      993.61      993.61      993.61     993.61      993.61
+ B013 JAGAT JI                       SARAHAN          5209.88     1004.77
+ B053 JAI BHEEMAKALI CANTEEN         SARAHAN          2593.23        0.39
+ B037 JAI GIRNARI GENERAL STORE      SARAHAN         13319.35       35.31
+ B082 KUMAR GENERAL STORE            SARAHAN        106290.79    88761.74    49108.34   29947.00
+ B054 LACTOO TRADER                  SARAHAN        280611.38   202656.57    84090.50   38216.15
+ B034 NARENDER THAKUR                SARAHAN             0.00 0P
+ B056 NRS SARAHAN                    SARAHAN         37079.27    19003.98    19003.98
+ B008 PURSHOTAM DASS NEGI AND SONS   SARAHAN         45096.23    45096.23    28623.47    4702.61
+ B055 RAMAN KUMAR AND BROTHER        SARAHAN         86156.58 0P                                                                 86156.58    86156.58   86156.58    86156.58
+ B048 ROSHAN LAL SONI AND SONS       SARAHAN             0.14 0P                                                                     0.14        0.14       0.14        0.14
+ B043 SARAHAN PUBLIC SCHOOL          SARAHAN         74638.80    57522.26    25726.29    4296.87
+ B060 SONU CONFECTIONERY AND ICE FRU SHALABAG        20162.12
+ B010 SOOD BROTHER                   SHALABAG         3946.74     3946.74
+ B065 AARAV GENERAL STORE            TYAWAL          36311.04    36311.04
+ A584 CASH ON DELIVERY SM 3P SANGLA                 162130.48    32480.65

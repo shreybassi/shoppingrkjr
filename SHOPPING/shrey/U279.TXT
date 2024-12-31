@@ -1,0 +1,18 @@
+
+
+A/C LOVEJEET BEJNATH      In M/S RAM KISHAN JIVA RAM Page No. 1
+ U279 PO SAGOOR TEH BEJNATH                       PAN                     0   GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+28/10/2023P LPA8231           BY PURCHASE                    0.00   112950.60     -112950.60
+28/10/2023P LPA8230           BY PURCHASE                    0.00   100408.00     -213358.60
+31/10/2023P LPA8231           BY PURCHASE                    0.00  -112950.60     -100408.00
+31/10/2023P LPA8230           BY PURCHASE                    0.00  -100408.00           0.00
+10/11/2023P LPA8296           BY PURCHASE                    0.00    17358.60      -17358.60
+10/11/2023P LPA8297           BY PURCHASE                    0.00    18032.00      -35390.60
+10/11/2023C C52961            TO CASH                     9000.00        0.00      -26390.60
+13/11/2023J J96221            TO CH 607638               26390.00        0.00          -0.60
+
+                         TOTAL                           35390.00    35390.60          -0.60

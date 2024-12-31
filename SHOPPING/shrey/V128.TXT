@@ -1,0 +1,14 @@
+
+
+A/C SUPER STORE RAJPURA      In M/S RAM KISHAN JIVA RAM Page No. 1
+ V128 BAPROUR TEH RAJPURA UNIT 34                 PANAAECF6680N           0   0G
+      AADHAR          0   GSTIN 03AAECF6680N1ZA
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+30/08/2023P SSNYD001200644    BY PURCHASE                    0.00    13838.57      -13838.57
+01/09/2023J J95078            TO ONLINE                  13839.00        0.00           0.43
+11/09/2023P STNYD001239571    BY PURCHASE                    0.00    12480.77      -12480.34
+13/09/2023J J95265            TO ON LINE                 12481.00        0.00           0.66
+
+                         TOTAL                           26320.00    26319.34           0.66

@@ -1,0 +1,19 @@
+
+
+A/C SANAM DAKPA F015 THANGI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ F904                                             PAN                     0   0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+24/11/2022S L155686           TO SALE                     2184.15        0.00        2184.15
+24/11/2022S L155688           TO SALE                    55127.00        0.00       57311.15
+24/11/2022S L155689           TO SALE                    13253.97        0.00       70565.12
+28/11/2022C C48955            TO FRT                      2060.00        0.00       72625.12
+29/11/2022J J-CH              BY CH 737946 Q101              0.00    72625.00           0.12
+08/02/2023J MINBAL            BY MINOR BALANCE TRANSFE       0.00        0.12           0.00
+
+                         TOTAL                           72625.12    72625.12           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

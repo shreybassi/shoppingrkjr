@@ -1,0 +1,25 @@
+
+
+A/C SHIV KUMAR MOORANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F023 VILL SKIBA PO RIBBA TEH MOORANG             PAN            8219332192  PBG
+      AADHAR 412823251898 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/04/2023C C                 RN7140                         0.00    30000.00      -30000.00
+28/04/2023J J93308            TO RN 7140                 30000.00        0.00           0.00
+12/06/2023C C                 RN41943                        0.00     7400.00       -7400.00
+03/07/2023J J94272            TO RN 41943                 7400.00        0.00           0.00
+04/07/2023S S448782           TO SALE                    12062.34        0.00       12062.34
+04/07/2023S S448806           TO SALE                    25398.31        0.00       37460.65
+12/07/2023J J94385            BY GOOGLE                      0.00     5062.00       32398.65
+14/07/2023J J94411            BY ON LINE                     0.00    32398.65           0.00
+10/08/2023S L174063           TO SALE                    20742.14        0.00       20742.14
+10/08/2023S L174064           TO SALE                    10159.68        0.00       30901.82
+23/08/2023J J94944            BY TRANS                       0.00    20742.14       10159.68
+23/08/2023J J94944            BY TRANS                       0.00    10159.68           0.00
+
+                         TOTAL                          105762.47   105762.47           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

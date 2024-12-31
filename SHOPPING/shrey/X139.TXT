@@ -1,0 +1,18 @@
+
+
+A/C RISHUB AND CO JIND         In M/S RAM KISHAN JIVA RAM Page No. 1
+ X139 SHOP NO 65 ANAJ MANDI UCHANA                PANAAOPJ5088P           0   0G
+      AADHAR          0   GSTIN 06AAOPJ5088P1ZV
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+06/10/2023P R&CTF-37          BY PURCHASE                    0.00   267975.00     -267975.00
+12/10/2023J J95703            TO ON LINE                265206.00        0.00       -2769.00
+21/10/2023P RCTF-47           BY PURCHASE                    0.00   518950.00     -521719.00
+24/10/2023J J95889            TO TRF                    513760.00        0.00       -7959.00
+30/10/2023P RCTF-107          BY PURCHASE                    0.00   518950.00     -526909.00
+31/10/2023J J95991            TO ON LINE                513760.00        0.00      -13149.00
+04/11/2023P RCTF-111          BY PURCHASE                    0.00   556400.00     -569549.00
+07/11/2023J J96131            TO ON LINE                550836.00        0.00      -18713.00
+
+                         TOTAL                         1843562.00  1862275.00      -18713.00

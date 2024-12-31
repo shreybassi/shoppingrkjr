@@ -1,0 +1,18 @@
+
+
+A/C YOGAN SINGH G026 KANAM        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F919                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+01/12/2022S L156376           TO SALE                     6823.03        0.00        6823.03
+01/12/2022S L156395           TO SALE                    23595.78        0.00       30418.81
+01/12/2022S L156396           TO SALE                    21902.30        0.00       52321.11
+10/12/2022J J91485            BY GOOGLE                      0.00    52321.00           0.11
+08/02/2023J MINBAL            BY MINOR BALANCE TRANSFE       0.00        0.11           0.00
+
+                         TOTAL                           52321.11    52321.11           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

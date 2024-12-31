@@ -1,0 +1,25 @@
+
+
+A/C SURI ENTERPRISES AMRITSAR     In M/S RAM KISHAN JIVA RAM Page No. 1
+ V038 2579/12,1239/12,INSIDE HATHI GATE           PANHVJPS8735P  9418054104   0G
+      AADHAR          0   GSTIN 03HVJPS8735P1ZJ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/04/2023P SESE20/2023-24    BY PURCHASE                    0.00   127794.00     -127794.00
+24/04/2023J J93259            TO ON LINE                127794.00        0.00           0.00
+25/05/2023P SESE77/2023-24    BY PURCHASE                    0.00   372880.00     -372880.00
+30/05/2023P SESE91/2023-24    BY PURCHASE                    0.00   212621.00     -585501.00
+03/06/2023J J93843            TO ON LINE                585501.00        0.00           0.00
+30/06/2023P SESE135/2023-24   BY PURCHASE                    0.00    88427.00      -88427.00
+03/07/2023P SESE139/2023-24   BY PURCHASE                    0.00    12125.00     -100552.00
+03/07/2023J J94272            TO ON LINE                 88427.00        0.00      -12125.00
+14/07/2023J J94418            TO ON LINE                 12125.00        0.00           0.00
+23/08/2023P SESE179/2023-24   BY PURCHASE                    0.00   245558.00     -245558.00
+26/08/2023J J95007            TO ON LINE                245558.00        0.00           0.00
+21/09/2023P SESE237/2023-24   BY PURCHASE                    0.00   378485.00     -378485.00
+22/09/2023J J95388            TO ON LINE                378485.00        0.00           0.00
+03/11/2023P SESE298/2023-24   BY PURCHASE                    0.00    66835.00      -66835.00
+16/11/2023J J96304            TO ON LINE                 66835.00        0.00           0.00
+
+                         TOTAL                         1504725.00  1504725.00           0.00

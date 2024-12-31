@@ -1,0 +1,19 @@
+
+
+A/C MAHAVIR 8580854323 GIAWANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F783                                             PAN                     0  PGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+16/11/2022S L154820           TO SALE                     2695.41        0.00        2695.41
+16/11/2022S L154825           TO SALE                    22307.31        0.00       25002.72
+16/11/2022S L154826           TO SALE                    13238.58        0.00       38241.30
+21/11/2022C C                 RN25642                        0.00    20000.00       18241.30
+21/11/2022C C                 RN25643                        0.00    18241.00           0.30
+08/02/2023J MINBAL            BY MINOR BALANCE TRANSFE       0.00        0.30           0.00
+
+                         TOTAL                           38241.30    38241.30           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

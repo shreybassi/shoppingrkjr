@@ -1,0 +1,12 @@
+
+
+A/C SPORTS LINKERS JALANDHAR    In M/S RAM KISHAN JIVA RAM Page No. 1
+ V114 BASI NAU JALANDHAR                          PANHHUPS5317E           0   0G
+      AADHAR          0   GSTIN 03HHUPS5317E1Z0
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+18/11/2022P SLSL/22-23/769    BY PURCHASE                    0.00     6468.00       -6468.00
+10/02/2023J J92235            TO CH 010348                6468.00        0.00           0.00
+
+                         TOTAL                            6468.00     6468.00           0.00

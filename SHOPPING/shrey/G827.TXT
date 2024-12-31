@@ -1,0 +1,27 @@
+
+
+A/C DECHAN ANGMO W/O DEVA CHAND TABO         In M/S RAM KISHAN JIVA RAM Page No. 1
+ G827 VPO TABO TEH KAZA                           PAN            9459566689  Z0G
+      AADHAR 627073630314 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+05/04/2023S S436709           TO SALE                    48329.26        0.00       48329.26
+06/04/2023S S436903           TO SALE                    82515.70        0.00      130844.96
+08/04/2023C C50492            TO CASH C345363             6569.57        0.00      137414.53
+10/04/2023S S437427           TO SALE                    13661.04        0.00      151075.57
+10/04/2023S S437436           TO SALE                    15226.91        0.00      166302.48
+13/04/2023S O105965           TO SALE                    -1123.73        0.00      165178.75
+15/04/2023S O106013           TO SALE                    -6615.00        0.00      158563.75
+18/04/2023J J-CH              BY CH 298538 Q101              0.00   174044.00      -15480.25
+26/04/2023J J93281            TO BNO S436909             20924.92        0.00        5444.67
+26/04/2023J J93281            BY TRANS                       0.00     5339.13         105.54
+26/04/2023J J93281            BY TRANS                       0.00     6570.00       -6464.46
+09/05/2023S S441287           TO SALE                    14624.06        0.00        8159.60
+01/06/2023S O106488           TO SALE                     -798.00        0.00        7361.60
+01/06/2023S O106489           TO SALE                    -2111.86        0.00        5249.74
+
+                         TOTAL                          191202.87   185953.13        5249.74
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

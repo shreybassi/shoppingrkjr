@@ -1,0 +1,40 @@
+
+
+A/C AMIR CHAND OM PARKASH AMRITSAR     In M/S RAM KISHAN JIVA RAM Page No. 1
+ V001 MAJITH MANDI AMRITSAR                       PANAACFA0113C           0   1P
+      AADHAR          0   GSTIN 03AACFA0113C1ZQ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      -49140.00
+19/04/2023P AC174             BY PURCHASE                    0.00    48233.00      -97373.00
+19/04/2023J J93204            TO ON LINE                 49140.00        0.00      -48233.00
+24/04/2023P ACGST-263         BY PURCHASE                    0.00    35545.00      -83778.00
+24/04/2023J J93254            TO ON LINE                 48233.00        0.00      -35545.00
+03/05/2023J J93372            TO ON LINE                 35545.00        0.00           0.00
+12/05/2023P ACGST-452         BY PURCHASE                    0.00    49228.00      -49228.00
+16/05/2023J J93547            TO ON LINE                 49228.00        0.00           0.00
+26/05/2023P ACGST-606         BY PURCHASE                    0.00    49980.00      -49980.00
+06/06/2023P ACGST-750         BY PURCHASE                    0.00    49329.00      -99309.00
+09/06/2023J J93930            TO ON LINE                 99309.00        0.00           0.00
+20/06/2023P ACGST-906         BY PURCHASE                    0.00    49980.00      -49980.00
+23/06/2023J J94129            TO ON LINE                 49980.00        0.00           0.00
+25/07/2023P ACGST-1258        BY PURCHASE                    0.00    49140.00      -49140.00
+31/07/2023P AO1389            BY PURCHASE                    0.00    44520.00      -93660.00
+01/08/2023J J94650            TO ON LINE                 93660.00        0.00           0.00
+21/08/2023P ACGST-1584        BY PURCHASE                    0.00    48896.00      -48896.00
+29/08/2023P ACGST-1693        BY PURCHASE                    0.00    26460.00      -75356.00
+08/09/2023J J95202            TO ON LINE                 75356.00        0.00           0.00
+11/09/2023P ACGST-1875        BY PURCHASE                    0.00    49825.00      -49825.00
+15/09/2023J J95294            TO ON LINE                 49825.00        0.00           0.00
+27/09/2023P ACGST-2114        BY PURCHASE                    0.00    29665.00      -29665.00
+09/10/2023P ACGST-2227        BY PURCHASE                    0.00    36716.00      -66381.00
+11/10/2023J J95678            TO ONLINE                  66381.00        0.00           0.00
+16/10/2023P ACGST-2392        BY PURCHASE                    0.00    39480.00      -39480.00
+27/10/2023J J95945            TO ON LINE                 39480.00        0.00           0.00
+01/11/2023P ACGST-2606        BY PURCHASE                    0.00    44869.00      -44869.00
+04/11/2023P ACGST-2656        BY PURCHASE                    0.00    49606.00      -94475.00
+15/11/2023P ACGST-2793        BY PURCHASE                    0.00    39140.00     -133615.00
+17/11/2023J J96312            TO ON LINE                 94475.00        0.00      -39140.00
+25/11/2023P AM2872            BY PURCHASE                    0.00    49522.00      -88662.00
+
+                         TOTAL                          750612.00   839274.00      -88662.00

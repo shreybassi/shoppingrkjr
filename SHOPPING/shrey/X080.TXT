@@ -1,0 +1,18 @@
+
+
+A/C AASTHA PAPER INDUSTRIES PVT.LT JAGADHRI     In M/S RAM KISHAN JIVA RAM Page No. 1
+ X080 40-41,62-63 INDUSTRIAL ESTATE               PANAAGCA3421L           0   GG
+      AADHAR          0   GSTIN 06AAGCA3421L1ZU
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+06/04/2023P AP1               BY PURCHASE                    0.00    -4800.00        4800.00
+10/04/2023P AA20              BY PURCHASE                    0.00   555841.00     -551041.00
+13/04/2023J J93131            TO ON LINE                551041.00        0.00           0.00
+31/10/2023P AACN15            BY PURCHASE                    0.00    -3700.00        3700.00
+01/11/2023P AACN15            BY PURCHASE                    0.00    -3700.00        7400.00
+01/11/2023P AP772             BY PURCHASE                    0.00   450271.00     -442871.00
+02/11/2023P AACN15            BY PURCHASE                    0.00     3700.00     -446571.00
+16/11/2023J J96305            TO ON LINE                446571.00        0.00           0.00
+
+                         TOTAL                          997612.00   997612.00           0.00

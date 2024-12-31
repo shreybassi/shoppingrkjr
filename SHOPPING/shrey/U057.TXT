@@ -1,0 +1,19 @@
+
+
+A/C DEEPAK INDUSTRIES SOLAN        In M/S RAM KISHAN JIVA RAM Page No. 1
+ U057 SOLAN                                       PANAACFD8192Q           0   1G
+      AADHAR          0   GSTIN 02AACFD8192Q1Z1
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+11/09/2023P DIDI-1745/2023-24 BY PURCHASE                    0.00   221980.00     -221980.00
+15/09/2023J J95296            TO ON LINE                221980.00        0.00           0.00
+30/09/2023P DIDI-1822/2023-24 BY PURCHASE                    0.00   227800.00     -227800.00
+03/10/2023J J95543            TO ON LINE                227800.00        0.00           0.00
+10/10/2023P DI-1860/2023-24   BY PURCHASE                    0.00   242040.00     -242040.00
+27/10/2023J J95941            TO ON LINE                242040.00        0.00           0.00
+28/10/2023P DIDI-1941/2023-24 BY PURCHASE                    0.00   348350.00     -348350.00
+06/11/2023J J96107            TO ON LINE                348350.00        0.00           0.00
+24/11/2023P DIDI-2103/2023-24 BY PURCHASE                    0.00   297250.00     -297250.00
+
+                         TOTAL                         1040170.00  1337420.00     -297250.00

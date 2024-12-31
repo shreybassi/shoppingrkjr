@@ -1,0 +1,18 @@
+
+
+A/C SIGMA RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M141                                             PAN                     0  E7I
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       4465.44
+21/04/2023C C                 RN37834                        0.00     4465.44           0.00
+04/09/2023S T100514           TO SALE                     8922.70        0.00        8922.70
+05/09/2023S T100515           TO SALE                      633.52        0.00        9556.22
+07/09/2023J J-CH              BY CH 001038 Q102              0.00     8922.00         634.22
+06/11/2023S T101037           TO SALE                      165.20        0.00         799.42
+
+                         TOTAL                           14186.86    13387.44         799.42
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

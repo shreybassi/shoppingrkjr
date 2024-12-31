@@ -1,0 +1,33 @@
+
+
+A/C SNEHA JEORI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ A190 VPO JEORI TEH RAMPUR                        PAN            9805929437  51G
+      AADHAR 886649005112 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+07/10/2023S N324522           TO SALE                     7663.38        0.00        7663.38
+09/10/2023S N324684           TO SALE                     1945.80        0.00        9609.18
+10/10/2023C C                 RN51350                        0.00     9610.00          -0.82
+12/10/2023S N325238           TO SALE                     4622.24        0.00        4621.42
+13/10/2023C A104S             BY CASH N325238 SNEHA          0.00     4622.24          -0.82
+14/10/2023S N325457           TO SALE                     5302.70        0.00        5301.88
+16/10/2023S N325611           TO SALE                     2273.64        0.00        7575.52
+19/10/2023J J-CH              BY CH 778503 Q103              0.00     7577.00          -1.48
+24/10/2023S N326642           TO SALE                     3428.56        0.00        3427.08
+26/10/2023C A202S             BY CASH N326642 SNEHA          0.00     3428.56          -1.48
+28/10/2023S N327244           TO SALE                    16995.07        0.00       16993.59
+28/10/2023S N327245           TO SALE                     2203.02        0.00       19196.61
+30/10/2023S N327325           TO SALE                    64450.64        0.00       83647.25
+30/10/2023S N327326           TO SALE                     3581.90        0.00       87229.15
+30/10/2023C A306S             BY CASH N327244 SNEHA          0.00    16995.07       70234.08
+30/10/2023C A306N             BY CASH N327325 SNEHA          0.00    64450.64        5783.44
+31/10/2023S N327589           TO SALE                     1807.70        0.00        7591.14
+02/11/2023C A202S             BY CASH N327589 SNEHA          0.00     1807.70        5783.44
+02/11/2023J J-CH              BY CH 778505 Q103              0.00     5785.00          -1.56
+25/11/2023S N330665           TO SALE                     3964.94        0.00        3963.38
+
+                         TOTAL                          118239.59   114276.21        3963.38
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,22 @@
+
+
+A/C GRAND DEWACHAN RESORTS KAZA         In M/S RAM KISHAN JIVA RAM Page No. 1
+ G150 VPO KAZA TEH KAZA                           PANAMLPB3831B  7018957920  Z1H
+      AADHAR 627073630214 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+05/04/2023S S436706           TO SALE                   104539.97        0.00      104539.97
+06/04/2023S S436898           TO SALE                   190196.21        0.00      294736.18
+06/04/2023S S436908           TO SALE                    33479.88        0.00      328216.06
+10/04/2023S S437421           TO SALE                    22933.34        0.00      351149.40
+10/04/2023S S437435           TO SALE                     8436.97        0.00      359586.37
+15/04/2023S O106014           TO SALE                    -5953.50        0.00      353632.87
+19/04/2023J J93198            BY CH 298537                   0.00   358972.00       -5339.13
+26/04/2023J J93281            TO TFR G827                 5339.13        0.00           0.00
+03/05/2023S O106203           TO SALE                    -1904.00        0.00       -1904.00
+
+                         TOTAL                          357068.00   358972.00       -1904.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

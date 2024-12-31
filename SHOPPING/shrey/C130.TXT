@@ -1,0 +1,39 @@
+
+
+A/C S BISHT DAILY NEEDS NIGULSARI    In M/S RAM KISHAN JIVA RAM Page No. 1
+ C130 VPO NIGULSARI TEH NICHAR                    PAN            9736001446  2BG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+23/11/2022S N283659           TO SALE                     2573.64        0.00        2573.64
+25/11/2022J J91286            BY CH 095849                   0.00     2574.20          -0.56
+07/12/2022S N285482           TO SALE                     2395.84        0.00        2395.28
+08/12/2022S N285501           TO SALE                    16887.50        0.00       19282.78
+16/12/2022S N286655           TO SALE                     5143.80        0.00       24426.58
+16/12/2022S N286666           TO SALE                     1212.10        0.00       25638.68
+17/12/2022J J91582            BY TRANS                       0.00    19287.00        6351.68
+17/12/2022J J91591            BY CH 095852                   0.00    19287.00      -12935.32
+19/12/2022S N286968           TO SALE                     5778.32        0.00       -7157.00
+19/12/2022S N286981           TO SALE                      840.00        0.00       -6317.00
+19/12/2022C A205S             BY CASH N286655 S BISHT        0.00     5143.80      -11460.80
+19/12/2022C A205S             BY CASH N286666 S BISHT        0.00     1212.10      -12672.90
+20/12/2022C A101Y             BY CASH N286968 S BISHT        0.00     5778.32      -18451.22
+20/12/2022C A101Y             BY CASH N286981 S BISHT        0.00      840.00      -19291.22
+20/12/2022J J91609            TO WE J91591               19287.00        0.00          -4.22
+21/12/2022S N287356           TO SALE                     4201.54        0.00        4197.32
+21/12/2022S N287391           TO SALE                     5183.45        0.00        9380.77
+23/12/2022S N287620           TO SALE                     2128.00        0.00       11508.77
+23/12/2022S N287633           TO SALE                     2683.30        0.00       14192.07
+23/12/2022C A303S             BY CASH N287356 S BISHT        0.00     4201.54        9990.53
+23/12/2022C A303S             BY CASH N287391 S BISHT        0.00     5183.45        4807.08
+26/12/2022S N287868           TO SALE                     2219.60        0.00        7026.68
+26/12/2022C A205Y             BY CASH N287620 S BISHT        0.00     2128.00        4898.68
+26/12/2022C A205Y             BY CASH N287633 S BISHT        0.00     2683.30        2215.38
+03/01/2023J J91791            BY TRANS                       0.00     2220.00          -4.62
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       4.62        0.00           0.00
+
+                         TOTAL                           70538.71    70538.71           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

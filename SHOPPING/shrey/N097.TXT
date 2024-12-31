@@ -1,0 +1,22 @@
+
+
+A/C H.I.R.D BLOCK COMPLEX RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ N097 VILL TUTU PO DELATH TEH RAMPUR              PAN            9459977143  EGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       5987.86
+08/04/2019C C2                RN36426                        0.00     2000.00        3987.86
+18/04/2019S C547648           TO SALE                     6101.55        0.00       10089.41
+18/04/2019S C547649           TO SALE                     2515.58        0.00       12604.99
+18/04/2019S G240852           TO SALE                     3126.42        0.00       15731.41
+18/04/2019C C1                RN 36700                       0.00     3987.86       11743.55
+15/05/2019C C                 RN37983                        0.00     4000.00        7743.55
+22/05/2019C C1                RN38763                        0.00     2043.55        5700.00
+04/06/2019C C1                RN38882                        0.00     3000.00        2700.00
+06/06/2019C C                 RN39194                        0.00     2700.00           0.00
+
+                         TOTAL                           17731.41    17731.41           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET TIN STATEMENT

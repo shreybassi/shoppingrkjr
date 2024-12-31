@@ -1,0 +1,17 @@
+
+
+A/C DEYS MEDICAL STORE PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ T017 ROYAL CHAMBER KASAULI RD. SEC2              PANAABCD4017E           0   GP
+      AADHAR          0   GSTIN 02AABCD4017E1ZH
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       5270.21
+05/05/2023P DMSPARIU/2324/0013BY PURCHASE                    0.00    28514.90      -23244.69
+21/06/2023J J94090            TO CH 010240               27920.00        0.00        4675.31
+22/06/2023P DMSPARIU/2324/0057BY PURCHASE                    0.00    28987.00      -24311.69
+11/08/2023J J94803            TO CH 010838               28838.00        0.00        4526.31
+15/09/2023P DMSPARCB/2324/0022BY PURCHASE                    0.00    -3103.00        7629.31
+16/09/2023P DMSPARIU/2324/0098BY PURCHASE                    0.00    30651.85      -23022.54
+07/11/2023J J96127            TO CH 010729               27549.00        0.00        4526.46
+
+                         TOTAL                           89577.21    85050.75        4526.46

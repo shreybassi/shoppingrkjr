@@ -1,0 +1,17 @@
+
+
+A/C MUNISH ANAD KARNAL       In M/S RAM KISHAN JIVA RAM Page No. 1
+ X030                                             PAN                     0   GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+20/03/2023J J92666            BY TRANS                       0.00   502110.00     -502110.00
+22/03/2023J J92702            BY TRANS                       0.00    42556.00     -544666.00
+22/03/2023J J92703            TO ON LINE                517432.00        0.00      -27234.00
+30/03/2023J J92826            TO ON LINE                 65753.00        0.00       38519.00
+30/03/2023J J92826            BY TRANS                       0.00    64698.00      -26179.00
+30/03/2023J J92826            BY TRAS                        0.00     4516.00      -30695.00
+31/03/2023J J92867            TO TDS 4TH QTR             30694.00        0.00          -1.00
+
+                         TOTAL                          613879.00   613880.00          -1.00

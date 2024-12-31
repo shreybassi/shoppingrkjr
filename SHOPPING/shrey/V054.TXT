@@ -1,0 +1,36 @@
+
+
+A/C THE SUPREME INDUSTRIES LTD SARSANI      In M/S RAM KISHAN JIVA RAM Page No. 1
+ V054 VILL SERSINI NEAR LALRU AMB CHD HIGHWAY     PANAAACT1344F  9418033431   BG
+      AADHAR          0   GSTIN 03AAACT1344F1ZY
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        -636.36
+13/04/2023J J93131            TO ON LINE                154473.00        0.00      153836.64
+14/04/2023P TSDB2300000113    BY PURCHASE                    0.00   154473.00        -636.36
+06/05/2023J J93427            TO ON LINE                399902.00        0.00      399265.64
+11/05/2023P TSDB2300000852    BY PURCHASE                    0.00   319405.00       79860.64
+11/05/2023E SR2300000313      TO BILL Q601EXP780             0.00    57725.60       22135.04
+05/06/2023P TSSR2300000583    BY PURCHASE                    0.00     2953.00       19182.04
+05/06/2023P TSDB2300001503    BY PURCHASE                    0.00   171342.00     -152159.96
+09/06/2023J J93928            TO ON LINE                152159.00        0.00          -0.96
+09/06/2023J J93928            TO ON LINE                180000.00        0.00      179999.04
+13/06/2023P TSDB2300001726    BY PURCHASE                    0.00   172544.00        7455.04
+27/06/2023J J94178            TO ON LINEE               158573.00        0.00      166028.04
+03/07/2023P TSDB2300002282    BY PURCHASE                    0.00   188800.00      -22771.96
+13/07/2023P TSDB2300002600    BY PURCHASE                    0.00    47200.00      -69971.96
+13/07/2023P TSDB2300002601    BY PURCHASE                    0.00   141600.00     -211571.96
+14/07/2023J J94422            TO ON LINE                211572.00        0.00           0.04
+31/07/2023P TSDB2300003185    BY PURCHASE                    0.00   194700.00     -194699.96
+01/08/2023J J94651            TO ON LINE                194699.00        0.00          -0.96
+18/08/2023J J94890            TO ON LINE                178205.00        0.00      178204.04
+19/08/2023P TSSR2300001422    BY PURCHASE                    0.00    26344.00      151860.04
+19/08/2023P TSDB2300003840    BY PURCHASE                    0.00   151861.00          -0.96
+26/09/2023P TSDB2300005074    BY PURCHASE                    0.00   366980.00     -366980.96
+27/09/2023P TSDB2300005134    BY PURCHASE                    0.00   230100.00     -597080.96
+29/09/2023J J95491            TO ON LINE                597080.00        0.00          -0.96
+07/11/2023J J96122            TO ON LINE                  5530.00        0.00        5529.04
+11/11/2023P TSDB2300006586    BY PURCHASE                    0.00   560746.00     -555216.96
+12/11/2023J J96213            TO ON LINE                560746.00        0.00        5529.04
+
+                         TOTAL                         2792939.00  2787409.96        5529.04

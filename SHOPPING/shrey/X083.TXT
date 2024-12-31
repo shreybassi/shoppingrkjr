@@ -1,0 +1,15 @@
+
+
+A/C NAVKAR STORE AMBALA CITY  In M/S RAM KISHAN JIVA RAM Page No. 1
+ X083 BALAJI SHUKUL KUND ROAD AMBALA CITY         PANAAJFN7566M           0   1G
+      AADHAR          0   GSTIN 06AAJFN7566M1ZK
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+04/04/2022P NS1               BY PURCHASE                    0.00    15641.00      -15641.00
+29/04/2022J J88666            TO CH 9536                 15641.00        0.00           0.00
+09/09/2022P NS50              BY PURCHASE                    0.00    15015.00      -15015.00
+19/09/2022P NT54              BY PURCHASE                    0.00     9322.00      -24337.00
+21/09/2022J J90434            TO CH 010016               24337.00        0.00           0.00
+
+                         TOTAL                           39978.00    39978.00           0.00

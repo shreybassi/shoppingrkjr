@@ -1,0 +1,20 @@
+
+
+A/C HP 22C 4774 KAZA         In M/S RAM KISHAN JIVA RAM Page No. 1
+ G826                                             PAN                     0  ZBG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/06/2019S E172465           TO SALE                     2145.86        0.00        2145.86
+13/06/2019S A164680           TO SALE                    18546.06        0.00       20691.92
+13/06/2019S Q130320           TO SALE                     2611.24        0.00       23303.16
+13/06/2019S Q130321           TO SALE                    12007.60        0.00       35310.76
+24/06/2019C C1                RN39853                        0.00    20000.00       15310.76
+24/06/2019C C1                RN39854                        0.00      310.00       15000.76
+09/07/2019J J-CH              BY CH 174059 Q101              0.00    15000.00           0.76
+
+                         TOTAL                           35310.76    35310.00           0.76
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET TIN STATEMENT

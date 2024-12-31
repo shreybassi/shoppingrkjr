@@ -1,0 +1,62 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ G158 PANMA KUNKHEN                  CHAGO               0.00
+ G006 C D NEGI                       CHANGO          38307.39    24333.93
+ G116 CHHERING G510                  CHANGO           2214.81 0P                                                                  2214.81     2214.81    2214.81     2214.81
+ G141 DORJEY DOLMA                   CHANGO              0.53        0.53        0.53       0.53        0.53
+ G106 K N GENERAL STORE              CHANGO          46080.87    46080.87    46080.87     196.84      196.84
+ G037 KALJANG NORBU                  CHANGO           3511.17     3511.17     3511.17
+ G510 LOBJANG AND SONS               CHANGO         306624.81   269618.76
+ G114 TANPA GIALCHAN                 CHANGO         263459.06   263459.06
+ G062 DHANKAR GOMPA                  DHANKAR          -878.16
+ G173 SONAM DORJEY                   GULLING             0.00
+ G175 TANJIAN ANGDUI                 GULLING             0.00
+ G178 TANJIN CHHATUP                 GULLING          -159.50
+ G165 MADAN SINGH                    HURLING        271787.25   271787.25   166271.17  149112.76
+ G915 VIJAY GEN STORE                HURLING            -1.17
+ G810 *HOTEL RANGYUL                 KAZA             -878.76
+ G161 AAKASH VASU                    KAZA            58063.91    58063.91    38264.09    7048.51
+ A586 CASH ON DELIVERY SM KAZA       KAZA           737771.16    65365.90
+ G172 FATEH SINGH NARAIN SINGH KAZA  KAZA            45429.03    45429.03    45429.03   34991.52
+ G135 GOMPA MESS                     KAZA           410008.56   410008.56   410008.56  410008.56   410008.56
+ G150 GRAND DEWACHAN RESORTS         KAZA            -1904.00
+ G034 HOTEL DEDHEU RETREAT           KAZA                0.14        0.14        0.14       0.14        0.14
+ G121 HOTEL DEYZDR                   KAZA               -0.40
+ G128 HOTEL MANGLAM                  KAZA                0.67        0.67        0.67       0.67
+ G025 HOTEL SNOW LION                KAZA                0.10        0.10        0.10       0.10        0.10
+ G010 HPTDC HOTEL THE SPITI          KAZA            56433.30    56433.30    56433.30   56433.30    56433.30
+ G056 ISHWAR DASS                    KAZA               -0.19
+ G047 KAPIL ENTERPRISES              KAZA             3075.25     3075.25     3075.25    3075.25
+ G124 LOTEY                          KAZA                0.31        0.31        0.31       0.31        0.31
+ G601 PANCHI RAM ROOP SINGH          KAZA           145468.35 0P
+ G800 RAJ KUMAR                      KAZA              217.81      217.81      217.81
+ G137 RAJESH KUMAR                   KAZA           372710.99 0P                                                                372710.99   372710.99  372710.99   372710.99
+ G154 SACHIN KUMAR                   KAZA           100000.10   100000.10   100000.10
+ G019 SAKYA ABODE                    KAZA                0.00
+ G022 SHALZEY BUDDHIST BAKERS        KAZA               -0.02
+ G021 SHARMA GENERAL STORE           KAZA            17860.83    17860.83
+ G067 THAKUR AND SONS                KAZA            25686.03 0P
+ G074 SAPAN FOUNDATION SOCIETY       KAZA GOWANG        20.51       20.51       20.51      20.51       20.51
+ G159 BUDDHIST CULTURAL MESS         KEE GOMPA      101460.03   101460.03   101460.03
+ G140 BUDDHIST CULTURAL SOCIETY      KEE GOMPA       44922.31    44922.31    44922.31
+ G180 CHERRING ANGDUI                KUNGRI             -0.87
+ G174 THUPTEN PHUNTSOK               KUNGRI             -0.20
+ G177 URGIANTHINLAY                  KUNGRI             -0.32
+ G039 NIZER GENERAL STORE            MANE                0.00
+ G183 NAGJEET DORJE                  MIKKIM             -0.20
+ G092 DHANI RAM                      NAKO              548.83      548.83      548.83     548.83      548.83
+ G164 KARAM DASS                     NAKO            20965.55 0P                                                                 20965.55    20965.55   20965.55    20965.55
+ G157 YANKIT                         NAKO            51393.58    51393.58    51393.58   51393.58    51393.58
+ G073 TANGYUD GOMPA BUDHIST SOCIETY  NEW KAZA       357579.48   357579.48   118747.78     426.44
+ G033 TANZIN GENERAL MARCHANT        NEW KAZA        26511.06 0P
+ G914 PALJOR GEN STORE               RANGRIK             0.03        0.03        0.03       0.03
+ G179 FURGU                          SAGNAM              4.12        4.12        4.12       4.12        4.12
+ G182 KUNZANG DORJEY                 SAGNAM             -0.43
+ G024 DORJAY DANDUP NODUP            SAMDHOO             0.52        0.52
+ G827 DECHAN ANGMO W/O DEVA CHAND    TABO             5249.74     5249.74     5249.74    5249.74     5249.74
+ G151 DEWACHEN RESORTS               TABO                0.00
+ G123 LAMA GENERAL STORE             TABO            57923.16    57923.16    57923.16      21.43
+ G181 OM SAI TRADING CO              TABO                0.43        0.43        0.43       0.43
+ G184 PADMA TANDUP                   TAILING            -0.76

@@ -1,0 +1,18 @@
+
+
+A/C RINZIN MINI MART JEORI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ A192 VPO JEORI TEH RAMPUR                        PANAJMPN5548H  9816601222  51G
+      AADHAR          0   GSTIN 02AJMPN5548H1Z2
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/10/2023S N326371           TO SALE                     1373.99        0.00        1373.99
+23/10/2023S N326478           TO SALE                     2815.92        0.00        4189.91
+26/10/2023J J-CH              BY CH 944303 Q103              0.00     4190.00          -0.09
+04/11/2023S N328095           TO SALE                     1484.08        0.00        1483.99
+07/11/2023C A306S             BY CASH N328095 RINZIN M       0.00     1484.08          -0.09
+
+                         TOTAL                            5673.99     5674.08          -0.09
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

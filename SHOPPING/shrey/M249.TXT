@@ -1,0 +1,16 @@
+
+
+A/C RAJINDRA AGRO CHEMICALS RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M249 VPO RAMPUR TEH RAMPU                        PANBVZPS3181H  9805731002  Y0G
+      AADHAR          0   GSTIN 02BVZPS3181H1Z2
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/08/2023S L174142           TO SALE                   100000.02        0.00      100000.02
+10/08/2023C C1                RN46343                        0.00     6500.00       93500.02
+11/08/2023J J94809            BY GOOGLE                      0.00    93500.00           0.02
+
+                         TOTAL                          100000.02   100000.00           0.02
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

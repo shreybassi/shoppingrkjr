@@ -1,0 +1,19 @@
+
+
+A/C SHARMA SPORTS JALANDHAR    In M/S RAM KISHAN JIVA RAM Page No. 1
+ V047 SHOP NO 4 SARANGAL COMPLEX UN BA NAU BAS    PANACCPS7192M           0   1G
+      AADHAR          0   GSTIN 03ACCPS7192M1Z5
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+16/05/2023P SSGA63/2023-2024  BY PURCHASE                    0.00    47107.00      -47107.00
+19/05/2023J J93596            TO CH 298738               47107.00        0.00           0.00
+21/06/2023P SSGA135/2023-2024 BY PURCHASE                    0.00    24000.00      -24000.00
+06/07/2023J J94316            TO CH 298778               24000.00        0.00           0.00
+18/07/2023P SSGA167/2023-2024 BY PURCHASE                    0.00    30040.00      -30040.00
+07/08/2023J J94738            TO CH 010834               30040.00        0.00           0.00
+16/08/2023P SSGA228/2023-2024 BY PURCHASE                    0.00    50640.00      -50640.00
+11/09/2023J J95225            TO CH 010408               50640.00        0.00           0.00
+31/10/2023P SSGA416/2023-2024 BY PURCHASE                    0.00    16490.00      -16490.00
+
+                         TOTAL                          151787.00   168277.00      -16490.00

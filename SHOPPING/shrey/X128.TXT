@@ -1,0 +1,14 @@
+
+
+A/C PARAS NUTRITIONS PVT LTD GHASITPUR    In M/S RAM KISHAN JIVA RAM Page No. 1
+ X128 PO BHITA KH 19/6 VILL GHASITPUR             PANAAFCP9706J           0   0G
+      AADHAR          0   GSTIN 06AAFCP9706J1Z4
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+31/05/2023P PNB/RT/AM1217/2324BY PURCHASE                    0.00   246450.00     -246450.00
+02/06/2023J J93822            TO ON LINE                246450.00        0.00           0.00
+28/06/2023J J94190            TO ON LINE                370000.00        0.00      370000.00
+03/07/2023P PNB/RT/AM1904/2324BY PURCHASE                    0.00   406600.00      -36600.00
+
+                         TOTAL                          616450.00   653050.00      -36600.00

@@ -1,0 +1,22 @@
+
+
+A/C ANOOP BRICE RARANG       In M/S RAM KISHAN JIVA RAM Page No. 1
+ F101 VPO RARANG TEH MOORANG                      PANBTOPB5689Q  8219679886  P1G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+29/09/2023S C630428           TO SALE                    17140.28        0.00       17140.28
+30/09/2023S B550735           TO SALE                   143544.71        0.00      160684.99
+30/09/2023C C52405            TO CASH D167568             1544.81        0.00      162229.80
+30/09/2023C C1                RN49438                        0.00    30000.00      132229.80
+30/09/2023C C1                RN49439                        0.00    30000.00      102229.80
+30/09/2023C C1                RN49440                        0.00    30000.00       72229.80
+30/09/2023C C1                RN49441                        0.00    30000.00       42229.80
+30/09/2023C C1                RN49442                        0.00    30000.00       12229.80
+30/09/2023C C1                RN49443                        0.00    12230.00          -0.20
+
+                         TOTAL                          162229.80   162230.00          -0.20
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

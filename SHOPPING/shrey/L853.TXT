@@ -1,0 +1,22 @@
+
+
+A/C KRISHNA COSMETIC AND PUNJABI G TAPRI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ L853 1ST KINFED BHAWAN                           PANBTTPD2910H  8628893443  K7G
+      AADHAR          0   GSTIN 02BTTPD2910H2ZZ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+24/05/2023S S443294           TO SALE                     6992.36        0.00        6992.36
+02/06/2023J J-CH              BY CH 000073 Q109              0.00     6992.00           0.36
+15/08/2023S S453764           TO SALE                    14455.73        0.00       14456.09
+24/08/2023J J-CH              BY CH 000091 Q109              0.00    14455.00           1.09
+24/10/2023S S463114           TO SALE                     8416.14        0.00        8417.23
+25/10/2023S O108160           TO SALE                     -432.06        0.00        7985.17
+03/11/2023J J-CH              BY CH 000101 Q109              0.00     8416.00        -430.83
+06/11/2023S S464738           TO SALE                     1723.27        0.00        1292.44
+13/11/2023C C                 RN53076                        0.00     1300.00          -7.56
+
+                         TOTAL                           31155.44    31163.00          -7.56
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

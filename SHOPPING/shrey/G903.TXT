@@ -1,0 +1,21 @@
+
+
+A/C ANGRUP FHUNCHOG DEMUL        In M/S RAM KISHAN JIVA RAM Page No. 1
+ G903                                             PAN                     0  Z0G
+      AADHAR 738871977411 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+29/08/2022S L148531           TO SALE                   145353.98        0.00      145353.98
+01/09/2022S O103692           TO SALE                   -33960.00        0.00      111393.98
+02/09/2022C C                 RN19271                        0.00    30000.00       81393.98
+02/09/2022C C                 RN19272                        0.00    20000.00       61393.98
+02/09/2022C C                 RN19273                        0.00    30000.00       31393.98
+02/09/2022C C                 RN19274                        0.00    20000.00       11393.98
+02/09/2022C C                 RN19275                        0.00    11394.00          -0.02
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       0.02        0.00           0.00
+
+                         TOTAL                          111394.00   111394.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,18 @@
+
+
+A/C SANTOSH RAJ POOH         In M/S RAM KISHAN JIVA RAM Page No. 1
+ F812                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+28/11/2022S L155989           TO SALE                     1054.70        0.00        1054.70
+28/11/2022S L156003           TO SALE                     7146.33        0.00        8201.03
+28/11/2022S L156004           TO SALE                    11215.52        0.00       19416.55
+30/11/2022J J91348            BY ON LINE                     0.00    19417.00          -0.45
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       0.45        0.00           0.00
+
+                         TOTAL                           19417.00    19417.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

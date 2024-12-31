@@ -1,0 +1,21 @@
+
+
+A/C ROOP LAL MALI FHALERU      In M/S RAM KISHAN JIVA RAM Page No. 1
+ L032                                             PAN            9418134339  EGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       2366.00
+06/04/2023C C                 RN35690                        0.00     2366.00           0.00
+19/07/2023S S450499           TO SALE                     5594.65        0.00        5594.65
+18/08/2023C C51946            TO CASH                     9000.00        0.00       14594.65
+19/08/2023C C51959            TO CASH                     6000.00        0.00       20594.65
+06/09/2023C C                 RN48529                        0.00    20594.65           0.00
+09/09/2023S T100541           TO SALE                     4750.00        0.00        4750.00
+04/10/2023C C52481            TO CASH B125591              700.00        0.00        5450.00
+16/11/2023C C                 RN53764                        0.00     5450.00           0.00
+
+                         TOTAL                           28410.65    28410.65           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,29 @@
+
+
+A/C SHER SINGH JAGUNI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ O155 VILL JAGUNI PO DHANSA TEH RAMPUR            PAN            8627057382  G0G
+      AADHAR 633591745350 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+12/10/2023S S461457           TO SALE                     4733.88        0.00        4733.88
+13/10/2023C A903S             BY CASH S461457 SHER SIN       0.00     4733.88           0.00
+26/10/2023S S463361           TO SALE                     4893.88        0.00        4893.88
+26/10/2023C A903S             BY CASH S463361 SHER SIN       0.00     4893.88           0.00
+02/11/2023S S464223           TO SALE                     9777.80        0.00        9777.80
+03/11/2023C A903S             BY CASH S464223 SHER SIN       0.00     9777.80           0.00
+08/11/2023S S465065           TO SALE                     5740.92        0.00        5740.92
+09/11/2023S S465136           TO SALE                     3157.92        0.00        8898.84
+10/11/2023S O108345           TO SALE                    -1075.20        0.00        7823.64
+10/11/2023C C1                RN53476                        0.00     7857.00         -33.36
+15/11/2023S S466051           TO SALE                     3577.64        0.00        3544.28
+16/11/2023S S466161           TO SALE                    17199.24        0.00       20743.52
+17/11/2023C C                 RN54718                        0.00    14000.00        6743.52
+23/11/2023S S467028           TO SALE                     9827.75        0.00       16571.27
+24/11/2023C C1                RN55108                        0.00     9137.00        7434.27
+25/11/2023S O108537           TO SALE                     -690.60        0.00        6743.67
+
+                         TOTAL                           57143.23    50399.56        6743.67
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

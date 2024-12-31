@@ -1,0 +1,13 @@
+
+
+A/C RAMAN GOEL AMBALA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ X070                                             PAN                     0   GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+26/03/2022J J88044            BY TRANS                       0.00     7746.00       -7746.00
+29/03/2022J J88087            BY COMM                        0.00     1238.00       -8984.00
+30/03/2022J J88106            TO ON LINE                  8984.00        0.00           0.00
+
+                         TOTAL                            8984.00     8984.00           0.00

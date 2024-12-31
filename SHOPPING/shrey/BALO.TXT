@@ -1,0 +1,17 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ I250 K SONS ENTERPRISES             BERTHIN         -6859.03 0P
+ I086 PARBHU DYAL AND SONS           BHARARIGHAT     56627.69
+ I042 MD SANKHYAN AND BROS           BILASPUR         2779.90 0P
+ N161 EMPLOYES MESS DAKOLAR          DAKOLAR         53336.93    44690.66    30241.37   11760.85
+ I093 MATA SHREE TRADING CO          KANGRA              0.00
+ I032 PUNIT TRADING CO               MANDI               0.00
+ K966 SHOBHA DHABA                   NIRMAND            -1.00
+ I097 CHAINA RAM SANT RAM            PALAMPUR            0.00
+ I166 SK BROTHER                     ROHROO          -3979.83
+ I252 KHANDOLTA MART                 ROHRU             -16.81
+ U162 JP MOTORS                      SOLAN           25790.00 0P
+ I124 JANKI DASS AND SONS            SUNDERNAGAR     22500.00
+ I360 DIVYA GENERAL STORE            THEOG            1403.00     1403.00     1403.00    1403.00     1403.00

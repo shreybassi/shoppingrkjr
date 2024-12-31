@@ -1,0 +1,11 @@
+
+
+A/C NAV BHARAT ROLLER FLOUR MILLS HOSHIARPUR   In M/S RAM KISHAN JIVA RAM Page No. 1
+ V048 HOSHIARPUR                                  PANAABFN0527C           0   1G
+      AADHAR          0   GSTIN 03AABFN0527C1Z4
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/03/2023J J92696            TO TRANS                    5147.00        0.00        5147.00
+
+                         TOTAL                            5147.00        0.00        5147.00

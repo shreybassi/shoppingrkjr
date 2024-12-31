@@ -1,0 +1,129 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ A588 CASH ON DELIVERY SM NMD ARSU U                 21517.58    16317.58
+ K092 ACC SHARMA HARDWARE            ARSU            20087.68 0P                                                                 20087.68    20087.68   20087.68    20087.68
+ K005 AGGARWAL DAILY NEEDS ARSU      ARSU             2425.61     2425.61     2425.61    2425.61
+ K952 ASHI DAILY NEEDS               ARSU                0.00
+ K110 GL AGRO                        ARSU            15776.94    15776.94    15776.94   15776.94    15776.94
+ K021 GOPAL SINGH AND SONS           ARSU           325235.38    67360.23
+ K955 KESHAV RAM                     ARSU               -0.22
+ K007 RADHA PROVISIONAL STORE        ARSU           266914.45    94194.90
+ K037 AMAR SINGH SO MEHAR SINGH      BAGIPUL         48106.03    48106.03
+ K072 BALDEV THAKUR                  BAGIPUL         98852.38    49354.36    49354.36
+ K030 BED RAM                        BAGIPUL            -1.00
+ K034 CHAMAN LAL                     BAGIPUL         72989.88    72989.88    72989.88
+ K055 CHAUHAN DAILY NEEDS            BAGIPUL        136358.42   136358.42   136358.42  136358.42    94941.95
+ K001 KHUSHI RAM AND SONS            BAGIPUL         11214.38     2066.89     2066.89
+ K134 LAMA DHABA                     BAGIPUL          6956.70
+ K094 MOHINDRA HARDWARE STORE        BAGIPUL         19983.38 0P
+ K093 NITU GARMENTS                  BAGIPUL         71054.38    58595.32    31258.93    6953.66
+ K065 RAM LAL BAGIPUL                BAGIPUL         12011.99       84.60
+ K039 RAMESH KUMAR BAGIPUL           BAGIPUL         25929.14    25929.14    25929.14
+ K011 SES RAM ASHOK KUMAR            BAGIPUL          5900.81     5900.81
+ K064 TARA GENERAL STORE             BAGIPUL         67192.30    41134.81
+ J807 MOHAN ENTERPRISES              BAIDHAR          7979.27
+ L025 MOHAR SINGH                    BAIDHAR         34979.70    26573.38     3958.07    3958.07
+ L019 SAMAT RAM                      BAIDHAR         10901.82    10901.82    10901.82    2116.95
+ L005 BHAWANI SINGH                  BANDAL          70893.66    57325.73    25669.88    5217.53
+ L023 HARI RAM                       BANDAL          26751.53     8246.21
+ L001 NATHU RAM                      BANDAL          54683.35    32864.79
+ L010 SHIV RAM                       BANDAL          33712.13    15633.90
+ K049 GIRJU RAM                      BOINI           11460.95    11460.95
+ K022 NATLI NAG TRADING CO           CHUNAGAI        12050.85    12050.85    11222.05
+ K010 SITA DEVI                      CHUNAGAI        81741.00     7148.03     7148.03    7148.03
+ K069 BIR SINGH THAKUR               DAGESH           8844.40 0P
+ U400 RKJR AGENCIES                  DAKOLAR       -237355.36
+ J808 RR SONS DAMELI                 DAMELI          21546.04
+ K147 DHARAM CHAND HUKAM SINGH       DOMALI           8227.91
+ L028 HEMANT BAHADUR RANVIR          FHALERVI         7557.90     7557.90     7557.90    6477.90     6477.90
+ L015 KHAYALI RAM GHATOO             GHATOO              0.31        0.31        0.31       0.31        0.31
+ L034 HUKAM CHAND                    GHATU            9481.77     9481.77     9481.77    1237.73
+ K098 KANIKA DAILY NEED              HIMRABAOLI      13192.05     6064.57     6064.57    6064.57
+ K031 DOLA RAM PURAN CHAND           JAON            14657.68    14657.68    14657.68   14657.68
+ K088 RAMILA AND SONS                JAON            53394.03    53394.03    53394.03   53394.03    53394.03
+ K959 DEEPU RANA                     JHAYARA         36181.27    24811.85     5475.33
+ K025 MOHINDER AND BROTHER           JHYARA          32394.83    32394.83     4809.30    4809.30
+ K033 VINOD GENERAL STORE            JHYARA          30943.51     4723.51
+ K106 AMAR SINGH                     KALARAS           349.84 0P
+ K042 ANSH VANSH DAILY NEEDS         KALARAS         41464.88    41464.88    41464.88   23981.82    23981.82
+ K105 DURGA SINGH                    KALARAS         41421.00    12046.93
+ K051 GANGA SINGH                    KALARAS         55638.07    55638.07    19569.82
+ K045 TULA RAM KALARAS               KALARAS         40415.10    35283.40    15484.97
+ L042 SHEESH PAL                     KATMORI LANJ    44995.74    26027.74
+ L031 DEVENDER SINGH                 KULTHA         129065.39   129065.39
+ L033 RAJA RAM S/O SH KOYA RAM       KULTHA          98332.13    98332.13    15573.67   15573.67    15573.67
+ L020 JAWALA DASS RANVIR SINGH       LANJ            34562.29    27962.97     2380.07    2380.07
+ L038 KUMAT AND BROTHER              LANJ            46991.90
+ K949 ROHIT GENERAL STORE            LANJ            33086.67    30882.87    23372.10   17706.41     4336.74
+ K079 SES RAM AND SONS               MATLA           87655.62    41366.42    41366.42
+ J049 SUSHIL KUMAR SURENDER KUMAR    NIRMAMD         15093.23     6395.90
+ J033 *BHARTI ENTERPISES             NIRMAND        577942.95   577942.95   577942.95  523155.12   218736.30
+ J015 ADARSH GENREAL STORE           NIRMAND        118571.11   103779.72    92944.15   50233.18
+ J051 AMBIKA ENTERPRISES c/o HARNAM  NIRMAND          5869.48     2179.48
+ J064 AMBIKA GENERAL STORE           NIRMAND        226539.40   196481.86   141998.26   41315.99
+ J034 ASHA DEVI                      NIRMAND         73621.66    56173.61    15894.73
+ J021 BALAK RAM                      NIRMAND         48807.99    38761.71    15062.20   11365.47
+ J086 BHARTI ENTERPRISES             NIRMAND        147072.97   114997.52
+ J055 BHIMA RAM                      NIRMAND         31821.76    20197.10
+ J061 C RAJ CAFE GUST HOUSE          NIRMAND            -0.90
+ J002 CHIRANJI LAL BHARTENDU LAL     NIRMAND         14454.77
+ J016 DALEEP KUMAR AND SONS          NIRMAND        173486.20   133870.23    71507.76   34589.78
+ J040 GAP ENTERPRISES                NIRMAND         13266.20     8145.60     5078.26
+ J069 HOTEL DALEEP                   NIRMAND         12842.61    12842.61       91.97
+ J500 HUKAM SINGH                    NIRMAND          7726.77     7726.77     5037.39    5037.39
+ J029 JAIWANTI SHARMA                NIRMAND            -0.39
+ J052 M R AND SONS                   NIRMAND         19062.25    19062.25    19062.25    9072.25
+ J072 MOHAN AND SONS                 NIRMAND        164210.07   150610.66   116539.66   41337.71
+ J020 NAMESH KUMAR  SHARMA           NIRMAND          4995.71     4995.71     4995.71
+ J011 NARENDER SINGH LOCHAN SINGH    NIRMAND             0.30        0.30
+ J043 POONAM GENERAL STORE           NIRMAND             0.52        0.52        0.52       0.52        0.52
+ J010 PREM BHAGWAN RAKESH KUMAR      NIRMAND           -16.55
+ J028 PRITAM GENERAL STORE           NIRMAND         98882.60    78043.10    50333.60   24294.19
+ K881 RINKU GENERAL STORE            NIRMAND            -1.44 0P
+ J037 RUPANSHI GENERAL STORE         NIRMAND         76927.82    60054.28    36825.40   11978.14
+ J075 SAI TRADERS                    NIRMAND         13685.26        0.78        0.78       0.78
+ J013 TABE RAM                       NIRMAND            -0.51
+ J801 TARA CHAND SWEET SHOP          NIRMAND         82428.04    33050.17    23647.81
+ J017 TATVAM SHARMA                  NIRMAND         31013.38    18557.38    18557.38
+ J074 TEK SINGH                      NIRMAND         61501.99    53598.94    19134.71
+ J007 TIKKAM RAM AND BROTHER         NIRMAND        154417.18   123698.18    18812.36   14912.36
+ J032 VIRENDER SHARMA                NIRMAND          3024.23     3024.23
+ J009 YUGAL TRADERS                  NIRMAND        210418.38   146087.74
+ K017 BAZA RAM                       NOR              7176.25     7176.25     6729.99    1078.54
+ K068 SANJEEV KUMAR                  NORE             3265.75
+ K014 DAYA NAND S/O PADAM RAM        REMU           145792.12   145792.12   140513.82  137461.42
+ K085 DULA RAM                       REMU               -0.92
+ K006 JAI KARAN AND SONS             REMU             1063.82 0P
+ K056 JOGINDER SINGH MUKESH KUMAR    REMU            30159.76    27747.26    13079.69   13079.69
+ K086 KR VERMA                       REMU            10174.27    10174.27
+ K016 MEHAR DASS AND SONS            REMU                0.00
+ K866 TEK SINGH                      REMU            74141.40    32780.79    16081.95
+ K087 UTTAM SINGH                    REMU            10483.98    10483.98
+ K029 VERMA DAILY NEEDS              REMU            15720.57    11274.01
+ K084 PADMA GENERAL STORE            SHAIDWAR        34212.41    34212.41
+ K013 HIRA NAND SUNIL KUMAR          SHILABATI       65227.66    26185.68
+ K062 JASHMI DUTT                    SHOACH              0.38 0P                                                                     0.38        0.38       0.38
+ K076 MOHENDER SINGH                 SHOACH          43759.67    43759.67    43759.67   43759.67    43759.67
+ J027 SHYAM SWAROOP KAUSHAL          SIRKOTI         48716.05    17515.91    17515.91    9074.50
+ K060 YAMA NAND                      TANGUR          39295.78    33417.59    27444.65   22472.55
+ L027 JOGI RAM                       THARDHAR        10870.48    10870.48    10870.48
+ K061 BEERU RAM                      TIKARI           8371.75     8371.75
+ K059 HIRA LAL                       TIKARI             18.10       18.10
+ K047 NARESH KUMAR                   TIKARI KAINC    45034.92     4531.45     4531.45
+ K044 PARMOD KUMAR                   TIKRI           14281.16     8754.79
+ L018 CHHATU RAM LAL DASS            URTOO           14982.12     8891.37
+ L016 DHEBA RAM                      URTOO          164398.95   154449.33   135193.35  132498.89   100441.89
+ L007 HARI DASS URTO                 URTOO           29717.46     6758.77
+ L029 KANA RAM ROOP RAM              URTOO           80392.66    80392.66    38983.05
+ J802 KHELU RAM                      URTOO          176083.30     3256.24
+ L006 LAL DASS DOLA SINGH            URTOO           17264.13    17264.13    17264.13    9842.76       10.69
+ L003 MANGAT RAM ASHOK KUMAR         URTOO           91877.76    43897.17     2415.96    2415.96
+ L024 MAST RAM GHATU                 URTOO           19938.37    15510.92    12128.80
+ L011 RAJINDER KUMAR RAVINDER KUMAR  URTOO           74544.17    74544.17    19820.95
+ L008 ROHIT HARDWARE                 URTOO           11694.01    11694.01
+ J806 ROHIT STATIONERY STORE         URTOO           18964.21    18964.21    18964.21   18964.21    18964.21
+ L014 SITA DEVI C/O TANU RAM         URTOO           28608.83    28608.83    27328.83   27328.83    15207.54
+ J803 TULA RAM URTOO                 URTOO            2313.48     2313.48     2313.48    2313.48
+ I250 K SONS ENTERPRISES             BERTHIN         -6859.03 0P

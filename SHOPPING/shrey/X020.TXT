@@ -1,0 +1,14 @@
+
+
+A/C MAA NAINA DEVI RICE AND GENE CHEEKA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ X020 KHUSHALMAJRA ROAD CHEEKA                    PANABLFM4314M  9416039334   GG
+      AADHAR          0   GSTIN 06ABLFM4314M1Z1
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/11/2023P MNSL-69           BY PURCHASE                    0.00  1149373.00    -1149373.00
+22/11/2023P MNSL-68           BY PURCHASE                    0.00  1149373.00    -2298746.00
+24/11/2023P MNSL-70           BY PURCHASE                    0.00  1149373.00    -3448119.00
+24/11/2023J J96433            TO ON LINE               4000000.00        0.00      551881.00
+
+                         TOTAL                         4000000.00  3448119.00      551881.00

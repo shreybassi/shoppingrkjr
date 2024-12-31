@@ -1,0 +1,29 @@
+
+
+A/C CHANDER MOHAN KOYAL        In M/S RAM KISHAN JIVA RAM Page No. 1
+ K814                                             PAN            9418570674  8BG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      20617.56
+07/04/2023J J93067            BY GOOGLE                      0.00    12620.00        7997.56
+08/04/2023C C                 RN7109                         0.00     8000.00          -2.44
+23/06/2023S S447503           TO SALE                     8140.12        0.00        8137.68
+23/06/2023J J94125            BY GOOGLE                      0.00    10000.00       -1862.32
+23/06/2023J J94126            BY GOOGLE                      0.00    12000.00      -13862.32
+24/06/2023S S447615           TO SALE                    18440.70        0.00        4578.38
+05/07/2023J J94299            BY GOOGLE                      0.00     4580.00          -1.62
+10/11/2023S S465474           TO SALE                     3086.64        0.00        3085.02
+11/11/2023S S465571           TO SALE                     4837.42        0.00        7922.44
+11/11/2023C A905S             BY CASH S465474 CHANDER        0.00     3086.64        4835.80
+11/11/2023C A905S             BY CASH S465571 CHANDER        0.00     4837.42          -1.62
+17/11/2023S S466379           TO SALE                     8874.85        0.00        8873.23
+18/11/2023S S466473           TO SALE                    18101.36        0.00       26974.59
+18/11/2023C C1                RN53374                        0.00     3500.00       23474.59
+21/11/2023J J96376            BY GOOGLE                      0.00     3476.00       19998.59
+21/11/2023J J96376            BY GOOGLE                      0.00    20000.00          -1.41
+
+                         TOTAL                           82098.65    82100.06          -1.41
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,13 @@
+
+
+A/C GANESH ENTERPRISES SHIMLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ U155 SHIMLA                                      PANAAPFG0321H           0   0G
+      AADHAR          0   GSTIN 02AAPFG0321H1ZX
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/09/2022J J90435            TO CH 010018              100000.00        0.00      100000.00
+28/09/2022P GEGE/GST/6830/22  BY PURCHASE                    0.00   438899.00     -338899.00
+28/09/2022J J90517            TO CH 010024              338899.00        0.00           0.00
+
+                         TOTAL                          438899.00   438899.00           0.00

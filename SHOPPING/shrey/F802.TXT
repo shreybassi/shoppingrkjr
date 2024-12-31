@@ -1,0 +1,23 @@
+
+
+A/C SAROJ KUMARI MOORANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F802                                             PAN                     0  PGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+07/04/2023S S437146           TO SALE                     6122.18        0.00        6122.18
+07/04/2023S S437160           TO SALE                     1071.68        0.00        7193.86
+28/04/2023J J93311            BY ON LINE                     0.00     7000.00         193.86
+01/05/2023J J93343            BY ON LINE                     0.00    25000.00      -24806.14
+04/05/2023J J93400            TO WE                      25000.00        0.00         193.86
+12/08/2023S L174332           TO SALE                     1402.21        0.00        1596.07
+12/08/2023S L174336           TO SALE                    10580.00        0.00       12176.07
+20/09/2023J J95348            BY ON LINE                     0.00    11982.00         194.07
+22/11/2023S L181671           TO SALE                    20665.20        0.00       20859.27
+22/11/2023S L181672           TO SALE                     3855.50        0.00       24714.77
+
+                         TOTAL                           68696.77    43982.00       24714.77
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

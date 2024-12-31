@@ -1,0 +1,31 @@
+
+
+A/C BS NEGI AND SONS JAGUNI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ O157 VILL JAGUNI PO DHANSA TEH RAMPUR            PAN            8580699523  G0G
+      AADHAR 253962971900 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+11/10/2023S S461355           TO SALE                     1008.70        0.00        1008.70
+12/10/2023S S461458           TO SALE                     2265.76        0.00        3274.46
+13/10/2023C A903S             BY CASH S461355 BS NEGI        0.00     1008.70        2265.76
+13/10/2023C A903S             BY CASH S461458 BS NEGI        0.00     2265.76           0.00
+18/10/2023S S462266           TO SALE                      745.60        0.00         745.60
+19/10/2023S S462384           TO SALE                     3318.16        0.00        4063.76
+20/10/2023C C                 RN50620                        0.00     4064.00          -0.24
+25/10/2023S S463227           TO SALE                     3036.12        0.00        3035.88
+26/10/2023S S463363           TO SALE                      853.76        0.00        3889.64
+26/10/2023C A903S             BY CASH S463227 BS NEGI        0.00     3036.12         853.52
+26/10/2023C A903S             BY CASH S463363 BS NEGI        0.00      853.76          -0.24
+08/11/2023S S465066           TO SALE                     2895.32        0.00        2895.08
+09/11/2023S S465138           TO SALE                     1940.80        0.00        4835.88
+10/11/2023C C1                RN53477                        0.00     4618.00         217.88
+16/11/2023S O108440           TO SALE                     -218.06        0.00          -0.18
+22/11/2023S S466969           TO SALE                     3095.71        0.00        3095.53
+23/11/2023S S467027           TO SALE                     2116.85        0.00        5212.38
+24/11/2023C C1                RN55110                        0.00     4097.00        1115.38
+
+                         TOTAL                           21058.72    19943.34        1115.38
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

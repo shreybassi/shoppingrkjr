@@ -1,0 +1,20 @@
+
+
+A/C SHIV TEXTILES AMBALA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ X041 AMBALA                                      PANAAQPB0943D           0   GG
+      AADHAR          0   GSTIN 06AAQPB0943D1Z4
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       -6762.00
+10/05/2023P ST122             BY PURCHASE                    0.00     2982.00       -9744.00
+14/06/2023P ST276             BY PURCHASE                    0.00     5964.00      -15708.00
+10/07/2023P ST333             BY PURCHASE                    0.00     2982.00      -18690.00
+11/09/2023P ST433             BY PURCHASE                    0.00     5964.00      -24654.00
+18/09/2023J J95322            TO CH 10416                24654.00        0.00           0.00
+22/09/2023P ST498             BY PURCHASE                    0.00     9136.00       -9136.00
+09/10/2023P ST564             BY PURCHASE                    0.00     4726.00      -13862.00
+30/10/2023P ST669             BY PURCHASE                    0.00     2247.00      -16109.00
+16/11/2023P ST793             BY PURCHASE                    0.00     4494.00      -20603.00
+24/11/2023P ST                BY PURCHASE                    0.00     1764.00      -22367.00
+
+                         TOTAL                           24654.00    47021.00      -22367.00

@@ -1,0 +1,23 @@
+
+
+A/C NIKKA MAL PAWAN KUMAR AMRITSAR     In M/S RAM KISHAN JIVA RAM Page No. 1
+ V034 SHOP NO. 7 IST FLOOR KHANNA MK              PANACWPK5784B           0   BG
+      AADHAR          0   GSTIN 03ACWPK5784B1ZE
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+05/04/2023P NMNP/23-24/2      BY PURCHASE                    0.00    26890.00      -26890.00
+20/04/2023J J93218            TO CH 10560                26890.00        0.00           0.00
+29/04/2023P NMNP/23-24/176    BY PURCHASE                    0.00    74056.00      -74056.00
+18/05/2023J J93581            TO CH 010598               74056.00        0.00           0.00
+25/05/2023P NMNP/23-24/356    BY PURCHASE                    0.00    34906.00      -34906.00
+15/06/2023J J94008            TO CH 10235                34906.00        0.00           0.00
+27/06/2023P NMNP/23-24/561    BY PURCHASE                    0.00    27463.00      -27463.00
+18/07/2023P NMNP/23-24/687    BY PURCHASE                    0.00    60403.00      -87866.00
+10/08/2023J J94789            TO CH 010837               87866.00        0.00           0.00
+22/09/2023P NMNP/23-24/1106   BY PURCHASE                    0.00    52576.00      -52576.00
+30/09/2023P NKNP/23-24/1178   BY PURCHASE                    0.00    22261.00      -74837.00
+07/10/2023J J95629            TO CH 10447                74837.00        0.00           0.00
+21/11/2023P NPNO/23-24/1480   BY PURCHASE                    0.00    42963.00      -42963.00
+
+                         TOTAL                          298555.00   341518.00      -42963.00

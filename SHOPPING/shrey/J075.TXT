@@ -1,0 +1,25 @@
+
+
+A/C SAI TRADERS NIRMAND      In M/S RAM KISHAN JIVA RAM Page No. 1
+ J075 VPO NIRMAND TEH NIRMAND                     PANAFLPS0111E  8219455068  N1H
+      AADHAR          0   GSTIN 02AFLPS0111E1Z4
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+15/06/2023S S446346           TO SALE                     2449.68        0.00        2449.68
+16/06/2023S S446433           TO SALE                      625.00        0.00        3074.68
+24/06/2023C C                 RN43016                        0.00     3075.00          -0.32
+24/08/2023S S454846           TO SALE                      307.74        0.00         307.42
+28/08/2023S O107549           TO SALE                     -307.74        0.00          -0.32
+15/09/2023S S457656           TO SALE                     6032.35        0.00        6032.03
+12/10/2023S S461557           TO SALE                      931.72        0.00        6963.75
+12/10/2023J J95706            BY GOGLE                       0.00     6032.00         931.75
+13/10/2023S S461654           TO SALE                     7769.03        0.00        8700.78
+20/11/2023J J96351            BY GOOGLE                      0.00     8700.00           0.78
+23/11/2023S S467074           TO SALE                     1438.66        0.00        1439.44
+24/11/2023S S467200           TO SALE                    12245.82        0.00       13685.26
+
+                         TOTAL                           31492.26    17807.00       13685.26
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

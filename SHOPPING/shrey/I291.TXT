@@ -1,0 +1,31 @@
+
+
+A/C SHER SINGH ROHRU        In M/S RAM KISHAN JIVA RAM Page No. 1
+ I291 VPO ROHRU TEH ROHRU                         PAN                     0   0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+30/09/2023P LPA8193           BY PURCHASE                    0.00    69620.40      -69620.40
+30/09/2023J J95505            TO CH 298847               69620.00        0.00          -0.40
+18/10/2023P LPA8212           BY PURCHASE                    0.00   119320.80     -119321.20
+19/10/2023J J95808            TO CH 298872              119320.00        0.00          -1.20
+25/10/2023P LPA8215           BY PURCHASE                    0.00   147282.48     -147283.68
+25/10/2023J J95899            TO CH NO 298876           147281.00        0.00          -2.68
+28/10/2023P LPA8232           BY PURCHASE                    0.00    41762.28      -41764.96
+30/10/2023J J95963            TO CH 298880               41760.00        0.00          -4.96
+31/10/2023P LPA8233           BY PURCHASE                    0.00   224639.92     -224644.88
+31/10/2023J J95989            TO CH 298882              224638.00        0.00          -6.88
+06/11/2023P LPA8284           BY PURCHASE                    0.00    39703.50      -39710.38
+07/11/2023J J96124            TO CH 334162               39700.00        0.00         -10.38
+12/11/2023P LPA8402           BY PURCHASE                    0.00   199110.98     -199121.36
+13/11/2023J J96221            TO CH 334173              199110.00        0.00         -11.36
+21/11/2023P LPA8440           BY PURCHASE                    0.00   119101.68     -119113.04
+21/11/2023J J96366            TO CH 334178              119100.00        0.00         -13.04
+23/11/2023P LPA8447           BY PURCHASE                    0.00   336015.54     -336028.58
+24/11/2023J J96424            TO CH 334181              336010.00        0.00         -18.58
+
+                         TOTAL                         1296539.00  1296557.58         -18.58
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

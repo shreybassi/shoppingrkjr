@@ -1,0 +1,28 @@
+
+
+A/C LAIQ RAM AND BROS BARAGAON     In M/S RAM KISHAN JIVA RAM Page No. 1
+ I532 VILL.   PO BARAGAON VIA KINGAL              PANAAJPV6210E  9418464265  97V
+      AADHAR          0   GSTIN 02AAJPV6210E1Z1
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+08/04/2023S S437265           TO SALE                    13410.26        0.00       13410.26
+10/04/2023S S437372           TO SALE                     7703.25        0.00       21113.51
+13/04/2023J CN3065            BY CN 3065                     0.00       52.00       21061.51
+18/04/2023J J93183            BY CH 597770                   0.00    21113.00         -51.49
+21/07/2023J CN3106            BY CN 3106                     0.00       98.00        -149.49
+02/09/2023S S456081           TO SALE                     6632.37        0.00        6482.88
+04/09/2023S S456144           TO SALE                     1236.79        0.00        7719.67
+05/09/2023C C                 RN48132                        0.00     1603.00        6116.67
+06/09/2023J J95162            BY TRANS                       0.00     6265.85        -149.18
+16/09/2023S S457894           TO SALE                     6992.28        0.00        6843.10
+16/09/2023S S457939           TO SALE                     3856.85        0.00       10699.95
+16/09/2023J J95307            TO CH 451307                   0.00     7869.00        2830.95
+23/09/2023S S458805           TO SALE                     1359.96        0.00        4190.91
+28/09/2023S O107851           TO SALE                     -160.02        0.00        4030.89
+17/10/2023J J95788            BY ON LINE                     0.00     4031.00          -0.11
+
+                         TOTAL                           41031.74    41031.85          -0.11
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

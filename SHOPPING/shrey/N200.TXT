@@ -1,0 +1,28 @@
+
+
+A/C AGGARWAL HARDWARES DAKOLAR      In M/S RAM KISHAN JIVA RAM Page No. 1
+ N200 VPO RAMPUR TEH RAMPUR                       PANABOFM5925H  9857958200  EGH
+      AADHAR          0   GSTIN 02ABOFM5925H1Z6
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+07/04/2023E AH13              BILL R084EXP705                0.00     4004.95       -4004.95
+29/04/2023E AH17              BILL R049EXP758                0.00     3885.01       -7889.96
+29/04/2023E AH3               BILL R049EXP757                0.00     2800.00      -10689.96
+13/05/2023S P230478           TO SALE                     4959.82        0.00       -5730.14
+01/07/2023S L171593           TO SALE                     9028.06        0.00        3297.92
+07/07/2023J J94331            BY ON LINE                     0.00    14758.00      -11460.08
+08/08/2023S P230970           TO SALE                    12302.54        0.00         842.46
+10/08/2023J J94787            BY ON LINE                     0.00       41.00         801.46
+14/08/2023E AH202             BILL R049EXP970                0.00      802.00          -0.54
+19/09/2023S P231234           TO SALE                     6868.77        0.00        6868.23
+13/10/2023S P231393           TO SALE                     6159.17        0.00       13027.40
+14/10/2023E AH254             BILL H/W                       0.00     8526.00        4501.40
+18/10/2023E AH346             BILL EXP116 H/W                0.00      162.00        4339.40
+20/11/2023S P231587           TO SALE                    15940.34        0.00       20279.74
+24/11/2023J J96422            BY ON LINE                     0.00    15940.00        4339.74
+
+                         TOTAL                           55258.70    50918.96        4339.74
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,17 @@
+
+
+A/C VIKRANT SINGH F015 LAMBER       In M/S RAM KISHAN JIVA RAM Page No. 1
+ F974                                             PAN                     0  PGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+17/11/2022S L154995           TO SALE                    21053.85        0.00       21053.85
+17/11/2022S L154996           TO SALE                    12189.52        0.00       33243.37
+29/11/2022J J91328            BY ON LINE                     0.00    33242.00           1.37
+08/02/2023J MINBAL            BY MINOR BALANCE TRANSFE       0.00        1.37           0.00
+
+                         TOTAL                           33243.37    33243.37           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

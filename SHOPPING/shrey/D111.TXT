@@ -1,0 +1,19 @@
+
+
+A/C DEEKAY GENERAL STORE SANGLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ D111 PROP RAM BHAGAT VILL.  PO SANGLA            PANAQOPB7848K  9816692666  SBG
+      AADHAR 414574024939 GSTIN 02AQOPB7848K1ZK
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+12/04/2023S S437791           TO SALE                    61376.99        0.00       61376.99
+12/04/2023S S437801           TO SALE                    10293.47        0.00       71670.46
+18/04/2023J J-CH              BY CH 635797 Q106              0.00    71670.00           0.46
+02/08/2023S S452090           TO SALE                    82541.45        0.00       82541.91
+03/08/2023S S452269           TO SALE                   116491.83        0.00      199033.74
+07/08/2023J J-CH              BY CH 640221 Q106              0.00   199033.00           0.74
+
+                         TOTAL                          270703.74   270703.00           0.74
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

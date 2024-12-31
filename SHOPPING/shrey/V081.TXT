@@ -1,0 +1,12 @@
+
+
+A/C VINOD KUMAR AND ASSOCIATES CHANDIGARH   In M/S RAM KISHAN JIVA RAM Page No. 1
+ V081 SCO 705 1ST FLOOR NAC MANIMAJRA CHD         PANAADFV0820A           0   GG
+      AADHAR          0   GSTIN 04AADFV0820A1Z0
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+16/09/2023E VA0032            BILL R030EXP047                0.00    25960.00      -25960.00
+18/09/2023J J95321            TO ON LINE                 25960.00        0.00           0.00
+
+                         TOTAL                           25960.00    25960.00           0.00

@@ -1,0 +1,23 @@
+
+
+A/C VISHWANATH NEGI RISPA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F010 VILL & PO RISPA DISTT KINNAUR               PAN            9816610065  P0G
+      AADHAR 705729407122 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       7219.25
+03/04/2023S L164757           TO SALE                   107040.50        0.00      114259.75
+03/04/2023S L164758           TO SALE                    84946.22        0.00      199205.97
+25/04/2023J J93274            TO BNO S438869              3434.50        0.00      202640.47
+24/06/2023J J94139            TO BILL S445417            15926.40        0.00      218566.87
+01/08/2023J J94645            BY ON LINE                     0.00   218566.87           0.00
+18/08/2023S L174625           TO SALE                    14845.92        0.00       14845.92
+18/08/2023S L174643           TO SALE                   126826.46        0.00      141672.38
+07/10/2023S S460770           TO SALE                   112129.58        0.00      253801.96
+16/11/2023J J-CH              BY CH 000247 Q109              0.00   200000.00       53801.96
+21/11/2023J J-CH              BY CH 000248 Q109              0.00   100000.00      -46198.04
+
+                         TOTAL                          472368.83   518566.87      -46198.04
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

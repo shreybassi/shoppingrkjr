@@ -1,0 +1,22 @@
+
+
+A/C RAJ KUMAR CHUNJA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I151 VILL CHUNJA PO DELATH                       PAN            8894676400  c0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+11/11/2023S L180832           TO SALE                      557.10        0.00         557.10
+11/11/2023S L180833           TO SALE                     4886.31        0.00        5443.41
+11/11/2023S L180838           TO SALE                    38328.89        0.00       43772.30
+11/11/2023S L180839           TO SALE                    76401.66        0.00      120173.96
+18/11/2023S L181493           TO SALE                    16677.90        0.00      136851.86
+18/11/2023C C                 RN53772                        0.00   100000.00       36851.86
+22/11/2023C C                 RN53395                        0.00    35000.00        1851.86
+23/11/2023S L181873           TO SALE                    21585.00        0.00       23436.86
+23/11/2023S L181874           TO SALE                    24209.56        0.00       47646.42
+
+                         TOTAL                          182646.42   135000.00       47646.42
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

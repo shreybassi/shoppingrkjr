@@ -1,0 +1,25 @@
+
+
+A/C TANJIN TANDUP DEMUL        In M/S RAM KISHAN JIVA RAM Page No. 1
+ G902 R/O DEMUL                                   PAN                     0  Z0G
+      AADHAR 780786873051 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+29/08/2022S L148532           TO SALE                   184059.90        0.00      184059.90
+02/09/2022C C                 RN19269                        0.00    50000.00      134059.90
+02/09/2022C C                 RN19270                        0.00     1758.00      132301.90
+02/09/2022J J90181            BY GOOGLE                      0.00    42668.00       89633.90
+02/09/2022J J-CH              BY CH 659018 Q101              0.00     5830.00       83803.90
+02/09/2022J J-CH              BY CH 435221 Q101              0.00     5440.00       78363.90
+02/09/2022J J-CH              BY CH 124516 Q101              0.00    23926.00       54437.90
+02/09/2022J J-CH              BY CH 096596 Q101              0.00    19426.00       35011.90
+02/09/2022J J-CH              BY CH 624945 Q101              0.00    11230.00       23781.90
+02/09/2022J J-CH              BY CH 257319 Q101              0.00    17570.00        6211.90
+12/09/2022J J90321            BY GOOGLE                      0.00     6200.00          11.90
+13/02/2023J MINBAL            BY MINOR BALANCE TRANSFE       0.00       11.90           0.00
+
+                         TOTAL                          184059.90   184059.90           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

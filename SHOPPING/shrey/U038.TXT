@@ -1,0 +1,14 @@
+
+
+A/C POOJA INDUSTRIES PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U038 PLOT NO 75 SEC 1PARWANOO                    PANAAGFP3843G  9816066152   GG
+      AADHAR          0   GSTIN 02AAGFP3843G2ZH
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+19/05/2023P PI524             BY PURCHASE                    0.00    11907.00      -11907.00
+08/06/2023J J93913            TO CH 10465                11907.00        0.00           0.00
+31/10/2023P PI31268           BY PURCHASE                    0.00   262500.00     -262500.00
+18/11/2023J J96332            TO CH 10676               262500.00        0.00           0.00
+
+                         TOTAL                          274407.00   274407.00           0.00

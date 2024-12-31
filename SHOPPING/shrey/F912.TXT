@@ -1,0 +1,17 @@
+
+
+A/C PRABHU LAL  G072 KANAM        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F912                                             PAN                     0  PGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+01/12/2022S L156391           TO SALE                    27605.89        0.00       27605.89
+01/12/2022S L156392           TO SALE                    22816.83        0.00       50422.72
+09/12/2022J J91477            BY ON LINE                     0.00    51821.00       -1398.28
+15/12/2022J J91561            TO TRANS                    1398.28        0.00           0.00
+
+                         TOTAL                           51821.00    51821.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,22 @@
+
+
+A/C SITA DEVI CO TANU RAM FOR URTOO        In M/S RAM KISHAN JIVA RAM Page No. 1
+ L041 VPO URTOO TEH NIRMAND                       PAN            9418401540  X0G
+      AADHAR 699803463214 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       7385.04
+04/04/2023C C1                RN35572                        0.00     2500.00        4885.04
+07/04/2023C C                 RN35596                        0.00     5000.00        -114.96
+17/05/2023S S442351           TO SALE                     5450.87        0.00        5335.91
+18/05/2023S S442441           TO SALE                     2604.96        0.00        7940.87
+29/05/2023J J93725            BY TRANS                       0.00     6000.00        1940.87
+28/07/2023J J94592            BY GOOGLE                      0.00     1941.00          -0.13
+25/10/2023S S463249           TO SALE                      403.20        0.00         403.07
+26/10/2023S S463344           TO SALE                      880.58        0.00        1283.65
+14/11/2023J J96238            BY TRANS                       0.00     1280.00           3.65
+
+                         TOTAL                           16724.65    16721.00           3.65
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

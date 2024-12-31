@@ -1,0 +1,32 @@
+
+
+A/C HOLY LAND MARKETING  PVT LTD SAS NAGAR    In M/S RAM KISHAN JIVA RAM Page No. 1
+ V108 VILL DHAKOLI TEH ZIRAKPUR                   PANAAACH1632E           0   0G
+      AADHAR          0   GSTIN 03AAACH1632E1ZD
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+07/04/2023P HLZIR/23-24/23    BY PURCHASE                    0.00   299189.00     -299189.00
+13/04/2023J J93131            TO ON LINE                299189.00        0.00           0.00
+05/05/2023P HLZIR/23-24/282   BY PURCHASE                    0.00   115635.00     -115635.00
+13/05/2023J J93517            TO ONLINE                 115635.00        0.00           0.00
+09/06/2023P HLZIR/23-24/611   BY PURCHASE                    0.00   128180.00     -128180.00
+17/06/2023J J94052            TO ON LINE                128180.00        0.00           0.00
+22/06/2023P HLZIR/23-24/686   BY PURCHASE                    0.00    25217.00      -25217.00
+23/06/2023J J94128            TO ON LINE                 25217.00        0.00           0.00
+07/07/2023P HLZIR/23-24/896   BY PURCHASE                    0.00   217445.00     -217445.00
+13/07/2023J J94408            TO ON LINE                217445.00        0.00           0.00
+19/07/2023P HLZIR/23-24/1035  BY PURCHASE                    0.00    11176.00      -11176.00
+10/08/2023P HLZIR/23-24/1273  BY PURCHASE                    0.00   224599.00     -235775.00
+16/08/2023J J94854            TO ON LINE                235775.00        0.00           0.00
+15/09/2023P HLZIR/23-24/1610  BY PURCHASE                    0.00   228336.00     -228336.00
+22/09/2023J J95381            TO ON LINE                228336.00        0.00           0.00
+30/09/2023P HLZIR/23-24/1751  BY PURCHASE                    0.00    12416.00      -12416.00
+09/10/2023P HLZIR/23-24/1808  BY PURCHASE                    0.00   225500.00     -237916.00
+12/10/2023J J95704            TO ON LINE                237916.00        0.00           0.00
+19/10/2023P HLZIR/23-24/1907  BY PURCHASE                    0.00     9151.00       -9151.00
+23/10/2023P HLZIR/23-24/1969  BY PURCHASE                    0.00     6384.00      -15535.00
+07/11/2023P HLZIR/23-24/2096  BY PURCHASE                    0.00   231555.00     -247090.00
+16/11/2023J J96304            TO ON LINE                247090.00        0.00           0.00
+
+                         TOTAL                         1734783.00  1734783.00           0.00

@@ -1,0 +1,15 @@
+
+
+A/C MODERN FEED INDUSTRIES KURUKSHETRA  In M/S RAM KISHAN JIVA RAM Page No. 1
+ X029 86-89 IND. AREA SEC.2 KURUKASHETRA PIPLI    PANAAHFM1915D           0   BG
+      AADHAR          0   GSTIN 06AAHFM1915D1ZP
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+31/10/2023J J95993            TO ON LINE                161000.00        0.00      161000.00
+31/10/2023P MFMFI/0602        BY PURCHASE                    0.00   161000.00           0.00
+01/11/2023P MFMFI/0602        BY PURCHASE                    0.00   161000.00     -161000.00
+02/11/2023P MFMFI/0602        BY PURCHASE                    0.00  -161000.00           0.00
+20/11/2023P MFMFI/0673        BY PURCHASE                    0.00   161000.00     -161000.00
+
+                         TOTAL                          161000.00   322000.00     -161000.00

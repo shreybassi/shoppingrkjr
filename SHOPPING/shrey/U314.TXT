@@ -1,0 +1,19 @@
+
+
+A/C J S MARKITING PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U314 PLOT NO 25 SEC 1 INDS AERA OPP HRTC S/S     PANBECPP4408J           0   GP
+      AADHAR          0   GSTIN 02BECPP4408J1ZQ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+25/04/2023P JSJSMG/0068/23-24 BY PURCHASE                    0.00   139940.00     -139940.00
+02/05/2023P JSJSMG/0100/23-24 BY PURCHASE                    0.00    18438.00     -158378.00
+02/05/2023J J93351            TO CH 10288               139940.00        0.00      -18438.00
+11/05/2023J J93490            TO CH NO 10296             18438.00        0.00           0.00
+31/05/2023P JSJSMG/0175/23-24 BY PURCHASE                    0.00   150888.00     -150888.00
+31/05/2023P JSJSMG/0176/23-24 BY PURCHASE                    0.00     9347.00     -160235.00
+05/06/2023J J93872            TO CH 10463               160235.00        0.00           0.00
+20/06/2023P JSJSMG/0243/23-24 BY PURCHASE                    0.00   132744.00     -132744.00
+26/06/2023J J94166            TO CH NO 10481            132744.00        0.00           0.00
+
+                         TOTAL                          451357.00   451357.00           0.00

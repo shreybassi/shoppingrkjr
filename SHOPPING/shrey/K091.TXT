@@ -1,0 +1,29 @@
+
+
+A/C DHANVIR SINGH DOMEHLI      In M/S RAM KISHAN JIVA RAM Page No. 1
+ K091                                             PAN            9418694276  EGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       5971.77
+24/04/2023S B543973           TO SALE                     2347.50        0.00        8319.27
+24/04/2023S B543974           TO SALE                      461.63        0.00        8780.90
+05/05/2023S C627618           TO SALE                     1864.75        0.00       10645.65
+05/05/2023S G286343           TO SALE                     2996.02        0.00       13641.67
+09/05/2023S B544671           TO SALE                    35656.82        0.00       49298.49
+09/05/2023S B544672           TO SALE                    18880.11        0.00       68178.60
+09/05/2023C C50822            TO CASH B307867             3578.01        0.00       71756.61
+10/05/2023S B544725           TO SALE                     2713.16        0.00       74469.77
+25/05/2023J J93670            BY UPI                         0.00    50000.00       24469.77
+28/09/2023J J95479            BY GOOGLE                      0.00    23000.00        1469.77
+28/09/2023J J95479            BY DISC                        0.00     1469.77           0.00
+13/10/2023S C630704           TO SALE                     9269.26        0.00        9269.26
+13/10/2023S C630705           TO SALE                     8419.16        0.00       17688.42
+13/10/2023S C630706           TO SALE                    24722.68        0.00       42411.10
+13/10/2023C C52599            TO CASH B346118             2457.11        0.00       44868.21
+09/11/2023S B552500           TO SALE                     2960.00        0.00       47828.21
+
+                         TOTAL                          122297.98    74469.77       47828.21
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

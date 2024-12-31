@@ -1,0 +1,41 @@
+
+
+A/C ASHOKA COPY HOUSE PANCHKULA    In M/S RAM KISHAN JIVA RAM Page No. 1
+ X039 PLOT NO 328 INDS AREA PHASE 11 PANCHKULA    PANABQFA0602H  9876611598   GG
+      AADHAR          0   GSTIN 06ABQFA0602H1ZS
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+07/04/2023P AC255             BY PURCHASE                    0.00    20449.00      -20449.00
+10/04/2023P AC403             BY PURCHASE                    0.00    14401.00      -34850.00
+13/04/2023J J93132            TO ON LINE                 34850.00        0.00           0.00
+14/04/2023P AC788             BY PURCHASE                    0.00    45002.00      -45002.00
+19/04/2023J J93205            TO ON LINE                 45002.00        0.00           0.00
+24/04/2023P AC1312            BY PURCHASE                    0.00    29665.00      -29665.00
+06/05/2023P AC1903            BY PURCHASE                    0.00    65406.00      -95071.00
+09/05/2023P AC1996            BY PURCHASE                    0.00    23167.00     -118238.00
+13/05/2023J J93520            TO ONLINE                 118238.00        0.00           0.00
+30/05/2023P AC3163            BY PURCHASE                    0.00    36822.00      -36822.00
+03/06/2023J J93844            TO ON LINE                 36822.00        0.00           0.00
+10/06/2023P AC3545            BY PURCHASE                    0.00    43752.00      -43752.00
+24/06/2023J J94140            TO ON LINE                 43752.00        0.00           0.00
+28/06/2023P AC4322            BY PURCHASE                    0.00    50891.00      -50891.00
+07/07/2023P AC4852            BY PURCHASE                    0.00    13746.00      -64637.00
+14/07/2023J J94423            TO ON LINE                 64637.00        0.00           0.00
+21/07/2023P AC4983            BY PURCHASE                    0.00    91827.00      -91827.00
+21/07/2023P AC4986            BY PURCHASE                    0.00     5320.00      -97147.00
+22/07/2023P ACH4986           BY PURCHASE                    0.00     3990.00     -101137.00
+22/07/2023P AC4986R           BY PURCHASE                    0.00    -5320.00      -95817.00
+03/08/2023J J94692            TO ON LINE                 95817.00        0.00           0.00
+12/08/2023P AC6318            BY PURCHASE                    0.00    26675.00      -26675.00
+29/08/2023P AC7530            BY PURCHASE                    0.00   135969.00     -162644.00
+08/09/2023J J95194            TO ON LINE                162644.00        0.00           0.00
+26/09/2023P AC8903            BY PURCHASE                    0.00    66270.00      -66270.00
+09/10/2023P AC9490            BY PURCHASE                    0.00    38100.00     -104370.00
+12/10/2023J J95703            TO ON LINE                104370.00        0.00           0.00
+18/10/2023P AC9949            BY PURCHASE                    0.00    63087.00      -63087.00
+28/10/2023P AC10538           BY PURCHASE                    0.00    65819.00     -128906.00
+04/11/2023P AC11012           BY PURCHASE                    0.00    23812.00     -152718.00
+16/11/2023J J96304            TO ON LINE                152718.00        0.00           0.00
+
+                         TOTAL                          858850.00   858850.00           0.00

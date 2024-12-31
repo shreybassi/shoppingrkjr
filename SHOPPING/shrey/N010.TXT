@@ -1,0 +1,34 @@
+
+
+A/C SANJIVANI MEDICAL STORE KHANERI      In M/S RAM KISHAN JIVA RAM Page No. 1
+ N010 C/O NICHOLSON AGENCY                        PANAUKPA7421K  9418033360  FBG
+      AADHAR          0   GSTIN 02AUKPA7421K1ZW
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       4949.75
+18/04/2023S R251352           TO SALE                     2422.28        0.00        7372.03
+19/04/2023S B543728           TO SALE                     1591.02        0.00        8963.05
+20/04/2023J J93225            BY ON LINE                     0.00     8963.05           0.00
+28/04/2023S R251421           TO SALE                     2422.28        0.00        2422.28
+25/05/2023S R251613           TO SALE                     2422.28        0.00        4844.56
+12/06/2023S B546121           TO SALE                      525.50        0.00        5370.06
+12/06/2023S R251723           TO SALE                     2422.28        0.00        7792.34
+12/06/2023J J93971            BY ON LINE                     0.00     4844.56        2947.78
+20/06/2023S R251794           TO SALE                     2422.28        0.00        5370.06
+08/07/2023S R251889           TO SALE                     2422.28        0.00        7792.34
+11/07/2023J J94373            BY ON LINE                     0.00     7792.34           0.00
+29/07/2023S T100289           TO SALE                      530.08        0.00         530.08
+03/08/2023S R252052           TO SALE                     2422.28        0.00        2952.36
+14/08/2023S R252127           TO SALE                     2422.28        0.00        5374.64
+01/09/2023S R252227           TO SALE                     2532.24        0.00        7906.88
+19/09/2023S B550243           TO SALE                      227.70        0.00        8134.58
+29/09/2023J J95495            BY ON LINE                     0.00     8134.58           0.00
+11/10/2023S R252450           TO SALE                     2942.10        0.00        2942.10
+26/10/2023S B551825           TO SALE                     1623.17        0.00        4565.27
+01/11/2023S R252566           TO SALE                     2532.24        0.00        7097.51
+24/11/2023S R252687           TO SALE                     2532.24        0.00        9629.75
+
+                         TOTAL                           39364.28    29734.53        9629.75
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

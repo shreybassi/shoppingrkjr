@@ -1,0 +1,17 @@
+
+
+A/C GOPAL SINGH POOH         In M/S RAM KISHAN JIVA RAM Page No. 1
+ F754                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+08/12/2022S L156896           TO SALE                     8885.80        0.00        8885.80
+08/12/2022S L156897           TO SALE                    20038.64        0.00       28924.44
+27/12/2022J J-CH              BY CH 635955 Q103              0.00    28925.00          -0.56
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       0.56        0.00           0.00
+
+                         TOTAL                           28925.00    28925.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

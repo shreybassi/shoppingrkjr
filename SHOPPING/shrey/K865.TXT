@@ -1,0 +1,30 @@
+
+
+A/C VERMA GENERAL STORE REMU         In M/S RAM KISHAN JIVA RAM Page No. 1
+ K865 PURAN LAL VILL REMU PO NISHANI TEH NIRAM    PAN            9418210741  W0G
+      AADHAR 250286991448 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        240.49
+21/04/2023S S439089           TO SALE                     3263.40        0.00        3503.89
+22/04/2023S S439174           TO SALE                     2458.95        0.00        5962.84
+24/04/2023C C2                RN37286                        0.00      240.00        5722.84
+24/04/2023C A405S             BY CASH S439089 VERMA GE       0.00     3263.40        2459.44
+24/04/2023C A405S             BY CASH S439174 VERMA GE       0.00     2458.95           0.49
+19/05/2023S S442724           TO SALE                     1068.11        0.00        1068.60
+20/05/2023S S442787           TO SALE                     2354.22        0.00        3422.82
+22/05/2023C C1                RN40601                        0.00     2500.00         922.82
+07/07/2023C C                 RN43463                        0.00      922.82           0.00
+14/07/2023S S450006           TO SALE                     4904.44        0.00        4904.44
+15/07/2023S S450099           TO SALE                     1641.34        0.00        6545.78
+17/07/2023C C                 RN44904                        0.00     4000.00        2545.78
+26/07/2023J J94570            BY ON LINE                     0.00     2546.00          -0.22
+29/09/2023S S459616           TO SALE                     1921.19        0.00        1920.97
+30/09/2023S S459742           TO SALE                      316.76        0.00        2237.73
+02/10/2023C A405S             BY CASH S459616 VERMA GE       0.00     1921.19         316.54
+02/10/2023C A405S             BY CASH S459742 VERMA GE       0.00      316.76          -0.22
+
+                         TOTAL                           18168.90    18169.12          -0.22
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

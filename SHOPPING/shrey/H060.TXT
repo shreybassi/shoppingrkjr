@@ -1,0 +1,19 @@
+
+
+A/C 43 BN ITBP JEORI WET CANTEEN JEORI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ H060 VPO JEORI TEH RAMPUR                        PAN            9781184426  F1I
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+14/10/2023S Q163993           TO SALE                    12409.00        0.00       12409.00
+16/10/2023C C52622            TO CASH BILL H145720        1280.80        0.00       13689.80
+25/10/2023J J95910            BY ONLINE CH NO 263544         0.00    13690.00          -0.20
+07/11/2023S Q164098           TO SALE                    14353.90        0.00       14353.70
+08/11/2023C C52929            TO CASH Q200439              876.00        0.00       15229.70
+10/11/2023J J96185            BY ON LINE                     0.00    15230.00          -0.30
+
+                         TOTAL                           28919.70    28920.00          -0.30
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

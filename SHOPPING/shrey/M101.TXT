@@ -1,0 +1,25 @@
+
+
+A/C ABHAY AGGARWAL AND ASSOCIATES RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M101 VPO RAMPUR TEH RAMPUR                       PANAFZPA3973J  8219257036  LBG
+      AADHAR          0   GSTIN 02AFZPA3973J1Z5
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+28/04/2023S P230392           TO SALE                     2688.00        0.00        2688.00
+29/04/2023J J93324            BY ON LINE                     0.00     2688.00           0.00
+14/06/2023S P230683           TO SALE                     2983.84        0.00        2983.84
+14/06/2023J J94001            BY ON LINE                     0.00     2984.00          -0.16
+26/07/2023S P230896           TO SALE                     2654.24        0.00        2654.08
+28/07/2023J J94597            BY ON LINE                     0.00     2654.00           0.08
+05/10/2023S P231346           TO SALE                     2634.24        0.00        2634.32
+07/10/2023J J95635            BY ON LINE                     0.00     2634.00           0.32
+17/10/2023C C52650            TO CASH                     1500.00        0.00        1500.32
+17/10/2023E AA200             BILL ABHAY AGGARWAL            0.00     1500.00           0.32
+07/11/2023S P231519           TO SALE                     2634.24        0.00        2634.56
+08/11/2023J J96157            BY ON LINE                     0.00     2634.00           0.56
+
+                         TOTAL                           15094.56    15094.00           0.56
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

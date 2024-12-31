@@ -1,0 +1,19 @@
+
+
+A/C UMESH KUMAR SOHACH       In M/S RAM KISHAN JIVA RAM Page No. 1
+ K018 VILL SOHACH PO ARSU TEH NIRMAND             PAN            9817257461  NBG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+03/07/2019C C                 RN41832                        0.00    10000.00      -10000.00
+15/07/2019S H321048           TO SALE                    91000.42        0.00       81000.42
+16/07/2019C C                 RN41255                        0.00    20000.00       61000.42
+16/07/2019C C                 RN41256                        0.00    20000.00       41000.42
+16/07/2019C C                 RN41257                        0.00    20000.00       21000.42
+16/07/2019C C                 RN41258                        0.00    21000.00           0.42
+
+                         TOTAL                           91000.42    91000.00           0.42
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET TIN STATEMENT

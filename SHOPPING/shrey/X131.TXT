@@ -1,0 +1,21 @@
+
+
+A/C OM FOODS DHAND        In M/S RAM KISHAN JIVA RAM Page No. 1
+ X131 KURUKSHETRA ROAD DHAND                      PANBTTPG3844D           0   0G
+      AADHAR          0   GSTIN 06BTTPG3844D1ZM
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+18/07/2023P OF56              BY PURCHASE                    0.00  1059471.00    -1059471.00
+18/07/2023P OF48              BY PURCHASE                    0.00   850954.00    -1910425.00
+20/07/2023P OF62              BY PURCHASE                    0.00  1056516.00    -2966941.00
+22/07/2023P OF65              BY PURCHASE                    0.00   849687.00    -3816628.00
+22/07/2023P OF67              BY PURCHASE                    0.00   820773.00    -4637401.00
+25/07/2023P OF73              BY PURCHASE                    0.00   849476.00    -5486877.00
+25/07/2023P OF78              BY PURCHASE                    0.00   824994.00    -6311871.00
+26/07/2023J J94561            TO ON LINE               1863903.24        0.00    -4447967.76
+28/07/2023J J94596            TO ON LINE               3000000.00        0.00    -1447967.76
+29/07/2023J J94603            TO ON LINE               1294853.00        0.00     -153114.76
+05/08/2023J J94718            TO TDS 94Q JULY             1312.00        0.00     -151802.76
+
+                         TOTAL                         6160068.24  6311871.00     -151802.76

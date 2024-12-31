@@ -1,0 +1,18 @@
+
+
+A/C SHER SING DV LABRANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F971                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+05/12/2022S L156664           TO SALE                    22707.38        0.00       22707.38
+05/12/2022S L156665           TO SALE                     8614.06        0.00       31321.44
+10/12/2022C C                 RN6888                         0.00    12000.00       19321.44
+10/12/2022J J91487            BY GOOGLE                      0.00    13569.00        5752.44
+12/12/2022J J91496            BY BILL NO L156664             0.00     5752.44           0.00
+
+                         TOTAL                           31321.44    31321.44           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

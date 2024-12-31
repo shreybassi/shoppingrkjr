@@ -1,0 +1,32 @@
+
+
+A/C DEVENDER SINGH CHOWAI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I386 VILL GOSKI PO CHOWAI TEH ANI                PAN            9816320858  70G
+      AADHAR 816523204903 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+09/08/2023S S452853           TO SALE                     3271.59        0.00        3271.59
+12/08/2023J J94821            BY GOOGLE                      0.00      500.00        2771.59
+23/08/2023J J94957            BY GOOGLE                      0.00     1000.00        1771.59
+16/09/2023J J95310            BY GOOGLE                      0.00     1773.00          -1.41
+22/09/2023J J95384            BY GOOGLE                      0.00     1671.00       -1672.41
+22/09/2023J J95384            BY GOOGLE                      0.00      100.00       -1772.41
+22/09/2023J J95385            TO WE                       1773.00        0.00           0.59
+27/09/2023S S459196           TO SALE                     4820.47        0.00        4821.06
+29/09/2023J J95497            BY GOOGLE                      0.00     3000.00        1821.06
+06/10/2023J J95602            BY GOOGLE                      0.00     1820.00           1.06
+11/10/2023S S461229           TO SALE                     5235.99        0.00        5237.05
+16/10/2023J J95769            BY UPI                         0.00     3000.00        2237.05
+16/10/2023J J95769            BY UPI                         0.00     2230.00           7.05
+18/10/2023S S462224           TO SALE                     5257.93        0.00        5264.98
+02/11/2023J J96044            BY GOOGLE                      0.00     3400.00        1864.98
+13/11/2023J J96224            BY GOOGLE                      0.00     1100.00         764.98
+13/11/2023J J96224            BY GOOGLE                      0.00      750.00          14.98
+14/11/2023S S465965           TO SALE                     2488.50        0.00        2503.48
+16/11/2023J J96297            BY GOOGLE                      0.00     2488.00          15.48
+
+                         TOTAL                           22847.48    22832.00          15.48
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

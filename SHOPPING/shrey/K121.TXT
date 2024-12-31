@@ -1,0 +1,47 @@
+
+
+A/C KHUSHI RAM AND SONS FOR BAGIPUL      In M/S RAM KISHAN JIVA RAM Page No. 1
+ K121 VILL BAGIPUL PO BUINI TEH NIRMAND           PANBWGPR6155L  9805443971  XCG
+      AADHAR          0   GSTIN 02BWGPR6155L1Z7
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+05/04/2023S S436732           TO SALE                     2356.68        0.00        2356.68
+07/04/2023C A403S             BY CASH S436732 KHUSHI R       0.00     2356.68           0.00
+19/04/2023S S438699           TO SALE                      621.12        0.00         621.12
+21/04/2023C A403S             BY CASH S438699 KHUSHI R       0.00      621.12           0.00
+26/04/2023S S439681           TO SALE                     1428.74        0.00        1428.74
+28/04/2023C A403S             BY CASH S439681 KHUSHI R       0.00     1428.74           0.00
+10/05/2023S S441401           TO SALE                     1335.20        0.00        1335.20
+11/05/2023S S441482           TO SALE                      621.12        0.00        1956.32
+12/05/2023C A403S             BY CASH S441401 KHUSHI R       0.00     1335.20         621.12
+12/05/2023C A403S             BY CASH S441482 KHUSHI R       0.00      621.12           0.00
+24/05/2023S S443333           TO SALE                      868.19        0.00         868.19
+25/05/2023S S443424           TO SALE                      817.21        0.00        1685.40
+27/05/2023C A403S             BY CASH S443333 KHUSHI R       0.00      868.19         817.21
+27/05/2023C A403S             BY CASH S443424 KHUSHI R       0.00      817.21           0.00
+07/06/2023S S445088           TO SALE                     1921.70        0.00        1921.70
+09/06/2023C A403S             BY CASH S445088 KHUSHI R       0.00     1921.70           0.00
+14/06/2023S S446192           TO SALE                      957.19        0.00         957.19
+14/06/2023S S446225           TO SALE                     1719.63        0.00        2676.82
+15/06/2023C C1                RN41879                        0.00     2677.00          -0.18
+21/06/2023S S447139           TO SALE                     1123.00        0.00        1122.82
+23/06/2023C A403S             BY CASH S447139 KHUSHI R       0.00     1123.00          -0.18
+28/06/2023S S448090           TO SALE                     2229.14        0.00        2228.96
+30/06/2023C A403S             BY CASH S448090 KHUSHI R       0.00     2229.14          -0.18
+05/07/2023S S449060           TO SALE                     3006.54        0.00        3006.36
+06/07/2023C A403S             BY CASH S449060 KHUSHI R       0.00     3006.54          -0.18
+15/08/2023J CN3115            BY CN 3115                     0.00      705.07        -705.25
+30/08/2023S S455613           TO SALE                      439.68        0.00        -265.57
+01/09/2023C A403S             BY CASH S455613 KHUSHI R       0.00      439.68        -705.25
+13/09/2023S S457456           TO SALE                     1756.27        0.00        1051.02
+15/09/2023C A403S             BY CASH S457456 KHUSHI R       0.00     1756.27        -705.25
+27/09/2023S S459289           TO SALE                     1122.17        0.00         416.92
+29/09/2023C A403S             BY CASH S459289 KHUSHI R       0.00     1122.17        -705.25
+08/11/2023S S465092           TO SALE                     1703.56        0.00         998.31
+10/11/2023C C                 RN53938                        0.00     1704.00        -705.69
+
+                         TOTAL                           24027.14    24732.83        -705.69
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

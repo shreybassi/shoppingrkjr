@@ -1,0 +1,28 @@
+
+
+A/C RANA SWEET SHOP NIGULSARI    In M/S RAM KISHAN JIVA RAM Page No. 1
+ C024 VILL.   PO NICHAR                           PAN            9418570897  2GH
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+12/04/2023S N301590           TO SALE                     6548.38        0.00        6548.38
+14/04/2023C A303S             BY CASH N301590 RANA SWE       0.00     6548.38           0.00
+10/05/2023S N305324           TO SALE                     1951.21        0.00        1951.21
+12/05/2023C C                 RN 39427                       0.00     1851.00         100.21
+30/05/2023S O106450           TO SALE                      -98.08        0.00           2.13
+14/06/2023S N309980           TO SALE                     1657.66        0.00        1659.79
+16/06/2023C A303S             BY CASH N309980 RANA SWE       0.00     1657.66           2.13
+26/06/2023S N311455           TO SALE                     1915.32        0.00        1917.45
+28/06/2023C A101S             BY CASH N311455 RANA SWE       0.00     1915.32           2.13
+15/07/2023S N313638           TO SALE                     1968.98        0.00        1971.11
+17/07/2023C C                 RN45013                        0.00      969.00        1002.11
+17/07/2023J J94443            BY GOOGLE                      0.00     1000.00           2.11
+14/08/2023S N317312           TO SALE                      880.58        0.00         882.69
+14/08/2023S N317331           TO SALE                     1781.80        0.00        2664.49
+17/08/2023C C                 RN46723                        0.00     2664.00           0.49
+
+                         TOTAL                           16605.85    16605.36           0.49
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

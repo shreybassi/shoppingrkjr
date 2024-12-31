@@ -1,0 +1,18 @@
+
+
+A/C VIKAS TRADERS NANAKHARI    In M/S RAM KISHAN JIVA RAM Page No. 1
+ I026 VILL.   PO NANKAHRI                         PANAHJPT6340G  9418525712  c3V
+      AADHAR          0   GSTIN 02AHJPT6340G1ZE
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/06/2023S S447106           TO SALE                     1600.00        0.00        1600.00
+10/08/2023C C                 RN46432                        0.00     1600.00           0.00
+12/09/2023S S457292           TO SALE                     3410.30        0.00        3410.30
+13/09/2023S S457347           TO SALE                     3731.50        0.00        7141.80
+16/09/2023J J95304            BY ON LINE                     0.00     7142.00          -0.20
+
+                         TOTAL                            8741.80     8742.00          -0.20
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

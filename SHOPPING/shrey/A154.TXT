@@ -1,0 +1,28 @@
+
+
+A/C SOOD INDUSTRIES JEORI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ A154 VPO JEORI TEH RAMPUR                        PANAPJPS2991E  9816000086  A1G
+      AADHAR          0   GSTIN 02APJPS2991E2ZS
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+05/04/2023S C626971           TO SALE                     1482.00        0.00        1482.00
+05/04/2023S G285904           TO SALE                      400.20        0.00        1882.20
+17/04/2023S R251344           TO SALE                      339.26        0.00        2221.46
+17/04/2023C C1                RN7137                         0.00     2000.00         221.46
+05/05/2023C C                 RN37099                        0.00      221.46           0.00
+25/05/2023S A173632           TO SALE                     3696.50        0.00        3696.50
+26/05/2023S G286674           TO SALE                     1408.97        0.00        5105.47
+10/06/2023J J93943            BY ON LINE                     0.00     5106.00          -0.53
+16/09/2023S B550135           TO SALE                     1243.61        0.00        1243.08
+16/09/2023S C630180           TO SALE                     4662.95        0.00        5906.03
+16/09/2023S G288284           TO SALE                     3710.05        0.00        9616.08
+30/09/2023J J95510            BY ON LINE                     0.00     9616.00           0.08
+31/10/2023S N327578           TO SALE                     2114.28        0.00        2114.36
+02/11/2023S L179995           TO SALE                     3927.14        0.00        6041.50
+20/11/2023J J96358            BY ON LINE                     0.00     6041.50           0.00
+
+                         TOTAL                           22984.96    22984.96           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

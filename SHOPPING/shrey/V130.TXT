@@ -1,0 +1,12 @@
+
+
+A/C AMRIT OIL AND CHEMIVALS LUDHIANA     In M/S RAM KISHAN JIVA RAM Page No. 1
+ V130 JALANDHAR BYE PASS GT ROAD LUDHIANA         PANAARFA5518L           0   0G
+      AADHAR          0   GSTIN 03AARFA5518L1Z9
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+30/10/2023P AO914             BY PURCHASE                    0.00   107000.00     -107000.00
+09/11/2023J J96165            TO ON LINE                107000.00        0.00           0.00
+
+                         TOTAL                          107000.00   107000.00           0.00

@@ -1,0 +1,20 @@
+
+
+A/C CLOUDTAIL INDIA PVT LTD LUDHIANA     In M/S RAM KISHAN JIVA RAM Page No. 1
+ V089 NEAR KATANA SAHIB GURUDWARA LUDHIANA        PANAAQCS4259Q           0   GG
+      AADHAR          0   GSTIN 03AAQCS4259Q1ZK
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+08/05/2021P CISATA-257247     BY PURCHASE                    0.00     1196.00       -1196.00
+08/05/2021P CISATA-257246     BY PURCHASE                    0.00     2093.00       -3289.00
+08/05/2021P CISATA-257244     BY PURCHASE                    0.00     2093.00       -5382.00
+08/05/2021P CISATA-257237     BY PURCHASE                    0.00     2093.00       -7475.00
+08/05/2021P CISATA-257184     BY PURCHASE                    0.00     2093.00       -9568.00
+08/05/2021P CISATA-257187     BY PURCHASE                    0.00     2093.00      -11661.00
+08/05/2021P CISATA-257255     BY PURCHASE                    0.00     2093.00      -13754.00
+08/05/2021P CUSATA-257185     BY PURCHASE                    0.00     2093.00      -15847.00
+08/05/2021P CISATA-257208     BY PURCHASE                    0.00     2093.00      -17940.00
+15/05/2021J J84759            TO ON LINE                 17940.00        0.00           0.00
+
+                         TOTAL                           17940.00    17940.00           0.00

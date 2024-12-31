@@ -1,0 +1,21 @@
+
+
+A/C RAVI GENERAL STORE DAKOLAR      In M/S RAM KISHAN JIVA RAM Page No. 1
+ N216 VILL DAKOLAR PO RAMPUR TEH RAMPUR           PAN            8628834381  G5G
+      AADHAR 979001401962 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       6531.70
+04/04/2023C C                 RN35675                        0.00      750.00        5781.70
+05/04/2023S S436793           TO SALE                      222.26        0.00        6003.96
+05/04/2023J J93042            BY ON LINE                     0.00     5782.00         221.96
+06/04/2023S S436882           TO SALE                     6383.84        0.00        6605.80
+12/04/2023S S437777           TO SALE                     3266.03        0.00        9871.83
+13/04/2023S S437910           TO SALE                     4218.20        0.00       14090.03
+17/04/2023C C1                RN36998                        0.00     6606.00        7484.03
+27/04/2023J J93302            BY ON LINE                     0.00     5000.00        2484.03
+
+                         TOTAL                           20622.03    18138.00        2484.03
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

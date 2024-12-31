@@ -1,0 +1,27 @@
+
+
+A/C COZY MEDICAL STORE R PEO        In M/S RAM KISHAN JIVA RAM Page No. 1
+ L820 VPO R PEO                                   PAN            9805267206  K7G
+      AADHAR 263267783191 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+01/04/2023S S436296           TO SALE                     8220.69        0.00        8220.69
+10/04/2023C C                 RN36733                        0.00     8220.00           0.69
+21/04/2023S S438989           TO SALE                     3418.99        0.00        3419.68
+02/05/2023J J93357            BY GOOGLE                      0.00     3420.00          -0.32
+24/05/2023S S443292           TO SALE                     6762.23        0.00        6761.91
+02/06/2023J J93825            BY GOOGLE                      0.00     6765.00          -3.09
+13/06/2023S S446062           TO SALE                     7275.26        0.00        7272.17
+30/06/2023J J94220            BY GOOGLE                      0.00     7275.00          -2.83
+05/07/2023S S448960           TO SALE                     7008.59        0.00        7005.76
+27/07/2023C C                 RN45318                        0.00     7010.00          -4.24
+08/08/2023S S452729           TO SALE                     1836.34        0.00        1832.10
+21/08/2023C C                 RN45585                        0.00     2500.00        -667.90
+22/08/2023S S454489           TO SALE                     6026.43        0.00        5358.53
+29/09/2023C C                 RN49016                        0.00     5360.00          -1.47
+
+                         TOTAL                           40548.53    40550.00          -1.47
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

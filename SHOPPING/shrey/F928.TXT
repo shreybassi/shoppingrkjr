@@ -1,0 +1,22 @@
+
+
+A/C YASHWANT LABRANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F928                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+02/10/2023S L177762           TO SALE                    11929.17        0.00       11929.17
+02/10/2023S L177766           TO SALE                    51270.04        0.00       63199.21
+04/10/2023J J95566            BY GOOGLE                      0.00     3115.00       60084.21
+05/10/2023S L178004           TO SALE                    17420.00        0.00       77504.21
+07/10/2023J J95636            BY GOOGLE                      0.00    17420.00       60084.21
+11/10/2023C C                 RN 50921                       0.00    25000.00       35084.21
+11/10/2023C C                 RN 50922                       0.00    25605.00        9479.21
+11/10/2023C C                 RN 50923                       0.00     9480.00          -0.79
+10/11/2023S L180766           TO SALE                    21803.52        0.00       21802.73
+
+                         TOTAL                          102422.73    80620.00       21802.73
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

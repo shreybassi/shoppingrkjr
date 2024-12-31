@@ -1,0 +1,16 @@
+
+
+A/C NK NEGI POOH         In M/S RAM KISHAN JIVA RAM Page No. 1
+ F800                                             PAN                     0  PGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+23/08/2023S S454629           TO SALE                     9520.00        0.00        9520.00
+29/09/2023J J95495            BY ON LINE                     0.00     9520.00           0.00
+10/10/2023S L178442           TO SALE                     7363.26        0.00        7363.26
+
+                         TOTAL                           16883.26     9520.00        7363.26
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

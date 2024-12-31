@@ -1,0 +1,16 @@
+
+
+A/C MOHENDER SINGH PANGNA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I197                                             PAN                     0   BG
+      AADHAR 757117610745 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/11/2022P LPA7815           BY PURCHASE                    0.00   308752.96     -308752.96
+21/11/2022J J91224            TO CH 256126              308750.00        0.00          -2.96
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       2.96        0.00           0.00
+
+                         TOTAL                          308752.96   308752.96           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

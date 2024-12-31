@@ -1,0 +1,17 @@
+
+
+A/C JUGDUB SHASHTRI THANGI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ F867                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+15/12/2022S L157439           TO SALE                     7600.56        0.00        7600.56
+19/12/2022C C49205            TO CASH                      330.00        0.00        7930.56
+19/12/2022J J91598            BY TRANS 137439                0.00     7600.56         330.00
+04/01/2023C C                 RN29862                        0.00      330.00           0.00
+
+                         TOTAL                            7930.56     7930.56           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

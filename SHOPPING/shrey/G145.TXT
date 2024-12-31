@@ -1,0 +1,33 @@
+
+
+A/C KARMA GENERAL STORE POOH         In M/S RAM KISHAN JIVA RAM Page No. 1
+ G145 VPO POOH TEH POOH                           PANADPPH2938G  8091157760  P1G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      34846.68
+27/05/2023C C                 RN40625                        0.00    15000.00       19846.68
+01/06/2023J J93798            BY GOOGLE                      0.00    10000.00        9846.68
+05/06/2023J J93863            BY GOOGLE                      0.00     3000.00        6846.68
+06/06/2023J J93877            BY GOOGLE                      0.00     2000.00        4846.68
+06/06/2023J J93878            BY GOOGLE                      0.00     1000.00        3846.68
+06/06/2023J J93878            BY GOOGLE                      0.00     2000.00        1846.68
+06/06/2023J J93878            BY GOOGLE                      0.00     2000.00        -153.32
+16/06/2023S L170506           TO SALE                    10929.74        0.00       10776.42
+17/06/2023S L170556           TO SALE                    61833.58        0.00       72610.00
+17/06/2023S L170557           TO SALE                    18568.71        0.00       91178.71
+30/06/2023J J94228            BY ON LINE                     0.00    30000.00       61178.71
+10/07/2023J J94368            BY ON LINE                     0.00    30000.00       31178.71
+31/07/2023J J94624            BY ON LINE                     0.00    31000.00         178.71
+02/08/2023S L173473           TO SALE                    15429.98        0.00       15608.69
+03/08/2023S L173565           TO SALE                   146740.00        0.00      162348.69
+23/08/2023J J94958            BY ON LINE                     0.00    25000.00      137348.69
+04/09/2023J J95128            BY ON LINE                     0.00    20000.00      117348.69
+06/10/2023J J95610            BY CASH ON LINE                0.00    20000.00       97348.69
+26/10/2023J J95928            BY ON LINE                     0.00    15000.00       82348.69
+15/11/2023J J96289            BY ON LINE                     0.00    32000.00       50348.69
+
+                         TOTAL                          288348.69   238000.00       50348.69
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

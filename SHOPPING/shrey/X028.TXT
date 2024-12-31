@@ -1,0 +1,15 @@
+
+
+A/C OM RICE AND GENERAL MILLS DHAND        In M/S RAM KISHAN JIVA RAM Page No. 1
+ X028 2 KM STONE AGGARSAIN CHOWK DHAND            PANAAFFO8770Q  9896224115   GG
+      AADHAR          0   GSTIN 06AAFFO8770Q1ZF
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/04/2023P OR43              BY PURCHASE                    0.00   632472.00     -632472.00
+27/04/2023P OR52              BY PURCHASE                    0.00   577296.00    -1209768.00
+27/04/2023J J93306            TO ON LINE               1180385.00        0.00      -29383.00
+16/05/2023P OR95              BY PURCHASE                    0.00   686224.00     -715607.00
+17/05/2023J J93565            TO ON LINE                669809.00        0.00      -45798.00
+
+                         TOTAL                         1850194.00  1895992.00      -45798.00

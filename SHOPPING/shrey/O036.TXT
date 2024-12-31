@@ -1,0 +1,44 @@
+
+
+A/C SHARMA ENTERPRISES TAKLECH      In M/S RAM KISHAN JIVA RAM Page No. 1
+ O036 VPO TAKLECH TEH RAMPUR                      PANJVLPS7740J  7807018630  TBG
+      AADHAR          0   GSTIN 02JVLPS7740J1ZY
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       2314.93
+15/04/2023C C                 RN 37818                       0.00     2315.00          -0.07
+17/04/2023S S438391           TO SALE                      951.00        0.00         950.93
+18/04/2023C A401S             BY CASH S438391 SHARMA E       0.00      951.00          -0.07
+01/05/2023S S440231           TO SALE                     3202.04        0.00        3201.97
+06/05/2023C C                 RN38662                        0.00     3202.00          -0.03
+08/05/2023S S441087           TO SALE                     1721.59        0.00        1721.56
+09/05/2023C A401S             BY CASH S441087 SHARMA E       0.00     1721.59          -0.03
+22/05/2023S S442994           TO SALE                     2717.36        0.00        2717.33
+23/05/2023C C2                RN39961                        0.00     2717.00           0.33
+19/06/2023S S446859           TO SALE                     4975.35        0.00        4975.68
+20/06/2023C A401S             BY CASH S446859 SHARMA E       0.00     4975.35           0.33
+26/06/2023S S447812           TO SALE                     2073.20        0.00        2073.53
+27/06/2023C C1                RN43432                        0.00     2073.00           0.53
+03/07/2023S S448690           TO SALE                     1672.60        0.00        1673.13
+04/07/2023C C1                RN43298                        0.00     1673.00           0.13
+14/08/2023S S453533           TO SALE                     1005.84        0.00        1005.97
+16/08/2023C A401S             BY CASH S453533 SHARMA E       0.00     1005.84           0.13
+21/08/2023S S454336           TO SALE                     2282.80        0.00        2282.93
+23/08/2023C A401S             BY CASH S454336 SHARMA E       0.00     2282.80           0.13
+25/09/2023S S458993           TO SALE                     2826.32        0.00        2826.45
+27/09/2023C A401S             BY CASH S458993 SHARMA E       0.00     2826.32           0.13
+23/10/2023S S462980           TO SALE                     3095.03        0.00        3095.16
+25/10/2023C A401S             BY CASH S462980 SHARMA E       0.00     3095.03           0.13
+30/10/2023S S463899           TO SALE                     2119.06        0.00        2119.19
+01/11/2023C A401S             BY CASH S463899 SHARMA E       0.00     2119.06           0.13
+06/11/2023S S464771           TO SALE                     2102.71        0.00        2102.84
+08/11/2023C C                 RN53709                        0.00     2103.00          -0.16
+11/11/2023S E192396           TO SALE                     1330.03        0.00        1329.87
+15/11/2023C C                 RN53679                        0.00     1330.00          -0.13
+20/11/2023S S466661           TO SALE                     1974.52        0.00        1974.39
+22/11/2023C A401S             BY CASH S466661 SHARMA E       0.00     1974.52          -0.13
+
+                         TOTAL                           36364.38    36364.51          -0.13
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

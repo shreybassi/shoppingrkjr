@@ -1,0 +1,21 @@
+
+
+A/C SHARMA STATIONERY NIRMAND      In M/S RAM KISHAN JIVA RAM Page No. 1
+ J048                                             PAN            9817299788  01G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+12/10/2023S S461553           TO SALE                     3920.08        0.00        3920.08
+14/10/2023C A404S             BY CASH S461553 SHARMA S       0.00     3920.08           0.00
+26/10/2023S S463456           TO SALE                     7802.58        0.00        7802.58
+28/10/2023C A404S             BY CASH S463456 SHARMA S       0.00     7802.58           0.00
+16/11/2023S S466244           TO SALE                      623.34        0.00         623.34
+17/11/2023S S466321           TO SALE                      851.70        0.00        1475.04
+18/11/2023C A404S             BY CASH S466244 SHARMA S       0.00      623.34         851.70
+18/11/2023C A404S             BY CASH S466321 SHARMA S       0.00      851.70           0.00
+
+                         TOTAL                           13197.70    13197.70           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

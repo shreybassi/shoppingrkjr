@@ -1,0 +1,12 @@
+
+
+A/C HINDUSTAN UNILEVER LIMITED BAROTIWALA   In M/S RAM KISHAN JIVA RAM Page No. 1
+ T004 KHASRA NO 94-96-355-409 MAUZA BALYANA       PANAAACH1004N           0   GP
+      AADHAR          0   GSTIN 02AAACH1004N2Z5
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+12/05/2023J J93511            TO ONLINE                  32648.66        0.00       32648.66
+12/05/2023J J93511            TO ONLINE                1700000.00        0.00     1732648.66
+
+                         TOTAL                         1732648.66        0.00     1732648.66

@@ -1,0 +1,12 @@
+
+
+A/C BHAGWATI ENTERPRISES AMBALA CITY  In M/S RAM KISHAN JIVA RAM Page No. 1
+ X117 502/1 SPATU ROAD AMBALA CITY                PANAEZPS9437G           0   0G
+      AADHAR          0   GSTIN 06AEZPS9437G1ZL
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+03/08/2022E BE168             BILL Q611EXP245                0.00     7056.00       -7056.00
+11/02/2023C C49849            TO CASH                     7056.00        0.00           0.00
+
+                         TOTAL                            7056.00     7056.00           0.00

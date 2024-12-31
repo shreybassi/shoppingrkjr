@@ -1,0 +1,25 @@
+
+
+A/C PADAMVIR NEGI GIABONG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ G096 VILL.   PO GIABUNG  VIA CHIASO              PAN            9418235031  P0P
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+23/05/2023S H398298           TO SALE                     7266.59        0.00        7266.59
+03/07/2023C C                 RN42935                        0.00     7266.00           0.59
+09/11/2023S I100193           TO SALE                   114539.00        0.00      114539.59
+09/11/2023S I100194           TO SALE                   114539.00        0.00      229078.59
+09/11/2023S I100195           TO SALE                    98000.60        0.00      327079.19
+09/11/2023S I100196           TO SALE                    56915.95        0.00      383995.14
+09/11/2023S I100197           TO SALE                    44152.50        0.00      428147.64
+09/11/2023S I100198           TO SALE                    46263.00        0.00      474410.64
+09/11/2023S I100199           TO SALE                    45969.00        0.00      520379.64
+09/11/2023S I100200           TO SALE                    43879.50        0.00      564259.14
+09/11/2023S I100201           TO SALE                    30147.46        0.00      594406.60
+16/11/2023S I100222           TO SALE                    15455.50        0.00      609862.10
+
+                         TOTAL                          617128.10     7266.00      609862.10
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

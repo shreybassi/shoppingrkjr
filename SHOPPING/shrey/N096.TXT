@@ -1,0 +1,29 @@
+
+
+A/C PADAM RAM & SONS BROW         In M/S RAM KISHAN JIVA RAM Page No. 1
+ N096 VILL. BROW PO RAMPUR BUSHAHR                PANAOEPR1582C  8628033299  EFG
+      AADHAR 246346353119 GSTIN 02AOEPR1582C1ZC
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      36818.18
+01/04/2019S B422578           TO SALE                     2266.96        0.00       39085.14
+01/04/2019S C545818           TO SALE                     2987.68        0.00       42072.82
+01/04/2019C C                 RN35194                        0.00    10000.00       32072.82
+04/04/2019S C546096           TO SALE                     1478.75        0.00       33551.57
+04/04/2019S C546100           TO SALE                     2865.84        0.00       36417.41
+04/04/2019S C546203           TO SALE                     9639.72        0.00       46057.13
+04/04/2019S E171061           TO SALE                     4542.82        0.00       50599.95
+04/04/2019S P209648           TO SALE                     3110.94        0.00       53710.89
+05/04/2019S C546242           TO SALE                     2763.00        0.00       56473.89
+05/04/2019J J-CH              BY CH 292587 Q119              0.00    26818.00       29655.89
+08/04/2019C C1                RN35698                        0.00     4655.89       25000.00
+15/04/2019J J-CH              BY CH 292588 Q119              0.00    25000.00           0.00
+03/05/2019J J-CH              BY CH 292590 Q119              0.00    17000.00      -17000.00
+10/05/2019J J77703            TO CH 292590               17000.00        0.00           0.00
+17/09/2019J J-CH              BY CH 292599 Q119              0.00    52000.00      -52000.00
+19/09/2019J J78982            TO WE 292599               52000.00        0.00           0.00
+
+                         TOTAL                          135473.89   135473.89           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET TIN STATEMENT

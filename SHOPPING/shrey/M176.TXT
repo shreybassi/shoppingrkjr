@@ -1,0 +1,25 @@
+
+
+A/C LAL CHAND AND SONS RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M176 MAIN BAZAR                                  PANAJFPA5198K  8679458001  LBG
+      AADHAR          0   GSTIN 02AJFPA5198K1Z9
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+15/06/2023E LS515             BILL R049EXP862                0.00      424.80        -424.80
+19/06/2023E LS517             BILL R049EXP870                0.00     8165.60       -8590.40
+05/07/2023E LS532             BILL R049EXP898                0.00      236.00       -8826.40
+15/07/2023E LS540             BILL R049EXP929                0.00     1294.46      -10120.86
+04/08/2023E LC543             BILL R049EXP950                0.00      159.30      -10280.16
+05/08/2023E LS545             BILL R049EXP952                0.00      116.82      -10396.98
+14/08/2023E LS552             BILL R049EXP969                0.00      424.80      -10821.78
+21/08/2023E LS57              BILL R049EXP979                0.00     1417.18      -12238.96
+24/08/2023E LS547             BILL R049EXP996                0.00      103.68      -12342.64
+24/08/2023E LS547             BILL R049EXP996                0.00     4964.26      -17306.90
+04/10/2023E LS584             BILL H/W EXP072                0.00     2052.02      -19358.92
+07/10/2023E LS586             BILL H/W EXP079                0.00     2229.02      -21587.94
+
+                         TOTAL                               0.00    21587.94      -21587.94
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

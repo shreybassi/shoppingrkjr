@@ -1,0 +1,166 @@
+
+
+A/C CASH ON DELIVERY SM NMD ARSU U              In M/S RAM KISHAN JIVA RAM Page No. 1
+ A588                                             PAN                     0  N5I
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+01/04/2023S L164678           TO SALE LAMA DHABA BHAGI    4821.20        0.00        4821.20
+01/04/2023S L164679           TO SALE LAMA DHABA BHAGI    1388.36        0.00        6209.56
+01/04/2023S L164700           TO SALE LAMA DHABA BHAGI    5238.17        0.00       11447.73
+04/04/2023C C1                RN35579 LAMA DHABA             0.00    11448.00          -0.27
+07/04/2023S L165122           TO SALE KHIMA RAM A588      9775.00        0.00        9774.73
+07/04/2023S L165123           TO SALE KHIMA RAM A588      6765.98        0.00       16540.71
+07/04/2023S L165147           TO SALE LAMA DHABA BAGIP    5904.80        0.00       22445.51
+07/04/2023S L165148           TO SALE LAMA DHABA BAGIP    5707.00        0.00       28152.51
+07/04/2023S L165153           TO SALE LAMA DHABA BAGIP    5685.47        0.00       33837.98
+07/04/2023S L165154           TO SALE KHIMA RAM A588       493.24        0.00       34331.22
+11/04/2023C C1                RN36559 KHIMA RAM              0.00    17035.00       17296.22
+11/04/2023C C1                RN36578 LAMA DHABA             0.00    17297.27          -1.05
+13/04/2023S L165618           TO SALE YUGAL VERMA A588     273.60        0.00         272.55
+14/04/2023S L165670           TO SALE HET RAM SHARMA 9     932.00        0.00        1204.55
+14/04/2023S L165671           TO SALE HET RAM SHARMA 9     464.36        0.00        1668.91
+14/04/2023S L165674           TO SALE YUGAL VERMA A588    5771.00        0.00        7439.91
+14/04/2023S L165675           TO SALE YUGAL VERMA A588    1940.84        0.00        9380.75
+17/04/2023C C1                RN36659 HET RAM                0.00     1396.00        7984.75
+21/04/2023S L166297           TO SALE KHIMA RAM A588     11466.00        0.00       19450.75
+21/04/2023S L166298           TO SALE KHIMA RAM A588      1024.94        0.00       20475.69
+21/04/2023C C1                RN36782 YUGAL VERMA            0.00     7985.00       12490.69
+27/04/2023S L166795           TO SALE JOSHI G/S PAJEND    2716.74        0.00       15207.43
+29/04/2023C C                 RN38275 JOSHI G STORE          0.00     2717.00       12490.43
+02/05/2023C C1                RN38042 KHIMA RAM              0.00    12490.94          -0.51
+05/05/2023S H397969           TO SALE MAST RAM BANDAL    10177.74        0.00       10177.23
+05/05/2023S L167263           TO SALE VIDYA DEVI 89887    2185.00        0.00       12362.23
+05/05/2023S L167407           TO SALE SL C/O SHIV RAM     1804.00        0.00       14166.23
+06/05/2023C C                 RN37562 SL                     0.00     1804.00       12362.23
+11/05/2023S L167682           TO SALE KHIMA RAM A588     12573.00        0.00       24935.23
+13/05/2023S L167831           TO SALE DRV DALEEP          1890.00        0.00       26825.23
+13/05/2023C C                 RN 39607VIDYA DEVI             0.00     2185.00       24640.23
+15/05/2023C C                 RN 40002 DALEEP                0.00     1890.00       22750.23
+18/05/2023S L168219           TO SALE DRV RAJ KUMAR        677.64        0.00       23427.87
+20/05/2023C C                 RN39092 RAJ KUMAR              0.00      677.00       22750.87
+23/05/2023C C1                RN39859 KHIMA RAM              0.00    12573.00       10177.87
+26/05/2023S L168745           TO SALE KHIMA RAM A588      1331.92        0.00       11509.79
+26/05/2023S L168761           TO SALE KHIMA RAM A588      1030.10        0.00       12539.89
+26/05/2023S L168762           TO SALE KHIMA RAM A588     14168.12        0.00       26708.01
+26/05/2023C C1                RN39994 MAST RAM               0.00    10177.74       16530.27
+30/05/2023C C2                RN40648 KHIMA RAM              0.00    16530.00           0.27
+30/05/2023J J93749            BY GOOGLE JAGDISH              0.00    10000.00       -9999.73
+01/06/2023S L169270           TO SALE JAGDISH KUMAR UR    3238.00        0.00       -6761.73
+01/06/2023S L169271           TO SALE JAGDISH KUMAR UR    6920.00        0.00         158.27
+01/06/2023S L169302           TO SALE VIDYA DEVI 89887    1155.66        0.00        1313.93
+01/06/2023S L169303           TO SALE VIDYA DEVI 89887     722.16        0.00        2036.09
+01/06/2023S L169304           TO SALE JAGDISH KUMAR UR     235.73        0.00        2271.82
+10/06/2023C C1                RN41633 VIDYA                  0.00     1877.82         394.00
+20/06/2023C C2                RN42835 JAGDISH CHAND          0.00      394.00           0.00
+20/06/2023C C1                RN42865 SHYAM LAL              0.00    19000.00      -19000.00
+21/06/2023S L170717           TO SALE SHYAM LAL A588       860.65        0.00      -18139.35
+21/06/2023S L170738           TO SALE SHYAM LAL A588      7648.55        0.00      -10490.80
+21/06/2023S L170739           TO SALE SHYAM LAL A588      6023.38        0.00       -4467.42
+21/06/2023S L170819           TO SALE KHIMA RAM A588      1138.40        0.00       -3329.02
+21/06/2023S L170837           TO SALE KHIMA RAM A588     14544.10        0.00       11215.08
+21/06/2023S L170838           TO SALE KHIMA RAM A588      2787.16        0.00       14002.24
+26/06/2023S L171127           TO SALE YUGAL VERMA A588    1616.05        0.00       15618.29
+26/06/2023S L171142           TO SALE YUGAL VERMA A588    5298.90        0.00       20917.19
+26/06/2023S L171143           TO SALE YUGAL VERMA A588    1935.72        0.00       22852.91
+27/06/2023C C1                RN42552 KHIMA RAM              0.00    18470.00        4382.91
+29/06/2023S L171421           TO SALE SHYAM LAL BEUNI     3848.82        0.00        8231.73
+07/07/2023C C1                RN44211 YUGAL VERMA            0.00     8851.00        -619.27
+13/07/2023S L172180           TO SALE YUGAL VERMA A588    2919.55        0.00        2300.28
+13/07/2023S L172181           TO SALE YUGAL VERMA A588    2500.63        0.00        4800.91
+15/07/2023C C                 RN44641 YUGAL VERMA            0.00     5420.18        -619.27
+22/07/2023S L172883           TO SALE VIDYA DEVI 89887    2229.70        0.00        1610.43
+22/07/2023S L172884           TO SALE VIDYA DEVI 89887    1973.52        0.00        3583.95
+26/07/2023S L173137           TO SALE KHIMA RAM A588     16264.60        0.00       19848.55
+26/07/2023S L173138           TO SALE KHIMA RAM A588      6887.38        0.00       26735.93
+26/07/2023S L173156           TO SALE KHIMA RAM A588      1067.34        0.00       27803.27
+27/07/2023C C51721            TO CASH SHAM LAL             620.00        0.00       28423.27
+08/08/2023C C1                RN45944 KHIMA RAM              0.00    10000.00       18423.27
+08/08/2023J J94753            BY CARD                        0.00     4203.00       14220.27
+25/08/2023S L175090           TO SALE PAWNA NAND KALAR     910.00        0.00       15130.27
+02/09/2023S L175639           TO SALE PREM DASS C/O SH    1517.38        0.00       16647.65
+02/09/2023S L175644           TO SALE PREM DASS C/O SH   23252.53        0.00       39900.18
+02/09/2023S L175645           TO SALE PREM DASS C/O SH    8020.48        0.00       47920.66
+05/09/2023C C1                RN47930 PREM DASS              0.00    32790.39       15130.27
+06/09/2023C C                 RN48528 PAWAN                  0.00      910.00       14220.27
+07/09/2023S L175982           TO SALE YUGAL VERMA A588    7167.48        0.00       21387.75
+07/09/2023S L175983           TO SALE YUGAL VERMA A588     469.62        0.00       21857.37
+07/09/2023S L175994           TO SALE YUGAL VERMA A588     563.58        0.00       22420.95
+08/09/2023S L176079           TO SALE CHINTU 821824599    5540.00        0.00       27960.95
+08/09/2023S L176080           TO SALE CHINTU 821824599    1661.44        0.00       29622.39
+09/09/2023S L176165           TO SALE GOVIND DAMEHLI       960.00        0.00       30582.39
+11/09/2023C C                 RN47467 GOVIND                 0.00      960.00       29622.39
+12/09/2023C C1                RN47549 KHIMA RAM              0.00     4220.00       25402.39
+14/09/2023S L176419           TO SALE GOPAL C/O RAJESH    4652.70        0.00       30055.09
+14/09/2023S L176439           TO SALE GOPAL C/O RAJESH     887.96        0.00       30943.05
+14/09/2023C C                 RN7579 CHINTU                  0.00     7200.00       23743.05
+14/09/2023J J-CH              BY CH 937026 Q103              0.00    10000.00       13743.05
+15/09/2023C C                 RN47798 YUGAL VERMA            0.00     8200.00        5543.05
+16/09/2023C C52235            TO FRT  CP                    50.00        0.00        5593.05
+19/09/2023C C1                RN49135 GOPAL SINGH            0.00     5540.66          52.39
+22/09/2023S L177019           TO SALE VIJAY DAPLADC/O     2030.00        0.00        2082.39
+26/09/2023C C                 RN7414 VIJAY                   0.00     2030.00          52.39
+06/10/2023S L178056           TO SALE VIJAY DAPLAD        2410.00        0.00        2462.39
+06/10/2023S L178065           TO SALE RAJU C/O MAST RA    3323.74        0.00        5786.13
+06/10/2023S L178066           TO SALE RAJU C/O MAST RA    1173.42        0.00        6959.55
+06/10/2023S L178100           TO SALE PAWAN ANAND KALA     892.80        0.00        7852.35
+06/10/2023S L178103           TO SALE VIDYA DEVI 89887    1303.44        0.00        9155.79
+10/10/2023C C1                RN7425 VIJAY KUMAR             0.00     2410.00        6745.79
+10/10/2023C C1                RN51376 PAWANANAND             0.00      893.00        5852.79
+13/10/2023S L178635           TO SALE VIDYA DEVI 91185    2341.44        0.00        8194.23
+17/10/2023C C1                RN51463 VIDYA DEVI             0.00     1303.44        6890.79
+20/10/2023S L179062           TO SALE KHIMA RAM A588      3149.70        0.00       10040.49
+20/10/2023S L179090           TO SALE KHIMA RAM A588     14651.35        0.00       24691.84
+20/10/2023S L179091           TO SALE KHIMA RAM A588      4402.10        0.00       29093.94
+20/10/2023J J95839            BY GOOGLE RAJU                 0.00     4497.00       24596.94
+24/10/2023C C1                RN 50636 KHIMA RAM             0.00    22200.00        2396.94
+27/10/2023S L179582           TO SALE BHOGA RAM C/O HA    2666.15        0.00        5063.09
+27/10/2023S L179595           TO SALE ROOP LAL SHALURI    2270.00        0.00        7333.09
+30/10/2023C C                 RN7458 ROOP LAL                0.00     2270.00        5063.09
+31/10/2023C C2                RN52541 BHOGA RAM              0.00      567.00        4496.09
+03/11/2023S L180125           TO SALE HARI SINGH BISHT    2415.00        0.00        6911.09
+03/11/2023S L180126           TO SALE HARI SINGH BISHT    3691.12        0.00       10602.21
+03/11/2023S L180127           TO SALE YUGAL VERMA A588    7433.00        0.00       18035.21
+03/11/2023S L180128           TO SALE YUGAL VERMA A588    3562.36        0.00       21597.57
+03/11/2023S L180137           TO SALE POLICE CHAURA       2580.00        0.00       24177.57
+04/11/2023C C                 RN50768 YUGAL VERMA            0.00    10995.36       13182.21
+06/11/2023C C                 RN7467 HARI SINGH              0.00     3690.00        9492.21
+07/11/2023C C1                RN7469 POLICE CHAURA           0.00     2580.00        6912.21
+09/11/2023S L180617           TO SALE YUGAL VERMA A588    1672.42        0.00        8584.63
+09/11/2023S L180662           TO SALE GURDYAL BO A588     1292.00        0.00        9876.63
+09/11/2023S L180663           TO SALE GURDYAL BO A588     9674.52        0.00       19551.15
+09/11/2023S L180674           TO SALE RAM DASS KARDAR     3449.20        0.00       23000.35
+09/11/2023S L180675           TO SALE RAM DASS KARDAR     2174.70        0.00       25175.05
+09/11/2023S L180709           TO SALE YUGAL VERMA A588    2832.75        0.00       28007.80
+09/11/2023S L180710           TO SALE YUGAL VERMA A588    2613.51        0.00       30621.31
+11/11/2023S O108356           TO SALE RAM DASS KARDHAR   -1473.78        0.00       29147.53
+11/11/2023C C1                RN53726 VIDYA DEVI             0.00     2342.00       26805.53
+11/11/2023J J96206            BY GOOGLE YUGAL VERMA          0.00     7120.00       19685.53
+14/11/2023C C1                RN52971 RAM DASS               0.00     4150.12       15535.41
+15/11/2023J J96257            BY GOOGLE GURDTAL SINGH        0.00    10967.00        4568.41
+16/11/2023S L181254           TO SALE BEENU BISHT THAN    2124.00        0.00        6692.41
+16/11/2023S L181255           TO SALE BEENU BISHT THAN    2638.25        0.00        9330.66
+16/11/2023S L181258           TO SALE YUGAL VERMA A588    1097.00        0.00       10427.66
+16/11/2023S L181259           TO SALE YUGAL VERMA A588    2997.06        0.00       13424.72
+16/11/2023S L181267           TO SALE UTTAM LANJ          3680.00        0.00       17104.72
+16/11/2023S L181278           TO SALE PAWNA NAND KALAR     910.00        0.00       18014.72
+16/11/2023S L181279           TO SALE KHIMA RAM A588     11016.00        0.00       29030.72
+16/11/2023S L181280           TO SALE KHIMA RAM A588      2282.42        0.00       31313.14
+16/11/2023S L181291           TO SALE GURDYAL BO A588     1097.00        0.00       32410.14
+16/11/2023S L181292           TO SALE GURDYAL BO A588     2451.50        0.00       34861.64
+16/11/2023S L181314           TO SALE KHIMA RAM A588      3655.96        0.00       38517.60
+17/11/2023S L181333           TO SALE SANJU               3729.23        0.00       42246.83
+18/11/2023C C                 RN7480 UTTAM                   0.00     3680.00       38566.83
+18/11/2023C C                 RN7481                         0.00     3729.00       34837.83
+20/11/2023S L181502           TO SALE SOAHAN BISHT THA    5200.00        0.00       40037.83
+20/11/2023J J96352            BY GOOGLE YUGAL VERMA          0.00     4100.00       35937.83
+21/11/2023C C                 RN54828 SOHAN LAL              0.00     5200.00       30737.83
+22/11/2023C C1                RN54470 PAWAN ANAND            0.00      910.00       29827.83
+23/11/2023J J96411            BY GOOGLE GURDYAL SINGH        0.00     3548.00       26279.83
+24/11/2023C C1                RN54341 BEERU BISHT            0.00     4762.25       21517.58
+
+                         TOTAL                          389704.75   368187.17       21517.58
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

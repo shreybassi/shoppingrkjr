@@ -1,0 +1,14 @@
+
+
+A/C DEVEURO PAPER PRODUCTS LLP NOIDA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ W068 D-152 SEC 63 NOIDA DISTT GAUTAM BIHAR BU    PANAALFD5312P           0   0G
+      AADHAR          0   GSTIN 09AALFD5312P1Z0
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+24/06/2023J J94143            TO ON LINE                621970.00        0.00      621970.00
+26/06/2023P DPDEV/0236/23-24  BY PURCHASE                    0.00   621970.00           0.00
+04/11/2023J J96092            TO ON LINE                576268.00        0.00      576268.00
+06/11/2023P DPDEV/0699/23-24  BY PURCHASE                    0.00   576268.00           0.00
+
+                         TOTAL                         1198238.00  1198238.00           0.00

@@ -1,0 +1,23 @@
+
+
+A/C GIAN VIDYA SANGLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ D856 VPO SANGLA TEH SANGLA                       PAN            8988355050  S0G
+      AADHAR 452547150910 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+24/11/2022S L155642           TO SALE                     2308.52        0.00        2308.52
+24/11/2022S L155652           TO SALE                    15267.76        0.00       17576.28
+24/11/2022S L155653           TO SALE                    34613.68        0.00       52189.96
+28/11/2022C C1                RN26072                        0.00    22200.00       29989.96
+12/12/2022C C                 RN 27653                       0.00    29990.00          -0.04
+10/01/2023S L159226           TO SALE                     3660.32        0.00        3660.28
+10/01/2023S L159230           TO SALE                    18842.40        0.00       22502.68
+10/01/2023S L159231           TO SALE                     9944.22        0.00       32446.90
+12/01/2023J J91900            BY GOOGLE                      0.00    32446.00           0.90
+08/02/2023J MINBAL            BY MINOR BALANCE TRANSFE       0.00        0.90           0.00
+
+                         TOTAL                           84636.90    84636.90           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

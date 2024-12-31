@@ -1,0 +1,29 @@
+
+
+A/C P K ENTERPRISES DUTTNAGAR    In M/S RAM KISHAN JIVA RAM Page No. 1
+ I343 VPO DUTTNAGAR TEH RAMPUR                    PANBMUPR0386M  7018890115  81G
+      AADHAR          0   GSTIN 02BMUPR0386M1ZE
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/06/2023S S445572           TO SALE                    68954.21        0.00       68954.21
+26/06/2023J J-CH              BY CH 312136 Q101              0.00    68954.00           0.21
+01/07/2023S S448531           TO SALE                    76064.89        0.00       76065.10
+11/07/2023J J94372            BY ON LINE                     0.00    76065.00           0.10
+04/08/2023S S452411           TO SALE                     2106.51        0.00        2106.61
+05/08/2023S S452517           TO SALE                    90043.39        0.00       92150.00
+18/08/2023J J-CH              BY CH 434501 Q103              0.00    92150.00           0.00
+16/09/2023S S457848           TO SALE                     2388.73        0.00        2388.73
+16/09/2023S S457857           TO SALE                    80755.99        0.00       83144.72
+03/10/2023J J-CH              BY CH 434512 Q103              0.00    83144.00           0.72
+13/10/2023S S461670           TO SALE                     6376.52        0.00        6377.24
+14/10/2023S S461846           TO SALE                    41693.01        0.00       48070.25
+27/10/2023J J95935            BY CH                          0.00    48069.00           1.25
+10/11/2023S S465467           TO SALE                    11018.92        0.00       11020.17
+11/11/2023S S465577           TO SALE                    54770.03        0.00       65790.20
+24/11/2023J J96435            BY CH 434536                   0.00    59926.00        5864.20
+
+                         TOTAL                          434172.20   428308.00        5864.20
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

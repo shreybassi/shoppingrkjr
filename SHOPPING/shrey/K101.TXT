@@ -1,0 +1,31 @@
+
+
+A/C HEMA BOOK DEPOT BAGIPUL      In M/S RAM KISHAN JIVA RAM Page No. 1
+ K101 VPO BAGIPUL TEH NIRMAND                     PANBQUPR7814Q  9418217910  E0G
+      AADHAR          0   GSTIN 02BQUPR7814Q1ZV
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/05/2023S S441397           TO SALE                     2750.62        0.00        2750.62
+12/05/2023J J-CH              BY CH 469851 Q103              0.00     2750.62           0.00
+28/06/2023S S448086           TO SALE                     5952.92        0.00        5952.92
+04/07/2023J J-CH              BY CH 954656 Q103              0.00     5952.00           0.92
+05/08/2023S L173693           TO SALE                    10654.16        0.00       10655.08
+01/09/2023S E191892           TO SALE                     4436.80        0.00       15091.88
+13/09/2023J J95257            BY CH 528739                   0.00     5000.00       10091.88
+13/09/2023J J95257            BY CH 528748                   0.00     5000.00        5091.88
+15/09/2023S L176515           TO SALE                     3281.60        0.00        8373.48
+03/10/2023J J-CH              BY CH 528763 Q103              0.00     5000.00        3373.48
+05/10/2023S L178034           TO SALE                      762.28        0.00        4135.76
+06/10/2023S L178088           TO SALE                     6896.08        0.00       11031.84
+14/10/2023J J-CH              BY CH 528771 Q103              0.00     5000.00        6031.84
+26/10/2023J J-CH              BY CH 528779 Q103              0.00     6035.00          -3.16
+01/11/2023S P231490           TO SALE                     8609.28        0.00        8606.12
+14/11/2023J J-CH              BY CH 528789 Q103              0.00     5000.00        3606.12
+22/11/2023S L181764           TO SALE                     5559.92        0.00        9166.04
+24/11/2023J J-CH              BY CH 528797 Q103              0.00     3500.00        5666.04
+
+                         TOTAL                           48903.66    43237.62        5666.04
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,19 @@
+
+
+A/C THUPTEN PHUNTSOK KUNGRI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ G174 VILL KUNGRI PO GULLING TEH KAZA             PANCKDPP5360B  8988836773  Z1G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/09/2023J J95372            BY CH 530992                   0.00   139240.00     -139240.00
+22/09/2023S S458603           TO SALE                    89101.11        0.00      -50138.89
+22/09/2023S S458607           TO SALE                    50484.56        0.00         345.67
+29/09/2023S S459674           TO SALE                     9197.13        0.00        9542.80
+04/10/2023C C1                RN50224                        0.00     9197.00         345.80
+23/11/2023C C                 RN54317                        0.00      346.00          -0.20
+
+                         TOTAL                          148782.80   148783.00          -0.20
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

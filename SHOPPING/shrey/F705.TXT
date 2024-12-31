@@ -1,0 +1,23 @@
+
+
+A/C LODAN DOLMA JS LABRANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F705                                             PAN                     0  PBG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+05/11/2022S L153994           TO SALE                     5856.25        0.00        5856.25
+05/11/2022S L153995           TO SALE                     6704.38        0.00       12560.63
+14/11/2022J J91135            BY ON LINE                     0.00    12560.63           0.00
+21/11/2022S L155357           TO SALE                     4508.55        0.00        4508.55
+21/11/2022S L155358           TO SALE                     4469.58        0.00        8978.13
+28/11/2022C C                 RN27013                        0.00     8979.00          -0.87
+05/12/2022S L156668           TO SALE                     5662.00        0.00        5661.13
+05/12/2022S L156669           TO SALE                     4878.13        0.00       10539.26
+09/01/2023C C                 RN30354                        0.00    10540.00          -0.74
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       0.74        0.00           0.00
+
+                         TOTAL                           32079.63    32079.63           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

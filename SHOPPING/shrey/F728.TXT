@@ -1,0 +1,21 @@
+
+
+A/C HUKAM CHAND 78072 32636 POOH         In M/S RAM KISHAN JIVA RAM Page No. 1
+ F728                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+09/05/2023S S441241           TO SALE                    10303.50        0.00       10303.50
+23/05/2023S S443181           TO SALE                     4151.20        0.00       14454.70
+29/05/2023J J-CH              BY CH 810750 Q101              0.00    14455.00          -0.30
+12/06/2023J J-CH              BY CH 810749 Q101              0.00    10303.00      -10303.30
+17/06/2023S L170552           TO SALE                     7003.50        0.00       -3299.80
+17/06/2023S L170553           TO SALE                     1725.86        0.00       -1573.94
+19/06/2023J J94058            TO CH 298762                8729.00        0.00        7155.06
+20/06/2023J J94071            BY GOOGLE                      0.00     8729.00       -1573.94
+
+                         TOTAL                           31913.06    33487.00       -1573.94
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

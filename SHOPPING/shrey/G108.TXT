@@ -1,0 +1,26 @@
+
+
+A/C SUKH DEV KANAM        In M/S RAM KISHAN JIVA RAM Page No. 1
+ G108 VPO KANAM TEH POOH                          PAN            8894693888  P0G
+      AADHAR 216804975017 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        -740.01
+12/04/2023S R251316           TO SALE                    44266.71        0.00       43526.70
+12/04/2023J J-CH              BY CH 000174 Q109              0.00    55000.00      -11473.30
+21/04/2023J J93228            TO TRANS                   11473.30        0.00           0.00
+19/06/2023S S446899           TO SALE                    91755.01        0.00       91755.01
+19/06/2023S S446931           TO SALE                    20918.64        0.00      112673.65
+22/06/2023J J94120            BY ON LINE                     0.00   112675.00          -1.35
+09/09/2023S H400197           TO SALE                    40794.33        0.00       40792.98
+09/09/2023S H400198           TO SALE                    35437.36        0.00       76230.34
+10/10/2023C C2                RN 51372                       0.00     2230.34       74000.00
+11/10/2023J J-CH              BY CH 000187 Q109              0.00    74000.00           0.00
+25/11/2023S S467400           TO SALE                    89914.02        0.00       89914.02
+25/11/2023S S467401           TO SALE                    34339.47        0.00      124253.49
+25/11/2023S S467409           TO SALE                     7378.54        0.00      131632.03
+
+                         TOTAL                          376277.38   244645.35      131632.03
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

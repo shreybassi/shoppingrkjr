@@ -1,0 +1,23 @@
+
+
+A/C MOHAR SINGH DALEEP SINGH ANNI         In M/S RAM KISHAN JIVA RAM Page No. 1
+ I099 ANNI                                        PANCCOPS5027F  9816748477  7GV
+      AADHAR          0   GSTIN 02CCOPS5027F1ZM
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+23/05/2023S S443099           TO SALE                     5786.38        0.00        5786.38
+24/05/2023S S443269           TO SALE                    30465.92        0.00       36252.30
+31/05/2023J J-CH              BY CH 277044 Q101              0.00    36251.00           1.30
+04/07/2023S S448895           TO SALE                     9713.29        0.00        9714.59
+04/07/2023S S448901           TO SALE                     4881.92        0.00       14596.51
+12/07/2023J J94392            BY CH 277059                   0.00    14595.00           1.51
+27/09/2023S S459203           TO SALE                    10784.14        0.00       10785.65
+03/10/2023J J-CH              BY CH 319639 Q101              0.00    10784.00           1.65
+01/11/2023S S464080           TO SALE                    10244.98        0.00       10246.63
+07/11/2023J J-CH              BY CH 319647 Q101              0.00    10244.00           2.63
+
+                         TOTAL                           71876.63    71874.00           2.63
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

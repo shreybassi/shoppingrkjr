@@ -1,0 +1,20 @@
+
+
+A/C MIKAL 9418401780 POOH         In M/S RAM KISHAN JIVA RAM Page No. 1
+ F769                                             PAN                     0  PGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+26/06/2023S L171172           TO SALE                     8830.00        0.00        8830.00
+07/08/2023J J94739            BY ON LINE                     0.00     8830.00           0.00
+25/09/2023S S459027           TO SALE                    16943.87        0.00       16943.87
+17/10/2023J J95788            BY ON LINE                     0.00    16943.00           0.87
+19/10/2023S S462448           TO SALE                     1709.72        0.00        1710.59
+19/10/2023S S462463           TO SALE                    26003.89        0.00       27714.48
+21/10/2023J J95855            BY ON LINE                     0.00    27714.00           0.48
+
+                         TOTAL                           53487.48    53487.00           0.48
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,23 @@
+
+
+A/C KAITH GRUOP OF TECHNOLOGIES KALEDA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I314 VILL KALEDA PO SURAD TEH RAMPUR             PANAREPD7536R  9805000114  E0G
+      AADHAR          0   GSTIN 02AREPD7536R2ZI
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+26/04/2023S E191033           TO SALE                     4232.68        0.00        4232.68
+26/04/2023J J93288            BY CARD                        0.00     4232.68           0.00
+28/04/2023S E191048           TO SALE                     3459.88        0.00        3459.88
+28/04/2023J J93309            BY CARD Q907                   0.00     3459.88           0.00
+01/05/2023S C627527           TO SALE                     1287.82        0.00        1287.82
+01/05/2023J J93334            BY CARD                        0.00     1287.82           0.00
+08/05/2023S C627682           TO SALE                      399.00        0.00         399.00
+08/05/2023S C941439           TO SALE                     6201.60        0.00        6600.60
+08/05/2023J J93442            BY CARD                        0.00      399.00        6201.60
+08/05/2023J J93442            BY CARD                        0.00     6201.60           0.00
+
+                         TOTAL                           15580.98    15580.98           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

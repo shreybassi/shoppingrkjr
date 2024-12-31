@@ -1,0 +1,26 @@
+
+
+A/C GIAN TECHNOLOGIES TAPRI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ D149 PROP BHARAT KUMAR VIJ VILL.  PO TAPRI       PANACKPV3738L  9416085463  SCG
+      AADHAR          0   GSTIN 02ACKPV3738L1Z6
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+08/05/2023C C50809            TO CASH                     2000.00        0.00        2000.00
+08/05/2023E GT3               BILL R039EXP772                0.00     2000.00           0.00
+08/05/2023E GT2               BILL Q604EXP771                0.00    18880.00      -18880.00
+09/05/2023C C50825            TO CASH                     3894.00        0.00      -14986.00
+09/05/2023E GT4               BILL R019EXP777                0.00     3894.00      -18880.00
+11/05/2023J J93486            TO ONLINE TRF              18880.00        0.00           0.00
+10/08/2023C C51875            TO CASH                     1416.00        0.00        1416.00
+11/08/2023E GT39              BILL R019EXP956                0.00     1416.00           0.00
+15/09/2023J J95295            TO ON LINE                 16402.00        0.00       16402.00
+15/09/2023E GT51              BILL R019EXP043                0.00     1652.00       14750.00
+15/09/2023E GT46              BILL Q604EXP042                0.00    14750.00           0.00
+08/11/2023C C52939            TO CASH                     6048.00        0.00        6048.00
+09/11/2023E GT66              BILL REPAIR KANTA EXP151       0.00     6047.50           0.50
+
+                         TOTAL                           48640.00    48639.50           0.50
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

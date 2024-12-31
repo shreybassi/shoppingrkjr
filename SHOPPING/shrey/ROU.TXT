@@ -1,0 +1,37 @@
+Manager	Salesman		AREA
+Rajesh	RAJKUMA	A	RATANPUR TO JEORI ghanvi
+Saurabh	CHETAN	B	bhutti thanadhar
+Saurabh	CHETAN	C	CHAKHTI PANDADHAR DELATH NAGADHAR NANKHARI JWALDA
+Saurabh	CHETAN	D	DALASH AMARBAG NITHAR DURAH KALOG SHARVI
+Papa	Trilok	E	COUNTER RAMPUR CREDIT
+Papa	Yash Pa	F	COUNTER KHANERI CREDIT
+Papa	DHARAM	G   	Shingla to Dhansa
+Rajesh	RAJKUMA	H	BADAHL TO SUNGRA NICHAR KATGAON bari ponda kangos +Rajkumar
+Papa	Trilok	I	institutional FROM SHOP
+Rajesh	RAJKUMA	J	KHANERI JHAKRI 
+Saurabh	VED	K	Nathpa to Kalpa
+Papa	MILKHI	L	Rampur indira mkt 
+Saurabh	Saurabh	M	PERSONAL
+Papa	CHANDER P	NIRMAND REMU TIKRI ARSU DEEM BAGIPUL bandal
+Saurabh	PAPAJI	O	OTHERS  OUTSIDE OUR AREA
+Papa	RAMESH	P	AKPA to Dubling
+Saurabh	AKELA	Q	BUS STAND RAMPUR
+Rajesh	RAJKUMA	R	BONDA GHARAT SARAHAN RAGORI SHALABAG MAJHGAON KINNU
+Rajesh	NITYA	S	KARCHAM KUPPA SANGLA BATSERI RAKSHAM CHITKUL
+Saurabh	KHELU	T	TAKLECH RAJPURA 
+Saurabh	CHETAN	U	DEOTHI MAJHALI KUHAL JOGNI
+Saurabh	CHETAN	V	Damrali,Theda,Bahli, Narain, Brandli, Khaneoli, Bhadrash
+		W	
+	NARESH	X	NO BALANCE E CODES
+		Y	
+Saurabh	DHANVIR	Z	CHANGO SUMDHO TABO HURLING KAZA LEO YANGTHANG
+Saurabh	P3/Rak/	1	nogli kingal
+Saurabh	P3/Rak/	2	badhal sungra
+Saurabh	P3/Rak/	3	brow chati dako
+Saurabh	P3/Rak/	4	jkri to ratanpur
+Saurabh	P3/Rak/	5	jeori to srn
+Saurabh	P3/Rak/	6	pipti mashnoo
+Saurabh	Mehar	7	LUHRI TO CHAWAI
+Saurabh	CHANDER 8	bayal 
+Saurabh	Mehar	9	bgaon ksain
+Saurabh	Mehar	0	NMD TO DEEM

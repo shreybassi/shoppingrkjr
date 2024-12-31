@@ -1,0 +1,16 @@
+
+
+A/C PRINCIPAL GOVT SSS DELATH       In M/S RAM KISHAN JIVA RAM Page No. 1
+ H055 VPO DELATH TEH RAMPUR                       PAN            9805752335  E1I
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+16/06/2023S L170365           TO SALE                    18211.78        0.00       18211.78
+16/06/2023S L170366           TO SALE                    74598.07        0.00       92809.85
+17/06/2023C C                 RN7312                         0.00    92910.00        -100.15
+
+                         TOTAL                           92809.85    92910.00        -100.15
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

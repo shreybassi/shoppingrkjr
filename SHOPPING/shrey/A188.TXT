@@ -1,0 +1,20 @@
+
+
+A/C JAGDISH BARTAN BHANDAR JEORI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ A188 VPO JEORI TEH RAMPUR                        PANAXGPK2905D  8219859433  A1G
+      AADHAR          0   GSTIN 02AXGPK2905D1Z4
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+20/09/2023S L176893           TO SALE                     3152.02        0.00        3152.02
+25/09/2023C C2                RN49844                        0.00     3152.00           0.02
+27/09/2023S L177358           TO SALE                     3630.62        0.00        3630.64
+02/10/2023C C2                RN49451                        0.00     3630.00           0.64
+10/10/2023S L178389           TO SALE                      965.24        0.00         965.88
+23/10/2023C C1                RN51666                        0.00      966.00          -0.12
+21/11/2023S L181571           TO SALE                     4341.22        0.00        4341.10
+
+                         TOTAL                           12089.10     7748.00        4341.10
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

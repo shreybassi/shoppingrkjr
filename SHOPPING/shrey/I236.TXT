@@ -1,0 +1,32 @@
+
+
+A/C KARAM CHAND VINOD KUMAR KUMARSAIN    In M/S RAM KISHAN JIVA RAM Page No. 1
+ I236 VPO KUMARSAIN TEH KUMARSAIN                 PANABSPA1944L  9418131865  97G
+      AADHAR          0   GSTIN 02ABSPA1944L1ZP
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/04/2023S S439189           TO SALE                    13229.84        0.00       13229.84
+22/04/2023S S439226           TO SALE                     5622.22        0.00       18852.06
+02/05/2023J J-CH              BY CH 882821 Q103              0.00    18852.00           0.06
+06/05/2023S S440949           TO SALE                     6798.30        0.00        6798.36
+06/05/2023S S440983           TO SALE                     1215.87        0.00        8014.23
+13/05/2023S S441903           TO SALE                     9359.45        0.00       17373.68
+13/05/2023S S441937           TO SALE                     4254.36        0.00       21628.04
+17/05/2023J J-CH              BY CH 882833 Q103              0.00     8014.00       13614.04
+30/05/2023J J-CH              BY CH 882846 Q103              0.00    13613.00           1.04
+10/06/2023S S445621           TO SALE                      810.94        0.00         811.98
+10/06/2023S S445663           TO SALE                     5509.79        0.00        6321.77
+20/06/2023J J-CH              BY CH 630666 Q103              0.00     6319.00           2.77
+08/07/2023S S449497           TO SALE                     3479.26        0.00        3482.03
+18/07/2023J J-CH              BY CH 630683 Q103              0.00     3479.00           3.03
+07/10/2023S S460779           TO SALE                     8101.03        0.00        8104.06
+07/10/2023S S460809           TO SALE                      621.12        0.00        8725.18
+18/10/2023J J-CH              BY CH 630748 Q103              0.00     8722.00           3.18
+21/10/2023S S462860           TO SALE                     9403.18        0.00        9406.36
+31/10/2023J J-CH              BY CH 299558 Q103              0.00     9403.00           3.36
+
+                         TOTAL                           68405.36    68402.00           3.36
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

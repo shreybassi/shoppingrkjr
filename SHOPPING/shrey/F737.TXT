@@ -1,0 +1,22 @@
+
+
+A/C SURESH KUMAR THANGI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ F737                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+20/05/2022S L141297           TO SALE                    11985.10        0.00       11985.10
+21/05/2022S L141342           TO SALE                    15910.60        0.00       27895.70
+21/05/2022S L141343           TO SALE                    60558.30        0.00       88454.00
+23/05/2022J J-CH              BY CH 817558 Q101              0.00    88454.00           0.00
+17/11/2022S L154990           TO SALE                     5417.82        0.00        5417.82
+17/11/2022S L155001           TO SALE                    21500.65        0.00       26918.47
+17/11/2022S L155002           TO SALE                     7571.71        0.00       34490.18
+23/11/2022J J91264            BY CH 817576                   0.00    34490.00           0.18
+08/02/2023J MINBAL            BY MINOR BALANCE TRANSFE       0.00        0.18           0.00
+
+                         TOTAL                          122944.18   122944.18           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

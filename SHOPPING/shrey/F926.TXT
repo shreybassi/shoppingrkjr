@@ -1,0 +1,20 @@
+
+
+A/C MAHESH RISPA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F926                                             PAN                     0  PGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+28/11/2022S L156021           TO SALE                      456.76        0.00         456.76
+28/11/2022S L156024           TO SALE                    32328.56        0.00       32785.32
+28/11/2022S L156025           TO SALE                    24396.11        0.00       57181.43
+31/12/2022C C1                RN30236                        0.00    25000.00       32181.43
+31/12/2022C C1                RN30237                        0.00    25000.00        7181.43
+31/12/2022C C1                RN30238                        0.00     7182.00          -0.57
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       0.57        0.00           0.00
+
+                         TOTAL                           57182.00    57182.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

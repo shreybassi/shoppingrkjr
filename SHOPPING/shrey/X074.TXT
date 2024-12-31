@@ -1,0 +1,14 @@
+
+
+A/C NAVKAR FANCY STORE AMBALA CITY  In M/S RAM KISHAN JIVA RAM Page No. 1
+ X074 SHOP NO 1372 BALAJI MARKET SHUKUL KUND R    PANAIEPJ7062P           0   0G
+      AADHAR          0   GSTIN 06AIEPJ7062P1ZU
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+09/05/2023P NF26              BY PURCHASE                    0.00    24313.00      -24313.00
+13/05/2023J J93520            TO ONLINE                  24313.00        0.00           0.00
+22/05/2023P NF54              BY PURCHASE                    0.00    12588.00      -12588.00
+13/07/2023J J94408            TO ON LINE                 12588.00        0.00           0.00
+
+                         TOTAL                           36901.00    36901.00           0.00

@@ -1,0 +1,20 @@
+
+
+A/C SHREE DURGA WHEAT PRODUCTS P KALA AMB     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U128 TRILOKPUR ROAD KALA-AMB                     PANAACCS5527P           0   1G
+      AADHAR          0   GSTIN 02AACCS5527P2Z4
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+04/05/2023P AD266             BY PURCHASE                    0.00   710584.00     -710584.00
+10/05/2023J J93472            TO ONLINE TRF Q101        710584.00        0.00           0.00
+31/05/2023P PM7761003264      BY PURCHASE                    0.00  1115576.33    -1115576.33
+31/05/2023P PM7761003264R     BY PURCHASE                    0.00 -1115576.30          -0.03
+31/05/2023P SD573             BY PURCHASE                    0.00   575301.00     -575301.03
+03/06/2023J J93843            TO ON LINE                575301.00        0.00          -0.03
+10/06/2023P SD628             BY PURCHASE                    0.00   591253.00     -591253.03
+17/06/2023J J94042            TO ON LINE                591253.00        0.00          -0.03
+15/09/2023P SD1317            BY PURCHASE                    0.00   526002.00     -526002.03
+18/09/2023J J95332            TO ON LINE                526002.00        0.00          -0.03
+
+                         TOTAL                         2403140.00  2403140.03          -0.03

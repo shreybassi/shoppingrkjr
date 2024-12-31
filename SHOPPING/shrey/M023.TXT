@@ -1,0 +1,29 @@
+
+
+A/C JAGAN NATH AND COMPANY RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M023 VPO RAMPUR TEH RAMPUR                       PANAAPFJ0875K  9418033012  LBG
+      AADHAR          0   GSTIN 02AAPFJ0875K1Z4
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+26/04/2023S G286210           TO SALE                     5609.56        0.00        5609.56
+16/05/2023J J-CH              BY CH 000987 Q102              0.00     5610.00          -0.44
+02/06/2023S B545680           TO SALE                    54924.40        0.00       54923.96
+02/06/2023S G286802           TO SALE                     3298.78        0.00       58222.74
+28/06/2023J J-CH              BY CH 001024 Q102              0.00    58223.00          -0.26
+20/07/2023S P230866           TO SALE                     4566.60        0.00        4566.34
+28/07/2023S G287661           TO SALE                     2856.32        0.00        7422.66
+07/08/2023S L173796           TO SALE                    46906.00        0.00       54328.66
+24/08/2023J J-CH              BY CH 001069 Q102              0.00    54328.00           0.66
+15/09/2023S G288255           TO SALE                     1060.97        0.00        1061.63
+29/09/2023S B550670           TO SALE                    21777.80        0.00       22839.43
+04/10/2023S L177884           TO SALE                    36687.14        0.00       59526.57
+27/10/2023S E192293           TO SALE                    11092.00        0.00       70618.57
+27/10/2023S E192297           TO SALE                     3245.00        0.00       73863.57
+01/11/2023J J-CH              BY CH 001113 Q102              0.00    60000.00       13863.57
+12/11/2023S G288992           TO SALE                    32699.67        0.00       46563.24
+
+                         TOTAL                          224724.24   178161.00       46563.24
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

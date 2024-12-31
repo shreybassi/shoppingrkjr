@@ -1,0 +1,12 @@
+
+
+A/C CAR CLINIC CHANDIGARH   In M/S RAM KISHAN JIVA RAM Page No. 1
+ V029 PLOT NO 81 INDS AREA PHASE 11 CHD           PANADSPM8386Q           0   GG
+      AADHAR          0   GSTIN 04ADSPM8386Q1ZD
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+16/07/2021J J85339            BY TRF                         0.00    31765.00      -31765.00
+19/07/2021J J85367            TO ONLINE                  31765.00        0.00           0.00
+
+                         TOTAL                           31765.00    31765.00           0.00

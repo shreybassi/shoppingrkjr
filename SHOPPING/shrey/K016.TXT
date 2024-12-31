@@ -1,0 +1,21 @@
+
+
+A/C MEHAR DASS AND SONS REMU         In M/S RAM KISHAN JIVA RAM Page No. 1
+ K016 VILL. REMU PO NISHANI                       PAN            9418500598  NBG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+28/04/2023S S439960           TO SALE                    20532.72        0.00       20532.72
+29/04/2023S S440046           TO SALE                    35729.75        0.00       56262.47
+01/05/2023C A405S             BY CASH S439960 MEHAR DA       0.00    20532.72       35729.75
+01/05/2023C A405S             BY CASH S440046 MEHAR DA       0.00    35729.75           0.00
+10/11/2023S S465401           TO SALE                     5150.79        0.00        5150.79
+11/11/2023S S465552           TO SALE                     6033.68        0.00       11184.47
+11/11/2023C A415S             BY CASH S465401 MEHAR DA       0.00     5150.79        6033.68
+11/11/2023C A415S             BY CASH S465552 MEHAR DA       0.00     6033.68           0.00
+
+                         TOTAL                           67446.94    67446.94           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

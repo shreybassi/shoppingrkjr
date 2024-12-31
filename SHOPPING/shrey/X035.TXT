@@ -1,0 +1,14 @@
+
+
+A/C THE SHAHABAD CO-OP SUGAR MILLS SHAHABAD     In M/S RAM KISHAN JIVA RAM Page No. 1
+ X035 SHAHABAD                                    PANAAAAT0381N           0   GG
+      AADHAR          0   GSTIN 06AAAAT0381N1ZC
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+29/05/2023P TS2023-24/542     BY PURCHASE                    0.00   570150.00     -570150.00
+30/05/2023J J93750            TO CH 010210              570150.00        0.00           0.00
+07/09/2023P TS2023-24/2327    BY PURCHASE                    0.00   595822.50     -595822.50
+07/09/2023J J95188            TO ON LINE                595823.00        0.00           0.50
+
+                         TOTAL                         1165973.00  1165972.50           0.50

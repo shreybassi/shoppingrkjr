@@ -1,0 +1,14 @@
+
+
+A/C PROTEAN E GOV TECH              In M/S RAM KISHAN JIVA RAM Page No. 1
+ W064                                             PANAAACN2082N           0   0G
+      AADHAR          0   GSTIN 27AAACN2082N1Z8
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+14/10/2023C C52606            TO CASH                      252.00        0.00         252.00
+14/10/2023C C52606            TO CASH                       59.00        0.00         311.00
+14/10/2023E AA687919600047713 BILL TDS RETURN                0.00      252.04          58.96
+14/10/2023E AA6879196000047993BILL TDS RETURN                0.00       59.00          -0.04
+
+                         TOTAL                             311.00      311.04          -0.04

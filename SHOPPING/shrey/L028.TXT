@@ -1,0 +1,32 @@
+
+
+A/C HEMANT BAHADUR RANVIR FHALERVI     In M/S RAM KISHAN JIVA RAM Page No. 1
+ L028 VILL FHALERVI PO GHATU TEH NMD              PAN            8278795395  N0P
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+07/04/2023S L165171           TO SALE                     3268.41        0.00        3268.41
+18/04/2023S L166050           TO SALE                     1225.00        0.00        4493.41
+03/05/2023S L167073           TO SALE                     5800.00        0.00       10293.41
+26/05/2023S T100065           TO SALE                     1169.70        0.00       11463.11
+02/06/2023C C                 RN41080                        0.00     1225.00       10238.11
+02/06/2023C C                 RN41081                        0.00    10238.11           0.00
+08/06/2023S T100093           TO SALE                      494.76        0.00         494.76
+12/06/2023S T100105           TO SALE                     2247.81        0.00        2742.57
+12/06/2023S T100106           TO SALE                     3527.28        0.00        6269.85
+12/06/2023C C1                RN7309                         0.00      230.00        6039.85
+13/06/2023S T100114           TO SALE                      534.66        0.00        6574.51
+22/06/2023C C                 RN7316                         0.00      530.00        6044.51
+14/07/2023C C                 RN7332                         0.00      560.00        5484.51
+15/07/2023S T100223           TO SALE                     6784.40        0.00       12268.91
+01/08/2023J J94637            BY TRANS                       0.00     3527.00        8741.91
+09/08/2023C C                 RN7365                         0.00     5959.53        2782.38
+09/09/2023S T100540           TO SALE                     2476.90        0.00        5259.28
+09/09/2023S T100542           TO SALE                     1218.62        0.00        6477.90
+30/10/2023S T100950           TO SALE                     1080.00        0.00        7557.90
+
+                         TOTAL                           29827.54    22269.64        7557.90
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

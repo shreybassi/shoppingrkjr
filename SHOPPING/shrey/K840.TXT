@@ -1,0 +1,21 @@
+
+
+A/C MEHUL GENERAL STORE ANNI         In M/S RAM KISHAN JIVA RAM Page No. 1
+ K840 VPO ANNI TEH ANI                            PANAHBPG0263F  9418273122  7GG
+      AADHAR 942839831749 GSTIN 02AHBPG0263F1Z7
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+06/06/2023S S444953           TO SALE                    10474.38        0.00       10474.38
+07/06/2023S S445007           TO SALE                     1429.88        0.00       11904.26
+12/06/2023J J93966            BY ON LINE                     0.00    11903.00           1.26
+13/06/2023S S445999           TO SALE                     4144.24        0.00        4145.50
+15/06/2023J J94016            BY ON LINE                     0.00     4144.00           1.50
+20/06/2023S S447023           TO SALE                     2005.59        0.00        2007.09
+18/07/2023C C                 RN43876                        0.00     2007.00           0.09
+21/11/2023S S466806           TO SALE                    11074.99        0.00       11075.08
+
+                         TOTAL                           29129.08    18054.00       11075.08
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

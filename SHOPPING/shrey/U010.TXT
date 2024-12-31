@@ -1,0 +1,14 @@
+
+
+A/C S P TRADERS PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U010 SHUBHAM PLAZA SECTOR 2 PARWANOO             PANAFMPG4663E  9896376502   GG
+      AADHAR          0   GSTIN 02AFMPG4663E3ZO
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      -37639.00
+09/05/2023J J93461            TO CH 10293                37639.00        0.00           0.00
+12/07/2023P SPA000061         BY PURCHASE                    0.00    17233.00      -17233.00
+13/10/2023P SPA000101         BY PURCHASE                    0.00     9953.00      -27186.00
+28/10/2023J J95957            TO CH 10662                27186.00        0.00           0.00
+
+                         TOTAL                           64825.00    64825.00           0.00

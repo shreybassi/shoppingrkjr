@@ -1,0 +1,13 @@
+
+
+A/C RAHMAN ART GLASS HOUSE PUNJAB       In M/S RAM KISHAN JIVA RAM Page No. 1
+ V123 SHOP NO 629 NEAR ECO FLORRS RA JHUNGAIN     PANBXXPR5701A           0   0G
+      AADHAR          0   GSTIN 03BXXPR5701A1ZJ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+11/05/2023J J93490            TO CH NO 010584            75500.00        0.00       75500.00
+15/06/2023E RH115             BILL Q601EXP861                0.00    36350.23       39149.77
+15/06/2023E RH151             BILL Q601EXP865                0.00    39147.00           2.77
+
+                         TOTAL                           75500.00    75497.23           2.77

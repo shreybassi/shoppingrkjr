@@ -1,0 +1,20 @@
+
+
+A/C NIZER GENERAL STORE MANE         In M/S RAM KISHAN JIVA RAM Page No. 1
+ G039 HOSE NO 96 NEAR TEMPLE TEH SPITI MANE       PAN            9418271971  Z0G
+      AADHAR 939977758399 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+16/09/2023S S457863           TO SALE                    26695.14        0.00       26695.14
+18/09/2023S O107751           TO SALE                     -413.00        0.00       26282.14
+18/09/2023S O107752           TO SALE                     -807.23        0.00       25474.91
+18/09/2023S S458086           TO SALE                    25494.91        0.00       50969.82
+22/09/2023S O107793           TO SALE                    -1372.10        0.00       49597.72
+02/10/2023C C                 RN48938                        0.00    40000.00        9597.72
+02/10/2023C C                 RN48939                        0.00     9597.72           0.00
+
+                         TOTAL                           49597.72    49597.72           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

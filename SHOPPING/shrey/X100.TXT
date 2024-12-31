@@ -1,0 +1,18 @@
+
+
+A/C MOHIT TRADING CO AMBALA CITY  In M/S RAM KISHAN JIVA RAM Page No. 1
+ X100 1599/6 OLD ANAJ MANDI AMBALA CITY           PANABFPK5359N  9416025747   GG
+      AADHAR          0   GSTIN 06ABFPK5359N1Z7
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+12/04/2023J J93119            TO ON LINE                586687.00        0.00      586687.00
+14/04/2023J J93153            TO ONLINE                 116865.00        0.00      703552.00
+15/04/2023P MT76/2023-24      BY PURCHASE                    0.00   469350.00      234202.00
+15/04/2023P MT77/2023-24      BY PURCHASE                    0.00   234203.00          -1.00
+25/05/2023J J93677            TO ON LINE                456750.00        0.00      456749.00
+27/05/2023P MT226/2023-24     BY PURCHASE                    0.00   456750.00          -1.00
+24/07/2023J J94543            TO ON LINE                691740.00        0.00      691739.00
+28/07/2023P MT369/2023-24     BY PURCHASE                    0.00   691740.00          -1.00
+
+                         TOTAL                         1852042.00  1852043.00          -1.00

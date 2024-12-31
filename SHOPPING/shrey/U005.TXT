@@ -1,0 +1,21 @@
+
+
+A/C SHREE KRISHNA TRADERS SOLAN        In M/S RAM KISHAN JIVA RAM Page No. 1
+ U005 SURI CHAMBER CIRCULAR ROAD NEAR DC OFF      PANAFYPM6224K  9418160432   GG
+      AADHAR          0   GSTIN 02AFYPM6224K1Z2
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F     -304638.72
+10/04/2023P SKKT//INV/95      BY PURCHASE                    0.00   137250.00     -441888.72
+05/05/2023P SKKT//INV/427     BY PURCHASE                    0.00   180382.00     -622270.72
+15/05/2023J J93535            TO CH NO 010589           622270.00        0.00          -0.72
+19/05/2023P SKKT//INV/622     BY PURCHASE                    0.00    94997.00      -94997.72
+19/06/2023P SKKT//INV/1032    BY PURCHASE                    0.00   109220.00     -204217.72
+07/07/2023P SKKT//INV/1259    BY PURCHASE                    0.00   107249.00     -311466.72
+04/08/2023P KTKT//INV/1567    BY PURCHASE                    0.00    58186.00     -369652.72
+09/09/2023P SKKT//INV/1994    BY PURCHASE                    0.00   114693.00     -484345.72
+14/09/2023J J95273            TO CH 010413              484345.00        0.00          -0.72
+16/10/2023P SKKT//INV/2497    BY PURCHASE                    0.00   204789.00     -204789.72
+12/11/2023P SKKT//INV/3092    BY PURCHASE                    0.00    64952.00     -269741.72
+
+                         TOTAL                         1106615.00  1376356.72     -269741.72

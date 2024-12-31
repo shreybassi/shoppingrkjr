@@ -1,0 +1,32 @@
+
+
+A/C MAHADEV RICE AND GENERAL MILLS CHEEKA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ X056 KUSHALMAJRA ROAD CHEEKA                     PANAAJFM1173F           0   GG
+      AADHAR          0   GSTIN 06AAJFM1173F1ZH
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+06/04/2023P MRSL-12           BY PURCHASE                    0.00  1082634.00    -1082634.00
+07/04/2023J J93069            TO ON LINE               1056736.00        0.00      -25898.00
+29/05/2023P MRSL-79           BY PURCHASE                    0.00  1129950.00    -1155848.00
+31/05/2023P MRSL-80           BY PURCHASE                    0.00  1128150.00    -2283998.00
+02/06/2023J J93829            TO ON LINE               4408172.00        0.00     2124174.00
+03/06/2023P MRSL-82           BY PURCHASE                    0.00  1129050.00      995124.00
+05/06/2023P MRSL-86           BY PURCHASE                    0.00  1129050.00     -133926.00
+05/06/2023P MRSL-88           BY PURCHASE                    0.00  1129050.00    -1262976.00
+10/06/2023J J93947            TO ON LINE               1100315.00        0.00     -162661.00
+07/07/2023J J94327            TO TDS 94Q JUNE             1728.00        0.00     -160933.00
+19/10/2023P MRSL-255          BY PURCHASE                    0.00  1149373.00    -1310306.00
+19/10/2023P MRSL-256          BY PURCHASE                    0.00  1149373.00    -2459679.00
+19/10/2023P MRSL-259          BY PURCHASE                    0.00  1149373.00    -3609052.00
+21/10/2023P MRSL-266          BY PURCHASE                    0.00  1149373.00    -4758425.00
+21/10/2023P MRSL-271          BY PURCHASE                    0.00  1149373.00    -5907798.00
+23/10/2023J J95866            TO ON LINE               3362190.00        0.00    -2545608.00
+24/10/2023P MRSL-274          BY PURCHASE                    0.00  1149373.00    -3694981.00
+27/10/2023P MRSL-281          BY PURCHASE                    0.00  1139086.00    -4834067.00
+28/10/2023J J95959            TO ON LINE               3362190.00        0.00    -1471877.00
+30/10/2023P MRSL-285          BY PURCHASE                    0.00  1139086.00    -2610963.00
+31/10/2023J J95991            TO ON LINE               2221399.00        0.00     -389564.00
+07/11/2023J J96121            TO TDS 94Q OCT              9174.00        0.00     -380390.00
+
+                         TOTAL                        15521904.00 15902294.00     -380390.00

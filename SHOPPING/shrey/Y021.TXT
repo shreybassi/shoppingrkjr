@@ -1,0 +1,25 @@
+
+
+A/C HARMANDAR SINGH AND SONS DELHI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ Y021 1802 BHAGIRATH PALACE CHANDNI CHOWK DELH    PANEUCPS8694J           0   0G
+      AADHAR          0   GSTIN 07EUCPS8694J1ZP
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+05/04/2023P HS051             BY PURCHASE                    0.00    21724.00      -21724.00
+07/04/2023J J93070            TO ON LINE                 21724.00        0.00           0.00
+09/05/2023P HS055             BY PURCHASE                    0.00    23246.00      -23246.00
+13/05/2023J J93521            TO ONLINE                  23246.00        0.00           0.00
+06/06/2023P HS061             BY PURCHASE                    0.00    84075.00      -84075.00
+07/06/2023P HS062             BY PURCHASE                    0.00    19305.00     -103380.00
+09/06/2023J J93929            TO ON LINE                103380.00        0.00           0.00
+08/07/2023P HS066             BY PURCHASE                    0.00    25175.30      -25175.30
+17/07/2023J J94452            TO ON LINE                 25175.00        0.00          -0.30
+16/08/2023P HS081             BY PURCHASE                    0.00    24568.00      -24568.30
+23/08/2023J J94956            TO ON LINE                 24568.00        0.00          -0.30
+29/08/2023P HS084             BY PURCHASE                    0.00   104996.40     -104996.70
+07/09/2023J J95182            TO ON LINE                104996.00        0.00          -0.70
+29/09/2023P HS090             BY PURCHASE                    0.00    25057.00      -25057.70
+02/10/2023J J95529            TO ON LINE                 25057.00        0.00          -0.70
+
+                         TOTAL                          328146.00   328146.70          -0.70

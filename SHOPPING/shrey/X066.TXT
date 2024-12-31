@@ -1,0 +1,12 @@
+
+
+A/C AMBALA GOODS CARRIERS AMBALA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ X066 HARYANA MOTOR MARKET G.T ROAD AMBALA        PAN                     0   GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+30/05/2023G E9888AA           BY FRT 74671                   0.00     7610.00       -7610.00
+29/06/2023C C51406            TO FRT                      7610.00        0.00           0.00
+
+                         TOTAL                            7610.00     7610.00           0.00

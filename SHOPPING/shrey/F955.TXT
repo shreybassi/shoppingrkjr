@@ -1,0 +1,21 @@
+
+
+A/C RAJEEV LABRANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F955                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/11/2022S L154380           TO SALE                     9494.62        0.00        9494.62
+10/11/2022S L154387           TO SALE                    26530.76        0.00       36025.38
+10/11/2022S L154388           TO SALE                    39083.66        0.00       75109.04
+21/11/2022S L155369           TO SALE                     3366.00        0.00       78475.04
+23/11/2022J J91258            BY ON LINE                     0.00    75110.00        3365.04
+24/11/2022C C48924            TO FRT                       130.00        0.00        3495.04
+19/12/2022J J91603            BY ON LINE                     0.00     3496.00          -0.96
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       0.96        0.00           0.00
+
+                         TOTAL                           78606.00    78606.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

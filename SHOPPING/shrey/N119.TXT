@@ -1,0 +1,19 @@
+
+
+A/C SNOW VIEW AUTO MOBILE PVT LTD DAKOLAR      In M/S RAM KISHAN JIVA RAM Page No. 1
+ N119                                             PAN                     0  O7G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+02/03/2023J J92454            TO ON LINE                 20000.00        0.00       20000.00
+03/03/2023J J92478            BY BILL                        0.00    11065.00        8935.00
+11/03/2023J J92582            TO WE                      11065.00        0.00       20000.00
+25/03/2023J J92759            TO TFR                     20000.00        0.00       40000.00
+27/03/2023J J92772            BY TRANS                       0.00    20000.00       20000.00
+27/03/2023J J92772            BY TRANS                       0.00    20000.00           0.00
+
+                         TOTAL                           51065.00    51065.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

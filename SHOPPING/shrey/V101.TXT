@@ -1,0 +1,10 @@
+
+
+A/C ABS FOOD AND BEVERAGES RAOWALI      In M/S RAM KISHAN JIVA RAM Page No. 1
+ V101 RAOWALI DISTT                               PANABPFA4191A           0   0G
+      AADHAR          0   GSTIN 03ABPFA4191A1ZT
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        345.00
+
+                         TOTAL                             345.00        0.00         345.00

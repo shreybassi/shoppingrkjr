@@ -1,0 +1,12 @@
+
+
+A/C PMG AUTOS PVT LTD CHANDIGARH   In M/S RAM KISHAN JIVA RAM Page No. 1
+ V031 47 INDS AREA PHASE 1 CHANDIGARH             PAN               2657091   GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+29/11/2022J J91321            TO ON LINE                 13789.00        0.00       13789.00
+29/11/2022J J91322            BY BILL                        0.00    13789.00           0.00
+
+                         TOTAL                           13789.00    13789.00           0.00

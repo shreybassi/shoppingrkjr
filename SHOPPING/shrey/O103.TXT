@@ -1,0 +1,25 @@
+
+
+A/C BUSHAHR GENERAL STORE KINNU        In M/S RAM KISHAN JIVA RAM Page No. 1
+ O103 VPO KINNU TEH RAMPUR                        PAN            8219137006  6BG
+      AADHAR 456846367368 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+24/04/2023S N303111           TO SALE                     1612.92        0.00        1612.92
+25/04/2023S N303180           TO SALE                    52595.14        0.00       54208.06
+26/04/2023C A301S             BY CASH N303111 BUSHAHR        0.00     1612.92       52595.14
+26/04/2023C A301S             BY CASH N303180 BUSHAHR        0.00    52595.14           0.00
+05/06/2023S N308761           TO SALE                     3272.44        0.00        3272.44
+06/06/2023S N308797           TO SALE                    54702.32        0.00       57974.76
+06/06/2023C A301S             BY CASH N308761 BUSHAHR        0.00     3272.44       54702.32
+06/06/2023C A301N             BY CASH N308797 BUSHAHR        0.00    54702.32           0.00
+04/09/2023S N320037           TO SALE                    13235.24        0.00       13235.24
+04/09/2023S N320046           TO SALE                    65302.45        0.00       78537.69
+05/09/2023C C1                RN48085                        0.00    50000.00       28537.69
+05/09/2023C C1                RN48086                        0.00    28540.00          -2.31
+
+                         TOTAL                          190720.51   190722.82          -2.31
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

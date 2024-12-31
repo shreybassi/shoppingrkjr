@@ -1,0 +1,23 @@
+
+
+A/C PD SHARMA DAKOLAR DAKOLAR      In M/S RAM KISHAN JIVA RAM Page No. 1
+ N060 VILL. DAKOLAR PO RAMPUR                     PANAAGFP7807A  9418036855  E3G
+      AADHAR          0   GSTIN 02AAGFP7807A1ZQ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        660.96
+14/04/2023S L165722           TO SALE                    48357.78        0.00       49018.74
+17/05/2023J J-CH              BY CH 297202 Q101              0.00    48357.00         661.74
+06/06/2023S L169536           TO SALE                    81012.66        0.00       81674.40
+07/06/2023J J-CH              BY CH 297212 Q101              0.00    81013.00         661.40
+18/07/2023S L172511           TO SALE                   103147.22        0.00      103808.62
+01/08/2023J J-CH              BY CH 297234 Q101              0.00   103147.00         661.62
+11/09/2023S L176206           TO SALE                    85785.96        0.00       86447.58
+23/09/2023S H400462           TO SALE                    36000.00        0.00      122447.58
+26/09/2023J J-CH              BY CH 297254 Q101              0.00    36000.00       86447.58
+30/09/2023J J-CH              BY CH 297255 Q101              0.00    85785.00         662.58
+
+                         TOTAL                          354964.58   354302.00         662.58
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

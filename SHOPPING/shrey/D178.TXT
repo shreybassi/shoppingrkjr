@@ -1,0 +1,28 @@
+
+
+A/C ANNAPURNA BAKERY REKONG PEO   In M/S RAM KISHAN JIVA RAM Page No. 1
+ D178 MAIN BAZAR REKONG PEO                       PANAKRPR3094C  9816719553  K0G
+      AADHAR          0   GSTIN 02AKRPR3094C1Z4
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+24/07/2023S S451087           TO SALE                    17797.52        0.00       17797.52
+02/08/2023J J94666            BY GOOGLE                      0.00    17797.00           0.52
+08/08/2023S S452746           TO SALE                    27160.36        0.00       27160.88
+16/08/2023J J-CH              BY CH 299963 Q101              0.00    27160.00           0.88
+22/08/2023S S454455           TO SALE                    17955.00        0.00       17955.88
+05/09/2023S S456331           TO SALE                    17829.00        0.00       35784.88
+05/09/2023J J-CH              BY CH 299965 Q101              0.00    17955.00       17829.88
+14/09/2023J J-CH              BY CH 299967 Q101              0.00    17829.00           0.88
+04/10/2023S S460285           TO SALE                    17692.52        0.00       17693.40
+12/10/2023S S461521           TO SALE                    17692.52        0.00       35385.92
+12/10/2023J J-CH              BY CH 299973 Q101              0.00    17692.52       17693.40
+25/10/2023J J-CH              BY CH 299975 Q101              0.00    17692.00           1.40
+06/11/2023S S464729           TO SALE                     4834.72        0.00        4836.12
+06/11/2023S S464743           TO SALE                    60368.81        0.00       65204.93
+20/11/2023J J-CH              BY CH 300050 Q101              0.00    65202.00           2.93
+
+                         TOTAL                          181330.45   181327.52           2.93
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

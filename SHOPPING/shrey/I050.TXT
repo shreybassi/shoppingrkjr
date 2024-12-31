@@ -1,0 +1,39 @@
+
+
+A/C GAUTAM FANCY STORE KUMARSAIN    In M/S RAM KISHAN JIVA RAM Page No. 1
+ I050 VPO KUMARSAIN TEH KUMARSAIN                 PANCDNPG8562R  9418573012  9BG
+      AADHAR          0   GSTIN 02CDNPG8562R1ZU
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+15/04/2023S S438251           TO SALE                     1116.59        0.00        1116.59
+18/04/2023C A406S             BY CASH S438251 GAUTAM F       0.00     1116.59           0.00
+29/04/2023S S440088           TO SALE                     2306.83        0.00        2306.83
+01/05/2023C A406S             BY CASH S440088 GAUTAM F       0.00     2306.83           0.00
+20/05/2023S S442822           TO SALE                      699.84        0.00         699.84
+23/05/2023C A406S             BY CASH S442822 GAUTAM F       0.00      699.84           0.00
+27/05/2023S S443778           TO SALE                      539.39        0.00         539.39
+29/05/2023C A406S             BY CASH S443778 GAUTAM F       0.00      539.39           0.00
+10/06/2023S S445619           TO SALE                     1549.98        0.00        1549.98
+13/06/2023C C                 RN41642                        0.00     1550.00          -0.02
+01/07/2023S S448586           TO SALE                      767.16        0.00         767.14
+04/07/2023C A406S             BY CASH S448586 GAUTAM F       0.00      767.16          -0.02
+29/07/2023S S451760           TO SALE                      773.51        0.00         773.49
+01/08/2023C A406S             BY CASH S451760 GAUTAM F       0.00      773.51          -0.02
+12/08/2023S S453413           TO SALE                      999.71        0.00         999.69
+15/08/2023C A406S             BY CASH S453413 GAUTAM F       0.00      999.71          -0.02
+19/08/2023S S454233           TO SALE                     1125.73        0.00        1125.71
+22/08/2023C A406S             BY CASH S454233 GAUTAM F       0.00     1125.73          -0.02
+02/09/2023S S456114           TO SALE                      941.41        0.00         941.39
+05/09/2023C A406S             BY CASH S456114 GAUTAM F       0.00      941.41          -0.02
+30/09/2023S S459879           TO SALE                     1236.53        0.00        1236.51
+03/10/2023C A406S             BY CASH S459879 GAUTAM F       0.00     1236.53          -0.02
+21/10/2023S S462859           TO SALE                     1664.36        0.00        1664.34
+24/10/2023C A406S             BY CASH S462859 GAUTAM F       0.00     1664.36          -0.02
+18/11/2023S S466530           TO SALE                     1826.68        0.00        1826.66
+20/11/2023C A406S             BY CASH S466530 GAUTAM F       0.00     1826.68          -0.02
+
+                         TOTAL                           15547.72    15547.74          -0.02
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

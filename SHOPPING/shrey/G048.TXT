@@ -1,0 +1,29 @@
+
+
+A/C RIGZ TASHI ASSOCIATE DUBLING      In M/S RAM KISHAN JIVA RAM Page No. 1
+ G048 VPO DUBLING TEH POOH                        PANCBBPD3292F  9418900047  PGG
+      AADHAR          0   GSTIN 02CBBPD3292F1Z9
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+20/04/2023S S438880           TO SALE                     6966.44        0.00        6966.44
+12/06/2023S S445843           TO SALE                    79175.04        0.00       86141.48
+12/06/2023C C1                RN41725                        0.00     6966.44       79175.04
+17/06/2023J J94044            BY CH 242572                   0.00    79175.00           0.04
+04/07/2023S S448789           TO SALE                     9473.10        0.00        9473.14
+25/07/2023C C1                RN44161                        0.00     9473.00           0.14
+31/08/2023S S455697           TO SALE                    28369.56        0.00       28369.70
+05/09/2023J J95155            BY ON LINE                     0.00    28370.00          -0.30
+16/10/2023S A173837           TO SALE                   127199.24        0.00      127198.94
+17/10/2023S M206667           TO SALE                  -127199.24        0.00          -0.30
+15/11/2023S H401485           TO SALE                    42711.82        0.00       42711.52
+15/11/2023S H401486           TO SALE                    49490.95        0.00       92202.47
+17/11/2023S H401524           TO SALE                    27337.44        0.00      119539.91
+22/11/2023S L181641           TO SALE                    13631.14        0.00      133171.05
+22/11/2023S L181645           TO SALE                   140409.88        0.00      273580.93
+23/11/2023J J96406            BY CH 296880                   0.00   119538.00      154042.93
+
+                         TOTAL                          397565.37   243522.44      154042.93
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

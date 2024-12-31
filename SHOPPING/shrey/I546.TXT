@@ -1,0 +1,24 @@
+
+
+A/C NITIN TRADERS JAIPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I546 G-40 AGARSAIN TOWER CENTRAL SPINE VIDYAD    PANAAMPA1592M  9418033467  E1G
+      AADHAR          0   GSTIN 08AAMPA1592M1ZF
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+23/09/2023S B550441           TO SALE                    34321.96        0.00       34321.96
+23/09/2023J J95400            BY GOOGLE                      0.00    34322.00          -0.04
+28/09/2023S M206566           TO SALE                    -4923.42        0.00       -4923.46
+02/10/2023S B550774           TO SALE                     4027.55        0.00        -895.91
+02/10/2023S B550775           TO SALE                    15999.42        0.00       15103.51
+02/10/2023C C1                RN49992                        0.00    15101.00           2.51
+26/10/2023S B551829           TO SALE                    30078.68        0.00       30081.19
+26/10/2023S B551833           TO SALE                    11709.85        0.00       41791.04
+26/10/2023S B551834           TO SALE                    34941.22        0.00       76732.26
+26/10/2023J J95918            BY QR SCAN                     0.00    46651.00       30081.26
+26/10/2023J J95918            BY QR SCAN                     0.00    30079.00           2.26
+
+                         TOTAL                          126155.26   126153.00           2.26
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,12 @@
+
+
+A/C BATRA AUTO CENTER CHANDIGARH   In M/S RAM KISHAN JIVA RAM Page No. 1
+ V074 SHOP NO 316-317 -318 SEC 32-D CHANDIGARH    PANAADFB5351J           0   GG
+      AADHAR          0   GSTIN 04AADFB5351J1ZP
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+02/06/2023J J93829            TO ON LINE                 33000.00        0.00       33000.00
+05/06/2023J J93858            BY BILL                        0.00    33000.00           0.00
+
+                         TOTAL                           33000.00    33000.00           0.00

@@ -1,0 +1,17 @@
+
+
+A/C SOLUTIONS SIMPLIFIED SHIMLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ U045 PARAG KUTIR GHANAHATTI                      PANADXPS6058E           0   BG
+      AADHAR          0   GSTIN 02ADXPS6058E1Z6
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F     103840.00
+02/05/2023E SS266             BILL Q636EXP763                0.00    49206.00       54634.00
+02/05/2023E SS267             BILL Q636EXP762                0.00    49583.60        5050.40
+02/05/2023E SS268             BILL Q636EXP764                0.00    23588.20      -18537.80
+03/05/2023J J93368            TO ON LINE                 18469.00        0.00         -68.80
+12/05/2023E SS271             TO BILL NO Q611EXP785          0.00    44399.00      -44467.80
+13/05/2023J J93519            TO ONLINE TRF              44467.00        0.00          -0.80
+28/07/2023E SS276             BILL R039EXP944                0.00     4495.80       -4496.60
+
+                         TOTAL                          166776.00   171272.60       -4496.60

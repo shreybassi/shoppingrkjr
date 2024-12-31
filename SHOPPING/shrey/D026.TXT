@@ -1,0 +1,20 @@
+
+
+A/C UDAY SINGH NEGI KILBA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ D026 VILL.KILWA PO KERCHAM                       PAN            9816300016  SBG
+      AADHAR 986691560485 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F     160961.02
+07/04/2023J J-CH              BY CH 602673 Q103              0.00    50000.00      110961.02
+07/04/2023J J-CH              BY CH 602674 Q103              0.00    50000.00       60961.02
+14/10/2023J J-CH              BY CH 587678 Q103              0.00    60961.00           0.02
+17/10/2023S L178842           TO SALE                    32298.14        0.00       32298.16
+17/10/2023S L178843           TO SALE                   124970.00        0.00      157268.16
+17/10/2023S L178844           TO SALE                   120880.00        0.00      278148.16
+19/10/2023J J-CH              BY CH 587679 Q103              0.00   100000.00      178148.16
+
+                         TOTAL                          439109.16   260961.00      178148.16
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

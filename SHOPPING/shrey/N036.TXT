@@ -1,0 +1,18 @@
+
+
+A/C KRISHNA AUTOMOBILE KHANERI      In M/S RAM KISHAN JIVA RAM Page No. 1
+ N036 VPO KHANERI TEH RAMPUR                      PANABMPA0737B  9418103538  F7G
+      AADHAR          0   GSTIN 02ABMPA0737B1ZJ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/05/2023J J93629            BY BILL                        0.00      518.00        -518.00
+12/06/2023S O106627           TO SALE                     -651.00        0.00       -1169.00
+17/06/2023S L170574           TO SALE                      651.00        0.00        -518.00
+14/07/2023J J94412            BY BILL                        0.00      797.00       -1315.00
+17/08/2023J J94867            BY BILL                        0.00     5157.00       -6472.00
+
+                         TOTAL                               0.00     6472.00       -6472.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,20 @@
+
+
+A/C K N GENERAL STORE CHANGO       In M/S RAM KISHAN JIVA RAM Page No. 1
+ G106 SHOP NO 7 VPO CHANGO TEH YANGTHANG          PANAKPPN3575Q  8988055270  Z7G
+      AADHAR          0   GSTIN 02AKPPN3575Q1ZF
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        460.50
+08/05/2023S H398010           TO SALE                    87235.22        0.00       87695.72
+25/05/2023J J93673            BY CH 296628                   0.00    50000.00       37695.72
+09/06/2023J J-CH              BY CH 296630 Q101              0.00    40000.00       -2304.28
+04/07/2023S H399012           TO SALE                    81501.12        0.00       79196.84
+09/08/2023J J94772            BY CH 296642                   0.00    70000.00        9196.84
+09/09/2023J J95210            BY CH 296644                   0.00     9000.00         196.84
+01/11/2023S H401147           TO SALE                    45884.03        0.00       46080.87
+
+                         TOTAL                          215080.87   169000.00       46080.87
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

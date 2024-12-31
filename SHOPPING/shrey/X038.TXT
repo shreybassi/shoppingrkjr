@@ -1,0 +1,12 @@
+
+
+A/C CHARAN DASS JAIN & SONS AMBALA CITY  In M/S RAM KISHAN JIVA RAM Page No. 1
+ X038 AMBALA CITY                                 PANAABFC7795H           0   GG
+      AADHAR          0   GSTIN 06AABFC7795H1Z7
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+04/04/2023E CS4974            BILL R005EXP698                0.00     5900.00       -5900.00
+11/04/2023J J93104            TO ON LINE                  5900.00        0.00           0.00
+
+                         TOTAL                            5900.00     5900.00           0.00

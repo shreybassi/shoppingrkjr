@@ -1,0 +1,23 @@
+
+
+A/C KD ASSOCIATE NARKANDA     In M/S RAM KISHAN JIVA RAM Page No. 1
+ I061 VPO NARKANDA TEH KUMARSAIN                  PANBOQPS0585B  9418088834  BGG
+      AADHAR          0   GSTIN 02BOQPS0585B1ZZ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        -303.93
+19/04/2023S S438612           TO SALE                     3729.92        0.00        3425.99
+21/04/2023C C                 RN37383                        0.00     3730.00        -304.01
+21/06/2023S S447154           TO SALE                     9360.34        0.00        9056.33
+21/06/2023S S447219           TO SALE                     8447.28        0.00       17503.61
+01/08/2023J J94640            BY ON LINE                     0.00    17800.00        -296.39
+12/10/2023S S461402           TO SALE                     5464.47        0.00        5168.08
+16/10/2023J J-CH              BY CH 000184 Q109              0.00     5464.00        -295.92
+15/11/2023S S466057           TO SALE                     8861.51        0.00        8565.59
+16/11/2023S S466138           TO SALE                    12348.25        0.00       20913.84
+17/11/2023C C                 RN54513                        0.00     1144.00       19769.84
+
+                         TOTAL                           48211.77    28441.93       19769.84
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

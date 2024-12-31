@@ -1,0 +1,26 @@
+
+
+A/C HIRA RATTAN RIBA         In M/S RAM KISHAN JIVA RAM Page No. 1
+ F051 VILL & PO RIBA TEH MOORANG                  PAN            9418202592  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+11/04/2023S R251303           TO SALE                    10707.34        0.00       10707.34
+11/04/2023S S437516           TO SALE                     7555.41        0.00       18262.75
+11/04/2023S S437544           TO SALE                      195.56        0.00       18458.31
+17/04/2023C C1                RN36636                        0.00    10707.00        7751.31
+17/04/2023C C1                RN36641                        0.00     7751.00           0.31
+28/04/2023S H397794           TO SALE                    52603.36        0.00       52603.67
+28/04/2023S H397795           TO SALE                    19670.50        0.00       72274.17
+28/04/2023S H397796           TO SALE                     8711.26        0.00       80985.43
+28/04/2023J J93314            BY ON LINE                     0.00    81000.00         -14.57
+19/06/2023S S446920           TO SALE                     6451.20        0.00        6436.63
+23/06/2023C C1                RN42154                        0.00     6451.00         -14.37
+08/11/2023S H401307           TO SALE                   102540.40        0.00      102526.03
+15/11/2023J J96278            BY ON LINE                     0.00   102540.00         -13.97
+
+                         TOTAL                          208435.03   208449.00         -13.97
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

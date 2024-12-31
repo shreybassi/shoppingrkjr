@@ -1,0 +1,30 @@
+
+
+A/C JN SONS DUTTNAGAR    In M/S RAM KISHAN JIVA RAM Page No. 1
+ I126 VPO DUTTNAGAR TEH RAMPUR                    PANAYTPN9518P  9418657120  EBG
+      AADHAR 243894482517 GSTIN 02AYTPN9518P1ZI
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+12/04/2023S P230262           TO SALE                     3037.14        0.00        3037.14
+10/05/2023S B544724           TO SALE                     2437.14        0.00        5474.28
+10/05/2023S C627742           TO SALE                     3972.97        0.00        9447.25
+10/05/2023J J-CH              BY CH 739415 Q119              0.00     9447.00           0.25
+29/05/2023S C628133           TO SALE                     2010.48        0.00        2010.73
+04/07/2023C C                 RN43393                        0.00     2010.73           0.00
+05/07/2023S B547110           TO SALE                     5448.34        0.00        5448.34
+05/07/2023S C628868           TO SALE                     3315.33        0.00        8763.67
+07/07/2023J J-CH              BY CH 739424 Q119              0.00     8763.00           0.67
+01/08/2023S C629284           TO SALE                     7153.44        0.00        7154.11
+17/08/2023J J-CH              BY CH 739428 Q119              0.00     7154.00           0.11
+18/10/2023S P231419           TO SALE                     1441.08        0.00        1441.19
+21/10/2023C C                 RN50590                        0.00     1441.19           0.00
+31/10/2023S B552052           TO SALE                     5080.25        0.00        5080.25
+31/10/2023S C631090           TO SALE                     4657.27        0.00        9737.52
+06/11/2023C C1                RN52875                        0.00     9737.52           0.00
+25/11/2023S P231625           TO SALE                     5750.98        0.00        5750.98
+
+                         TOTAL                           44304.42    38553.44        5750.98
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

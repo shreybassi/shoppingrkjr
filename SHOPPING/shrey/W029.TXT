@@ -1,0 +1,17 @@
+
+
+A/C TRAMBAK LAL MANI LAL SHAH TIPTUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ W029 R.M.C.YARD,POST BOX NO 8,TIPTUR             PANAEDPS8143P           0   GG
+      AADHAR          0   GSTIN 29AEDPS8143P1ZN
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+14/04/2023P TL1861            BY PURCHASE                    0.00   451300.00     -451300.00
+17/04/2023J J93173            TO ON LINE                451300.00        0.00           0.00
+26/04/2023P TL1863            BY PURCHASE                    0.00   420000.00     -420000.00
+03/05/2023J J93369            TO ON LINE                420000.00        0.00           0.00
+14/08/2023P TL1885            BY PURCHASE                    0.00   253125.00     -253125.00
+17/08/2023J J94865            TO ON LINE                253125.00        0.00           0.00
+15/11/2023P TL1910            BY PURCHASE                    0.00   256200.00     -256200.00
+
+                         TOTAL                         1124425.00  1380625.00     -256200.00

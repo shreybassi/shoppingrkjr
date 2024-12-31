@@ -1,0 +1,29 @@
+
+
+A/C RAJIV BROTHER BHARARA      In M/S RAM KISHAN JIVA RAM Page No. 1
+ I312 VILL BHARARA PO KUMARSAIN TEH K SAIN        PANNPIPS0087H  9816050208  91G
+      AADHAR          0   GSTIN 02NPIPS0087H1ZK
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/04/2023S S439224           TO SALE                    25596.54        0.00       25596.54
+29/04/2023S S440090           TO SALE                     1220.86        0.00       26817.40
+01/05/2023C A406S             BY CASH S440090 RAJIV BR       0.00     1220.86       25596.54
+02/05/2023J J-CH              BY CH 972005 Q101              0.00    25596.00           0.54
+21/06/2023S M206243           TO SALE                     -403.74        0.00        -403.20
+24/06/2023S S447697           TO SALE                     3237.71        0.00        2834.51
+26/06/2023S B546710           TO SALE                    14005.40        0.00       16839.91
+26/06/2023S S447729           TO SALE                     1659.88        0.00       18499.79
+28/06/2023J J94203            BY TRANS                       0.00    14005.40        4494.39
+03/07/2023J J-CH              BY CH 972009 Q101              0.00     4898.00        -403.61
+08/07/2023S S449500           TO SALE                      264.94        0.00        -138.67
+26/08/2023S S455143           TO SALE                     4620.54        0.00        4481.87
+28/08/2023S S455206           TO SALE                     5160.82        0.00        9642.69
+04/09/2023S S456134           TO SALE                    11969.35        0.00       21612.04
+05/09/2023J J-CH              BY CH 972015 Q101              0.00     9643.00       11969.04
+11/09/2023J J-CH              BY CH 972018 Q101              0.00    11969.00           0.04
+
+                         TOTAL                           67332.30    67332.26           0.04
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

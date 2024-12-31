@@ -1,0 +1,24 @@
+
+
+A/C ORCHARD A/C FHALERU FHALERU      In M/S RAM KISHAN JIVA RAM Page No. 1
+ M215                                             PAN            9418033254  MBI
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+16/05/2023S L168033           TO SALE                    10039.42        0.00       10039.42
+22/05/2023S T100053           TO SALE                    15039.94        0.00       25079.36
+23/05/2023S A173630           TO SALE                   111513.60        0.00      136592.96
+30/05/2023S T100072           TO SALE                     5370.00        0.00      141962.96
+27/06/2023S T100166           TO SALE                      276.94        0.00      142239.90
+11/07/2023S T100207           TO SALE                     3580.00        0.00      145819.90
+15/07/2023S T100222           TO SALE                    15119.94        0.00      160939.84
+26/08/2023S L175231           TO SALE                    59850.00        0.00      220789.84
+26/09/2023S L177355           TO SALE                    27140.00        0.00      247929.84
+26/10/2023S H401018           TO SALE                    32980.32        0.00      280910.16
+30/10/2023S L179813           TO SALE                     1455.96        0.00      282366.12
+
+                         TOTAL                          282366.12        0.00      282366.12
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,49 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ A573 CASH ON DELIVERY SM 3P JHAKRI                  10360.08
+ B832 NAMAN SHARMA                   BUS STAND RA        0.59
+ A026 DHIRU RAM GASOPUL              GASOPUL          2296.67
+ B867 SITA RAM                       GASOPUL            -3.17
+ A165 SAINIK CANTEEN                 JHAKARI             0.71
+ A058 ANKUSH FANCY                   JHAKRI              0.03
+ A065 ASHOK ICE CREAM                JHAKRI          19244.67
+ A057 BABLOO FANCY STORE             JHAKRI             -0.14
+ A150 BALWANT SINGH KUTHIALA         JHAKRI          10212.66
+ A025 CHAUHAN BROS                   JHAKRI          11339.34
+ A063 DURGA GENRAL STORE             JHAKRI          25494.96     3984.25
+ A009 GIAN CHAND SHARMA              JHAKRI              0.00
+ A036 HARI CHAND TARSEM LAL          JHAKRI          23872.39
+ A034 KAMAL SHARMA AND BROTHER       JHAKRI          32887.69
+ A049 KESHAV HARDWARE ELECTRICALS    JHAKRI           2617.98
+ A157 LACHOO RAM AND SONS FOR        JHAKRI          15738.11
+ B822 LUCKY CHAUHAN                  JHAKRI              0.28        0.28        0.28       0.28        0.28
+ B858 MADHO RAM RAKESH KUMAR         JHAKRI           -136.63
+ A062 MAST RAM VIJAY KUMAR           JHAKRI          16646.35
+ A182 MES VET CANTEEN                JHAKRI          26489.11
+ A059 PAPU GENERAL STORE FOR         JHAKRI          31179.45
+ A061 POONAM MEDICAL STORE JHAKRI    JHAKRI             -2.19
+ A178 RANTA GENERAL STORE            JHAKRI              0.10
+ A048 RATTAN BROTHER                 JHAKRI           -269.58
+ B842 RATTAN LAL ARMY CAMP           JHAKRI             52.96
+ A082 RESANG BHOJNALAYA              JHAKRI           4665.18
+ A148 RISHAV SHARMA                  JHAKRI           1549.00     1549.00
+ A133 SHARMA GENERAL STORE           JHAKRI          34121.67    15053.08
+ A119 SUMER GENERAL STORE            JHAKRI             -0.13
+ A087 THAKUR GENERAL STORE           JHAKRI            534.11
+ A040 VERMA BROTHER HOTEL HIGHWAY    JHAKRI           8547.36     8547.36     8547.36
+ N019 ARYA DAILY NEEDS               KHANERI             0.00
+ N015 GUPTA GENERAL STORE            KHANERI          9134.62
+ N047 KARANTI ENTERPRISES            KHANERI         13435.75
+ N124 MEHTA GENERAL STORE            KHANERI            -0.70
+ N059 MKG KHANERI                    KHANERI         20153.11
+ B843 SHELLY GENERAL STORE           KHANERI          8757.65
+ N092 SURESH MEDICAL STORE           KHANERI             0.50        0.50        0.50       0.50        0.50
+ B865 THAKUR GENERAL STORE           KHANERI         16805.51
+ A187 NEGI HARDWARE                  RATTANPUR          -0.16
+ A028 RAM LAL BUDH RAM               RATTANPUR        3523.35
+ A091 THAKUR GENERAL STORE           RATTANPUR           0.43
+ A181 KARMU RAM                      SANARSA             1.30
+ B848 TULA RAM                       SANARSA          5002.24
+ A574 CASH ON DELIVERY SM 3P JEORI                   41008.77

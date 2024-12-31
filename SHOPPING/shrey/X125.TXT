@@ -1,0 +1,26 @@
+
+
+A/C FARMERSFIELD AGRO AND F MILL P GORGARH      In M/S RAM KISHAN JIVA RAM Page No. 1
+ X125 NEAR APEX COLLEGE VILL GORGARH TEH INDRI    PANAADCF1948E           0   0G
+      AADHAR          0   GSTIN 06AADCF1948E1ZV
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+24/04/2023P FAFFA/241/23-24   BY PURCHASE                    0.00   342197.00     -342197.00
+01/05/2023J J93334            TO ON LINE                342197.00        0.00           0.00
+10/05/2023P FAFFA/379/23-24   BY PURCHASE                    0.00   353350.00     -353350.00
+13/05/2023J J93517            TO ONLINE TRF             353350.00        0.00           0.00
+12/06/2023P FAFFA/634/23-24   BY PURCHASE                    0.00   421400.00     -421400.00
+17/06/2023J J94052            TO ON LINE                421400.00        0.00           0.00
+07/08/2023P FAFFA/1166/23-24  BY PURCHASE                    0.00   421400.00     -421400.00
+08/08/2023J J94766            TO ON LINE                421400.00        0.00           0.00
+08/09/2023P FAFFA/1516/23-24  BY PURCHASE                    0.00   421400.00     -421400.00
+15/09/2023J J95297            TO ON LINE                421400.00        0.00           0.00
+06/10/2023P FAFFA/1853/23-24  BY PURCHASE                    0.00   396000.00     -396000.00
+10/10/2023J J95660            TO ONLINE                 395010.00        0.00        -990.00
+17/10/2023P FAFFA/2003/23-24  BY PURCHASE                    0.00   434300.00     -435290.00
+18/10/2023J J95798            TO ON LINE                434300.00        0.00        -990.00
+03/11/2023P FAFFA/2254/23-24  BY PURCHASE                    0.00   432000.00     -432990.00
+09/11/2023J J96165            TO ON LINE                432000.00        0.00        -990.00
+
+                         TOTAL                         3221057.00  3222047.00        -990.00

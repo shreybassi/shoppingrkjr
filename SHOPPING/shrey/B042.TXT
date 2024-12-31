@@ -1,0 +1,21 @@
+
+
+A/C TSP GENERAL STORE GHARAT       In M/S RAM KISHAN JIVA RAM Page No. 1
+ B042 VPO BONDA TEH RAMPUR                        PANCZTPS6437B  9857619600  RBG
+      AADHAR 910285741782 GSTIN 02CZTPS6437B1Z6
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+09/10/2023J J-CH              BY CH 062817 Q101              0.00    59500.00      -59500.00
+11/10/2023S L178479           TO SALE                    26660.65        0.00      -32839.35
+11/10/2023S L178480           TO SALE                    20682.09        0.00      -12157.26
+11/10/2023S L178506           TO SALE                     9444.65        0.00       -2712.61
+31/10/2023C C                 RN51597                        0.00     4000.00       -6712.61
+01/11/2023S L179964           TO SALE                     2802.45        0.00       -3910.16
+03/11/2023S L180066           TO SALE                     3108.40        0.00        -801.76
+03/11/2023S L180067           TO SALE                      894.94        0.00          93.18
+
+                         TOTAL                           63593.18    63500.00          93.18
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

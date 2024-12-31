@@ -1,0 +1,15 @@
+
+
+A/C HOSPITAL TB PATIENT RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ H052                                             PAN                     0  L0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+05/04/2023S C626966           TO SALE                     4789.68        0.00        4789.68
+16/05/2023S B544996           TO SALE                     4742.98        0.00        9532.66
+
+                         TOTAL                            9532.66        0.00        9532.66
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,20 @@
+
+
+A/C MAKKAR ENTERPRISES KURALI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ V017 RAILWAY ROAD OLDOBC BANK BUILDING KURALI    PANAZVPM2405M           0   GG
+      AADHAR          0   GSTIN 03AZVPM2405M1Z3
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/04/2023P ME78              BY PURCHASE                    0.00   172000.00     -172000.00
+22/04/2023J J93246            TO CH 0126                172000.00        0.00           0.00
+12/06/2023P ME242             BY PURCHASE                    0.00   108000.00     -108000.00
+12/06/2023J J93962            TO CH 0146                108000.00        0.00           0.00
+06/10/2023P ME630             BY PURCHASE                    0.00    37800.00      -37800.00
+17/10/2023J J95779            TO CH 10539               175400.00        0.00      137600.00
+19/10/2023P ME692             BY PURCHASE                    0.00   137600.00           0.00
+27/10/2023P ME721             BY PURCHASE                    0.00    50000.00      -50000.00
+28/10/2023J J95957            TO CH 10546               316600.00        0.00      266600.00
+30/10/2023P ME728             BY PURCHASE                    0.00   266600.00           0.00
+
+                         TOTAL                          772000.00   772000.00           0.00

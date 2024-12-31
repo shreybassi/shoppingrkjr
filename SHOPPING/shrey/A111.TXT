@@ -1,0 +1,21 @@
+
+
+A/C RUHANI BOOT HOUSE JEORI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ A111                                             PAN                     0  5GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/04/2023S N302996           TO SALE                     1344.16        0.00        1344.16
+25/04/2023C A306S             BY CASH N302996 RUHANI B       0.00     1344.16           0.00
+06/05/2023S N304822           TO SALE                      464.78        0.00         464.78
+09/05/2023C A306Y             BY CASH N304822 RUHANI B       0.00      464.78           0.00
+22/07/2023S N314627           TO SALE                      542.50        0.00         542.50
+25/07/2023C A306S             BY CASH N314627 RUHANI B       0.00      542.50           0.00
+07/10/2023S N324509           TO SALE                      583.59        0.00         583.59
+10/10/2023C C                 RN51365                        0.00      583.00           0.59
+
+                         TOTAL                            2935.03     2934.44           0.59
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

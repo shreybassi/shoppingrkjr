@@ -1,0 +1,24 @@
+
+
+A/C GOOGLE INDIA PVT LTD GURUGRAM     In M/S RAM KISHAN JIVA RAM Page No. 1
+ X018 SECTOR 15 PART 1 VILL SILOKHERA GURUGRAM    PANAACCG0527D           0   GG
+      AADHAR          0   GSTIN 06AACCG0527D1Z8
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       -5203.80
+03/04/2023E GO469333395       BILL R055EXP697                0.00     1734.60       -6938.40
+17/04/2023E GOO469333695      BILL R055EXP697                0.00    -1734.60       -5203.80
+02/05/2023E GI4711139094      BILL R055EXP760                0.00     1734.60       -6938.40
+02/06/2023E GOO4733529403     BILL R055EXP826                0.00     1734.60       -8673.00
+03/07/2023E GL4756872054      BILL R055EXP896                0.00     1734.60      -10407.60
+08/07/2023J J94351            TO ON LINE                  1734.60        0.00       -8673.00
+04/08/2023J J94697            TO ON LINE                  1846.51        0.00       -6826.49
+04/08/2023E GI4775894767      BILL R055EXP951                0.00     1734.60       -8561.09
+02/09/2023J J95106            TO ONLINE                   1680.51        0.00       -6880.58
+02/09/2023E GI4799044389      TO BILL R055EXP002             0.00     1734.60       -8615.18
+30/09/2023E GI4820145362      BILL GOOGLE                    0.00     1734.60      -10349.78
+03/10/2023J J95534            TO ON LINE                  1732.74        0.00       -8617.04
+02/11/2023J J96037            TO ON LINE                  1678.64        0.00       -6938.40
+06/11/2023E GO4836271604      BILL GOOGLE EXP140             0.00     1734.60       -8673.00
+
+                         TOTAL                            8673.00    17346.00       -8673.00

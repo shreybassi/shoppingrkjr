@@ -1,0 +1,22 @@
+
+
+A/C PARVEEN GENERAL STORE KUPA         In M/S RAM KISHAN JIVA RAM Page No. 1
+ D113 VILL KUPA PO KAMRU TEH SANGLA               PAN            9805148632  SDG
+      AADHAR 406941672415 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      43862.27
+18/04/2023C C1                RN37011                        0.00    43862.27           0.00
+18/05/2023S H398208           TO SALE                    35485.00        0.00       35485.00
+18/05/2023S H398209           TO SALE                    23369.79        0.00       58854.79
+18/05/2023S R251560           TO SALE                    12896.89        0.00       71751.68
+24/07/2023J J-CH              BY CH 619244 Q103              0.00    50000.00       21751.68
+25/08/2023J J94983            BY GOOGLE                      0.00    21750.00           1.68
+07/09/2023S L176028           TO SALE                     7767.22        0.00        7768.90
+07/09/2023S L176038           TO SALE                     8499.87        0.00       16268.77
+22/09/2023C C1                RN48624                        0.00    16267.00           1.77
+
+                         TOTAL                          131881.04   131879.27           1.77
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

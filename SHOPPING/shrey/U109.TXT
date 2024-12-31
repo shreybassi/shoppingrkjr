@@ -1,0 +1,12 @@
+
+
+A/C MODERN OVERSEAS PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U109 SHOP NO 1 SHUBHAM PLAZA KASAULI ROAD P      PANAFMPJ6027M           0   0G
+      AADHAR          0   GSTIN 02AFMPJ6027M1ZC
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+14/07/2023E MO00754           BILL Q606EXP927                0.00    77349.00      -77349.00
+04/08/2023J J94714            TO CH 010751               77349.00        0.00           0.00
+
+                         TOTAL                           77349.00    77349.00           0.00

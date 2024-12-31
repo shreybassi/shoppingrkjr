@@ -1,0 +1,16 @@
+
+
+A/C MALHOTRA PAPER MART CHANDIGARH   In M/S RAM KISHAN JIVA RAM Page No. 1
+ V104 SCO 1&2 SEC 22C                             PANAHUPM2866K           0   1G
+      AADHAR          0   GSTIN 04AHUPM2866K1ZQ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+16/06/2023E MMA000969         BILL R005EXP866                0.00    77880.00      -77880.00
+16/06/2023E MMA000969         BILL R005EXP866                0.00      708.00      -78588.00
+20/06/2023J J94070            TO ON LINE                 78588.00        0.00           0.00
+09/10/2023E MMA002410         BILL PAPER  EXP080             0.00    77880.00      -77880.00
+09/10/2023E MMA002410         BILL PAPER FRT                 0.00      708.00      -78588.00
+10/10/2023J J95661            TO ONLINE                  78588.00        0.00           0.00
+
+                         TOTAL                          157176.00   157176.00           0.00

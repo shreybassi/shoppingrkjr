@@ -1,0 +1,47 @@
+
+
+A/C GIAN CHAND SHARMA JHAKRI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ A009 VILL.  PO. JHAKRI                           PAN            9459388740  47G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/04/2023S N302764           TO SALE                     2780.06        0.00        2780.06
+22/04/2023C A305S             BY CASH N302764 GIAN CHA       0.00     2780.06           0.00
+05/05/2023S N304751           TO SALE                     2591.69        0.00        2591.69
+08/05/2023C A305S             BY CASH N304751 GIAN CHA       0.00     2591.69           0.00
+19/05/2023S N306628           TO SALE                     1117.36        0.00        1117.36
+20/05/2023S N306686           TO SALE                      924.00        0.00        2041.36
+20/05/2023C A305S             BY CASH N306628 GIAN CHA       0.00     1117.36         924.00
+20/05/2023C A305N             BY CASH N306686 GIAN CHA       0.00      924.00           0.00
+26/05/2023S N307544           TO SALE                     3180.05        0.00        3180.05
+27/05/2023S N307597           TO SALE                      629.80        0.00        3809.85
+29/05/2023C A305S             BY CASH N307544 GIAN CHA       0.00     3180.05         629.80
+29/05/2023C A305S             BY CASH N307597 GIAN CHA       0.00      629.80           0.00
+09/06/2023S N309378           TO SALE                     2176.59        0.00        2176.59
+10/06/2023C A305S             BY CASH N309378 GIAN CHA       0.00     2176.59           0.00
+16/06/2023S N310312           TO SALE                     3098.90        0.00        3098.90
+17/06/2023C A305S             BY CASH N310312 GIAN CHA       0.00     3098.90           0.00
+21/06/2023S N310895           TO SALE                     1102.98        0.00        1102.98
+22/06/2023C A103S             BY CASH N310895 GIAN CHA       0.00     1102.98           0.00
+24/06/2023S N311268           TO SALE                     1920.88        0.00        1920.88
+24/06/2023C A305N             BY CASH N311268 GIAN CHA       0.00     1920.88           0.00
+30/06/2023S N312021           TO SALE                     2485.72        0.00        2485.72
+01/07/2023C A305S             BY CASH N312021 GIAN CHA       0.00     2485.72           0.00
+07/07/2023S N312951           TO SALE                     2489.01        0.00        2489.01
+08/07/2023C A305S             BY CASH N312951 GIAN CHA       0.00     2489.01           0.00
+14/07/2023S N313573           TO SALE                     1946.76        0.00        1946.76
+15/07/2023C A305S             BY CASH N313573 GIAN CHA       0.00     1946.76           0.00
+04/08/2023S N316020           TO SALE                     2794.00        0.00        2794.00
+07/08/2023C A305S             BY CASH N316020 GIAN CHA       0.00     2794.00           0.00
+12/08/2023S N317055           TO SALE                      629.64        0.00         629.64
+14/08/2023C A305S             BY CASH N317055 GIAN CHA       0.00      629.64           0.00
+18/08/2023S N317929           TO SALE                      448.40        0.00         448.40
+21/08/2023C A305S             BY CASH N317929 GIAN CHA       0.00      448.40           0.00
+25/08/2023S N318763           TO SALE                     2101.93        0.00        2101.93
+26/08/2023C A305S             BY CASH N318763 GIAN CHA       0.00     2101.93           0.00
+
+                         TOTAL                           32417.77    32417.77           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

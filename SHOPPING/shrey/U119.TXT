@@ -1,0 +1,14 @@
+
+
+A/C HIMACHAL WHOLESALE SYNDICATE PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U119 SCF NO-7 SEC-1  173220                      PANAABFH6020J           0   BP
+      AADHAR          0   GSTIN 02AABFH6020J1ZX
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/04/2023P HWGST-262         BY PURCHASE                    0.00     8550.00       -8550.00
+17/06/2023J J94048            TO CH 10469                 8550.00        0.00           0.00
+19/06/2023J J94055            BY WE CH 10469                 0.00     8550.00       -8550.00
+19/06/2023J J94056            TO CH 10471                 8550.00        0.00           0.00
+
+                         TOTAL                           17100.00    17100.00           0.00

@@ -1,0 +1,24 @@
+
+
+A/C SINGLA HARDWARE NIRATH       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I274 VPO NIRATH TEH RAMPUR                       PANIBMPS6194A  9816459820  11G
+      AADHAR          0   GSTIN 02IBMPS6194A1ZG
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+04/04/2023S N300397           TO SALE                     2420.67        0.00        2420.67
+05/04/2023S N300475           TO SALE                    22498.88        0.00       24919.55
+05/04/2023J J93046            BY ONLINE                      0.00    24920.00          -0.45
+09/05/2023S N305158           TO SALE                     2858.86        0.00        2858.41
+11/05/2023J J93485            BY ONLINE                      0.00     2858.00           0.41
+31/05/2023S N308056           TO SALE                    14577.06        0.00       14577.47
+02/06/2023J J93831            BY ON LINE                     0.00    15734.00       -1156.53
+03/06/2023J J93839            TO WE                      15734.00        0.00       14577.47
+03/06/2023J J93840            BY ON LINE                     0.00    14577.00           0.47
+04/10/2023S N324028           TO SALE                    18773.79        0.00       18774.26
+06/10/2023J J-CH              BY CH 082504 Q103              0.00    18774.00           0.26
+
+                         TOTAL                           76863.26    76863.00           0.26
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

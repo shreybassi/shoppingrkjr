@@ -1,0 +1,14 @@
+
+
+A/C MUDIT ENTERPRISES UCHANA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ X130 ANAJ MANDI UCHANA                           PANAASPJ2857Q           0   0G
+      AADHAR          0   GSTIN 06AASPJ2857Q1ZU
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+17/07/2023P METF-78           BY PURCHASE                    0.00   462775.00     -462775.00
+17/07/2023J J94441            TO ON LINE                458147.00        0.00       -4628.00
+26/08/2023J J94995            TO ON LINE                469144.00        0.00      464516.00
+29/08/2023P METF-108          BY PURCHASE                    0.00   474464.00       -9948.00
+
+                         TOTAL                          927291.00   937239.00       -9948.00

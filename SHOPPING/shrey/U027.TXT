@@ -1,0 +1,12 @@
+
+
+A/C THAKUR ROAD LINES MOGINAND     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U027 NEAR GOVT HIGH SCHOOL VILL MOGINAND         PANAXYPK3102C           0   GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+15/09/2023G E1409AA           BY FRT 1317                    0.00     7300.00       -7300.00
+30/09/2023C C52416            TO CASH                     7300.00        0.00           0.00
+
+                         TOTAL                            7300.00     7300.00           0.00

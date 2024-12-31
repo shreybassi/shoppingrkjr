@@ -1,0 +1,12 @@
+
+
+A/C SAHNI TRADING CO PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U194 PLOT NO 10 OPPNAC OFFICE SEC 1 PWN          PANABZPS8831R           0   0G
+      AADHAR          0   GSTIN 02ABZPS8831R1ZG
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+30/09/2023P STGST-4387        BY PURCHASE                    0.00    47750.00      -47750.00
+06/11/2023P STGST-5451        BY PURCHASE                    0.00    47500.00      -95250.00
+
+                         TOTAL                               0.00    95250.00      -95250.00

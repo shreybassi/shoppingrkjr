@@ -1,0 +1,25 @@
+
+
+A/C SHUBHAM MARKITING PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U213 PLOT NO 59 SECTOR 1 PARWANOO                PANAAIHK5539A           0   1G
+      AADHAR          0   GSTIN 02AAIHK5539A1ZO
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/05/2023P SM8               BY PURCHASE                    0.00    23600.00      -23600.00
+30/05/2023P SM12              BY PURCHASE                    0.00    38940.00      -62540.00
+03/07/2023P SM32              BY PURCHASE                    0.00   247304.00     -309844.00
+24/07/2023P SM111             BY PURCHASE                    0.00   185449.00     -495293.00
+28/07/2023P SM123             BY PURCHASE                    0.00    38940.00     -534233.00
+02/08/2023P SM130             BY PURCHASE                    0.00    25960.00     -560193.00
+02/08/2023P SM134             BY PURCHASE                    0.00    69030.00     -629223.00
+07/08/2023J J94740            TO CH 10752               309844.00        0.00     -319379.00
+24/08/2023P SM172             BY PURCHASE                    0.00    37613.00     -356992.00
+26/08/2023P SM179             BY PURCHASE                    0.00    92807.00     -449799.00
+30/08/2023J J95048            TO CH NO 10774            319359.00        0.00     -130440.00
+31/08/2023P SM184             BY PURCHASE                    0.00    32568.00     -163008.00
+25/09/2023P SM220             BY PURCHASE                    0.00    49707.00     -212715.00
+30/09/2023P SM233             BY PURCHASE                    0.00    51625.00     -264340.00
+17/10/2023J J95780            TO CH 010651              264341.00        0.00           1.00
+
+                         TOTAL                          893544.00   893543.00           1.00

@@ -1,0 +1,23 @@
+
+
+A/C KATOCH BHOJNALAYA ARPU SAINJ   In M/S RAM KISHAN JIVA RAM Page No. 1
+ I268 VILL ARPU NEAR BHAGWATI MOTOR               PAN            9816300315  11G
+      AADHAR 812355994290 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+15/06/2023S N310120           TO SALE                     2796.77        0.00        2796.77
+15/06/2023S N310143           TO SALE                     1295.73        0.00        4092.50
+16/06/2023C A204S             BY CASH N310120 KATOCH B       0.00     2796.77        1295.73
+16/06/2023C A204S             BY CASH N310143 KATOCH B       0.00     1295.73           0.00
+29/06/2023S N311909           TO SALE                     7447.71        0.00        7447.71
+30/06/2023C A204S             BY CASH N311909 KATOCH B       0.00     7447.71           0.00
+24/08/2023S N318624           TO SALE                     2989.09        0.00        2989.09
+25/08/2023C A204Y             BY CASH N318624 KATOCH B       0.00     2989.09           0.00
+26/10/2023S N327025           TO SALE                     2974.25        0.00        2974.25
+30/10/2023C A204S             BY CASH N327025 KATOCH B       0.00     2974.25           0.00
+
+                         TOTAL                           17503.55    17503.55           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

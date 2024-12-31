@@ -1,0 +1,12 @@
+
+
+A/C STERLING GROCERIES PVT LTD GRETER NOIDA In M/S RAM KISHAN JIVA RAM Page No. 1
+ W014 GRETER NOIDA                                PANAAICS2426H           0   GG
+      AADHAR          0   GSTIN 09AAICS2426H1ZA
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+14/12/2022J J91539            TO TDS 94Q                  2015.00        0.00        2015.00
+31/12/2022J J91735            BY WE J91539                   0.00     2015.00           0.00
+
+                         TOTAL                            2015.00     2015.00           0.00

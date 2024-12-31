@@ -1,0 +1,19 @@
+
+
+A/C RAHUL KUMAR SANGLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ D121                                             PAN            8894464465  SCG
+      AADHAR 296964194988 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+20/05/2023S H398243           TO SALE                     3830.00        0.00        3830.00
+13/10/2023C C                 RN50532                        0.00     4000.00        -170.00
+16/11/2023S T101197           TO SALE                    22181.70        0.00       22011.70
+16/11/2023S T101198           TO SALE                    41943.96        0.00       63955.66
+20/11/2023S H401567           TO SALE                    12983.87        0.00       76939.53
+20/11/2023S Q164138           TO SALE                    24201.22        0.00      101140.75
+
+                         TOTAL                          105140.75     4000.00      101140.75
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

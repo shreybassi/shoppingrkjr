@@ -1,0 +1,14 @@
+
+
+A/C ETASI COMPUTERS MOGA         In M/S RAM KISHAN JIVA RAM Page No. 1
+ V005 BUILDING ARYA SCHOOL (BOYS) MOGA            PANAFXPA6097F  9876125481   GG
+      AADHAR          0   GSTIN 03AFXPA6097F1Z9
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+03/04/2023J J93006            TO ON LINE                  3495.00        0.00        3495.00
+05/07/2023E EC97017           BILL R064EXP899                0.00     3495.00           0.00
+05/07/2023E EC98156           BILL R064EXP900                0.00     7965.00       -7965.00
+06/07/2023J J94314            TO ON LINE                  7965.00        0.00           0.00
+
+                         TOTAL                           11460.00    11460.00           0.00

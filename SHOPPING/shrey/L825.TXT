@@ -1,0 +1,19 @@
+
+
+A/C SUNNY DHABA TAPRI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ L825 VPO TAPRI                                   PAN            8894616148  K0G
+      AADHAR 425967719389 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+23/05/2023S S443087           TO SALE                     3353.50        0.00        3353.50
+29/05/2023C C                 RN39261                        0.00     3353.00           0.50
+22/08/2023S S454468           TO SALE                     1048.00        0.00        1048.50
+04/09/2023C C1                RN47822                        0.00     1050.00          -1.50
+24/10/2023S S463082           TO SALE                     1101.00        0.00        1099.50
+03/11/2023C C1                RN52853                        0.00     1100.00          -0.50
+
+                         TOTAL                            5502.50     5503.00          -0.50
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

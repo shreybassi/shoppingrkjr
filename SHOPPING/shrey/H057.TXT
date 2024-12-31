@@ -1,0 +1,22 @@
+
+
+A/C CHIRAG NGO NANITAL      In M/S RAM KISHAN JIVA RAM Page No. 1
+ H057 VILL SIMAYAL PO NATHUWAKHAN                 PAN            7018707700  00G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+05/08/2023S C629381           TO SALE                   141135.54        0.00      141135.54
+07/08/2023J J94747            BY ON LINE                     0.00   141136.00          -0.46
+09/08/2023S C629433           TO SALE                     1962.50        0.00        1962.04
+17/08/2023S C629563           TO SALE                    50305.04        0.00       52267.08
+18/08/2023S E191796           TO SALE                     6464.04        0.00       58731.12
+18/08/2023J J94879            BY CH 893309                   0.00     1962.00       56769.12
+18/08/2023J J94889            BY ON LINE                     0.00    50305.00        6464.12
+21/08/2023S E191814           TO SALE                    13709.36        0.00       20173.48
+22/08/2023J J94940            BY CH 893324                   0.00    20173.00           0.48
+
+                         TOTAL                          213576.48   213576.00           0.48
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

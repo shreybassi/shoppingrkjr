@@ -1,0 +1,26 @@
+
+
+A/C VODAFONE IDEA LIMITED SHIMLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ U505 130 DURGA COTTAGE  SDA COMPLEX              PANAAACB2100P           0   GG
+      AADHAR          0   GSTIN 02AAACB2100P1Z9
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+04/04/2023J J93027            TO TRANS                    1058.46        0.00        1058.46
+04/04/2023E VFHPSO220423044291BILL R002EXP699                0.00     1058.46           0.00
+22/05/2023J J93625            TO TRANS                    1058.46        0.00        1058.46
+22/05/2023E VIHPSO220523044781BILL R002EXP810                0.00     1058.46           0.00
+16/06/2023J J94039            TO ON LINE                  1412.46        0.00        1412.46
+16/06/2023E VFHPSO220623045271BILL R002EXP869                0.00     1412.46           0.00
+21/07/2023J J94500            TO ON LINE                  1059.65        0.00        1059.65
+21/07/2023E VIHPSO220723045751BILL R002EXP939                0.00     1059.65           0.00
+04/09/2023E VIHPSO220923046691BILL R002EXP005                0.00     1412.46       -1412.46
+05/09/2023J J95134            TO ON LINE                  1765.27        0.00         352.81
+05/09/2023J J95140            TO ON LINE                  1059.65        0.00        1412.46
+15/09/2023E VIHPSO220823046221BILL R002EXP037                0.00     1412.46           0.00
+05/10/2023J J95581            TO TRANS                    1058.46        0.00        1058.46
+05/10/2023E VIHPSO221023047151BILL VODAFONE EXP075           0.00     1058.46           0.00
+03/11/2023J J96060            TO ON LINE                  1058.46        0.00        1058.46
+03/11/2023E VIHPSO221123047610BILL VODAFONE EXP139           0.00     1058.46           0.00
+
+                         TOTAL                            9530.87     9530.87           0.00

@@ -1,0 +1,19 @@
+
+
+A/C RAM KRISHAN MISHAN SHIMLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ H056 SHIMLA                                      PAN            9816952727  E1I
+      AADHAR 226501155331 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+01/08/2023S C629297           TO SALE                   138896.78        0.00      138896.78
+02/08/2023J J94655            BY ON LINE                     0.00   138896.00           0.78
+03/08/2023S C629338           TO SALE                    69448.42        0.00       69449.20
+04/08/2023J J94698            BY ON LINE                     0.00    69448.00           1.20
+07/08/2023S C629399           TO SALE                    69448.42        0.00       69449.62
+08/08/2023J J94760            BY ON LINE                     0.00    69448.00           1.62
+
+                         TOTAL                          277793.62   277792.00           1.62
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

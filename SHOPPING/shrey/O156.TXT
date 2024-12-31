@@ -1,0 +1,19 @@
+
+
+A/C VINOD GENERAL STORE KARALI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ O156 VILL KARALI PO DHANSA TEH RAMPUR            PAN            8894859093  G0G
+      AADHAR 288775215092 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+11/10/2023S S461354           TO SALE                      849.14        0.00         849.14
+12/10/2023S S461461           TO SALE                     1310.40        0.00        2159.54
+13/10/2023C A903S             BY CASH S461354 VINOD GE       0.00      849.14        1310.40
+13/10/2023C A903S             BY CASH S461461 VINOD GE       0.00     1310.40           0.00
+01/11/2023S S464140           TO SALE                     1699.96        0.00        1699.96
+03/11/2023C A903S             BY CASH S464140 VINOD GE       0.00     1699.96           0.00
+
+                         TOTAL                            3859.50     3859.50           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,27 @@
+
+
+A/C RAJDHANI TRADE LINKERS DELHI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ Y078 DELHI                                       PANAACPM5425B           0   1G
+      AADHAR          0   GSTIN 07AACPM5425B1Z6
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/04/2023P RTRTL/37/2023-24  BY PURCHASE                    0.00    81420.00      -81420.00
+10/04/2023P RTRTL/39/2023-24  BY PURCHASE                    0.00   154650.00     -236070.00
+13/04/2023J J93132            TO ON LINE                236070.00        0.00           0.00
+27/04/2023P RTRTL/207/2023-24 BY PURCHASE                    0.00   275075.00     -275075.00
+03/05/2023J J93370            TO ON LINE                275075.00        0.00           0.00
+25/05/2023P RTRTL/478/2023-24 BY PURCHASE                    0.00   205498.00     -205498.00
+25/05/2023P RTRTL/495/2023-24 BY PURCHASE                    0.00    76470.00     -281968.00
+31/05/2023P RTRTL/599/2023-24 BY PURCHASE                    0.00    44513.00     -326481.00
+09/06/2023J J93929            TO ON LINE                326481.00        0.00           0.00
+06/07/2023P RTRTL/966/2023-24 BY PURCHASE                    0.00   172700.00     -172700.00
+12/07/2023J J94391            TO ON LINE                172700.00        0.00           0.00
+22/07/2023P RTRTL/1161/2023-24BY PURCHASE                    0.00    78177.00      -78177.00
+26/07/2023P RTRTL/1216/2023-24BY PURCHASE                    0.00    47550.00     -125727.00
+26/07/2023P RTRTL/1227/2023-24BY PURCHASE                    0.00    19846.00     -145573.00
+26/07/2023P RTRTL/1205/2023-24BY PURCHASE                    0.00    28514.00     -174087.00
+27/07/2023P RTRTL/1138/2023-24BY PURCHASE                    0.00    73006.00     -247093.00
+01/08/2023J J94652            TO ON LINE                247093.00        0.00           0.00
+
+                         TOTAL                         1257419.00  1257419.00           0.00

@@ -1,0 +1,18 @@
+
+
+A/C TANJIN CHHATUP GULLING      In M/S RAM KISHAN JIVA RAM Page No. 1
+ G178 VPO GULLING TEH KAZA                        PAN            9418208671  Z1G
+      AADHAR 312071259256 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/09/2023J J95372            BY CH 686983                   0.00   136453.00     -136453.00
+22/09/2023S S458604           TO SALE                    33823.58        0.00     -102629.42
+22/09/2023S S458611           TO SALE                    20414.92        0.00      -82214.50
+23/09/2023J J95394            TO WE                     136453.00        0.00       54238.50
+23/09/2023J J95394            BY CH 013894                   0.00    54398.00        -159.50
+
+                         TOTAL                          190691.50   190851.00        -159.50
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

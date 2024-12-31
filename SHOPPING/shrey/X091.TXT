@@ -1,0 +1,14 @@
+
+
+A/C NEW AZADGOODS CARRIER AMBALA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ X091 GT ROAD AMBALA CITY                         PAN                     0   0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+29/05/2023G E9880AA           BY FRT 45                      0.00      750.00        -750.00
+08/07/2023G E1081AA           BY FRT 48                      0.00     2500.00       -3250.00
+17/07/2023G E1106AA           BY FRT 50                      0.00    10000.00      -13250.00
+07/11/2023C C52915            TO PAN CARD LINK            1250.00        0.00      -12000.00
+
+                         TOTAL                            1250.00    13250.00      -12000.00

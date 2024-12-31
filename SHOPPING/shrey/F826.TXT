@@ -1,0 +1,18 @@
+
+
+A/C NEEMA HOZER  G080 GIAWANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F826                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+30/10/2023S L179842           TO SALE                     5484.95        0.00        5484.95
+01/11/2023S L179947           TO SALE                    44191.72        0.00       49676.67
+06/11/2023J J-CH              BY CH 140169 Q101              0.00    49675.00           1.67
+20/11/2023S L181524           TO SALE                      956.81        0.00         958.48
+22/11/2023S L181618           TO SALE                     4647.40        0.00        5605.88
+
+                         TOTAL                           55280.88    49675.00        5605.88
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

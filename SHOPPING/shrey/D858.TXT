@@ -1,0 +1,23 @@
+
+
+A/C SALOCHNA NEGI SANGLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ D858 VPO SANGLA TEH SANGLA                       PAN            9805899932  S0G
+      AADHAR 619801565842 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      21003.45
+18/04/2023C C1                RN37024                        0.00    21003.00           0.45
+26/04/2023S L166746           TO SALE                    15528.44        0.00       15528.89
+26/04/2023S L166747           TO SALE                    10605.51        0.00       26134.40
+04/05/2023J J93402            BY ON LINE                     0.00    26134.00           0.40
+18/05/2023S L168274           TO SALE                     3637.57        0.00        3637.97
+19/05/2023S L168292           TO SALE                     8400.82        0.00       12038.79
+19/05/2023S L168293           TO SALE                     6636.10        0.00       18674.89
+21/07/2023J J94505            BY TFR                         0.00    18674.89           0.00
+02/11/2023S L180000           TO SALE                    29530.00        0.00       29530.00
+06/11/2023J J-CH              BY CH 390589 Q101              0.00    29530.00           0.00
+
+                         TOTAL                           95341.89    95341.89           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

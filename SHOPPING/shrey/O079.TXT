@@ -1,0 +1,17 @@
+
+
+A/C VINOD GENERAL STORE TAKLECH      In M/S RAM KISHAN JIVA RAM Page No. 1
+ O079 VPO TAKLECH                                 PAN            8894305271  TGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+24/04/2023S S439366           TO SALE                     4696.00        0.00        4696.00
+25/04/2023C A401S             BY CASH S439366 VINOD GE       0.00     4696.00           0.00
+10/10/2023S S461080           TO SALE                     2341.44        0.00        2341.44
+11/10/2023C A401S             BY CASH S461080 VINOD GE       0.00     2341.44           0.00
+
+                         TOTAL                            7037.44     7037.44           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

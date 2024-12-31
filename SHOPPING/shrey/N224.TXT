@@ -1,0 +1,25 @@
+
+
+A/C DHARUV MEDICOS KHANERI      In M/S RAM KISHAN JIVA RAM Page No. 1
+ N224 VPO KHANERI TEH RAMPUR                      PANAIQPG6895B  9396990003  E1G
+      AADHAR          0   GSTIN 02AIQPG6895B1Z7
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+02/05/2023S R251449           TO SALE                     5754.69        0.00        5754.69
+02/05/2023J J93358            BY ON LINE                     0.00     5754.69           0.00
+26/07/2023S R251995           TO SALE                     5500.03        0.00        5500.03
+27/07/2023J J94575            BY ON LINE                     0.00     5500.00           0.03
+17/08/2023S R252143           TO SALE                     1305.70        0.00        1305.73
+19/08/2023J J94895            BY ON LINE                     0.00     1305.70           0.03
+24/08/2023S L175026           TO SALE                    11092.33        0.00       11092.36
+28/08/2023J J95010            BY ON LINE                     0.00    11092.33           0.03
+13/10/2023S N325345           TO SALE                     9179.82        0.00        9179.85
+24/10/2023J J95891            BY ONLINE                      0.00     9179.82           0.03
+27/10/2023S N327128           TO SALE                     9374.93        0.00        9374.96
+11/11/2023J J96207            BY ON LINE                     0.00     9375.00          -0.04
+
+                         TOTAL                           42207.50    42207.54          -0.04
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

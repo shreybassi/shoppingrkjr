@@ -1,0 +1,25 @@
+
+
+A/C BRIJ MOHAN JEORI JEORI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ A095                                             PAN            8219290719  5GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       7604.34
+05/04/2023J J-CH              BY CH 958350 Q106              0.00     7604.00           0.34
+06/05/2023S N304820           TO SALE                     1585.46        0.00        1585.80
+15/05/2023J J-CH              BY CH 964906 Q106              0.00     1585.00           0.80
+10/08/2023S N316810           TO SALE                     7812.36        0.00        7813.16
+17/08/2023J J-CH              BY CH 249163 Q103              0.00     7812.00           1.16
+19/08/2023S N317995           TO SALE                     1146.48        0.00        1147.64
+21/08/2023C A306S             BY CASH N317995 BRIJ MOH       0.00     1146.48           1.16
+09/09/2023S N320881           TO SALE                     4873.24        0.00        4874.40
+13/09/2023J J-CH              BY CH 249171 Q103              0.00     3123.00        1751.40
+28/09/2023J J95465            BY DIFF NEHA                   0.00     1751.40           0.00
+14/10/2023S N325443           TO SALE                     7107.27        0.00        7107.27
+31/10/2023J J-CH              BY CH 249182 Q103              0.00     7107.00           0.27
+
+                         TOTAL                           30129.15    30128.88           0.27
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,24 @@
+
+
+A/C GOMPA MESS KAZA         In M/S RAM KISHAN JIVA RAM Page No. 1
+ G135 VPO KAZA TEH SPITI                          PAN            9459228602  ZCG
+      AADHAR 876323696614 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/04/2023S S437425           TO SALE                   160245.84        0.00      160245.84
+10/04/2023S S437434           TO SALE                     4916.18        0.00      165162.02
+18/04/2023J J-CH              BY CH 590015 Q101              0.00   165163.00          -0.98
+25/07/2023S S451192           TO SALE                    51762.20        0.00       51761.22
+16/08/2023J J94851            BY CH 590037                   0.00    51762.00          -0.78
+01/09/2023S S455896           TO SALE                     3034.76        0.00        3033.98
+01/09/2023S S455897           TO SALE                    10105.14        0.00       13139.12
+02/09/2023S S456062           TO SALE                   179219.23        0.00      192358.35
+02/09/2023S S456063           TO SALE                   156776.13        0.00      349134.48
+02/09/2023S S456064           TO SALE                    66531.83        0.00      415666.31
+04/09/2023S O107622           TO SALE                    -5657.75        0.00      410008.56
+
+                         TOTAL                          626933.56   216925.00      410008.56
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

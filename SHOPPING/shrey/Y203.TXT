@@ -1,0 +1,16 @@
+
+
+A/C FITWELL HOSIERY CORP DELHI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ Y203 4473 GALI LOTTAN JAT PAHARI DHIRAJ SB DE    PANAAAFF5013A  9418033431   BP
+      AADHAR          0   GSTIN 07AAAFF5013A1ZA
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      16590.00
+25/04/2023P FHR/MP/23-24/011  BY PURCHASE                    0.00    37509.00      -20919.00
+15/05/2023J J93535            TO CH NO 010592            36384.00        0.00       15465.00
+23/08/2023P FHR/MP/23-24/030  BY PURCHASE                    0.00   132956.00     -117491.00
+16/09/2023J J95305            TO CH 010417              112377.00        0.00       -5114.00
+16/09/2023J J95305            TO CD                       1125.00        0.00       -3989.00
+16/09/2023J J95305            TO CD                       3989.00        0.00           0.00
+
+                         TOTAL                          170465.00   170465.00           0.00

@@ -1,0 +1,22 @@
+
+
+A/C JAGDISH CHAND CHOTAKHAMBA  In M/S RAM KISHAN JIVA RAM Page No. 1
+ C135 VPO CHOTA KHAMBA TEH NICHAR                 PAN                     0  E0G
+      AADHAR 643678347805 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+07/01/2023P LPA7921           BY PURCHASE                    0.00   100000.26     -100000.26
+07/01/2023J J91845            TO CH 283401              100000.00        0.00          -0.26
+19/01/2023P LPA7934           BY PURCHASE                    0.00   100000.01     -100000.27
+19/01/2023J J91978            TO CH 283409              100000.00        0.00          -0.27
+28/01/2023P LPA7945           BY PURCHASE                    0.00   100000.00     -100000.27
+01/02/2023J J92100            TO CH 283413              100000.00        0.00          -0.27
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       0.27        0.00           0.00
+16/02/2023P LPA7978           BY PURCHASE                    0.00   100000.00     -100000.00
+20/02/2023J J92329            TO CH 283434              100000.00        0.00           0.00
+
+                         TOTAL                          400000.27   400000.27           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

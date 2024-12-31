@@ -1,0 +1,15 @@
+
+
+A/C CASH ON DELIVERY PICKUP 1 TO 3              In M/S RAM KISHAN JIVA RAM Page No. 1
+ A579                                             PAN                     0  9XI
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+11/09/2023J J95233            BY CASH ON LINE JOGINDER       0.00     3470.00       -3470.00
+30/09/2023J J95498            TO WE J95233                3470.00        0.00           0.00
+
+                         TOTAL                            3470.00     3470.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

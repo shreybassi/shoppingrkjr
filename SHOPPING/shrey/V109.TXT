@@ -1,0 +1,16 @@
+
+
+A/C VARDHMAN YARNS & THREADS LTD LUDHIANA     In M/S RAM KISHAN JIVA RAM Page No. 1
+ V109 CHANDIGARH ROAD LUSHIANA                    PANAACCV2554K           0   GG
+      AADHAR          0   GSTIN 03AACCV2554K1ZD
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/04/2023J J93228            TO CH 010566                7878.00        0.00        7878.00
+22/04/2023E VY2U23002418      BILL R013EXP746                0.00     8094.31        -216.31
+15/05/2023J J93533            TO CH NO 010590            11184.00        0.00       10967.69
+16/05/2023P VY2U23005047      BY PURCHASE                    0.00    11511.00        -543.31
+29/09/2023J J95484            TO CH 010432               58281.00        0.00       57737.69
+02/10/2023P VYL223002675      BY PURCHASE                    0.00    59897.67       -2159.98
+
+                         TOTAL                           77343.00    79502.98       -2159.98

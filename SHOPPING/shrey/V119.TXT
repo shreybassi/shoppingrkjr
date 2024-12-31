@@ -1,0 +1,19 @@
+
+
+A/C SS ENTERPRISES ZIRAKPUR     In M/S RAM KISHAN JIVA RAM Page No. 1
+ V119 OPP VELVET CLARK HOTEL SOHI MARG BHABAT     PANAFJPG8713Q           0   0G
+      AADHAR          0   GSTIN 03AFJPG8713Q1Z3
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+17/04/2023P SSS/HP/L/14/23-24 BY PURCHASE                    0.00    80875.00      -80875.00
+03/05/2023J J93369            TO CH 010579               80875.00        0.00           0.00
+19/05/2023P SSS/HP/L/50/23-24 BY PURCHASE                    0.00    48550.00      -48550.00
+09/06/2023J J93925            TO CH 010233               48550.00        0.00           0.00
+17/06/2023P SSS/HP/L/87/23-24 BY PURCHASE                    0.00    10775.00      -10775.00
+08/07/2023J J94355            TO CN 72                     395.00        0.00      -10380.00
+12/07/2023J J94383            TO CH 10806                10380.00        0.00           0.00
+02/08/2023P SSS/HP/L/116/23-24BY PURCHASE                    0.00    46955.00      -46955.00
+25/08/2023J J94979            TO CH 010847               46955.00        0.00           0.00
+
+                         TOTAL                          187155.00   187155.00           0.00

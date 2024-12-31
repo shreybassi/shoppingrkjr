@@ -1,0 +1,43 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ I329 PUSHPA ENTERPRISES                                61.79       61.79       61.79      61.79
+ I859 AK MEDICAL STORE               DALASH          13800.83      668.08      668.08
+ I059 PARKASH BROTHER  DALASH        DALASH          35251.13    16025.48
+ I816 PURAN CHAND                    DALASH          64617.49    15694.89
+ I817 RAJENDER                       DALASH              0.00
+ I858 SEHJAL GENERAL STORE           DALASH          14557.51
+ I066 SHIVAM DAILY NEEDS             DALASH           6862.15        0.63
+ I368 SK ENTERPRISES                 DALASH          22170.03
+ I861 TARSEM LAL SHARMA              DALASH           7735.24     7735.24
+ I367 DHRUV GENERAL STORE            DAWARCH          3249.04
+ I051 ANITA MEDICAL STORE            DURAHA              0.10        0.10        0.10
+ I008 RAJESH ANAND                   DURAHA          21175.78
+ I278 SHARMA DAILY NEED              DURAHA              0.00
+ I272 SINGHA BROTHER                 DURAHA          16210.22    16210.22    16210.22   16210.22    16210.22
+ I348 RAM LAL                        GAWAHA           4805.28
+ I862 RANJEET GENERAL STORE          GHAROLI         38961.78    38961.78
+ I047 SURJEET GENERAL STORE          GHAROLI         12829.90       43.99
+ I257 SHARMA BROTHER                 KALOG           32281.17    13557.76
+ I052 ANAND GENERAL STORE            KATHOR             69.85       69.85
+ I082 AMAN KUMAR                     NITHAR          55885.53
+ I049 BABA HOTEL                     NITHAR              0.35        0.35
+ I121 BHARTI MEDICAL STORE           NITHAR          55877.02    24436.67
+ I248 BISHNA GENERAL STORE           NITHAR             -0.61
+ I157 DK GENERAL STORE               NITHAR          11672.52
+ I198 KAILASH VEG SHOP               NITHAR              0.57        0.57        0.57       0.57
+ I857 PREM CHAND                     NITHAR              0.23        0.23        0.23
+ I083 RAJENDER ENTERPRISES           NITHAR             -0.05
+ I106 SATISH KUMAR                   NITHAR             -6.15 0P
+ I364 SK BAKERY SHOP                 NITHAR           2646.20     2646.20     2646.20    2646.20
+ I199 TEJASVI SHARMA                 NITHAR          18419.28     2855.76
+ I204 THAKUR GENERAL STORE           NITHAR          10595.63
+ I181 SHYAMA NAND                    NITHER          56944.30    56944.30    56944.30
+ I358 RAMDHAN AND SONS               PANVI           31214.30    31214.30
+ I365 SARTHAK GENERAL STORE          REWARI              8.19
+ I366 SHARMA GENERAL STORE           REWARI          16110.88       11.95
+ I279 SURESH CHAND                   REWARI DALAS     6539.27
+ I053 SS GENERAL STORE               SHEGNI          10589.43
+ I288 VIKRANT GENERAL STORE          TADASHA             0.05        0.05
+ I931 GIAN CHAND TOGI                TOGI            17601.63    17601.63        0.56

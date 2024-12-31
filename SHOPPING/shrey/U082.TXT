@@ -1,0 +1,19 @@
+
+
+A/C KAUSHALYA SATLUJ ENTERPRISES PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U082 BASSI COMPLEX OPP SEC 6 PARWANOO            PANACBPB0329E           0   GG
+      AADHAR          0   GSTIN 02ACBPB0329E1ZP
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+06/05/2023E RBA210008         BILL R003EXP767                0.00    17589.08      -17589.08
+15/05/2023E RBA209999         TO BILL NO R003EXP787          0.00    17589.08      -35178.16
+14/06/2023E KAA210021         BILL R003EXP850                0.00    17589.08      -52767.24
+07/08/2023J J94740            TO CH 10758                87945.00        0.00       35177.76
+14/08/2023E RBA210038         BILL R003EXP967                0.00    17589.08       17588.68
+14/09/2023E RLA210063         BILL R003EXP035                0.00    17589.08          -0.40
+14/09/2023E RLA210050         BILL R003EXP034                0.00    17589.08      -17589.48
+05/10/2023E RBA210084         BILL RENT EXP076               0.00    17589.08      -35178.56
+02/11/2023E RBA210102         BILL RENT R003EXP138           0.00    17589.08      -52767.64
+
+                         TOTAL                           87945.00   140712.64      -52767.64

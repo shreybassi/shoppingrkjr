@@ -1,0 +1,17 @@
+
+
+A/C DURGA ASSOCIATES SHAHPUR      In M/S RAM KISHAN JIVA RAM Page No. 1
+ X136 PLOT NO 164 SARASWATI VIHAR NEW GRAIN MA    PANAFHPG5921N           0   0G
+      AADHAR          0   GSTIN 06AFHPG5921N1Z9
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+09/09/2023P DA311             BY PURCHASE                    0.00    20555.00      -20555.00
+20/09/2023J J95350            TO CH 010419               20555.00        0.00           0.00
+26/09/2023P DA382             BY PURCHASE                    0.00    42665.00      -42665.00
+17/10/2023J J95790            TO CN 310                   1778.00        0.00      -40887.00
+18/10/2023J J95794            TO CH 010713               40887.00        0.00           0.00
+11/11/2023P DA561             BY PURCHASE                    0.00    27554.00      -27554.00
+22/11/2023J J96386            TO CH 00746                27554.00        0.00           0.00
+
+                         TOTAL                           90774.00    90774.00           0.00

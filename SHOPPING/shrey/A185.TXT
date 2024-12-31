@@ -1,0 +1,18 @@
+
+
+A/C MEHTA AGRO CHEMICALS JEORI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ A185 NEAR PNB BANK JEORI                         PANAXPPM0967J  9805490474  Y0G
+      AADHAR          0   GSTIN 02AXPPM0967J1Z6
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+25/07/2023S L173058           TO SALE                    54999.80        0.00       54999.80
+01/08/2023J J94641            BY ON LINE                     0.00    54999.00           0.80
+02/08/2023J J94657            BY DIFF                        0.00        0.80           0.00
+01/09/2023S N319825           TO SALE                    32999.99        0.00       32999.99
+04/09/2023J J95122            BY ON LINE                     0.00    33000.00          -0.01
+
+                         TOTAL                           87999.79    87999.80          -0.01
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,15 @@
+
+
+A/C *CHANDEL MEDICAL STORE ANNI         In M/S RAM KISHAN JIVA RAM Page No. 1
+ I294 MAIN BAZAR ANNI                             PAN            9805425001  7XG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+01/02/2022S S385773           TO SALE                     3963.52        0.00        3963.52
+03/02/2022C A402S             BY CASH S385773 CHANDEL        0.00     3963.52           0.00
+
+                         TOTAL                            3963.52     3963.52           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

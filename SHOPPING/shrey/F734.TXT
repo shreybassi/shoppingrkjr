@@ -1,0 +1,20 @@
+
+
+A/C JAGDISH CHANDER NEGI XEN LABRANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F734                                             PAN            9418168487  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+23/05/2023S S443199           TO SALE                     1864.00        0.00        1864.00
+27/05/2023C C                 RN40636                        0.00     1864.00           0.00
+23/08/2023S S454641           TO SALE                     1876.00        0.00        1876.00
+28/08/2023C C                 RN47169                        0.00     1876.00           0.00
+23/11/2023S L181801           TO SALE                    10311.42        0.00       10311.42
+23/11/2023S L181812           TO SALE                    44508.90        0.00       54820.32
+23/11/2023S L181813           TO SALE                    17896.83        0.00       72717.15
+
+                         TOTAL                           76457.15     3740.00       72717.15
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

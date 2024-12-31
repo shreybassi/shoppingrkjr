@@ -1,0 +1,15 @@
+
+
+A/C PARAKH AGRO INDUSTRIES LTD PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U067 BASSI COMPLEX OPP SEC 6 PARWANOO            PANAABCP0314L           0   GG
+      AADHAR          0   GSTIN 02AABCP0314L1ZY
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       -3524.44
+12/04/2023P PASC7223000001    BY PURCHASE                    0.00    -3591.00          66.56
+24/04/2023P PAS17223000010    BY PURCHASE                    0.00    26549.79      -26483.23
+26/04/2023J J93286            TO CH 0127                 25549.00        0.00        -934.23
+24/06/2023P PAS17223000049    BY PURCHASE                    0.00    31623.48      -32557.71
+26/06/2023J J94166            TO CH NO 10501             31000.00        0.00       -1557.71
+
+                         TOTAL                           56549.00    58106.71       -1557.71

@@ -1,0 +1,32 @@
+
+
+A/C MOHINDRA KUMARI NESANG       In M/S RAM KISHAN JIVA RAM Page No. 1
+ F074 VILL.  PO NESUANG  VIA SPILOW               PAN            9418448614  PGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      76018.94
+26/04/2023J J93282            BY ON LINE                     0.00    20000.00       56018.94
+17/05/2023J J93572            BY ON LINE                     0.00    20000.00       36018.94
+20/06/2023J J94072            BY ON LINE                     0.00    33000.00        3018.94
+22/06/2023S L170939           TO SALE                    38139.51        0.00       41158.45
+23/06/2023S L170944           TO SALE                    12147.30        0.00       53305.75
+23/06/2023S L170945           TO SALE                    37339.92        0.00       90645.67
+26/06/2023S O106747           TO SALE                    -1272.70        0.00       89372.97
+03/07/2023J J94281            4BY ON LINE                    0.00    20000.00       69372.97
+02/08/2023J J94672            BY ON LINE                     0.00    40000.00       29372.97
+09/08/2023J J94773            BY ON LINE                     0.00    50000.00      -20627.03
+18/08/2023S L174628           TO SALE                    15562.70        0.00       -5064.33
+18/08/2023S L174634           TO SALE                    68330.00        0.00       63265.67
+21/10/2023J J95859            BY ON LINE                     0.00    50000.00       13265.67
+30/10/2023J J95979            BY ON LINE                     0.00    14000.00        -734.33
+30/10/2023J J95979            BY ON LINE                     0.00    10000.00      -10734.33
+03/11/2023J J96056            TO WE                      10000.00        0.00        -734.33
+08/11/2023S L180534           TO SALE                    28688.18        0.00       27953.85
+10/11/2023S L180747           TO SALE                    84786.45        0.00      112740.30
+14/11/2023J J96252            BY ON LINE                     0.00    30000.00       82740.30
+
+                         TOTAL                          369740.30   287000.00       82740.30
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

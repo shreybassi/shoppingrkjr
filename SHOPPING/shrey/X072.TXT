@@ -1,0 +1,13 @@
+
+
+A/C SHREE BALA SUNDRI TPT CO KALA AMB     In M/S RAM KISHAN JIVA RAM Page No. 1
+ X072 TRILOKPUR ROAD KALA AMB                     PAN                     0   GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+11/03/2023G E9403AA           BY FRT 667                     0.00    13000.00      -13000.00
+18/03/2023C C50237            TO CASH                     6000.00        0.00       -7000.00
+20/03/2023C C50255            TO CASH                     7000.00        0.00           0.00
+
+                         TOTAL                           13000.00    13000.00           0.00

@@ -1,0 +1,19 @@
+
+
+A/C SHANKAR ROADLINES AMBALA CITY  In M/S RAM KISHAN JIVA RAM Page No. 1
+ X124 GT ROAD AMBALA CITY                         PAN                     0   0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+09/05/2023G E9772AB           BY FRT 7                       0.00     2000.00       -2000.00
+19/05/2023G E9832AB           BY FRT 14                      0.00     3300.00       -5300.00
+17/06/2023G E9982AA           BY FRT 13                      0.00     1800.00       -7100.00
+24/07/2023G E1134AB           BY FRT 26                      0.00     7660.00      -14760.00
+07/09/2023G E1364AA           BY FRT 19A                     0.00     1500.00      -16260.00
+06/11/2023G E1706AE           BY FRT 25L                     0.00     3000.00      -19260.00
+16/11/2023G E1768AB           BY FRT 36                      0.00    10000.00      -29260.00
+23/11/2023G E1794AA           BY FRT 40                      0.00      900.00      -30160.00
+24/11/2023G E1802AA           BY FRT 39                      0.00      850.00      -31010.00
+
+                         TOTAL                               0.00    31010.00      -31010.00

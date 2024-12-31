@@ -1,0 +1,25 @@
+
+
+A/C BITTAM GARAGES KHANERI      In M/S RAM KISHAN JIVA RAM Page No. 1
+ N110 VPO KHANERI TEH RAMPUR                      PANBWNPG9456L  9916560630  EGG
+      AADHAR          0   GSTIN 02BWNPG9456L1Z1
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+07/06/2023E BGRBR24A000086    BILL R069EXP831                0.00     4071.99       -4071.99
+07/06/2023E BGRBR24A000086    BILL R069EXP831                0.00     1575.01       -5647.00
+07/06/2023E BGRBR24A000086    BILL R069EXP831                0.00       29.99       -5676.99
+07/06/2023E BGRBR24A000086    BILL R069EXP831                0.00     1168.20       -6845.19
+14/07/2023J J94412            TO CH 554194                6845.00        0.00          -0.19
+17/08/2023E BGRBR24A000198    BILL R069EXP975                0.00     7480.98       -7481.17
+17/08/2023E BGRBR24A000198    BILL R069EXP975                0.00     3966.56      -11447.73
+17/08/2023E BGRBR24A000198    BILL 6069EXP975                0.00     5131.01      -16578.74
+17/08/2023E BGRBR24A000198    BILL R069EXP975                0.00       29.99      -16608.73
+05/09/2023J J95137            TO CH 010401               16608.00        0.00          -0.73
+09/09/2023C C1                RN48575                        0.00     4642.00       -4642.73
+12/09/2023J J95250            TO WE                       4642.00        0.00          -0.73
+
+                         TOTAL                           28095.00    28095.73          -0.73
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

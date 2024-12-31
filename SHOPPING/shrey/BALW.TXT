@@ -1,0 +1,49 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ K063 BHANDARI DAILY NEEDS           ARSU            47726.25
+ K002 CHAUHAN BROTHER                ARSU                1.20        1.20        1.20
+ K015 CHAUHAN GENERAL STORE          ARSU                0.00
+ K043 CHURA MANI GOVIND AND ASSOCIAT ARSU             6718.85
+ K096 GAGAN GENERAL STORE            ARSU            77138.18    30100.49    30100.49   30100.49
+ K143 HEMA PROVISIONAL STORE         ARSU             6779.93
+ K074 LOKEM GEST HOUSE               ARSU                7.59
+ K113 MAA DURGA MEDICAL              ARSU                0.59        0.59
+ K856 MADAN GENERAL STORE            ARSU                0.00
+ K869 REENA BEAUTY PARLAR            ARSU             4051.32
+ K142 TABE RAM HOTEL                 ARSU             9098.53
+ K077 TARUN STATIONERY               ARSU             1928.68        0.26
+ K038 TWINKAL ENTERPRISES            ARSU            54548.33    49412.46        1.22
+ K139 VISHAL SHARMA                  ARSU             3794.53        0.20
+ K958 CHUNI LAL                      BARI            30628.18        0.29
+ K136 KHUSHI RAM                     BARI             5799.51
+ K082 NOYA RAM                       BARI             7201.50     7201.50
+ K954 KAILASH GEN STORE              DAMEHLI         15528.12    15528.12       51.12
+ K969 CHAUHAN DAILY NEED             DEEM             4535.35      739.53
+ K871 DINESH KUMAR                   DEEM               -0.29
+ K144 JAI PAL                        DEEM                0.00
+ K859 JUGAL GENERAL STORE            DEEM                2.45
+ K870 RAJU GENERAL STORE             DEEM                0.00
+ K973 ROSHAN DOGRA                   DEEM                0.18        0.18        0.18       0.18
+ K140 SARAV DAYAL                    DEEM             5122.61
+ K944 SHYAM LAL                      DEEM            10175.23
+ K867 SHYAM THAKUR                   DEEM            10094.67
+ K941 SOHAN LAL                      DEEM             6213.82
+ K956 ANIL KUMAR 89882 46629         DHANUDHAR        4741.43        0.26        0.26
+ K868 DOLA RAM                       DHAR             -273.18
+ K130 MOHINDER AND BROTHER FOR       JHAYARA          6937.03
+ K129 VINOD GENEAL STORE FOR         JHAYARA          3834.22
+ K112 T R THAKUR                     JUNI            14045.32      127.68
+ K858 DURGA SINGH                    KHANI DHAR      13561.55
+ K812 LOCHAN DEV                     PHOKUDHAR       14074.39
+ K864 KRISHAN DEV                    POKDHAR         13208.33
+ K970 PICK AND DRIVE                 RALLUDHAR        3456.10
+ K109 SHARMA PROVISIONAL STORE       RALUDHAR            0.51
+ K141 U ZAIKA RESTORENT              RALUDHAR           -0.20
+ K120 DAYA NAND SO PADAM RAM FOR     REMU                0.36        0.36
+ K865 VERMA GENERAL STORE            REMU               -0.22
+ K957 VIREN GENERAL STORE            RETAMOD         11082.42
+ K066 HOTEL HAVELI AND RETAIL K MART SIRKOTI         22983.09
+ K857 THAKUR GENERAL STORE           SIRKOTI           124.00
+ C044 *LAMA DHABA                    BADHAL              4.25        4.25        4.25       4.25        4.25

@@ -1,0 +1,18 @@
+
+
+A/C PEND PAYMENT ACC RAJESH KUMAR RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ A594                                             PAN                     0  E5I
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+13/04/2023S H397479           TO SALE RAVI POLICE WALA    2272.89        0.00        2272.89
+14/04/2023S H397497           TO SALE RAVI POLICE WALA    2276.20        0.00        4549.09
+14/04/2023C C                 RN 7132 RAVI POLICE            0.00     4550.00          -0.91
+25/04/2023S H397697           TO SALE DAVI RAM POLICE     2412.00        0.00        2411.09
+15/05/2023C C                 RN 38750 DEVI SINGH            0.00     2410.00           1.09
+
+                         TOTAL                            6961.09     6960.00           1.09
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

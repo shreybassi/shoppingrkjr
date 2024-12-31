@@ -1,0 +1,24 @@
+
+
+A/C RAJ KALA ENTERPRISES AVERI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ J024 VILL AVERI PO NOGLI TEH NIRMAND             PANANFPT3974L  8219153138  EGH
+      AADHAR          0   GSTIN 02ANFPT3974L1ZK
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       -1399.25
+15/04/2023S S438199           TO SALE                    16284.07        0.00       14884.82
+18/04/2023J J-CH              BY CH 086280 Q103              0.00    16285.00       -1400.18
+06/05/2023S S440932           TO SALE                    16924.82        0.00       15524.64
+26/05/2023J J93705            BY ON LINE                     0.00    15525.00          -0.36
+22/06/2023J J94106            BY CH 086289                   0.00    15524.00      -15524.36
+15/07/2023S S450110           TO SALE                     9649.08        0.00       -5875.28
+15/09/2023S S457802           TO SALE                      351.88        0.00       -5523.40
+16/09/2023S S457839           TO SALE                    15008.70        0.00        9485.30
+07/10/2023J J95633            BY ON LINE                     0.00     9485.00           0.30
+20/10/2023S S462690           TO SALE                    10804.30        0.00       10804.60
+25/10/2023J J95895            BY ONLINE                      0.00    10804.00           0.60
+
+                         TOTAL                           69022.85    69022.25           0.60
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

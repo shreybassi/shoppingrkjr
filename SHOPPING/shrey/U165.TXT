@@ -1,0 +1,12 @@
+
+
+A/C BALBIR SINGH AND SONS AUT          In M/S RAM KISHAN JIVA RAM Page No. 1
+ U165 VPO AUT                                     PANAFBPC7875D           0   0G
+      AADHAR          0   GSTIN 02AFBPC7875D1ZV
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+02/02/2023P BS163             BY PURCHASE                    0.00   253012.00     -253012.00
+03/02/2023J J92136            TO CH 283416              253012.00        0.00           0.00
+
+                         TOTAL                          253012.00   253012.00           0.00

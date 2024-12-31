@@ -1,0 +1,52 @@
+
+
+A/C ROZI GUPTA LUHRI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ K851 VPO LUHRI TEH ANNI                          PAN            9816197794  1GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+04/04/2023S N300402           TO SALE                     2140.31        0.00        2140.31
+05/04/2023S N300465           TO SALE                      719.80        0.00        2860.11
+06/04/2023C A302S             BY CASH N300402 ROZI GUP       0.00     2140.31         719.80
+06/04/2023C A302S             BY CASH N300465 ROZI GUP       0.00      719.80           0.00
+16/05/2023S N306155           TO SALE                    11613.91        0.00       11613.91
+17/05/2023S N306234           TO SALE                     2549.72        0.00       14163.63
+18/05/2023C A302S             BY CASH N306155 ROZI GUP       0.00    11613.91        2549.72
+18/05/2023C A302S             BY CASH N306234 ROZI GUP       0.00     2549.72           0.00
+30/05/2023S N307923           TO SALE                     3829.30        0.00        3829.30
+01/06/2023S O106493           TO SALE                       -8.35        0.00        3820.95
+01/06/2023C A302S             BY CASH N307923 ROZI GUP       0.00     3829.30          -8.35
+20/06/2023S N310795           TO SALE                      955.56        0.00         947.21
+21/06/2023S N310808           TO SALE                     1243.89        0.00        2191.10
+22/06/2023C A302S             BY CASH N310795 ROZI GUP       0.00      955.56        1235.54
+22/06/2023C A302S             BY CASH N310808 ROZI GUP       0.00     1243.89          -8.35
+27/06/2023S N311626           TO SALE                     8600.64        0.00        8592.29
+27/06/2023S N311637           TO SALE                      948.71        0.00        9541.00
+29/06/2023C A302S             BY CASH N311626 ROZI GUP       0.00     8600.64         940.36
+29/06/2023C A302S             BY CASH N311637 ROZI GUP       0.00      948.71          -8.35
+04/07/2023S N312540           TO SALE                    10535.24        0.00       10526.89
+05/07/2023S N312552           TO SALE                     1054.12        0.00       11581.01
+05/07/2023C A302S             BY CASH N312540 ROZI GUP       0.00    10535.24        1045.77
+05/07/2023C A302N             BY CASH N312552 ROZI GUP       0.00     1054.12          -8.35
+08/08/2023S N316469           TO SALE                    13713.57        0.00       13705.22
+09/08/2023S N316578           TO SALE                      690.60        0.00       14395.82
+10/08/2023C A302S             BY CASH N316469 ROZI GUP       0.00    13713.57         682.25
+10/08/2023C A302S             BY CASH N316578 ROZI GUP       0.00      690.60          -8.35
+12/09/2023S N321217           TO SALE                     5504.63        0.00        5496.28
+13/09/2023S N321228           TO SALE                      701.20        0.00        6197.48
+14/09/2023C A302S             BY CASH N321217 ROZI GUP       0.00     5504.63         692.85
+14/09/2023C A302S             BY CASH N321228 ROZI GUP       0.00      701.20          -8.35
+03/10/2023S N323911           TO SALE                     5497.04        0.00        5488.69
+04/10/2023S N324020           TO SALE                     4034.21        0.00        9522.90
+05/10/2023C A302S             BY CASH N323911 ROZI GUP       0.00     5497.04        4025.86
+05/10/2023C A302S             BY CASH N324020 ROZI GUP       0.00     4034.21          -8.35
+07/11/2023S N328315           TO SALE                     9212.88        0.00        9204.53
+08/11/2023C A302S             BY CASH N328315 ROZI GUP       0.00     9212.88          -8.35
+14/11/2023S N329247           TO SALE                     2655.28        0.00        2646.93
+15/11/2023C A302S             BY CASH N329247 ROZI GUP       0.00     2655.28          -8.35
+
+                         TOTAL                           86192.26    86200.61          -8.35
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

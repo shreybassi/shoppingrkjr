@@ -1,0 +1,29 @@
+
+
+A/C REKHA GENERAL STORE REKONG PEO   In M/S RAM KISHAN JIVA RAM Page No. 1
+ D180 VPO RISPA TEH MOORANG                       PAN            7018349327  K0G
+      AADHAR 476259025389 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+11/07/2023S S449763           TO SALE                     7147.36        0.00        7147.36
+20/07/2023C C                 RN43171                        0.00     7147.00           0.36
+05/09/2023S S456323           TO SALE                     3270.94        0.00        3271.30
+13/09/2023C C                 RN48142                        0.00     3270.00           1.30
+22/09/2023S S458649           TO SALE                      333.40        0.00         334.70
+25/09/2023S S458889           TO SALE                     3659.08        0.00        3993.78
+29/09/2023C C                 RN49010                        0.00     3993.00           0.78
+03/10/2023S S460129           TO SALE                    16021.71        0.00       16022.49
+04/10/2023S S460271           TO SALE                    40524.80        0.00       56547.29
+10/10/2023S S461106           TO SALE                     7939.28        0.00       64486.57
+10/10/2023S S461118           TO SALE                     4425.11        0.00       68911.68
+11/10/2023J J-CH              BY CH 846213 Q103              0.00    56547.00       12364.68
+17/10/2023C C                 RN51250                        0.00    12365.00          -0.32
+14/11/2023S S465878           TO SALE                     2502.50        0.00        2502.18
+14/11/2023S S465892           TO SALE                     9728.35        0.00       12230.53
+24/11/2023C C2                RN54226                        0.00    12231.00          -0.47
+
+                         TOTAL                           95552.53    95553.00          -0.47
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

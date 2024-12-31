@@ -1,0 +1,17 @@
+
+
+A/C URGIANTHINLAY KUNGRI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ G177 VILL KUNGRI PO GULLING TEH KAZA             PANAVVPT5485A  8580977150  Z1G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/09/2023S S458595           TO SALE                   116015.92        0.00      116015.92
+22/09/2023S S458610           TO SALE                    22332.76        0.00      138348.68
+22/09/2023J J-CH              BY CH 436853 Q101              0.00   138228.00         120.68
+23/11/2023C C                 RN54318                        0.00      121.00          -0.32
+
+                         TOTAL                          138348.68   138349.00          -0.32
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

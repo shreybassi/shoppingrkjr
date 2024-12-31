@@ -1,0 +1,21 @@
+
+
+A/C DURGA FANCY SHOP NIRMAND      In M/S RAM KISHAN JIVA RAM Page No. 1
+ J041 TABE RAM VILL BHALSI PO NMD TEH NMD         PANCJLPR8746N  9805702008  0GG
+      AADHAR 418449967495 GSTIN 02CJLPR8746N1ZE
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+13/04/2023S S437969           TO SALE                      819.67        0.00         819.67
+15/04/2023C A404S             BY CASH S437969 DURGA FA       0.00      819.67           0.00
+08/06/2023S S445276           TO SALE                      795.42        0.00         795.42
+10/06/2023C A404S             BY CASH S445276 DURGA FA       0.00      795.42           0.00
+31/08/2023S S455801           TO SALE                      859.81        0.00         859.81
+02/09/2023J J95101            BY UPI                         0.00      859.00           0.81
+12/10/2023S S461549           TO SALE                     1024.92        0.00        1025.73
+21/10/2023C C                 RN51770                        0.00     1025.00           0.73
+
+                         TOTAL                            3499.82     3499.09           0.73
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

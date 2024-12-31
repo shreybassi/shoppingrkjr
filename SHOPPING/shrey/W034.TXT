@@ -1,0 +1,18 @@
+
+
+A/C GOPAL SONS SHAMLI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ W034 50-B NEW MANDI SHAMLI                       PAN                     0   GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/05/2023P GS008             BY PURCHASE                    0.00   362425.00     -362425.00
+23/05/2023J J93639            TO ON LINE                362425.00        0.00           0.00
+21/10/2023P GS048             BY PURCHASE                    0.00    78950.00      -78950.00
+23/10/2023J J95881            TO ON LINE                 78950.00        0.00           0.00
+30/10/2023P GS058             BY PURCHASE                    0.00    80512.00      -80512.00
+31/10/2023J J95992            TO ON LINE                 80512.00        0.00           0.00
+07/11/2023P GS084             BY PURCHASE                    0.00    84175.00      -84175.00
+10/11/2023J J96188            TO ON LINE                 84175.00        0.00           0.00
+
+                         TOTAL                          606062.00   606062.00           0.00

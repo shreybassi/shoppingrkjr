@@ -1,0 +1,15 @@
+
+
+A/C SANAM NARPAL G016 KANAM        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F718                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       2137.57
+05/04/2023J J93050            BY TRF DIFF                    0.00     1100.00        1037.57
+15/04/2023J J93158            BY TRF                         0.00     1037.53           0.04
+
+                         TOTAL                            2137.57     2137.53           0.04
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

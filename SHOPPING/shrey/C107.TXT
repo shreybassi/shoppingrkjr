@@ -1,0 +1,11 @@
+
+
+A/C *DIVYANSH MEDICOS BHAWANAGAR   In M/S RAM KISHAN JIVA RAM Page No. 1
+ C107 VILL GOCHAR TEH JHANDUTTA                   PAN            9816365708  21G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/06/2023S M206245           TO SALE                     -963.38        0.00        -963.38
+21/06/2023S M206246           TO SALE                    -1697.32        0.00       -2660.70
+13/07/2023J J94407            TO TRANS C134               2660.70        0.00           0.00

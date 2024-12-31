@@ -1,0 +1,17 @@
+
+
+A/C SHARF LAMA 9805890245 MOORANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F846                                             PAN                     0  PGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+26/10/2023S L179557           TO SALE                     2051.95        0.00        2051.95
+27/10/2023S L179623           TO SALE                    56710.00        0.00       58761.95
+20/11/2023C C                 RN53871                        0.00      302.00       58459.95
+21/11/2023J J-CH              BY CH 324335 Q106              0.00    96000.00      -37540.05
+
+                         TOTAL                           58761.95    96302.00      -37540.05
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

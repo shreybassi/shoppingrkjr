@@ -1,0 +1,17 @@
+
+
+A/C HR HARDWARE STORE BHAWANAGAR   In M/S RAM KISHAN JIVA RAM Page No. 1
+ C074 VILL PO BHAWANAGAR TEH NICHAR               PANABAPR2410G  9805019735  HBG
+      AADHAR          0   GSTIN 02ABAPR2410G1ZE
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+19/04/2023J J-CH              BY CH 000194 Q102              0.00     7154.00       -7154.00
+26/04/2023J J93281            TO WE                       7154.00        0.00           0.00
+14/07/2023S L172253           TO SALE                    55240.00        0.00       55240.00
+15/07/2023J J94435            BY ON LINE                     0.00    55240.00           0.00
+
+                         TOTAL                           62394.00    62394.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

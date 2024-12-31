@@ -1,0 +1,13 @@
+
+
+A/C SIR SHADI LAL ENTERPRISES LTD SHAMLI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ W043 UPPER DOAB SUGAR MILLS BUDHANA ROAD         PANAAECS3636D           0   GG
+      AADHAR          0   GSTIN 09AAECS3636D1ZG
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+17/03/2022P SS106497          BY PURCHASE                    0.00   365610.00     -365610.00
+17/03/2022P SS106496          BY PURCHASE                    0.00   182805.00     -548415.00
+25/03/2022J J88026            TO ON LINE                548415.00        0.00           0.00
+
+                         TOTAL                          548415.00   548415.00           0.00

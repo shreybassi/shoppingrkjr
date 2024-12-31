@@ -1,0 +1,24 @@
+
+
+A/C MEHTA ENTERPRISES NANKHARI     In M/S RAM KISHAN JIVA RAM Page No. 1
+ I841 VPO NANKHARI TEH NANKHARI                   PANAVAPM9388E  9418234673  cGG
+      AADHAR          0   GSTIN 02AVAPM9388E1ZJ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+30/05/2023S S444046           TO SALE                     6995.19        0.00        6995.19
+31/05/2023S S444097           TO SALE                     8604.60        0.00       15599.79
+01/06/2023C C                 RN40467                        0.00    15600.00          -0.21
+28/06/2023S S448014           TO SALE                     6800.19        0.00        6799.98
+29/06/2023C C                 RN43516                        0.00     6800.00          -0.02
+22/08/2023S S454522           TO SALE                     2872.73        0.00        2872.71
+25/08/2023C C                 RN46829                        0.00     2873.00          -0.29
+12/09/2023S S457303           TO SALE                     9034.80        0.00        9034.51
+14/09/2023C C                 RN47570                        0.00     9035.00          -0.49
+01/11/2023S S464047           TO SALE                     2411.10        0.00        2410.61
+02/11/2023C C                 RN52662                        0.00     2411.00          -0.39
+
+                         TOTAL                           36718.61    36719.00          -0.39
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

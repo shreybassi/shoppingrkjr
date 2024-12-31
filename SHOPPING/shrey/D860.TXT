@@ -1,0 +1,19 @@
+
+
+A/C NEEL KAMAL SANGLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ D860 VPO SANGLA TEH SANGLA                       PAN            9805899932  SDG
+      AADHAR 447563330860 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+09/10/2023S L178343           TO SALE                    18740.60        0.00       18740.60
+09/10/2023S L178344           TO SALE                    17127.32        0.00       35867.92
+09/10/2023S L178361           TO SALE                      465.36        0.00       36333.28
+27/10/2023C C                 RN52528                        0.00    36335.00          -1.72
+02/11/2023S L180002           TO SALE                     7317.60        0.00        7315.88
+06/11/2023J J-CH              BY CH 390588 Q101              0.00     7317.00          -1.12
+
+                         TOTAL                           43650.88    43652.00          -1.12
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

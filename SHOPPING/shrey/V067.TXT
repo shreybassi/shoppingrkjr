@@ -1,0 +1,12 @@
+
+
+A/C NETPLUS BROADBAND SERVICES P LUDHIANA     In M/S RAM KISHAN JIVA RAM Page No. 1
+ V067 LUDHIANA                                    PANAAECN6980B           0   GG
+      AADHAR          0   GSTIN 03AAECN6980B1ZO
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/04/2023C C50613            TO CASH                     1179.00        0.00        1179.00
+21/04/2023E NPPR00000002401011BILL R055EXP745                0.00     1179.00           0.00
+
+                         TOTAL                            1179.00     1179.00           0.00

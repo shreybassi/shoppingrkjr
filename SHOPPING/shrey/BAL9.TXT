@@ -1,0 +1,67 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ A579 CASH ON DELIVERY PICKUP 1 TO 3                     0.00
+ K910 DHEERAJ GENERAL STORE          BARAGAON        15294.95
+ I532 LAIQ RAM AND BROS              BARAGAON           -0.11
+ K909 MAGNI RAM                      BARAGAON         1717.53        4.60        4.60
+ I201 KAPIL GEN STORE                BARAGON          4010.23
+ I266 ANSHUL GENERAL STORE           BHARARA          9935.90
+ I264 KULDEEP GENERAL STORE          BHARARA             0.00
+ K890 PRASHAR DAILY NEED             BHARARA          7802.29
+ I312 RAJIV BROTHER                  BHARARA             0.04        0.04        0.04       0.04        0.04
+ I024 SALOCHNA GEN STORE             BHARARA         40885.19
+ I265 SHARMA ENTERPRISES             BHARARA           -26.08
+ I310 SWASTIK TRADERS                BHARARA             0.00 0P
+ I501 THAKUR SADAN                   BHARARA        124513.03    35622.05
+ K831 VERMA GENERAL STORE            BHARARA           -10.65
+ I320 DUA GENERAL STORE              JOKSHA K SAI     3471.99
+ I118 KAPOOR GENERAL STORE           KANNA            4141.95
+ I214 AGGARWAL DAILY NEEDS           KINGAL           3404.50
+ I260 BHARAT LAL                     KINGAL          16445.39
+ I216 BHOLA BHAI                     KINGAL              0.00
+ I514 BHUPENDER SHARMA KINGAL        KINGAL          11150.21
+ I377 DINESH DAILY NEED              KINGAL           3296.29
+ I219 RADHE LALL                     KINGAL           6019.05
+ I261 SATYAM GENERAL STORE           KINGAL           9749.61     9749.61     9749.61    9749.61     9749.61
+ I259 SHARMA DHABA                   KINGAL           1652.48
+ I154 SHARMA GENERAL STORE           KINGAL          84026.05
+ I220 SK GEN STORE                   KINGAL              0.22        0.22        0.22       0.22
+ I225 WALIYA FANCY STORE             KINGAL           6329.46
+ K826 B R G ENTERPRISES              KUMARSAIN        3414.98      413.32
+ K892 DASH MESH DHABA                KUMARSAIN        1491.44
+ I319 DUA GENERAL STORE              KUMARSAIN        7372.05
+ I379 DURGA SWEET SHOP               KUMARSAIN        5496.17
+ I050 GAUTAM FANCY STORE             KUMARSAIN          -0.02
+ K948 ISHANT GENERAL STORE           KUMARSAIN           0.30        0.30
+ K895 JAGANATH                       KUMARSAIN       16223.30
+ K926 JAI PRAKASH                    KUMARSAIN        6204.14      949.74
+ I123 JOGINDER GENERAL STORE         KUMARSAIN       17481.24
+ I236 KARAM CHAND VINOD KUMAR        KUMARSAIN           3.36        3.36        3.36       3.36
+ K899 KC AND SONS                    KUMARSAIN        6911.67
+ K898 LAXMI SWEET SHOP               KUMARSAIN        5686.85
+ K897 MARIGANK WOOLAN                KUMARSAIN           0.97        0.97        0.97       0.97
+ I378 MUKESH GENERAL STORE           KUMARSAIN           0.00
+ K906 NAND LAL JUGANUMOD             KUMARSAIN        1887.46
+ I354 NISHA GENERAL STORE            KUMARSAIN       11704.13
+ K901 OM PRAKASH                     KUMARSAIN       18070.76
+ K896 PARMOD GENERAL STORE           KUMARSAIN        2322.35
+ I353 PINKU GENERAL STORE            KUMARSAIN       11454.31
+ I262 PRITAM GENERAL STORE           KUMARSAIN       60136.97
+ I161 RAJEEV BROTHER                 KUMARSAIN           0.00
+ K894 RAJU                           KUMARSAIN       33396.16
+ K817 SANDEEP KUMAR                  KUMARSAIN       21537.33
+ I608 SANJEEV GENERAL STORE          KUMARSAIN      117712.78    27571.76      713.25
+ K900 SATISH GENERAL STORE           KUMARSAIN        1676.28
+ I380 SHERE PUNJAB CHINES            KUMARSAIN          -0.45
+ I246 SHRAVYA GENERAL STORE          KUMARSAIN        5624.26
+ I209 SHYAM LAL AND SONS             KUMARSAIN        7249.24
+ K902 SOHAN LAL                      KUMARSAIN       13544.22
+ K907 SUBHASH GENERAL STORE          KUMARSAIN       14771.89
+ K893 SURESH KUMAR                   KUMARSAIN        9016.55
+ K829 TULSI RAM                      KUMARSAIN        -127.88
+ K905 KAUSHIKI GENERAL STORE         LATHI            8818.00
+ K904 MONIKA GENERAL STORE           LATHI               0.16        0.16        0.16       0.16        0.16
+ K908 MEERA GENERAL STORE            LATHI K SAIN     8716.91
+ A189 DOGRA GENERAL STORE            BADARI             -0.24

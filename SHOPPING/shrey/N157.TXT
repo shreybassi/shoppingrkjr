@@ -1,0 +1,21 @@
+
+
+A/C RAJ KUMAR AND SONS KHANERI      In M/S RAM KISHAN JIVA RAM Page No. 1
+ N157 NH5                                         PANCATPK6721K  8894160068  EGG
+      AADHAR          0   GSTIN 02CATPK6721K1ZF
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      55529.34
+11/05/2023J J93494            BY CH NO 239637                0.00    55530.00          -0.66
+14/06/2023S H398670           TO SALE                    18735.00        0.00       18734.34
+16/06/2023J J-CH              BY CH 239648 Q101              0.00    18735.00          -0.66
+17/06/2023S H398747           TO SALE                    29128.00        0.00       29127.34
+17/06/2023S R251766           TO SALE                     7624.36        0.00       36751.70
+22/06/2023S H398850           TO SALE                    29223.35        0.00       65975.05
+22/06/2023S R251803           TO SALE                     7652.84        0.00       73627.89
+22/06/2023J J-CH              BY CH 239649 Q101              0.00    36752.00       36875.89
+
+                         TOTAL                          147892.89   111017.00       36875.89
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,22 @@
+
+
+A/C MANSA TYRE WORLD NOGLI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ O102 VPO NOGLI NH 5                              PANCXIPP8986P           0   0G
+      AADHAR          0   GSTIN 02CXIPP8986P1ZD
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+15/05/2023J J93538            TO ONLINE                  22600.00        0.00       22600.00
+15/05/2023E MT74              TO BILL NO R069EXP786          0.00    22600.02          -0.02
+07/07/2023J J94338            TO CH 298782               13650.00        0.00       13649.98
+07/07/2023J J94338            BY BILL                        0.00    13650.00          -0.02
+10/10/2023E MT151             BILL MANSA TYRE                0.00     4000.00       -4000.02
+11/10/2023J J95676            TO ONLINE                   4000.00        0.00          -0.02
+30/10/2023J J95967            TO ON LINE                 25500.00        0.00       25499.98
+30/10/2023E MT436             BILL TYRE                      0.00    25500.02          -0.04
+22/11/2023J J96390            BY BILL                        0.00    25200.00      -25200.04
+
+                         TOTAL                           65750.00    90950.04      -25200.04
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

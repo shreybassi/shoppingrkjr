@@ -1,0 +1,26 @@
+
+
+A/C HOTEL DEYZDR KAZA         In M/S RAM KISHAN JIVA RAM Page No. 1
+ G121 VPO KAZA TEH KAZA                           PAN            9418402660  Z7G
+      AADHAR 680235045782 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+31/05/2023S S444226           TO SALE                     3494.40        0.00        3494.40
+01/06/2023S S444301           TO SALE                    64564.74        0.00       68059.14
+06/06/2023S L169577           TO SALE                      168.24        0.00       68227.38
+07/06/2023C C1                RN41504                        0.00    30000.00       38227.38
+07/06/2023C C1                RN41505                        0.00    30000.00        8227.38
+07/06/2023C C1                RN41506                        0.00     8060.00         167.38
+22/08/2023S S454435           TO SALE                    41371.74        0.00       41539.12
+28/08/2023C C1                RN46066                        0.00     1785.00       39754.12
+28/08/2023J J-CH              BY CH 353233 Q101              0.00    39591.00         163.12
+01/09/2023S S455877           TO SALE                    18304.50        0.00       18467.62
+09/09/2023J J-CH              BY CH 353235 Q101              0.00    18468.00          -0.38
+02/10/2023S S459965           TO SALE                    29987.98        0.00       29987.60
+05/10/2023J J95579            BY ON LINE                     0.00    29988.00          -0.40
+
+                         TOTAL                          157891.60   157892.00          -0.40
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,25 @@
+
+
+A/C HANS PAN CORNER RAMPUR BR.   In M/S RAM KISHAN JIVA RAM Page No. 1
+ M090 VILL.   PO RAMPUR BUSHAHR                   PAN            9882140513  LCG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+27/04/2023S C627453           TO SALE                     6681.87        0.00        6681.87
+29/05/2023J J-CH              BY CH 000105 Q109              0.00    10000.00       -3318.13
+01/06/2023S B545630           TO SALE                      961.74        0.00       -2356.39
+01/06/2023S C628217           TO SALE                     1458.29        0.00        -898.10
+23/06/2023S B546614           TO SALE                     5374.19        0.00        4476.09
+09/08/2023S B548384           TO SALE                      801.93        0.00        5278.02
+09/08/2023S B548402           TO SALE                     8410.24        0.00       13688.26
+09/08/2023J J-CH              BY CH 000106 Q109              0.00    10000.00        3688.26
+31/08/2023S B549340           TO SALE                     3506.23        0.00        7194.49
+12/09/2023J J-CH              BY CH 000107 Q109              0.00    10000.00       -2805.51
+26/09/2023S B550499           TO SALE                     3618.87        0.00         813.36
+24/11/2023S C631640           TO SALE                    11800.05        0.00       12613.41
+
+                         TOTAL                           42613.41    30000.00       12613.41
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

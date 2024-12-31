@@ -1,0 +1,12 @@
+
+
+A/C AAA ENTERPRISES PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U107 NH 22 VILL DATYAR PO PARWANOO               PANABUFA9272B           0   0G
+      AADHAR          0   GSTIN 02ABUFA9272B1ZG
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+13/08/2022P AEGEN-283         BY PURCHASE                    0.00    85640.00      -85640.00
+15/09/2022J J90365            TO CH 9918                 85640.00        0.00           0.00
+
+                         TOTAL                           85640.00    85640.00           0.00

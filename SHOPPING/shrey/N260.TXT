@@ -1,0 +1,23 @@
+
+
+A/C SUNAKSHI TRADER JAGATKHANA   In M/S RAM KISHAN JIVA RAM Page No. 1
+ N260 VILL BARNEI PO SHARVI TEH NIRMAND           PAN            7876445036  E0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+16/09/2023S B550126           TO SALE                    14970.30        0.00       14970.30
+27/09/2023C C1                RN48899                        0.00     2500.00       12470.30
+28/09/2023C C1                RN49432                        0.00     2500.00        9970.30
+29/09/2023C C1                RN49790                        0.00     1800.00        8170.30
+30/09/2023C C                 RN49299                        0.00     2500.00        5670.30
+02/10/2023C C1                RN49981 SUNAKSHI               0.00     3500.00        2170.30
+03/10/2023S B550844           TO SALE                     7060.44        0.00        9230.74
+03/10/2023S C630474           TO SALE                     3510.64        0.00       12741.38
+03/10/2023S G288487           TO SALE                     2436.36        0.00       15177.74
+03/10/2023C C                 RN48999                        0.00     2170.00       13007.74
+
+                         TOTAL                           27977.74    14970.00       13007.74
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

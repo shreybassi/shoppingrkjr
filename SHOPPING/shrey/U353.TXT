@@ -1,0 +1,14 @@
+
+
+A/C RUDRA ROADLINES KALA AMB     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U353 TRILOKPUR ROAD KALA AMB                     PAN                     0   GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+31/05/2023G E9896AA           BY FRT 11041                   0.00     9800.00       -9800.00
+10/06/2023G E9942AA           BY FRT 11062                   0.00     5960.00      -15760.00
+30/09/2023C C52417            TO CASH                     9800.00        0.00       -5960.00
+02/10/2023C C52427            TO CASH                     5960.00        0.00           0.00
+
+                         TOTAL                           15760.00    15760.00           0.00

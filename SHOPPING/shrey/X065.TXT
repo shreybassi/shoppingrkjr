@@ -1,0 +1,19 @@
+
+
+A/C SHREE ONAM MARKITING AMBALA CITY  In M/S RAM KISHAN JIVA RAM Page No. 1
+ X065 HOUSE NO 1095-B KARTAR NAGAR MODEL TOWN     PANAMPPK5389K           0   GG
+      AADHAR          0   GSTIN 06AMPPK5389K2Z9
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/04/2023P SO003/2023-24     BY PURCHASE                    0.00    67562.00      -67562.00
+29/04/2023J J93321            TO CH 010576               67562.00        0.00           0.00
+13/06/2023P SO085/2023-24     BY PURCHASE                    0.00    71017.00      -71017.00
+30/06/2023J J94223            TO CH 010248               71017.00        0.00           0.00
+09/08/2023P SO121/2023-24     BY PURCHASE                    0.00    28837.00      -28837.00
+29/09/2023J J95485            TO CH 010431               28837.00        0.00           0.00
+06/10/2023P SO173/2023-24     BY PURCHASE                    0.00    59544.00      -59544.00
+19/10/2023P SO199/2023-24     BY PURCHASE                    0.00    15012.00      -74556.00
+22/11/2023J J96395            TO CH 10747                74556.00        0.00           0.00
+
+                         TOTAL                          241972.00   241972.00           0.00

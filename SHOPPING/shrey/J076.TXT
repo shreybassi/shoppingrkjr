@@ -1,0 +1,20 @@
+
+
+A/C NAVEEN KUMAR AWERA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ J076 VILL AWERA PO JADOLI TEH NIRMAND            PANAOSPD1191D  9876581554  N1G
+      AADHAR 804042563583 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+28/04/2022S C616538           TO SALE                    17233.29        0.00       17233.29
+28/04/2022S C616540           TO SALE                     3120.27        0.00       20353.56
+28/04/2022S G279474           TO SALE                     3554.86        0.00       23908.42
+29/04/2022S L139743           TO SALE                     1224.00        0.00       25132.42
+29/04/2022S L139744           TO SALE                    19641.02        0.00       44773.44
+29/04/2022J J-CH              BY CH 704623 Q101              0.00    45000.00        -226.56
+07/05/2022J J88781            TO TRANS                     226.56        0.00           0.00
+
+                         TOTAL                           45000.00    45000.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

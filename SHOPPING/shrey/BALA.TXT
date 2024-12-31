@@ -1,0 +1,31 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ A189 DOGRA GENERAL STORE            BADARI             -0.24
+ A125 AR GENERAL STORE               JEORI           22904.04    22904.04    22904.04       0.11
+ A101 DOGRA GENERAL STORE            JEORI           47263.54    47263.54
+ A022 HOTEL BUSHAHR RESTAURANT       JEORI           16809.63    16809.63    16809.63
+ A188 JAGDISH BARTAN BHANDAR         JEORI            4341.10
+ A137 KAPILA TRADERS                 JEORI           79853.77    62498.93    26719.27
+ A014 MOHAN LAL AND SONS             JEORI          162348.65    90056.48      280.26
+ A017 NAVEEN DHABHA                  JEORI           40107.15    11448.33
+ A077 RADHA GENERAL STORE NR PUMP    JEORI           49870.59    38140.70    29106.57     891.48
+ A015 RS CO                          JEORI              -0.13
+ A144 RVM ASSOCIATE                  JEORI           86074.57    52170.89    20123.03
+ A080 S D GENERAL STORE              JEORI           15405.68
+ A030 SENI PUNJABI SWEET SHOP        JEORI           62936.46    51830.56    30277.76
+ A163 SHANTA DEVI                    JEORI          192236.25   137818.90   137818.90  137818.90
+ A035 SHARMA DAILY NEEDS             JEORI           55299.88    42412.72
+ A124 SHERPA CHOWMIN DHABA           JEORI           31281.86    17080.61        0.32
+ C802 SIKKIM DHABA                   JEORI           33830.92    21640.50    12249.77
+ A023 SOHAN BROTHERS                 JEORI          107451.65    94825.99    70252.50    4012.52
+ A073 SOHAN SINGH JEORI              JEORI           45102.36    45827.18    30191.24
+ A154 SOOD INDUSTRIES                JEORI               0.00
+ A037 TOLTA DAILY NEEDS              JEORI           45495.17    51206.41
+ A020 TOLTA GENERAL STORE            JEORI           21576.99
+ A011 VERMA BROTHER                  KOTLA          360287.66   360287.66   360287.66    7073.43
+ A038 VERMA SOHAN LAL                KOTLA          104392.06    91377.76
+ A086 ANIL KHANA                     RATTANPUR       14982.92    14982.92     1082.99
+ A146 HR GENERAL STORE               TYAVAL          19772.69    19772.69     7147.45    7147.45
+ A580 CASH ON DELIVERY SM A5                         68603.98

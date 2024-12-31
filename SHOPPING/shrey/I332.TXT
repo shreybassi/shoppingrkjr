@@ -1,0 +1,34 @@
+
+
+A/C PIYUSH RESIDENCY NARKANDA     In M/S RAM KISHAN JIVA RAM Page No. 1
+ I332 VPO NARKANDA TEH KUMARSAIN                  PANAATPM4130G  9805528800  B1G
+      AADHAR          0   GSTIN 02AATPM4130G3ZV
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F         52.93
+05/04/2023S S436760           TO SALE                    20958.11        0.00       21011.04
+06/04/2023S S436823           TO SALE                    64117.36        0.00       85128.40
+20/05/2023J J93617            BY ON LINE                     0.00    50000.00       35128.40
+24/05/2023S S443358           TO SALE                    20451.26        0.00       55579.66
+25/05/2023S S443386           TO SALE                    41932.96        0.00       97512.62
+30/05/2023J J93760            BY ON LINE                     0.00    50000.00       47512.62
+14/06/2023S S446161           TO SALE                    14625.46        0.00       62138.08
+15/06/2023S S446238           TO SALE                    32196.75        0.00       94334.83
+15/06/2023J J94013            BY ON LINE                     0.00    47513.00       46821.83
+05/07/2023S S448983           TO SALE                    10465.07        0.00       57286.90
+06/07/2023S S449092           TO SALE                    38347.06        0.00       95633.96
+07/07/2023J J94341            BY ON LINE                     0.00    50000.00       45633.96
+18/08/2023J J94889            BY ON LINE                     0.00    45973.00        -339.04
+06/09/2023S S456553           TO SALE                     5850.72        0.00        5511.68
+07/09/2023S S456645           TO SALE                    17751.19        0.00       23262.87
+04/10/2023S O107909           TO SALE                    -2142.43        0.00       21120.44
+11/10/2023J J95691            BY ONLINE                      0.00    21798.00        -677.56
+25/10/2023S S463292           TO SALE                    10756.60        0.00       10079.04
+26/10/2023S S463321           TO SALE                    79153.12        0.00       89232.16
+31/10/2023J J95997            BY ON LINE                     0.00    50000.00       39232.16
+17/11/2023J J96315            BY ON LINE                     0.00    39910.00        -677.84
+
+                         TOTAL                          354516.16   355194.00        -677.84
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

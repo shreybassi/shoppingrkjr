@@ -1,0 +1,25 @@
+
+
+A/C MATHU RAM KALEDA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I152 VILL KALEDA PO SURAD                        PAN            8988241761  EGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+26/10/2023S O108176           TO SALE                    -1417.50        0.00       -1417.50
+11/11/2023S L180834           TO SALE                      557.10        0.00        -860.40
+11/11/2023S L180835           TO SALE                     3696.34        0.00        2835.94
+11/11/2023S L180840           TO SALE                    38328.89        0.00       41164.83
+11/11/2023S L180841           TO SALE                    80528.94        0.00      121693.77
+15/11/2023S L181158           TO SALE                     1417.50        0.00      123111.27
+18/11/2023S L181494           TO SALE                    36063.55        0.00      159174.82
+18/11/2023C C                 RN53771                        0.00   119900.00       39274.82
+22/11/2023S C631558           TO SALE                      693.00        0.00       39967.82
+22/11/2023C C                 RN53396                        0.00    30000.00        9967.82
+23/11/2023S L181875           TO SALE                    25761.00        0.00       35728.82
+23/11/2023S L181876           TO SALE                    54958.39        0.00       90687.21
+
+                         TOTAL                          240587.21   149900.00       90687.21
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,19 @@
+
+
+A/C RAVINDER KUMAR SANGLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ D852 VPO SANGLA                                  PAN            9805899932  S0G
+      AADHAR 376661397040 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+16/08/2023S L174481           TO SALE                     2846.07        0.00        2846.07
+21/08/2023C C1                RN46463                        0.00     2850.00          -3.93
+09/10/2023S L178341           TO SALE                     9159.07        0.00        9155.14
+09/10/2023S L178342           TO SALE                    13032.24        0.00       22187.38
+09/10/2023S L178360           TO SALE                     3433.00        0.00       25620.38
+13/10/2023C C                 RN50531                        0.00    25625.00          -4.62
+
+                         TOTAL                           28470.38    28475.00          -4.62
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

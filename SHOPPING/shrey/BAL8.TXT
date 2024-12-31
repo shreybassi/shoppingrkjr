@@ -1,0 +1,28 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ K146 ANITA SHARMA                   BAYAL               0.09
+ K938 HS BAYAL                       BAYAL           -1511.51
+ K137 NEGI DAILY NEEDS               BAYAL             -52.56
+ K023 PADAM RAM                      BAYAL            3993.67
+ K815 SHARMA DAILY NEED              BAYAL           22048.50
+ K046 SUSHMA DEVI                    BAYAL           22430.81     1242.32
+ K884 *PAWAN DAILY NEED CORNER       DUTTNAGAR          -0.78
+ I351 NAMAN DAILY NEED               DUTTNAGAR       73268.38
+ N212 NIKUNJ GROCERIES               DUTTNAGAR       -6998.92
+ K937 NIKUNJ GROSERIES               DUTTNAGAR       92036.48    10560.23
+ I343 P K ENTERPRISES                DUTTNAGAR        5864.20     5864.20
+ N125 PAWAN DAILY NEED               DUTTNAGAR       11931.41    11931.41    11931.41   11931.41
+ N259 PAWAN DAILY NEEDS              DUTTNAGAR      293200.11   119180.40
+ I411 SATISH GENERAL STORE           DUTTNAGAR       21509.83
+ I186 SHARMA DAILY NEEDS             DUTTNAGAR           5.68
+ I213 SHOPPERS MART                  DUTTNAGAR           0.00 0P
+ I834 SJVNL RHEP EMPL COOP STORE     DUTTNAGAR       48521.88
+ I164 VINOD KUMAR SHARMA             DUTTNAGAR       42155.34
+ K814 CHANDER MOHAN                  KOYAL              -1.41
+ K127 SAI DAILY NEED                 KOYAL           15719.32
+ K940 SANTOSH KUMAR                  KOYAL           21273.69
+ K939 TARA SINGH KAITH               KOYAL              -0.18
+ A582 CASH ON DELIVERY SM BAYAL/LALS RAMPUR           5584.67
+ A579 CASH ON DELIVERY PICKUP 1 TO 3                     0.00

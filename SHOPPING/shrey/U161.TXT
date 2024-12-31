@@ -1,0 +1,14 @@
+
+
+A/C RAJ DARSHAN SONS PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U161 GODOWN NO 6,7 OPP HOTEL SHIVALIK SEC 2      PANAABFR5835R  9872700063   0G
+      AADHAR          0   GSTIN 02AABFR5835R1ZU
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+15/11/2022J J91138            TO CH 009986               39247.00        0.00       39247.00
+22/11/2022P RD001067          BY PURCHASE                    0.00    39247.00           0.00
+10/01/2023J J91871            TO CH 010308               20124.00        0.00       20124.00
+16/01/2023P RD001342          BY PURCHASE                    0.00    20124.00           0.00
+
+                         TOTAL                           59371.00    59371.00           0.00

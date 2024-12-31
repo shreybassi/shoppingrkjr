@@ -1,0 +1,12 @@
+
+
+A/C SHUBHAM TRADING CO PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U167 PLOT NO 10 INDS AREA SEC 1 PARWANOO         PANACEPK9697B           0   0G
+      AADHAR          0   GSTIN 02ACEPK9697B1ZM
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+13/02/2023P STSTC7332         BY PURCHASE                    0.00    39000.00      -39000.00
+23/02/2023J J92366            TO CH 283437               39000.00        0.00           0.00
+
+                         TOTAL                           39000.00    39000.00           0.00

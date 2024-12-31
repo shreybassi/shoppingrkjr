@@ -1,0 +1,26 @@
+
+
+A/C PREM BHAWNA REKONG PEO   In M/S RAM KISHAN JIVA RAM Page No. 1
+ D179 VPO KOTHI TEH KALPA                         PAN            9817311113  K0G
+      AADHAR 876695674135 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/07/2023S S450882           TO SALE                     9887.77        0.00        9887.77
+22/07/2023S S450890           TO SALE                    70812.71        0.00       80700.48
+08/08/2023J J-CH              BY CH 651224 Q103              0.00    80699.00           1.48
+23/08/2023S S454648           TO SALE                    12065.82        0.00       12067.30
+23/08/2023S S454652           TO SALE                    23752.46        0.00       35819.76
+31/08/2023S S455724           TO SALE                     6640.36        0.00       42460.12
+31/08/2023S S455730           TO SALE                     2502.52        0.00       44962.64
+05/09/2023J J-CH              BY CH 651228 Q103              0.00    35818.00        9144.64
+06/09/2023S O107645           TO SALE                      -94.02        0.00        9050.62
+13/09/2023C C                 RN48162                        0.00     9050.00           0.62
+03/10/2023S S460128           TO SALE                    15026.95        0.00       15027.57
+04/10/2023S S460263           TO SALE                    40253.17        0.00       55280.74
+12/10/2023J J-CH              BY CH 651233 Q103              0.00    55279.00           1.74
+
+                         TOTAL                          180847.74   180846.00           1.74
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

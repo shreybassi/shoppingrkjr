@@ -1,0 +1,16 @@
+
+
+A/C HIM AGRO INDUSTRIES BADDI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ I299 PLOT NO 72 HPSIDC NEAR KAILASH VIHAR        PANAAHFH4794H  9882027000   0G
+      AADHAR          0   GSTIN 02AAHFH4794H1ZB
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+05/03/2022S A173220           TO SALE                   580020.00        0.00      580020.00
+05/03/2022S A173221           TO SALE                   580020.00        0.00     1160040.00
+07/03/2022J J87814            BY ON LINE                     0.00  1160040.00           0.00
+
+                         TOTAL                         1160040.00  1160040.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

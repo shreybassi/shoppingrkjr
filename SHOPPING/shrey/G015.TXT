@@ -1,0 +1,18 @@
+
+
+A/C POOH GENERAL STORE POOH         In M/S RAM KISHAN JIVA RAM Page No. 1
+ G015 VILL.  PO POOH                              PANAAVPN9862G  9418344459  PGG
+      AADHAR          0   GSTIN 02AAVPN9862G1Z5
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+09/05/2019S N172174           TO SALE                     2679.78        0.00        2679.78
+10/05/2019S O215682           TO SALE                      192.64        0.00        2872.42
+16/05/2019C C                 RN38059                        0.00     2872.00           0.42
+31/05/2019S N174044           TO SALE                    47590.04        0.00       47590.46
+04/06/2019J J-CH              BY CH 145162 Q106              0.00    47590.00           0.46
+
+                         TOTAL                           50462.46    50462.00           0.46
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET TIN STATEMENT

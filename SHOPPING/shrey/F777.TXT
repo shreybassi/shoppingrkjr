@@ -1,0 +1,17 @@
+
+
+A/C BUDHA SAIN G078 ROPA         In M/S RAM KISHAN JIVA RAM Page No. 1
+ F777                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+14/11/2022S L154671           TO SALE                    15644.00        0.00       15644.00
+14/11/2022S L154672           TO SALE                     6038.72        0.00       21682.72
+12/12/2022J J91494            BY CH TRF                      0.00    21683.00          -0.28
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       0.28        0.00           0.00
+
+                         TOTAL                           21683.00    21683.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

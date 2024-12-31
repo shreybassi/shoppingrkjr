@@ -1,0 +1,16 @@
+
+
+A/C PADAM DEV G013 LABRANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F770                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+13/11/2023S L180992           TO SALE                     1902.10        0.00        1902.10
+13/11/2023S L181008           TO SALE                    87809.32        0.00       89711.42
+23/11/2023J J-CH              BY CH 671270 Q106              0.00    89711.00           0.42
+
+                         TOTAL                           89711.42    89711.00           0.42
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

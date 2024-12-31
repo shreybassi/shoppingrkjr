@@ -1,0 +1,29 @@
+
+
+A/C NAVEEN BOOK DEPOT REKONG PEO   In M/S RAM KISHAN JIVA RAM Page No. 1
+ D146 VILL ROPRU TEH NIRMAND                      PANBIHPS6876G  9418109775  K7G
+      AADHAR          0   GSTIN 02BIHPS6876G1ZW
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        -106.77
+01/04/2023S S436288           TO SALE                    10263.64        0.00       10156.87
+08/04/2023S C627053           TO SALE                    10140.22        0.00       20297.09
+11/04/2023J J-CH              BY CH 487172 Q103              0.00    10263.00       10034.09
+19/04/2023J J-CH              BY CH 487181 Q103              0.00    10035.00          -0.91
+02/05/2023S S440333           TO SALE                    13440.00        0.00       13439.09
+02/05/2023S S440349           TO SALE                     3761.14        0.00       17200.23
+11/05/2023J J-CH              BY CH 487201 Q103              0.00    17201.00          -0.77
+06/06/2023S S444888           TO SALE                    11632.24        0.00       11631.47
+13/06/2023S M206227           TO SALE                   -11632.24        0.00          -0.77
+09/08/2023S P230979           TO SALE                     8305.04        0.00        8304.27
+22/08/2023J J-CH              BY CH 600726 Q103              0.00     8305.00          -0.73
+23/08/2023S S454647           TO SALE                     2722.40        0.00        2721.67
+02/09/2023J J-CH              BY CH 600717 Q103              0.00     2722.00          -0.33
+05/10/2023S S460498           TO SALE                    14937.95        0.00       14937.62
+25/10/2023J J95909            BY ONLINE                      0.00    14937.00           0.62
+14/11/2023S S465896           TO SALE                    13171.20        0.00       13171.82
+
+                         TOTAL                           76741.59    63569.77       13171.82
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

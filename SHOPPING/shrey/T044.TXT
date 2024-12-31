@@ -1,0 +1,24 @@
+
+
+A/C BHASIN TRADING CO. SHIMLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ T044 H.O 45LOWER BAZAR SHIMLA                    PANAAQFB9569H           0   GG
+      AADHAR          0   GSTIN 02AAQFB9569H1Z1
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      -15513.06
+04/04/2023P BT23-24/004       BY PURCHASE                    0.00   188570.00     -204083.06
+19/04/2023J J93205            TO ON LINE                200000.00        0.00       -4083.06
+06/05/2023P BT23-24/096       BY PURCHASE                    0.00   310190.00     -314273.06
+23/05/2023J J93652            TO ON LINE                250000.00        0.00      -64273.06
+12/06/2023P BT23-24/1524      BY PURCHASE                    0.00   188570.00     -252843.06
+23/06/2023J J94129            TO ON LINE                200000.00        0.00      -52843.06
+06/07/2023P BT23-24/1587      BY PURCHASE                    0.00   237218.00     -290061.06
+05/08/2023J J94719            TO ON LINE                290000.00        0.00         -61.06
+06/09/2023P BT23-24/3153      BY PURCHASE                    0.00   149784.00     -149845.06
+12/09/2023P BT23-24/3186      BY PURCHASE                    0.00    99856.00     -249701.06
+15/09/2023J J95296            TO ON LINE                240000.00        0.00       -9701.06
+13/10/2023P BT23-24/3763      BY PURCHASE                    0.00   191770.00     -201471.06
+30/10/2023P BT23-24/3799      BY PURCHASE                    0.00   216734.00     -418205.06
+01/11/2023J J96018            TO ON LINE                200000.00        0.00     -218205.06
+
+                         TOTAL                         1380000.00  1598205.06     -218205.06

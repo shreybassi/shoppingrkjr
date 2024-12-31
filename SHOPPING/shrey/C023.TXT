@@ -1,0 +1,23 @@
+
+
+A/C PREM SINGH SUNGRA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ C023 VILL.  PO SUNGRA                            PANAAYPN3866D  9816633626  HFG
+      AADHAR          0   GSTIN 02AAYPN3866D2ZF
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       6192.82
+15/04/2023C C                 RN 36486                       0.00      100.00        6092.82
+22/04/2023C C                 RN37189                        0.00      100.00        5992.82
+20/05/2023C C                 RN39233                        0.00      100.00        5892.82
+26/05/2023C C                 RN40091                        0.00      100.00        5792.82
+01/07/2023C C                 RN42784                        0.00      100.00        5692.82
+22/07/2023C C                 RN44353                        0.00      200.00        5492.82
+19/08/2023C C                 RN46901                        0.00      100.00        5392.82
+09/09/2023C C1                RN47876                        0.00      100.00        5292.82
+23/09/2023C C                 RN49405                        0.00       60.00        5232.82
+14/10/2023C C                 RN51383                        0.00       50.00        5182.82
+
+                         TOTAL                            6192.82     1010.00        5182.82
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

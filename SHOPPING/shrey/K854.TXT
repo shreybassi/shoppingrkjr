@@ -1,0 +1,29 @@
+
+
+A/C BHUSHAN HARDWARE CHOWAI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ K854 VPO CHOWAI TEH ANNI                         PANAJMPB7840A  9817035941  7GG
+      AADHAR          0   GSTIN 02AJMPB7840A1ZT
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+04/07/2023S S448892           TO SALE                     1932.14        0.00        1932.14
+04/07/2023S S448919           TO SALE                     4635.18        0.00        6567.32
+18/07/2023S S450391           TO SALE                     4937.90        0.00       11505.22
+19/07/2023S S450432           TO SALE                     3070.26        0.00       14575.48
+20/07/2023J J-CH              BY CH 000059 Q102              0.00     6567.00        8008.48
+25/07/2023S S451228           TO SALE                      398.26        0.00        8406.74
+25/07/2023J J94549            BY GOOGLE                      0.00     4937.00        3469.74
+26/07/2023S S451249           TO SALE                     3070.23        0.00        6539.97
+26/07/2023J J-CH              BY CH 000062 Q102              0.00     3070.00        3469.97
+01/08/2023J J94646            BY GOOGLE                      0.00     3470.00          -0.03
+08/08/2023S S452782           TO SALE                      323.68        0.00         323.65
+09/08/2023S S452855           TO SALE                     3950.28        0.00        4273.93
+28/08/2023J J95015            BY GOOGLE                      0.00     4274.00          -0.07
+05/09/2023S S456369           TO SALE                      504.38        0.00         504.31
+06/09/2023S S456437           TO SALE                     3116.74        0.00        3621.05
+14/09/2023C C                 RN48720                        0.00     3620.00           1.05
+
+                         TOTAL                           25939.05    25938.00           1.05
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

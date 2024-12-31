@@ -1,0 +1,13 @@
+
+
+A/C NEFF KITCHENS BARHANA      In M/S RAM KISHAN JIVA RAM Page No. 1
+ X132 VPO BARHANA TEH BERI                        PANAPCPB1864J           0   0G
+      AADHAR          0   GSTIN 06APCPB1864J1Z4
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/08/2023P NKNK/675/2023-24  BY PURCHASE                    0.00    18240.00      -18240.00
+11/10/2023J J95676            TO ONLINE                  18240.00        0.00           0.00
+20/10/2023P NKNK/1079/2023-24 BY PURCHASE                    0.00    10730.00      -10730.00
+
+                         TOTAL                           18240.00    28970.00      -10730.00

@@ -1,0 +1,57 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ A572 CASH ON DELIVERY SM 3P BROW JK                 17232.39
+ N253 RAJ BHOJNALAYA                 BHERO MANDIR     6909.46        2.46
+ N038 CHAMBHOO KARYANA STORE         BROW                0.31
+ N146 GAURAV GENERAL STORE           BROW            16114.83
+ N061 NEELAM GENERAL STORE           BROW             1506.30
+ N063 NIHAL SHARMA                   BROW             3497.50
+ N252 OM GENERAL STORE               BROW             1619.15
+ N237 PRAKASH GENERAL STORE FOR      BROW            11054.40
+ N249 RUCHI GENERAL STORE            BROW             4312.47
+ N066 SAI GENERAL STORE              BROW            43839.55
+ N245 SATYA PRAKASH                  BROW            14369.50
+ N255 SHIKSHA SHARMA                 BROW             8517.96
+ N073 SHIV SHAKATI                   BROW             1650.08     1650.08
+ N075 SONI GENERAL STORE             BROW            33932.87
+ B862 ANJANA DAILY NEED              CHATI               0.15        0.15        0.15       0.15        0.15
+ N074 ISHAN GENERAL STORE            CHATI           16424.43
+ N239 JOSHI GENERAL STORE            CHATI           15271.45
+ B826 MAIN RAM                       CHATI            6391.81
+ N256 PAWAN KUMAR                    CHATI             832.01
+ N148 PUSHPA GENERAL STORE           CHATI           22058.94
+ B830 RULDU RAM                      CHATI             960.96
+ N236 SURMA GENERAL STORE            CHATI           24497.94
+ N087 SUSHIL                         CHATI            2082.57
+ N178 H C S W -K- MART               CHATTI          31482.48
+ N058 JAI DURGA DAILY NEEDS          CHATTI          37175.38
+ N240 AGGARWAL MARKETING             DAKOLAR         23467.92
+ N089 ANIL GENERAL STORE             DAKOLAR             0.51
+ N251 LEKH RAJ                       DAKOLAR             1.78
+ N145 SWATI GENERAL STORE            DAKOLAR          2988.64
+ N206 ISHWAR DASS                    JAGATKHANA       1698.02
+ N109 JAI MANGLA                     JAGATKHANA      26779.31        0.26        0.26
+ B861 LEELAWATI                      JAGATKHANA        -60.53
+ N220 OM PRAKASH AND SONS            JAGATKHANA      17816.86
+ N160 PARAS RAM AND SONS             JAGATKHANA     118721.97    55360.99    55360.99   21360.99
+ N147 ROSHAN LAL                     JAGATKHANA      31572.82
+ N051 SHARMA GENERAL STORE           JAGATKHANA      70826.11
+ N113 SITA RAM                       JAGATKHANA       8205.05
+ N114 SUBHASH GENERAL STORE          JAGATKHANA      32423.28
+ N198 SUNDER GENERAL STORE           JAGATKHANA         -0.25
+ N116 THAKUR DAILY NEED              JAGATKHANA          2.10
+ N118 THAKUR DHABHA                  JAGATKHANA          1.81
+ N257 THAKUR GENERAL STORE           JAGATKHANA      35572.88    16914.88
+ N117 VERMA SWEET SHOP               JAGATKHANA        -77.99 0P
+ N100 VIVEK GENERAL STORE            JAGATKHANA        613.26
+ B810 KAITH GENERAL STORE            KHOPRI          18165.53
+ B813 WAVES GENERAL STORE            KHOPRI              0.24        0.24        0.24       0.24        0.24
+ M086 JAI AMBEY ENTERPRISES          RAMPUR           4695.56
+ N182 BHARAT BHUSHAN                 THACHWA         11614.83
+ N194 CHAUHAN ENTERPRISES            THACHWA          -652.12 0P
+ N121 SUNIL & BROTHER                THACHWA          2902.89
+ N247 ABHILASHA ENTERPRISES          UPPER BROW       6878.36
+ N246 DEV SHARMA                     UPPER BROW      21468.04
+ A573 CASH ON DELIVERY SM 3P JHAKRI                  10360.08

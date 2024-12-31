@@ -1,0 +1,20 @@
+
+
+A/C THAKUR ENTERPRISES JAGATKHANA   In M/S RAM KISHAN JIVA RAM Page No. 1
+ N142                                             PAN            9459000011  EGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       6975.44
+14/04/2023C C                 RN 37141                       0.00     5640.00        1335.44
+24/05/2023S N307199           TO SALE                     1080.24        0.00        2415.68
+24/05/2023S N307226           TO SALE                     5695.07        0.00        8110.75
+30/05/2023J J-CH              BY CH 000028 Q101              0.00     6775.00        1335.75
+21/07/2023J J-CH              BY CH 001872 Q101              0.00    18023.00      -16687.25
+26/07/2023J J94560            TO CH 001872               18023.00        0.00        1335.75
+31/07/2023C C1                RN44390                        0.00      500.00         835.75
+
+                         TOTAL                           31773.75    30938.00         835.75
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

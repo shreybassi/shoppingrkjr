@@ -1,0 +1,17 @@
+
+
+A/C NARSUKH G080 GIAWANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F824                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+25/10/2023S S463257           TO SALE                     1298.20        0.00        1298.20
+25/10/2023S S463276           TO SALE                    66032.90        0.00       67331.10
+01/11/2023J J96024            BY ON LINE                     0.00    67331.00           0.10
+13/11/2023S L181044           TO SALE                    38244.49        0.00       38244.59
+
+                         TOTAL                          105575.59    67331.00       38244.59
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

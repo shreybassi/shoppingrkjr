@@ -1,0 +1,63 @@
+
+
+A/C SATISH GENERAL STORE KUMARSAIN    In M/S RAM KISHAN JIVA RAM Page No. 1
+ K900 VPO KUMARSAIN TEH KUMARSAIN                 PAN            9857628591  91G
+      AADHAR 811384665616 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+08/04/2023S S437298           TO SALE                      621.12        0.00         621.12
+11/04/2023C A406S             BY CASH S437298 SATISH G       0.00      621.12           0.00
+15/04/2023S S438233           TO SALE                      690.60        0.00         690.60
+18/04/2023C A406S             BY CASH S438233 SATISH G       0.00      690.60           0.00
+29/04/2023S S440101           TO SALE                      460.96        0.00         460.96
+01/05/2023C A406S             BY CASH S440101 SATISH G       0.00      460.96           0.00
+06/05/2023S S440972           TO SALE                      666.94        0.00         666.94
+08/05/2023C A406S             BY CASH S440972 SATISH G       0.00      666.94           0.00
+20/05/2023S S442852           TO SALE                     3368.07        0.00        3368.07
+23/05/2023C A406S             BY CASH S442852 SATISH G       0.00     3368.07           0.00
+27/05/2023S S443793           TO SALE                     1088.11        0.00        1088.11
+29/05/2023C A406S             BY CASH S443793 SATISH G       0.00     1088.11           0.00
+17/06/2023S S446692           TO SALE                      826.14        0.00         826.14
+20/06/2023C A406S             BY CASH S446692 SATISH G       0.00      826.14           0.00
+24/06/2023S S447708           TO SALE                      851.64        0.00         851.64
+26/06/2023S S447723           TO SALE                      653.60        0.00        1505.24
+27/06/2023C A406S             BY CASH S447708 SATISH G       0.00      851.64         653.60
+27/06/2023C A406S             BY CASH S447723 SATISH G       0.00      653.60           0.00
+08/07/2023S S449525           TO SALE                      621.12        0.00         621.12
+11/07/2023C A406S             BY CASH S449525 SATISH G       0.00      621.12           0.00
+15/07/2023S S450133           TO SALE                      919.66        0.00         919.66
+15/07/2023S S450144           TO SALE                     1685.76        0.00        2605.42
+18/07/2023C A406S             BY CASH S450133 SATISH G       0.00      919.66        1685.76
+18/07/2023C A406S             BY CASH S450144 SATISH G       0.00     1685.76           0.00
+12/08/2023S S453428           TO SALE                      220.90        0.00         220.90
+14/08/2023S S453470           TO SALE                      653.60        0.00         874.50
+15/08/2023C A406S             BY CASH S453428 SATISH G       0.00      220.90         653.60
+15/08/2023C A406S             BY CASH S453470 SATISH G       0.00      653.60           0.00
+26/08/2023S S455156           TO SALE                      747.08        0.00         747.08
+28/08/2023C A406S             BY CASH S455156 SATISH G       0.00      747.08           0.00
+04/09/2023S S456120           TO SALE                     1274.72        0.00        1274.72
+05/09/2023C A406S             BY CASH S456120 SATISH G       0.00     1274.72           0.00
+09/09/2023S S457087           TO SALE                     1629.96        0.00        1629.96
+12/09/2023C A406S             BY CASH S457087 SATISH G       0.00     1629.96           0.00
+16/09/2023S S457932           TO SALE                     2294.66        0.00        2294.66
+19/09/2023C A406S             BY CASH S457932 SATISH G       0.00     2294.66           0.00
+07/10/2023S S460798           TO SALE                     1895.84        0.00        1895.84
+09/10/2023C A406S             BY CASH S460798 SATISH G       0.00     1895.84           0.00
+14/10/2023S S461883           TO SALE                     3649.10        0.00        3649.10
+17/10/2023C A406S             BY CASH S461883 SATISH G       0.00     3649.10           0.00
+28/10/2023S S463734           TO SALE                     1897.10        0.00        1897.10
+28/10/2023S S463772           TO SALE                      621.12        0.00        2518.22
+31/10/2023C A406S             BY CASH S463734 SATISH G       0.00     1897.10         621.12
+31/10/2023C A406S             BY CASH S463772 SATISH G       0.00      621.12           0.00
+04/11/2023S S464557           TO SALE                     2516.36        0.00        2516.36
+07/11/2023C C                 RN53330                        0.00     2516.00           0.36
+18/11/2023S S466554           TO SALE                      621.12        0.00         621.48
+20/11/2023C A406S             BY CASH S466554 SATISH G       0.00      621.12           0.36
+25/11/2023S S467437           TO SALE                     1115.80        0.00        1116.16
+25/11/2023S S467459           TO SALE                      560.12        0.00        1676.28
+
+                         TOTAL                           32151.20    30474.92        1676.28
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,22 @@
+
+
+A/C INDER PRAKASH NEGI GIAWANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ G146 VPO GIAWANG TEH POOH                        PANAFDPN6204P  9418387888  PBH
+      AADHAR          0   GSTIN 02AFDPN6204P2ZF
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+11/04/2022S A173262           TO SALE                   132600.84        0.00      132600.84
+19/04/2022J J-CH              BY CH 581709 Q106              0.00   132600.00           0.84
+14/05/2022J J88847            TO CH 581709              132600.00        0.00      132600.84
+17/05/2022J J88877            BY CH 335518                   0.00    55500.00       77100.84
+18/05/2022J J88888            BY CASH ON LINE                0.00    56000.00       21100.84
+19/05/2022J J88905            BY CH 481632                   0.00    21100.84           0.00
+13/09/2022S L149716           TO SALE                    59548.99        0.00       59548.99
+15/09/2022J J90371            BY CH 630643                   0.00    59548.00           0.99
+08/02/2023J MINBAL            BY MINOR BALANCE TRANSFE       0.00        0.99           0.00
+
+                         TOTAL                          324749.83   324749.83           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

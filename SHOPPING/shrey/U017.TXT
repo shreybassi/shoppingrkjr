@@ -1,0 +1,12 @@
+
+
+A/C KATOCH FLOUR MILLS BAYAL        In M/S RAM KISHAN JIVA RAM Page No. 1
+ U017 VILL BAYAL NEAR SUGE SHAFT ROAD PO KOYAL    PAN                     0   GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+23/03/2022P KF469             BY PURCHASE                    0.00    86000.00      -86000.00
+29/03/2022J J88089            TO ON LINE                 86000.00        0.00           0.00
+
+                         TOTAL                           86000.00    86000.00           0.00

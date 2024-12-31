@@ -1,0 +1,21 @@
+
+
+A/C GUPTA STORE ANNI         In M/S RAM KISHAN JIVA RAM Page No. 1
+ I092 VPO ANI PROP BHARAT BHUSHAN GUPTA           PANAARPG7340L  8988040538  7GG
+      AADHAR          0   GSTIN 02AARPG7340L1ZK
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+02/08/2023S O107192           TO SALE                     -416.96        0.00        -416.96
+03/08/2023S O107199           TO SALE                     -357.40        0.00        -774.36
+23/08/2023S L175024           TO SALE                      774.36        0.00           0.00
+20/09/2023S S458252           TO SALE                    29155.40        0.00       29155.40
+21/09/2023J J-CH              BY CH 562815 Q103              0.00    29155.00           0.40
+24/10/2023S S463124           TO SALE                     4091.90        0.00        4092.30
+26/10/2023S O108173           TO SALE                    -1800.30        0.00        2292.00
+26/10/2023C C                 RN52742                        0.00     2400.00        -108.00
+
+                         TOTAL                           31447.00    31555.00        -108.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

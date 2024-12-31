@@ -1,0 +1,26 @@
+
+
+A/C HANS RAJ KISHAN KUMAR MUZAFFARNAGA In M/S RAM KISHAN JIVA RAM Page No. 1
+ W075 95-B NEW MANDI MN                           PANAAGPW6469D           0   GG
+      AADHAR          0   GSTIN 09AAGPW6469D2Z5
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        -315.58
+07/04/2023J J93073            TO ON LINE                 13210.00        0.00       12894.42
+12/04/2023J J93127            TO ON LINE                 11040.00        0.00       23934.42
+05/05/2023P HR2               BY PURCHASE                    0.00    24250.00        -315.58
+23/05/2023J J93639            TO ON LINE                 10800.00        0.00       10484.42
+03/06/2023J J93851            TO ON LINE                  7975.00        0.00       18459.42
+09/06/2023P HR3               BY PURCHASE                    0.00    18772.43        -313.01
+17/06/2023P HR4               BY PURCHASE                    0.00     8100.23       -8413.24
+19/06/2023J J94068            TO ON LINE                  8100.00        0.00        -313.24
+30/06/2023P HR5               BY PURCHASE                    0.00     9100.00       -9413.24
+05/07/2023J J94305            TO ON LINE                  9100.00        0.00        -313.24
+07/09/2023J J95181            TO ON LINE                  9230.00        0.00        8916.76
+30/09/2023J J95512            TO ON LINE                 16024.00        0.00       24940.76
+12/10/2023P HR9               BY PURCHASE                    0.00    25256.70        -315.94
+23/10/2023J J95881            TO ON LINE                 19712.00        0.00       19396.06
+24/10/2023P HR11              BY PURCHASE                    0.00    10350.00        9046.06
+24/10/2023P HR12              BY PURCHASE                    0.00     9362.00        -315.94
+
+                         TOTAL                          105191.00   105506.94        -315.94

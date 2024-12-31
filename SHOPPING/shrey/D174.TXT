@@ -1,0 +1,22 @@
+
+
+A/C MR BROTHER FOR SANGLA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ D174 VPO SANGLA TEH SANGLA                       PAN            9805123426  SCG
+      AADHAR 268711726342 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+03/08/2023S S452270           TO SALE                    13776.34        0.00       13776.34
+18/08/2023J J94881            BY CH 000083                   0.00    13776.00           0.34
+30/08/2023S S455508           TO SALE                    25457.26        0.00       25457.60
+30/08/2023S S455524           TO SALE                    29135.84        0.00       54593.44
+16/09/2023J J95314            BY CH 87                       0.00    54590.00           3.44
+08/11/2023S S465132           TO SALE                    80480.92        0.00       80484.36
+08/11/2023S S465133           TO SALE                    31269.92        0.00      111754.28
+10/11/2023S S465421           TO SALE                    80913.34        0.00      192667.62
+10/11/2023S S465422           TO SALE                   122823.64        0.00      315491.26
+
+                         TOTAL                          383857.26    68366.00      315491.26
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,23 @@
+
+
+A/C MEHTA ORGANICS RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M049 VPO RAMPUR TEH RAMPUR                       PANCAHPM3575R  9418476290  L7G
+      AADHAR          0   GSTIN 02CAHPM3575R1Z5
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+28/04/2023S P230391           TO SALE                      491.54        0.00         491.54
+26/05/2023C C1                RN41016                        0.00      500.00          -8.46
+29/05/2023S P230565           TO SALE                      832.74        0.00         824.28
+13/06/2023C C2                RN42511                        0.00      500.00         324.28
+20/06/2023C C3                RN43209                        0.00      325.00          -0.72
+13/09/2023S P231198           TO SALE                     1018.38        0.00        1017.66
+18/09/2023C C1                RN49511                        0.00      500.00         517.66
+23/09/2023C C1                RN49235                        0.00      518.00          -0.34
+26/09/2023E MO1845            BILL MACHINE REPAIR            0.00     1121.00       -1121.34
+27/10/2023S P231465           TO SALE                     1029.44        0.00         -91.90
+
+                         TOTAL                            3372.10     3464.00         -91.90
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,18 @@
+
+
+A/C ANIL KUMAR 89882 46629 DHANUDHAR    In M/S RAM KISHAN JIVA RAM Page No. 1
+ K956                                             PAN            8988246629  W0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+03/11/2023S S464412           TO SALE                     2543.68        0.00        2543.68
+04/11/2023S S464507           TO SALE                     2186.58        0.00        4730.26
+06/11/2023C C1                RN53276                        0.00     4730.00           0.26
+24/11/2023S S467293           TO SALE                     4196.01        0.00        4196.27
+25/11/2023S S467354           TO SALE                      545.16        0.00        4741.43
+
+                         TOTAL                            9471.43     4730.00        4741.43
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

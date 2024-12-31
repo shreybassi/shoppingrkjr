@@ -1,0 +1,17 @@
+
+
+A/C PUNIT TRADING CO MANDI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ I032 MANDI                                       PANABHPG0638E  9418010249  O7G
+      AADHAR          0   GSTIN 02ABHPG0638E1ZC
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+29/07/2023S B547979           TO SALE                    24000.48        0.00       24000.48
+02/08/2023J J94468            BY ON LINE                     0.00    24000.48           0.00
+11/11/2023S L180845           TO SALE                   150578.00        0.00      150578.00
+15/11/2023J J96285            BY ON LINE                     0.00   150578.00           0.00
+
+                         TOTAL                          174578.48   174578.48           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,22 @@
+
+
+A/C VIJAY GENERAL STORE NAKO         In M/S RAM KISHAN JIVA RAM Page No. 1
+ G020 VPO NAKO TEH CHANGO                         PAN            8344000005  Z0G
+      AADHAR 217346544610 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+16/08/2022S S409039           TO SALE                   149376.88        0.00      149376.88
+16/08/2022S S409060           TO SALE                     1499.50        0.00      150876.38
+22/08/2022C C                 RN19425                        0.00     1500.00      149376.38
+22/08/2022C C                 RN19426                        0.00    30000.00      119376.38
+22/08/2022C C                 RN19427                        0.00    30000.00       89376.38
+22/08/2022C C                 RN19428                        0.00    30000.00       59376.38
+22/08/2022C C                 RN19429                        0.00      377.00       58999.38
+21/09/2022J J90433            BY ON LINE                     0.00    59000.00          -0.62
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       0.62        0.00           0.00
+
+                         TOTAL                          150877.00   150877.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

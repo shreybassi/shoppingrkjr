@@ -1,0 +1,29 @@
+
+
+A/C JAI SINGH TAKLECH      In M/S RAM KISHAN JIVA RAM Page No. 1
+ K950 VILL TAKLECH PO TAKLECH TEH RAMPUR          PAN            8219595519  T7G
+      AADHAR 251597620121 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F        982.94
+01/04/2023C C                 RN36357                        0.00     1000.00         -17.06
+03/04/2023S S436497           TO SALE                     9299.17        0.00        9282.11
+04/04/2023S S436568           TO SALE                    81125.63        0.00       90407.74
+25/04/2023C C1                RN37457                        0.00    90424.00         -16.26
+05/06/2023S S444792           TO SALE                    14203.85        0.00       14187.59
+06/06/2023S S444861           TO SALE                    13320.69        0.00       27508.28
+22/06/2023J J-CH              BY CH 000604 Q109              0.00    27524.00         -15.72
+21/08/2023S S454346           TO SALE                    11385.24        0.00       11369.52
+22/08/2023S S454405           TO SALE                    75933.94        0.00       87303.46
+09/09/2023C C1                RN47970                        0.00    20000.00       67303.46
+09/09/2023C C1                RN47971                        0.00    15000.00       52303.46
+13/09/2023J J95252            BY ON LINE                     0.00    45000.00        7303.46
+16/09/2023C C1                RN49120                        0.00     7305.00          -1.54
+23/10/2023S S462978           TO SALE                     4737.43        0.00        4735.89
+24/10/2023S S463050           TO SALE                   103308.37        0.00      108044.26
+14/11/2023J J-CH              BY CH 000550 Q109              0.00   108045.00          -0.74
+
+                         TOTAL                          314297.26   314298.00          -0.74
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

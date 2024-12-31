@@ -1,0 +1,14 @@
+
+
+A/C DEVENDRA TRADING CO VIKASNAGAR   In M/S RAM KISHAN JIVA RAM Page No. 1
+ W069 NEAR DHOBI GHAT VIKASNAGAR                  PANAABFD2364D           0   0G
+      AADHAR          0   GSTIN 05AABFD2364D1Z1
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+24/07/2023P DTUK/BD/23-24/25  BY PURCHASE                    0.00   716463.00     -716463.00
+01/08/2023J J94652            TO ON LINE                716463.00        0.00           0.00
+05/10/2023P DTUK/BD/23-24/36  BY PURCHASE                    0.00   496090.00     -496090.00
+09/11/2023J J96170            TO ON LINE                496090.00        0.00           0.00
+
+                         TOTAL                         1212553.00  1212553.00           0.00

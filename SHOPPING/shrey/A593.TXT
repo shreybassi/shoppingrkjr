@@ -1,0 +1,17 @@
+
+
+A/C SALE AGAINST CH DRAFT 3 PICKUP              In M/S RAM KISHAN JIVA RAM Page No. 1
+ A593                                             PAN                     0  1FI
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+28/12/2022S S425495           TO SALE ANAND VIDHYA 862    7335.10        0.00        7335.10
+04/01/2023J J91793            BY TRANS S425495               0.00     7335.10           0.00
+06/01/2023J J91827            BY GOOGLE ANAND                0.00     7335.00       -7335.00
+09/01/2023J J91857            TO WE                       7335.00        0.00           0.00
+
+                         TOTAL                           14670.10    14670.10           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

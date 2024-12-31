@@ -1,0 +1,20 @@
+
+
+A/C SHEESH DHWAJ MOORANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F814                                             PAN                     0  PGG
+      AADHAR 222073422922 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+08/08/2023S S452815           TO SALE                    20352.04        0.00       20352.04
+08/08/2023S S452830           TO SALE                    36705.07        0.00       57057.11
+15/08/2023J J94847            BY CH 247903                   0.00    57058.00          -0.89
+06/09/2023J J95171            BY CH 247910                   0.00    60000.00      -60000.89
+07/09/2023S S456664           TO SALE                    74904.22        0.00       14903.33
+07/09/2023S S456687           TO SALE                    19558.34        0.00       34461.67
+21/09/2023J J95373            BY CH 247915                   0.00    34462.00          -0.33
+
+                         TOTAL                          151519.67   151520.00          -0.33
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

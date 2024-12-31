@@ -1,0 +1,25 @@
+
+
+A/C C G C ENTERPRISES POOH         In M/S RAM KISHAN JIVA RAM Page No. 1
+ G133 VPO POOH TEH POOH                           PAN            9459131297  PGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+25/04/2023S S439453           TO SALE                    23401.22        0.00       23401.22
+25/04/2023S S439469           TO SALE                     4087.33        0.00       27488.55
+02/05/2023J J-CH              BY CH 047189 Q103              0.00    27489.00          -0.45
+17/05/2023S L168062           TO SALE                     3036.26        0.00        3035.81
+17/05/2023S L168067           TO SALE                    16108.84        0.00       19144.65
+17/05/2023S L168070           TO SALE                      937.00        0.00       20081.65
+23/05/2023S S443180           TO SALE                     7516.30        0.00       27597.95
+25/05/2023J J-CH              BY CH 047190 Q103              0.00    20082.00        7515.95
+30/05/2023J J-CH              BY CH 047191 Q103              0.00     7520.00          -4.05
+19/06/2023S S446888           TO SALE                    11799.66        0.00       11795.61
+19/06/2023S S446932           TO SALE                     3551.44        0.00       15347.05
+27/06/2023J J-CH              BY CH 047193 Q103              0.00    15350.00          -2.95
+
+                         TOTAL                           70438.05    70441.00          -2.95
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

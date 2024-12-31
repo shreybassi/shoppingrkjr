@@ -1,0 +1,29 @@
+
+
+A/C LACHOO RAM SONS JHAKRI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ A005 VILL.  PO. JHAKRI                           PANCTNPS2193C  9418075244  J0G
+      AADHAR 427422497875 GSTIN 02CTNPS2193C1ZP
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      24732.50
+15/05/2023J J93541            BY CH NO 50447                 0.00     6732.00       18000.50
+22/06/2023J J-CH              BY CH 296101 Q101              0.00     6000.00       12000.50
+28/06/2023J J-CH              BY CH 296102 Q101              0.00     6000.00        6000.50
+30/06/2023J J-CH              BY CH 296103 Q101              0.00     6000.00           0.50
+11/10/2023S N325051           TO SALE                     7516.62        0.00        7517.12
+11/10/2023S N325071           TO SALE                     2617.46        0.00       10134.58
+23/10/2023S L179336           TO SALE                     5409.37        0.00       15543.95
+23/10/2023S L179337           TO SALE                   112190.00        0.00      127733.95
+23/10/2023J J95879            BY ON LINE                     0.00    50000.00       77733.95
+24/10/2023S M206699           TO SALE                    -7516.62        0.00       70217.33
+27/10/2023J J-CH              BY CH 329973 Q101              0.00    34000.00       36217.33
+31/10/2023J J-CH              BY CH 329975 Q101              0.00    33456.00        2761.33
+08/11/2023J J96152            BY TRANS                       0.00     1267.46        1493.87
+09/11/2023J J96162            BY TRANS                       0.00     1472.00          21.87
+18/11/2023S R252650           TO SALE                     1384.32        0.00        1406.19
+20/11/2023J J96346            BY ON LINE                     0.00     1384.00          22.19
+
+                         TOTAL                          146333.65   146311.46          22.19
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

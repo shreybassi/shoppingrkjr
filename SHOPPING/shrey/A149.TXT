@@ -1,0 +1,25 @@
+
+
+A/C BALA FACILITY SERVICES P LTD JHAKRI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ A149 A/339 DURGA VIHAR 1ST FLOOR  NEW DELHI      PANAAFCB4307F  8580752228  F1G
+      AADHAR          0   GSTIN 07AAFCB4307F1Z2
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+12/04/2023S H397445           TO SALE                    33510.00        0.00       33510.00
+12/04/2023S R251311           TO SALE                     4520.68        0.00       38030.68
+12/04/2023J J93122            BY ON LINE                     0.00    33510.00        4520.68
+12/04/2023J J93122            BY ON LINE                     0.00     4520.00           0.68
+24/05/2023S H398333           TO SALE                    35765.00        0.00       35765.68
+24/05/2023S R251602           TO SALE                     5679.64        0.00       41445.32
+25/05/2023S T100062           TO SALE                    15686.02        0.00       57131.34
+25/05/2023J J93670            BY ON LINE                     0.00    35765.00       21366.34
+25/05/2023J J93670            BY ON LINE                     0.00     5679.00       15687.34
+26/05/2023S T100064           TO SALE                      613.37        0.00       16300.71
+26/05/2023J J93700            BY ON LINE                     0.00    15686.00         614.71
+30/05/2023J J93750            BY GOOGLE                      0.00      613.00           1.71
+
+                         TOTAL                           95774.71    95773.00           1.71
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

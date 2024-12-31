@@ -1,0 +1,20 @@
+
+
+A/C ROSHAN LAL ROPA         In M/S RAM KISHAN JIVA RAM Page No. 1
+ F817                                             PAN                     0  PGG
+      AADHAR 251282386084 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+27/05/2023S A173634           TO SALE                   193614.40        0.00      193614.40
+27/05/2023S A173635           TO SALE                    66080.00        0.00      259694.40
+27/05/2023S A173636           TO SALE                    87615.00        0.00      347309.40
+27/05/2023S A173637           TO SALE                   180422.00        0.00      527731.40
+27/05/2023S A173638           TO SALE                   148703.60        0.00      676435.00
+02/06/2023J J93833            BY CH 752387                   0.00   676435.00           0.00
+24/06/2023S A173665           TO SALE                     6560.80        0.00        6560.80
+
+                         TOTAL                          682995.80   676435.00        6560.80
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

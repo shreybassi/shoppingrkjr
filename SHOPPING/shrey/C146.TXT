@@ -1,0 +1,29 @@
+
+
+A/C RAHUL HOTEL BADHAL       In M/S RAM KISHAN JIVA RAM Page No. 1
+ C146 VPO BADHAL TEH RAMPUR                       PANGSKPR4543F  9816476229  HBH
+      AADHAR 620397218339 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+07/10/2023S L178226           TO SALE                    30843.50        0.00       30843.50
+07/10/2023S L178227           TO SALE                    72359.90        0.00      103203.40
+07/10/2023S L178240           TO SALE                    19889.75        0.00      123093.15
+14/10/2023C C                 RN51385                        0.00    50000.00       73093.15
+14/10/2023C C                 RN51386                        0.00    50000.00       23093.15
+14/10/2023C C                 RN51387                        0.00    16567.00        6526.15
+20/10/2023S L179261           TO SALE                    15868.48        0.00       22394.63
+20/10/2023S L179262           TO SALE                    70842.40        0.00       93237.03
+20/10/2023S L179269           TO SALE                     6120.00        0.00       99357.03
+01/11/2023J J96013            BY TRANS                       0.00     6526.00       92831.03
+04/11/2023C C                 RN53124                        0.00    50000.00       42831.03
+04/11/2023C C                 RN53125                        0.00    42831.00           0.03
+18/11/2023S L181446           TO SALE                    10475.28        0.00       10475.31
+18/11/2023S L181476           TO SALE                     5829.90        0.00       16305.21
+18/11/2023S L181477           TO SALE                    25513.34        0.00       41818.55
+20/11/2023C C53072            TO FRT                       410.00        0.00       42228.55
+
+                         TOTAL                          258152.55   215924.00       42228.55
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

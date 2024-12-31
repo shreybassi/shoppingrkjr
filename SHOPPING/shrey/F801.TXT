@@ -1,0 +1,21 @@
+
+
+A/C DELAK GIACHOO 98059 49745 KARLA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F801                                             PAN                     0  PGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+19/04/2023S L166082           TO SALE                    16353.40        0.00       16353.40
+19/04/2023S L166083           TO SALE                    22059.56        0.00       38412.96
+03/06/2023J J93841            BY GOOGLE                      0.00    36412.00        2000.96
+21/06/2023J J94102            BY ON LINE                     0.00     2000.00           0.96
+26/06/2023S L171165           TO SALE                     1988.70        0.00        1989.66
+25/10/2023S S463271           TO SALE                    14963.93        0.00       16953.59
+07/11/2023J J96125            BY ON LINE                     0.00    16000.00         953.59
+11/11/2023S S465586           TO SALE                    45796.15        0.00       46749.74
+
+                         TOTAL                          101161.74    54412.00       46749.74
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

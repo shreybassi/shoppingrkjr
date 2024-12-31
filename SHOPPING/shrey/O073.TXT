@@ -1,0 +1,18 @@
+
+
+A/C HIRA LALL MASHNOO MASHNU       In M/S RAM KISHAN JIVA RAM Page No. 1
+ O073                                             PAN            9816642718  6GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/04/2023S H397637           TO SALE                    17359.19        0.00       17359.19
+24/04/2023J J-CH              BY CH 697440 Q106              0.00    17359.00           0.19
+13/11/2023S N329102           TO SALE                      301.04        0.00         301.23
+13/11/2023S N329166           TO SALE                    18918.28        0.00       19219.51
+15/11/2023J J-CH              BY CH 010362 Q106              0.00    19219.00           0.51
+
+                         TOTAL                           36578.51    36578.00           0.51
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

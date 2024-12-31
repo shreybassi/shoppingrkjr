@@ -1,0 +1,25 @@
+
+
+A/C JISTU DAILY NEED ANURAKSHI DEOTHI       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I544 VPO DEOTHI                                  PAN            8219122270  U1G
+      AADHAR 577916580248 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+13/05/2023S S441965           TO SALE                     8223.28        0.00        8223.28
+15/05/2023S S441992           TO SALE                    25478.57        0.00       33701.85
+16/05/2023C C1                RN38966                        0.00    30000.00        3701.85
+17/05/2023J J93565            BY GOOGLE                      0.00     3701.00           0.85
+30/09/2023S S459828           TO SALE                     7303.50        0.00        7304.35
+02/10/2023S S459940           TO SALE                    36322.51        0.00       43626.86
+02/10/2023J J95524            BY GOOGLE                      0.00     1600.00       42026.86
+03/10/2023C C                 RN48992                        0.00    42026.00           0.86
+18/11/2023S S466502           TO SALE                     8413.35        0.00        8414.21
+20/11/2023S S466592           TO SALE                    23924.37        0.00       32338.58
+20/11/2023J J96353            BY GOOGLE                      0.00     3338.00       29000.58
+21/11/2023C C                 RN50890                        0.00    29000.00           0.58
+
+                         TOTAL                          109665.58   109665.00           0.58
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

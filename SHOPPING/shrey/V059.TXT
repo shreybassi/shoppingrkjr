@@ -1,0 +1,16 @@
+
+
+A/C HARBIR AUTOMOBILE PVT LTD CHANDIGARH   In M/S RAM KISHAN JIVA RAM Page No. 1
+ V059 PLOT NO 41INDS AREA PHASE 2 CHANDIGARH      PANAADCH5371F           0   GG
+      AADHAR          0   GSTIN 04AADCH5371F2ZT
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+03/06/2023J J93846            TO ON LINE                 11234.00        0.00       11234.00
+05/06/2023J J93858            BY BILL                        0.00    11234.00           0.00
+07/08/2023J J94739            TO ON LINE                 23316.00        0.00       23316.00
+09/08/2023J J94775            BY BILL                        0.00    23316.00           0.00
+22/11/2023J J96390            BY BILL                        0.00    39332.00      -39332.00
+22/11/2023J J96401            TO ON LINE                 39332.32        0.00           0.32
+
+                         TOTAL                           73882.32    73882.00           0.32

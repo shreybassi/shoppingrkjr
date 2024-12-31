@@ -1,0 +1,16 @@
+
+
+A/C RAKESH KUMAR CHURAG       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I303 VPO CHURAG DIST MANDI                       PAN                     0   0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+19/03/2022P LPA7353           BY PURCHASE                    0.00    70003.64      -70003.64
+21/03/2022J J87950            TO CH 234470               70000.00        0.00          -3.64
+26/03/2022J MINBAL            TO MINOR BALANCE TRANSFE       3.64        0.00           0.00
+
+                         TOTAL                           70003.64    70003.64           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

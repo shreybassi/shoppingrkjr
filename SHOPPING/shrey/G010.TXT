@@ -1,0 +1,31 @@
+
+
+A/C HPTDC HOTEL THE SPITI KAZA         In M/S RAM KISHAN JIVA RAM Page No. 1
+ G010 VPO KAZA                                    PANAAACH4038E  9418501430  ZCI
+      AADHAR          0   GSTIN 02AAACH4038E2Z8
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       -1350.02
+06/04/2023S S436897           TO SALE                    42756.08        0.00       41406.06
+10/04/2023S S437422           TO SALE                    67682.64        0.00      109088.70
+10/04/2023S S437431           TO SALE                    33633.56        0.00      142722.26
+13/04/2023S C627130           TO SALE                      310.32        0.00      143032.58
+22/04/2023S M206110           TO SALE                    -1368.30        0.00      141664.28
+22/06/2023J J94110            BY CH 001078                   0.00     2215.90      139448.38
+24/06/2023J J94143            BY ON LINE                     0.00    62476.00       76972.38
+26/06/2023J J94172            BY ONLI NE                     0.00    76972.00           0.38
+05/07/2023S C628863           TO SALE                     1385.04        0.00        1385.42
+05/07/2023S G287329           TO SALE                     2177.36        0.00        3562.78
+10/07/2023S S449672           TO SALE                     3024.00        0.00        6586.78
+17/07/2023S S450207           TO SALE                    20816.16        0.00       27402.94
+24/07/2023S E191636           TO SALE                    10420.58        0.00       37823.52
+25/07/2023S S451187           TO SALE                    13559.00        0.00       51382.52
+01/08/2023S S451924           TO SALE                     3489.46        0.00       54871.98
+14/08/2023S A173762           TO SALE                     4704.90        0.00       59576.88
+14/08/2023S S453568           TO SALE                     4223.38        0.00       63800.26
+22/11/2023J J96395            BY CH 001138                   0.00     7366.96       56433.30
+
+                         TOTAL                          206814.18   150380.88       56433.30
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

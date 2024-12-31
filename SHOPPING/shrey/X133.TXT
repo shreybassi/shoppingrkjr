@@ -1,0 +1,28 @@
+
+
+A/C MAHESHWARI  RICE AND GEN MILLS DHAND        In M/S RAM KISHAN JIVA RAM Page No. 1
+ X133 KARNAL ROAD NEAR PANCHMUKHI CHOWK           PANAYTPS5368L           0   0G
+      AADHAR          0   GSTIN 06AYTPS5368L1ZD
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+17/08/2023P MR177             BY PURCHASE                    0.00   541788.00     -541788.00
+18/08/2023P MR178             BY PURCHASE                    0.00   540891.00    -1082679.00
+21/08/2023J J94922            TO ON LINE               2219990.00        0.00     1137311.00
+22/08/2023P MR186             BY PURCHASE                    0.00  1194720.00      -57409.00
+25/08/2023P MR189             BY PURCHASE                    0.00  1123584.00    -1180993.00
+25/08/2023J J94987            TO ON LINE               1096707.00        0.00      -84286.00
+19/09/2023P MR224             BY PURCHASE                    0.00  1135680.00    -1219966.00
+23/09/2023J J95397            TO ON LINE               2220349.00        0.00     1000383.00
+26/09/2023P MR230             BY PURCHASE                    0.00  1139775.00     -139392.00
+27/09/2023P MR233             BY PURCHASE                    0.00  1148445.00    -1287837.00
+02/10/2023J J95527            TO ON LINE               2195279.00        0.00      907442.00
+03/10/2023P MR238             BY PURCHASE                    0.00  1102939.00     -195497.00
+07/10/2023J J95617            TO TDS 94Q SEP              1825.00        0.00     -193672.00
+07/11/2023P MR252             BY PURCHASE                    0.00   818871.00    -1012543.00
+07/11/2023J J96121            TO TDS 94Q OCT              1103.00        0.00    -1011440.00
+07/11/2023J J96130            TO ON LINE                798464.00        0.00     -212976.00
+18/11/2023P MR262             BY PURCHASE                    0.00   824803.00    -1037779.00
+24/11/2023P MR271             BY PURCHASE                    0.00   825790.00    -1863569.00
+
+                         TOTAL                         8533717.00 10397286.00    -1863569.00

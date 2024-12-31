@@ -1,0 +1,20 @@
+
+
+A/C MD ENTERPRISES UNA          In M/S RAM KISHAN JIVA RAM Page No. 1
+ U178 VPO POLIAN PROHTIAN TEH AMB                 PANAIGPS5135C           0   GP
+      AADHAR          0   GSTIN 02AIGPS5135C1ZO
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+08/04/2023P MD1259            BY PURCHASE                    0.00    94656.00      -94656.00
+10/04/2023J J93087            TO CH 449815               94656.00        0.00           0.00
+24/05/2023P MD1319            BY PURCHASE                    0.00   106952.00     -106952.00
+24/05/2023J J93662            TO CH 010208              106952.00        0.00           0.00
+04/07/2023P MD1366            BY PURCHASE                    0.00    69600.00      -69600.00
+04/07/2023J J94286            TO CH 010803               69600.00        0.00           0.00
+01/09/2023P MD1421            BY PURCHASE                    0.00   119248.00     -119248.00
+05/09/2023J J95137            TO CH 010850              117000.00        0.00       -2248.00
+17/10/2023P MD1483            BY PURCHASE                    0.00   105792.00     -108040.00
+17/10/2023J J95778            TO CH 10710               105792.00        0.00       -2248.00
+
+                         TOTAL                          494000.00   496248.00       -2248.00

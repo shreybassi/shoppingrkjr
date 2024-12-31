@@ -1,0 +1,24 @@
+
+
+A/C ADANI WILMAR LIMITED RAJPURA      In M/S RAM KISHAN JIVA RAM Page No. 1
+ V032 SAIDAKHERI BHOGLAN ROAD NEAR  DAV SCHOOL    PANAABCA8056G           0   GG
+      AADHAR          0   GSTIN 03AABCA8056G1ZZ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+07/04/2023P AW190323000442    BY PURCHASE                    0.00   311950.00     -311950.00
+11/04/2023J J93103            TO ON LINE                311950.00        0.00           0.00
+17/04/2023P AW190323001266    BY PURCHASE                    0.00   310563.00     -310563.00
+19/04/2023J J93205            TO ON LINE                310563.00        0.00           0.00
+25/04/2023P AW190323002166    BY PURCHASE                    0.00   297847.00     -297847.00
+01/05/2023J J93331            TO ON LINE                297847.00        0.00           0.00
+24/05/2023P AW190323005266    BY PURCHASE                    0.00   293422.00     -293422.00
+31/05/2023J J93790            TO ON LINE                293422.00        0.00           0.00
+28/07/2023P AW190323012511    BY PURCHASE                    0.00   302224.00     -302224.00
+31/07/2023J J94619            TO ON LINE                302224.00        0.00           0.00
+04/09/2023P AW190323016306    BY PURCHASE                    0.00   310861.00     -310861.00
+07/09/2023J J95182            TO ON LINE                310861.00        0.00           0.00
+17/10/2023P AW190323021149    BY PURCHASE                    0.00   302247.00     -302247.00
+24/10/2023J J95888            TO ONLINE                 302247.00        0.00           0.00
+
+                         TOTAL                         2129114.00  2129114.00           0.00

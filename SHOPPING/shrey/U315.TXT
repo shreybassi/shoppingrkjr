@@ -1,0 +1,15 @@
+
+
+A/C AMBAY GENERAL STORE PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U315 SEC 19 BACK SIDE SEC 1 PARWANOO             PANABAPG5325K           0   0G
+      AADHAR          0   GSTIN 02ABAPG5325K1Z4
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+24/01/2023P AG1369/22-23      BY PURCHASE                    0.00    57150.00      -57150.00
+24/01/2023P AG1367/22-23      BY PURCHASE                    0.00    28580.00      -85730.00
+24/01/2023P AG1368/22-23      BY PURCHASE                    0.00    28570.00     -114300.00
+28/01/2023P AG1383/22-23      BY PURCHASE                    0.00    22860.00     -137160.00
+22/02/2023J J92359            TO CH 9888                137160.00        0.00           0.00
+
+                         TOTAL                          137160.00   137160.00           0.00

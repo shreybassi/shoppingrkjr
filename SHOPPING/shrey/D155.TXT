@@ -1,0 +1,19 @@
+
+
+A/C KINNER CAMPS BATSERI      In M/S RAM KISHAN JIVA RAM Page No. 1
+ D155 VPO BATSERI TEH SANGLA                      PANBAXPN2698K  8219488304  S3G
+      AADHAR          0   GSTIN 02BAXPN2698K1ZX
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      15160.00
+18/04/2023C C                 RN36670                        0.00    15160.00           0.00
+11/05/2023S S441541           TO SALE                    21091.32        0.00       21091.32
+30/05/2023J J93765            BY GOOGLE                      0.00    21091.00           0.32
+22/06/2023S L170911           TO SALE                     8214.51        0.00        8214.83
+30/06/2023C C51420            TO FRT                        40.00        0.00        8254.83
+06/07/2023J J94315            BY GOOGLE                      0.00     8255.00          -0.17
+
+                         TOTAL                           44505.83    44506.00          -0.17
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

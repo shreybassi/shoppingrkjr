@@ -1,0 +1,44 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ K913 BALWANT KUMAR                  KHANOTU             0.09        0.09        0.09       0.09
+ K803 PREM KUMAR                     KHANOTU            43.36       43.36       43.36      43.36
+ O094 ARCHIT DAILY NEED              NOGLI               0.86
+ O015 DEV MEHTA                      NOGLI             148.83      148.83      148.83
+ O045 LAXMI DATT AND SONS            SUNI              461.84
+ K916 ANIL KUMAR                     TAKLECH            -0.22
+ O133 ANKIT GENERAL STORE            TAKLECH          2611.71
+ K914 BHUSHAN KAITH                  TAKLECH          -607.40
+ K801 DES RAJ                        TAKLECH          7738.14
+ O006 HARI GENERAL STORE             TAKLECH         17656.92        0.26
+ O080 HARI SINGH KESHWAR SINGH       TAKLECH         24872.05    24872.05    24872.05   24872.05
+ K925 HEM RAJ HOTEL                  TAKLECH          3997.91
+ K950 JAI SINGH                      TAKLECH            -0.74
+ O096 JYOTI SHARMA                   TAKLECH            -2.42
+ O134 K ENTERPRISES                  TAKLECH             0.00
+ O116 KAILASH GENERAL STORE          TAKLECH          9198.50
+ O008 KAITH GENARAL STORE            TAKLECH         86497.57
+ O038 KANSHI RAM SALIG RAM           TAKLECH         93795.03    83668.29    85240.85
+ O058 LEKH RAJ HARDWARE AND ELEC STO TAKLECH             0.00
+ O154 MUKSEH SHARMA                  TAKLECH             6.07        6.07        6.07
+ O092 PADMA GENERAL STORE            TAKLECH            -0.38
+ K802 PARDEEP GENERAL STORE          TAKLECH         11368.17    11368.17    11368.17
+ K946 RAM KUMAR                      TAKLECH           999.64
+ O122 RATTAN AND SONS                TAKLECH         10067.27    10067.27
+ K804 RONI GENERAL STORE             TAKLECH            -1.98
+ K922 SANI MEDICAL STORE             TAKLECH             0.40
+ O093 SANJEEV DHABA                  TAKLECH             1.39
+ K918 SANTOSH RAI                    TAKLECH             0.62
+ O031 SARAN DASS AND SONS            TAKLECH         51105.55        0.59        0.59       0.59      379.55
+ O036 SHARMA ENTERPRISES             TAKLECH            -0.13
+ O095 SHIV RAJ                       TAKLECH          1278.82
+ O113 SHRI HANS TRADERS              TAKLECH         15994.77
+ O062 SHUBHAM KARYANA STORE          TAKLECH         15394.51     2828.63
+ O131 SUNIL KAITH                    TAKLECH         96359.65    96359.65
+ O018 SUNIL SHARMA                   TAKLECH        283598.60   124449.22
+ O091 THAKUR DHABA                   TAKLECH          3807.53
+ K917 VERMA DAILY NEED               TAKLECH           -49.80
+ O079 VINOD GENERAL STORE            TAKLECH             0.00
+ K822 SHARMA SWEET SHOP              TECKLECH           -5.28
+ I839 HIRA SINGH                     BARKHAL         24930.83      246.49     1178.89

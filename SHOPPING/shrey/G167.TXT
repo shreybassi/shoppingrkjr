@@ -1,0 +1,20 @@
+
+
+A/C DAWA DORJEY POOH         In M/S RAM KISHAN JIVA RAM Page No. 1
+ G167 VPO POOH TEH POOH                           PAN            8894617514  P0G
+      AADHAR 315878235299 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+29/04/2023S A173609           TO SALE                   124800.00        0.00      124800.00
+01/05/2023J J93330            BY ON LINE                     0.00    90000.00       34800.00
+01/05/2023J J93330            BY ON LINE                     0.00    34800.00           0.00
+14/06/2023S A173657           TO SALE                   132000.00        0.00      132000.00
+15/06/2023J J94014            BY CH 845465                   0.00   132000.00           0.00
+08/07/2023S A173680           TO SALE                    79200.00        0.00       79200.00
+10/07/2023J J94370            BY ON LINE                     0.00    79200.00           0.00
+
+                         TOTAL                          336000.00   336000.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

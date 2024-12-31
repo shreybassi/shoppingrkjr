@@ -1,0 +1,11 @@
+
+
+A/C LOCONAV IDIA PVT LTD DELHI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ Y029                                             PANAAECL2245B           0   0G
+      AADHAR          0   GSTIN 07AAECL2245B1Z0
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+14/08/2023E LIPLD3368         BILL R066EXP071                0.00     1800.00       -1800.00
+
+                         TOTAL                               0.00     1800.00       -1800.00

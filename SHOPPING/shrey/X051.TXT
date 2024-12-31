@@ -1,0 +1,23 @@
+
+
+A/C MALHOTRA MARKITING PVT LTD AMBALA CITY  In M/S RAM KISHAN JIVA RAM Page No. 1
+ X051 GODOWN NO 120-121 SENA NAGAR BEHIND KIFI    PANAABCM7790B           0   GG
+      AADHAR          0   GSTIN 06AABCM7790B1ZK
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       1213.28
+24/04/2023J J93256            TO CH 010569               19000.00        0.00       20213.28
+24/04/2023J J93256            TO CH 010570                7300.00        0.00       27513.28
+04/05/2023P MMAMB/23-24/0110  BY PURCHASE                    0.00     7640.74       19872.54
+04/05/2023P MMAMB/23-24/0111  BY PURCHASE                    0.00    13667.47        6205.07
+30/05/2023P MMAMB/23-24/0289  BY PURCHASE                    0.00     5870.74         334.33
+03/06/2023J J93839            TO CH 010221               21900.00        0.00       22234.33
+03/06/2023J J93839            TO CH 010222               12700.00        0.00       34934.33
+09/06/2023P MMAMB/23-24/0369  BY PURCHASE                    0.00    12710.76       22223.57
+09/06/2023P MMAMB/23-24/0370  BY PURCHASE                    0.00    21741.08         482.49
+12/10/2023J J95699            TO CH 010702               19500.00        0.00       19982.49
+12/10/2023J J95699            TO CH 010703                5400.00        0.00       25382.49
+26/10/2023P MMAMB/23-24/1077  BY PURCHASE                    0.00    18958.38        6424.11
+26/10/2023P MMAMB/23-24/1078  BY PURCHASE                    0.00     5231.12        1192.99
+
+                         TOTAL                           87013.28    85820.29        1192.99

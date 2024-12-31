@@ -1,0 +1,20 @@
+
+
+A/C LAYAK RAM G072 KANAM        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F983                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+01/12/2022S L156377           TO SALE                      456.76        0.00         456.76
+01/12/2022S L156397           TO SALE                    18603.37        0.00       19060.13
+01/12/2022S L156398           TO SALE                    12561.32        0.00       31621.45
+03/12/2022S O104617           TO SALE                    -2295.44        0.00       29326.01
+27/12/2022J J91689            BY ON LINE                     0.00    31620.00       -2293.99
+29/12/2022S B538878           TO SALE                     2655.28        0.00         361.29
+04/01/2023C C                 RN29861                        0.00      361.29           0.00
+
+                         TOTAL                           31981.29    31981.29           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

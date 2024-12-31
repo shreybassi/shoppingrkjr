@@ -1,0 +1,33 @@
+
+
+A/C HOTEL HIMALAYAN HERITAGE RESTO BADHAL       In M/S RAM KISHAN JIVA RAM Page No. 1
+ C119 VILL BADHAL PO JEORI TEH RAMPUR             PANAYYPS3951Q  7018234063  21H
+      AADHAR          0   GSTIN 02AYYPS3951Q2ZC
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       1993.96
+19/05/2023S L168363           TO SALE                    23961.90        0.00       25955.86
+19/05/2023S L168364           TO SALE                    53325.49        0.00       79281.35
+19/05/2023S L168383           TO SALE                     1093.20        0.00       80374.55
+19/05/2023S L168389           TO SALE                    40052.11        0.00      120426.66
+26/05/2023S O106402           TO SALE                    -3600.42        0.00      116826.24
+09/06/2023J J93923            BY ON LINE                     0.00    60000.00       56826.24
+10/06/2023J J93940            BY ON LINE                     0.00    56827.00          -0.76
+23/06/2023S L171058           TO SALE                    13671.20        0.00       13670.44
+23/06/2023S L171059           TO SALE                    11954.12        0.00       25624.56
+28/06/2023S O106785           TO SALE                    -8496.00        0.00       17128.56
+07/07/2023S L171968           TO SALE                     5947.90        0.00       23076.46
+07/07/2023S L172024           TO SALE                     3228.00        0.00       26304.46
+07/07/2023S L172025           TO SALE                    16760.25        0.00       43064.71
+11/07/2023S O106970           TO SALE                    -8349.60        0.00       34715.11
+07/08/2023J J94749            BY ON LINE                     0.00    34415.00         300.11
+07/08/2023J J94749            BY ON LINE                     0.00      300.00           0.11
+26/10/2023S H401021           TO SALE                    16154.62        0.00       16154.73
+26/10/2023S H401022           TO SALE                    19853.50        0.00       36008.23
+26/10/2023S R252537           TO SALE                    18571.22        0.00       54579.45
+15/11/2023S H401482           TO SALE                    19541.25        0.00       74120.70
+
+                         TOTAL                          225662.70   151542.00       74120.70
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

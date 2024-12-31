@@ -1,0 +1,17 @@
+
+
+A/C SOODSONS ENTERPRISES PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U277 PLOT NO 54 SEC 1 PARWANOO                   PANANMPS7536G           0   GG
+      AADHAR          0   GSTIN 02ANMPS7536G1ZR
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       -1310.00
+07/04/2023J J93073            TO CH 10271                 1310.00        0.00           0.00
+17/04/2023E SS587             BILL R064EXP730                0.00     5635.00       -5635.00
+27/04/2023J J93299            TO CH 10284                 5635.00        0.00           0.00
+24/06/2023E SE606             BILL 6064EXP885                0.00     5635.00       -5635.00
+03/07/2023J J94273            TO CH 10486                 5635.00        0.00           0.00
+18/09/2023E SE628             BILL R064EXP048                0.00     5635.00       -5635.00
+22/09/2023J J95380            TO CH 10792                 5635.00        0.00           0.00
+
+                         TOTAL                           18215.00    18215.00           0.00

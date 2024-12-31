@@ -1,0 +1,32 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ I839 HIRA SINGH                     BARKHAL         24930.83      246.49     1178.89
+ I836 YASH GENERAL STORE             BARKHAL          1492.37
+ I349 SHARAIL GENERAL STORE          CHIKSA           -450.72
+ I544 JISTU DAILY NEED ANURAKSHI     DEOTHI              0.58
+ O088 KAITH GENERAL STORE            DEOTHI           7974.48
+ I361 SHARMA BR DAILY NEEDS          DEOTHI           2316.40
+ I363 SUSHIL RAWEL TEA STALL         DEOTHI          10120.14
+ I803 VERMA GENERAL STORE            DHIVRI           7158.23
+ I840 RANBIR SINGH                   JOGNI           20051.10     4999.71     4999.71
+ O119 KAITH GENERAL STORE            KAMSARI          3620.01
+ I382 ASHTU DAILY NEED               KUHAL            3877.51
+ O035 KAM RAJ GENERAL STORE          KUHAL           15632.16     9863.97     3766.75
+ I362 MEHTA DHABA                    KUHAL              -1.72
+ I373 SHARMA PROVISIONAL STORE       KUHAL              -0.02
+ O069 DHARAM PAL                     MAJHALI          2160.78
+ I838 SHAMSHER SINGH                 MAJHALI         19542.88
+ O101 VED PRAKASH AND SONS           MAJHALI          5115.05
+ O040 SHARMA KARYANA STORE           MAJHALI JUA     18464.00
+ I872 SHUBHAM GENERAL STORE          MATAINA         13969.38
+ I804 ROOP SINGH                     PATENA            -10.71
+ I809 DV SONS                        PRANDLY         46333.97
+ O099 ANAK GENERAL STORE             SHARAIKOTI        850.02
+ O105 JAGAT SINGH                    SHARAIKOTI          0.79
+ O075 SHARAIKOTI GENERAL STORE       SHARAIKOTI      28288.72      769.65
+ I833 KAITH GENERAL STORE            SOOM                0.17        0.17        0.17       0.17        0.17
+ I819 KANTU GENERAL STORE            SUM DEOTHI         -0.46
+ I374 KISHAN DASS                    URMAN            4913.50
+ I412 PUNITA HOME STAY               BADHRASH           -0.66

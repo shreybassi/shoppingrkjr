@@ -1,0 +1,17 @@
+
+
+A/C NARENDERA HARDWARE DAKOLAR      In M/S RAM KISHAN JIVA RAM Page No. 1
+ N136 NH5                                         PANAFLPL0507P  9418033731  EBG
+      AADHAR          0   GSTIN 02AFLPL0507P1ZG
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+23/09/2023J J95404            TO CH 010426                3131.00        0.00        3131.00
+23/09/2023E NHD209            BILL NARENDRA H/W              0.00       40.00        3091.00
+23/09/2023E NHD471            BILL NARENDRA H/W              0.00     3071.34          19.66
+23/09/2023E NHD471            BILL NARENDRA H/W              0.00       20.06          -0.40
+
+                         TOTAL                            3131.00     3131.40          -0.40
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

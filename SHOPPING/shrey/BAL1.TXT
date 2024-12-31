@@ -1,0 +1,71 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ A576 CASH ON DELIVERY SM 3P MAINLIN                 33314.77
+ I355 BHAGWATI MOTOR                 ARPU                0.00
+ I268 KATOCH BHOJNALAYA              ARPU SAINJ          0.00
+ I318 KAITH GENERAL STORE            BADHRASH        13976.20        6.24        6.24
+ I027 PREM SINGH AND SONS            BADHRASH           -1.09
+ I286 CHAUHAN BITHAL                 BITHAL          40588.65
+ I298 GAZAL FOOD MART                BITHAL            -45.31
+ I183 BHUMI DASS                     BITTHAL         22725.04
+ I210 SATYAM GEN STORE               DAUTTNAGAR       -368.74 0P
+ O097 SHARMA GENERAL STORE           DEVTON              0.00
+ I128 ANJNI KUMAR SONU KUMAR         DUTTNAGAR           0.00
+ I206 GUPTA GEN STORE                DUTTNAGAR       -1761.58 0P
+ N248 HIRA SINGH                     DUTTNAGAR        5222.43
+ I385 JIWAN GENERAL STORE            DUTTNAGAR        6335.02
+ I069 KK GENERAL STORE               DUTTNAGAR      101033.75
+ I333 L AND N ENTERPRISES            DUTTNAGAR       48404.34 0P
+ I207 NUPA RAM                       DUTTNAGAR           0.00
+ I208 POONAM DHABA                   DUTTNAGAR          -0.30
+ B829 THAKUR GENERAL STORE           DUTTNAGAR          -0.03
+ I212 UMA DUUT                       DUTTNAGAR        1199.88
+ I281 GANPATI STEEL                  KHEKAR              0.00
+ I395 ARCHANA KARYANA STORE          LUHRI               1.11        1.11
+ I854 GUPTA GENERAL STORE            LUHRI               0.00
+ K843 GUPTA TEA STALL                LUHRI               1.42
+ I175 GUPTA TRADER                   LUHRI               0.49        0.49
+ B846 JAGMOHAN                       LUHRI               0.94
+ I058 MEHTA BROTHER HARDWARE         LUHRI            2206.26
+ K842 MUNISH KARYANA STORE           LUHRI               0.00
+ K850 NEGI DHABA                     LUHRI               0.00
+ K851 ROZI GUPTA                     LUHRI              -8.35
+ I851 SUBHASH HOTEL                  LUHRI              -1.57
+ K846 VERMA TRADERS                  LUHRI              -0.06
+ I115 KAPOOR BROTHERS                NEERAT          -1804.89
+ I149 AMAR NEWS AGENCIES AND GEN STO NIRATH            -60.25
+ I188 GOPAL GENERAL STORE            NIRATH           9419.29
+ I308 KAMAL SHARMA AND BROTHER       NIRATH              0.14        0.14        0.14       0.14
+ I274 SINGLA HARDWARE                NIRATH              0.26        0.26        0.26       0.26
+ I079 SURAJ PRAKASH SATISH KUMAR     NIRATH           3997.54
+ B837 UJJWAL GENERAL STORE           NIRATH              0.68        0.68        0.68       0.68
+ I347 VK GENERAL STORE               NIRATH             80.46
+ I384 BHANDARI BROTHER GENERAL STORE NIRSU           15428.34
+ I335 KESHAV ASSOCIATES              NIRSU               1.89
+ I234 KHEM RAJ NIRSU                 NIRSU            3168.48
+ I112 NANAK GENERAL STORE            NIRSU               0.32
+ I309 SUNNY GENERAL STORE            NIRSU           11936.76
+ I342 VEENA ENTERPRISES              NIRSU               0.13        0.13        0.13       0.13
+ I232 SURYA NEWS AGENCIES            NIRTH           13385.90
+ O132 VISHNU CHINEESE                NOGALI             -0.41
+ O048 ABHISHEK GENERAL STORE         NOGLI            9279.46
+ K912 ANITA FANCY STORE              NOGLI            5167.53
+ O511 BHUPENDER CHAUHAN              NOGLI            4453.11
+ O115 GAURAV FANCY SHOP              NOGLI           30687.02
+ B817 GUPTA GENRAL STORE             NOGLI           17975.33        4.44        4.44
+ O100 KIRPA RAM LEKH RAJ SOOD        NOGLI            -496.00
+ O507 KRISHNA GENERAL STORE          NOGLI            1885.73
+ O071 MANOHAR DASS GOPAL SINGH NEGI  NOGLI           69908.85     2105.04
+ O114 MEHTA GENERAL STORE            NOGLI              -0.83
+ O029 NOGLI GUPTA SALES CORPORATION  NOGLI               0.38        0.38        0.38       0.38        0.38
+ O125 SHARMA SWEET SHOP              NOGLI               5.95
+ O515 SHOBA DHABA NOGLI              NOGLI            1814.82
+ O078 SOOD GENERAL STORE             NOGLI            7167.98
+ O013 SURI AUTOMOBILES               NOGLI               0.26        0.26        0.26       0.26
+ O051 TILAK RAJ                      NOGLI            2066.46
+ O016 UNIVERSAL AUTO STORE           NOGLI               0.42        0.42        0.42
+ O107 VED PARKASH SUNIL KUMAR        NOGLI           21150.87
+ B841 SAVIVA ENTERPRISES             SAINJ               0.43        0.43        0.43       0.43
+ A571 CASH ON DELIVERY SM 3P SUNGRA                  12372.99

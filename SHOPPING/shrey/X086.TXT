@@ -1,0 +1,21 @@
+
+
+A/C NAVDHA HOME PRODUCTS (INDIA) AMBALA CATT  In M/S RAM KISHAN JIVA RAM Page No. 1
+ X086 GT ROAD AMBALA CANTT                        PANAJNPA6185A           0   0G
+      AADHAR          0   GSTIN 06AJNPA6185A1ZH
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+23/05/2023P NH537             BY PURCHASE                    0.00    52080.00      -52080.00
+03/06/2023J J93843            TO ON LINE                 52080.00        0.00           0.00
+07/08/2023P NH579             BY PURCHASE                    0.00    37500.00      -37500.00
+01/09/2023J J95075            TO ONLINE                  37500.00        0.00           0.00
+21/09/2023P NH602             BY PURCHASE                    0.00    40950.00      -40950.00
+09/10/2023J J95645            TO ON LINE                 40950.00        0.00           0.00
+20/10/2023P NH626             BY PURCHASE                    0.00    41850.00      -41850.00
+03/11/2023P NH639             BY PURCHASE                    0.00    41850.00      -83700.00
+10/11/2023P NH648             BY PURCHASE                    0.00    69750.00     -153450.00
+16/11/2023P NH650             BY PURCHASE                    0.00    41850.00     -195300.00
+16/11/2023J J96304            TO ON LINE                 83700.00        0.00     -111600.00
+
+                         TOTAL                          214230.00   325830.00     -111600.00

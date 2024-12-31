@@ -1,0 +1,15 @@
+
+
+A/C CASH ON DELIVERY SM 2335 RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ A591                                             PAN                     0  PXI
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+27/09/2023C C                 RN49774 AVTAR SINGH            0.00      590.00        -590.00
+30/09/2023J J95507            TO WE 27/09                  590.00        0.00           0.00
+
+                         TOTAL                             590.00      590.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

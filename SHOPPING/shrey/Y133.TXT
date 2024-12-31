@@ -1,0 +1,14 @@
+
+
+A/C *UK SALES CORP DELHI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ Y133 NAYA BAZAR DELHI                            PANAACFU3390D           0   FX
+      AADHAR          0   GSTIN 07AACFU3390D1ZB
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      37380.00
+23/08/2023C C1                RN46675                        0.00     9500.00       27880.00
+24/08/2023C C                 RN46174                        0.00     9600.00       18280.00
+25/08/2023C C                 RN46693                        0.00     9500.00        8780.00
+26/08/2023C C                 RN47027                        0.00     8780.00           0.00
+
+                         TOTAL                           37380.00    37380.00           0.00

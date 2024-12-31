@@ -1,0 +1,14 @@
+
+
+A/C M P PLYWOOD AND HARDWARE KALKA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ X027 BITNA ROAD KANGUWALA  KALKA                 PANANXPM7585N           0   GG
+      AADHAR          0   GSTIN 06ANXPM7585N1ZQ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+15/04/2022P MP92              BY PURCHASE                    0.00    15363.60      -15363.60
+18/04/2022P MP94              BY PURCHASE                    0.00    15363.60      -30727.20
+28/04/2022J J88656            TO CH 9441                 30727.00        0.00          -0.20
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       0.20        0.00           0.00
+
+                         TOTAL                           30727.20    30727.20           0.00

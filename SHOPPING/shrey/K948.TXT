@@ -1,0 +1,31 @@
+
+
+A/C ISHANT GENERAL STORE KUMARSAIN    In M/S RAM KISHAN JIVA RAM Page No. 1
+ K948 VPO KUMARSAIN TEH KUMARSAIN                 PAN            9418140683  97G
+      AADHAR 927534105534 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+29/04/2023S S440107           TO SALE                    27581.62        0.00       27581.62
+01/05/2023S S440187           TO SALE                     8473.91        0.00       36055.53
+01/05/2023C C1                RN38801                        0.00     5000.00       31055.53
+09/05/2023J J93453            BY ON LINE                     0.00     8000.00       23055.53
+18/05/2023J J93589            BY ON LINE                     0.00    15000.00        8055.53
+03/06/2023C C                 RN41106                        0.00     8056.00          -0.47
+19/08/2023S S454253           TO SALE                     6251.43        0.00        6250.96
+21/08/2023S S454272           TO SALE                     4615.87        0.00       10866.83
+26/08/2023C C                 RN46952                        0.00    10867.00          -0.17
+02/09/2023S S456113           TO SALE                     2159.62        0.00        2159.45
+04/09/2023S S456138           TO SALE                     1355.10        0.00        3514.55
+09/09/2023J J95205            BY ON LINE                     0.00     3515.00          -0.45
+11/11/2023S S465633           TO SALE                    21598.07        0.00       21597.62
+13/11/2023S S465689           TO SALE                      463.68        0.00       22061.30
+14/11/2023C C                 RN53732                        0.00     5000.00       17061.30
+20/11/2023C C1                RN54734                        0.00     2061.00       15000.30
+24/11/2023J J96435            BY ON LINE                     0.00     5000.00       10000.30
+24/11/2023J J96435            BY ON LINE                     0.00    10000.00           0.30
+
+                         TOTAL                           72499.30    72499.00           0.30
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

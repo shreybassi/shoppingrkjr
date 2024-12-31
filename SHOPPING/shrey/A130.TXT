@@ -1,0 +1,25 @@
+
+
+A/C PV THAKUR JEORI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ A130                                             PAN            8628808568  5GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+17/04/2023S N302154           TO SALE                     2411.10        0.00        2411.10
+18/04/2023C A306S             BY CASH N302154 PV THAKU       0.00     2411.10           0.00
+15/05/2023S N305935           TO SALE                     5374.20        0.00        5374.20
+16/05/2023C A306S             BY CASH N305935 PV THAKU       0.00     5374.20           0.00
+10/07/2023S N313175           TO SALE                     2919.20        0.00        2919.20
+13/07/2023C A306S             BY CASH N313175 PV THAKU       0.00     2919.20           0.00
+11/09/2023S N320970           TO SALE                      545.16        0.00         545.16
+12/09/2023C A306Y             BY CASH N320970 PV THAKU       0.00      545.16           0.00
+18/09/2023S N321878           TO SALE                     8145.34        0.00        8145.34
+19/09/2023C A306S             BY CASH N321878 PV THAKU       0.00     8145.34           0.00
+25/09/2023S N322787           TO SALE                      545.16        0.00         545.16
+26/09/2023C A306S             BY CASH N322787 PV THAKU       0.00      545.16           0.00
+
+                         TOTAL                           19940.16    19940.16           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

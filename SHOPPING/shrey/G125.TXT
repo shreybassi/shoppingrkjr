@@ -1,0 +1,17 @@
+
+
+A/C *$SHARMA GENERAL STORE SPILOW       In M/S RAM KISHAN JIVA RAM Page No. 1
+ G125 VPO SPILOW TEH POOH                         PAN            9459634127  PFG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/04/2022S L139112           TO SALE                    27085.76        0.00       27085.76
+13/05/2022C C1                RN11257                        0.00    20000.00        7085.76
+13/05/2022C C1                RN11258                        0.00     7086.00          -0.24
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       0.24        0.00           0.00
+
+                         TOTAL                           27086.00    27086.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

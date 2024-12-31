@@ -1,0 +1,23 @@
+
+
+A/C SAI ENTERPRISES JEORI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ U065 SARAHAN ROAD JEORI                          PANACJPM6382Q           0   GG
+      AADHAR          0   GSTIN 02ACJPM6382Q2ZZ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+06/05/2023C C50783            TO CASH                     7600.00        0.00        7600.00
+06/05/2023E SE2688            BILL R069EXP769                0.00     3799.99        3800.01
+06/05/2023E SE2708            BILL R069EXP768                0.00     3799.99           0.02
+09/06/2023E SE2743            BILL R069EXP840                0.00     4999.98       -4999.96
+09/06/2023E SE2745            BILL R069EXP841                0.00     7599.99      -12599.95
+12/06/2023J J93957            TO CH 298756               12600.00        0.00           0.05
+14/07/2023E SE2770            BILL R069EXP926                0.00    15599.99      -15599.94
+15/07/2023J J94428            TO CH 298786               15600.00        0.00           0.06
+06/09/2023C C52147            TO CASH                     2299.99        0.00        2300.05
+06/09/2023E SE2855            BILL R069EXP007                0.00     2299.99           0.06
+10/10/2023J J95666            BY BILL NO 2870 HP923076       0.00    11600.00      -11599.94
+10/10/2023E SE2885            TO BILL R069EXP083             0.00     5199.99      -16799.93
+11/10/2023J J95685            TO CH NO 298861            16800.00        0.00           0.07
+
+                         TOTAL                           54899.99    54899.92           0.07

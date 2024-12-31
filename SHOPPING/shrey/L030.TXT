@@ -1,0 +1,18 @@
+
+
+A/C LABOUR A/C FALERU       In M/S RAM KISHAN JIVA RAM Page No. 1
+ L030                                             PAN            9418134339  EGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+14/07/2023S T100218           TO SALE                     3993.61        0.00        3993.61
+09/08/2023C C                 RN7364                         0.00     3993.61           0.00
+16/08/2023S T100382           TO SALE                      283.30        0.00         283.30
+26/08/2023S L175232           TO SALE                     1750.00        0.00        2033.30
+27/10/2023S T100927           TO SALE                     5697.08        0.00        7730.38
+
+                         TOTAL                           11723.99     3993.61        7730.38
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

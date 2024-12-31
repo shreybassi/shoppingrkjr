@@ -1,0 +1,27 @@
+
+
+A/C CHANDER LAL NEGI RIBBA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F024 VILL.  PO RIBBA VIA POWARI                  PAN            8894093625  PGG
+      AADHAR 875966169157 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+17/05/2023S H398197           TO SALE                    31793.00        0.00       31793.00
+29/05/2023J J93736            BY CASH ON LINE                0.00    27500.00        4293.00
+05/06/2023C C1                RN40828                        0.00     4293.00           0.00
+25/07/2023S H399350           TO SALE                    47882.11        0.00       47882.11
+21/08/2023J J-CH              BY CH 324597 Q106              0.00    47882.00           0.11
+28/08/2023S H399996           TO SALE                    13606.97        0.00       13607.08
+28/08/2023S H399997           TO SALE                    31906.90        0.00       45513.98
+23/09/2023S H400452           TO SALE                    33734.87        0.00       79248.85
+03/10/2023J J-CH              BY CH 675053 Q106              0.00    45514.00       33734.85
+05/10/2023S H400648           TO SALE                    33181.44        0.00       66916.29
+12/10/2023J J95715            BY CASH ON LINE                0.00    40000.00       26916.29
+25/10/2023J J-CH              BY CH 675056 Q106              0.00    26917.00          -0.71
+06/11/2023S H401265           TO SALE                    33318.03        0.00       33317.32
+14/11/2023J J96252            BY ON LINE                     0.00    33320.00          -2.68
+
+                         TOTAL                          225423.32   225426.00          -2.68
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

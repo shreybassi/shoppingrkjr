@@ -1,0 +1,13 @@
+
+
+A/C HARGUN TRADERS AMBALA CANTT In M/S RAM KISHAN JIVA RAM Page No. 1
+ X004 AMBALA CANTT                                PANAFRPB6924J           0   GG
+      AADHAR          0   GSTIN 06AFRPB6924J1Z7
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+08/06/2023E HT291             BILL R005EXP835                0.00     9440.00       -9440.00
+16/06/2023E HT292             BILL R005EXP867                0.00      590.00      -10030.00
+21/06/2023J J94091            TO ON LINE                 10030.00        0.00           0.00
+
+                         TOTAL                           10030.00    10030.00           0.00

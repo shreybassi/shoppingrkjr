@@ -1,0 +1,17 @@
+
+
+A/C V B T MALL BITHAL       In M/S RAM KISHAN JIVA RAM Page No. 1
+ I396 VILL BITHAL PO SHAMATHLA TEH KUMARSAIN      PANBLSPP7039L  9501284080  E1G
+      AADHAR          0   GSTIN 02BLSPP7039L3ZG
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+14/07/2023S P230834           TO SALE                    11632.24        0.00       11632.24
+17/07/2023J J94439            BY ON LINE                     0.00    11632.00           0.24
+06/09/2023S P231146           TO SALE                     6839.77        0.00        6840.01
+09/09/2023J J95211            BY ON LINE                     0.00     6839.00           1.01
+
+                         TOTAL                           18472.01    18471.00           1.01
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

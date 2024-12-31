@@ -1,0 +1,18 @@
+
+
+A/C BHALIE GENERAL STORE NEHRA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ I018 VILL NEHRA PO BAHLI TEH RAMPUR              PANBQLPR3812F  9418226893  EGG
+      AADHAR 719660152625 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+31/10/2023S S463951           TO SALE                     6448.54        0.00        6448.54
+01/11/2023C C                 RN52163                        0.00     6449.00          -0.46
+20/11/2023S S466676           TO SALE                     9056.52        0.00        9056.06
+21/11/2023S S466733           TO SALE                    15498.92        0.00       24554.98
+23/11/2023J J96406            BY RN 54533                    0.00    24555.00          -0.02
+
+                         TOTAL                           31003.98    31004.00          -0.02
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

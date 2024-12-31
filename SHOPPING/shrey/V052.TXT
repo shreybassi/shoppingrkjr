@@ -1,0 +1,13 @@
+
+
+A/C VARUN TRANSPORT COMPANY CHANDIGHAR   In M/S RAM KISHAN JIVA RAM Page No. 1
+ V052 PLOT NO 27 TRANSPORT AREA SEC 26 CHD        PAN                     0   GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+13/05/2022G E7941AA           BY FRT 9429                    0.00    14999.00      -14999.00
+26/09/2022C C48235            TO CASH                     9999.00        0.00       -5000.00
+27/09/2022C C48253            TO CASH                     5000.00        0.00           0.00
+
+                         TOTAL                           14999.00    14999.00           0.00

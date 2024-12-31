@@ -1,0 +1,13 @@
+
+
+A/C HANDA AND CHOPRA CHANDIGARH   In M/S RAM KISHAN JIVA RAM Page No. 1
+ V024 PLOT NO 75 INDS AREA PHASE 2 CHD            PANADBPC7928D           0   0G
+      AADHAR          0   GSTIN 04ADBPC7928D1Z1
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+23/08/2023J J94947            TO CH 10842                10532.00        0.00       10532.00
+06/10/2023J J95597            TO CH 10442                10000.00        0.00       20532.00
+07/10/2023E HC6958            BILL CHAIR EXP078              0.00    20532.00           0.00
+
+                         TOTAL                           20532.00    20532.00           0.00

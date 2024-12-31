@@ -1,0 +1,26 @@
+
+
+A/C MAHITH ENTERPRISES KALLIANPURA  In M/S RAM KISHAN JIVA RAM Page No. 1
+ W038 8-99(1),UGGEKUDRU MOODUTHONSE V.KALIANPU    PANATCPP1374P           0   GG
+      AADHAR          0   GSTIN 29ATCPP1374P1Z1
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+22/04/2023P MEME/02/2023-24   BY PURCHASE                    0.00   163296.00     -163296.00
+24/04/2023J J93254            TO ON LINE                163296.00        0.00           0.00
+29/04/2023P MEME/08/2023-24   BY PURCHASE                    0.00   118944.00     -118944.00
+03/05/2023J J93371            TO ON LINE                118944.00        0.00           0.00
+01/06/2023J J93799            TO CH 298742               68000.00        0.00       68000.00
+08/06/2023P MEME/16/2023-24   BY PURCHASE                    0.00   163296.00      -95296.00
+09/06/2023J J93930            TO ON LINE                 95296.00        0.00           0.00
+14/06/2023J J93993            BY WE 01/06/23                 0.00    68000.00      -68000.00
+19/06/2023P MEME/18/2023-24   BY PURCHASE                    0.00   153498.00     -221498.00
+19/06/2023P MEME/19/2023-24   BY PURCHASE                    0.00   142733.00     -364231.00
+20/06/2023J J94070            TO ON LINE                364231.00        0.00           0.00
+14/07/2023P MEME/25/2023-24   BY PURCHASE                    0.00   266435.00     -266435.00
+31/07/2023J J94623            TO ON LINE                266435.00        0.00           0.00
+14/10/2023P MEME/54/2023-24   BY PURCHASE                    0.00   163296.00     -163296.00
+24/10/2023J J95892            TO ONLINE                 163296.00        0.00           0.00
+14/11/2023P MEME/64/2023-24   BY PURCHASE                    0.00   237888.00     -237888.00
+
+                         TOTAL                         1239498.00  1477386.00     -237888.00

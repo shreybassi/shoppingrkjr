@@ -1,0 +1,22 @@
+
+
+A/C PREM LAL SUNAM        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F922                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+13/11/2022S L154640           TO SALE                    38357.72        0.00       38357.72
+13/11/2022S L154641           TO SALE                    21321.08        0.00       59678.80
+15/11/2022J J91152            BY CASH ON LINE                0.00    59679.00          -0.20
+01/12/2022S L156342           TO SALE                    20447.84        0.00       20447.64
+01/12/2022S L156343           TO SALE                    20084.44        0.00       40532.08
+31/12/2022C C1                RN30221                        0.00    20000.00       20532.08
+31/12/2022C C1                RN30222                        0.00    20000.00         532.08
+31/12/2022C C1                RN30223                        0.00      532.00           0.08
+08/02/2023J MINBAL            BY MINOR BALANCE TRANSFE       0.00        0.08           0.00
+
+                         TOTAL                          100211.08   100211.08           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

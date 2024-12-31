@@ -1,0 +1,14 @@
+
+
+A/C BHARATI TRADERS DELHI        In M/S RAM KISHAN JIVA RAM Page No. 1
+ Y027 PLOT NO 5 DARAPUR PO KIRTI NAGAR            PANAAAFB0314L           0   0G
+      AADHAR          0   GSTIN 07AAAFB0314L1ZX
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+13/05/2023P BTGST/9441/23-24  BY PURCHASE                    0.00    10365.00      -10365.00
+09/06/2023J J93925            TO CH 010230               10365.00        0.00           0.00
+16/10/2023P BTGST/10208/23-24 BY PURCHASE                    0.00    53194.00      -53194.00
+18/11/2023J J96333            TO CH 10742                53194.00        0.00           0.00
+
+                         TOTAL                           63559.00    63559.00           0.00

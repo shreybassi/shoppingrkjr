@@ -1,0 +1,21 @@
+
+
+A/C INNOVATIVE COMPUTER SERVICES RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M045 VPO RAMPUR TEH RAMPUR                       PANCHMPK9368Q  7018298915  LFG
+      AADHAR          0   GSTIN 02CHMPK9368Q1ZF
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+15/04/2023C C50554            TO CASH                     1402.00        0.00        1402.00
+15/04/2023E IC2011            TO R047EXP729JPG WIRE          0.00     1402.00           0.00
+25/04/2023C C50651            TO CASH                     3300.00        0.00        3300.00
+25/04/2023E IS2027            BILL R064EXP752                0.00     3300.00           0.00
+26/05/2023E IS2054            BILL R064EXP814                0.00     1650.00       -1650.00
+29/05/2023C C51041            TO CASH                     1650.00        0.00           0.00
+02/09/2023E IC2164            TO BILL R064EXP003             0.00     8400.00       -8400.00
+05/09/2023J J95137            TO CH 010402                8400.00        0.00           0.00
+
+                         TOTAL                           14752.00    14752.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,28 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ I868 CHAUHAN GENERAL STORE          CHAKTHI          3245.37        0.13
+ I023 BHANDARI DAILY NEED            CHAKTI             -9.77
+ I193 JOSHI GENERAL STORE            CHAKTI              0.00
+ I392 RAM SINGH GEN STORE AND HOTEL  CHAKTI           7784.51
+ I822 FOUJI BROTHERS                 DELATH           1568.56
+ I080 JIWAN RAM BHAGAT RAM           DELATH          17644.30
+ I824 KAMAL GENERAL STORE            DELATH             -1.24
+ I867 LAL AND SONS GENERAL STORE     DELATH            466.84
+ I258 MEHTA GENERAL STORE            DELATH          16918.12
+ I144 MOHENDER SINGH                 DELATH          57414.20     7419.77
+ I153 HIRA LAL                       KALEDA          74500.95    23876.48
+ I371 DEV KANYA GENERAL STORE        KHANOG          26243.64
+ I848 SHER SINGH                     PANDADHAR        9998.70     3452.62
+ I376 ANUJ SHARMA                    SHOLI            6741.82
+ I324 KISHORE GENERAL STORE          SHOLI              -0.50
+ I855 RAKESH KUMAR                   SHOLI           14280.01        0.62
+ I322 SURESH ENTERPRISE              SHOLI            4848.06     4210.50
+ I870 KAPOOR GENERAL STORE           TIKKARI          1997.74
+ I869 KRISHAN DEV                    TUTU             7884.07        0.48        0.48
+ I359 LAXMI NAND BALAK RAM           TUTU            10935.56
+ I375 MR AZAD AND SONS               TUTU             1833.33
+ I275 SHARMA GENERAL STORE           TUTU             3526.55
+ I871 UD GENERAL STORE               TUTU             3362.30      300.02      300.02     300.02
+ I329 PUSHPA ENTERPRISES                                61.79       61.79       61.79      61.79

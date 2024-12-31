@@ -1,0 +1,15 @@
+
+
+A/C ROBIN NEGI 8553200009 DUBLING      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F987                                             PAN                     0  PGG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+19/10/2023S S462460           TO SALE                   126440.41        0.00      126440.41
+23/10/2023J J-CH              BY CH 016871 Q101              0.00   126440.00           0.41
+
+                         TOTAL                          126440.41   126440.00           0.41
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

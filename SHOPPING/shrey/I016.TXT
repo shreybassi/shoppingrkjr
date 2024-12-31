@@ -1,0 +1,24 @@
+
+
+A/C VIDYA RAM VIPIN KUMAR DURAH        In M/S RAM KISHAN JIVA RAM Page No. 1
+ I016 VILL.   PO DURAH VIA LUHRI                  PANABUPS9830M  9418065210  EGG
+      AADHAR          0   GSTIN 02ABUPS9830M1ZU
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+27/04/2023P VRGST-3563        BY PURCHASE                    0.00    60900.00      -60900.00
+27/04/2023P VRGST-3521        BY PURCHASE                    0.00    36660.00      -97560.00
+29/04/2023P VRGST-3935        BY PURCHASE                    0.00   378820.00     -476380.00
+01/05/2023J J93328            TO CN ATTA                  1200.00        0.00     -475180.00
+17/05/2023J J93567            TO CH 010595              475180.00        0.00           0.00
+19/06/2023P VRGST-10399       BY PURCHASE                    0.00   218880.00     -218880.00
+21/06/2023J J94092            TO CH 10239               218880.00        0.00           0.00
+30/09/2023P VRGST-23780       BY PURCHASE                    0.00   210000.00     -210000.00
+10/10/2023J J95658            TO CH NO 10450            210000.00        0.00           0.00
+11/11/2023P VRGST-29348       BY PURCHASE                    0.00   280000.00     -280000.00
+18/11/2023J J96333            TO CH 10741               280000.00        0.00           0.00
+
+                         TOTAL                         1185260.00  1185260.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

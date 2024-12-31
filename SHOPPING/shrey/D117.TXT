@@ -1,0 +1,26 @@
+
+
+A/C SAKSHI NEGI THEMGARANG THEMGARANG   In M/S RAM KISHAN JIVA RAM Page No. 1
+ D117 VILL.  PO SANGLA                            PAN            9805696206  SXR
+      AADHAR 444452186934 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+06/04/2023S L164984           TO SALE                    12626.07        0.00       12626.07
+06/04/2023S L164995           TO SALE                    25926.23        0.00       38552.30
+06/04/2023S L164996           TO SALE                    27704.42        0.00       66256.72
+26/04/2023S H397726           TO SALE                    52423.22        0.00      118679.94
+26/04/2023S R251401           TO SALE                    36589.93        0.00      155269.87
+26/04/2023J J93287            BY GOOGLE                      0.00    40000.00      115269.87
+02/05/2023C C                 RN37071                        0.00     3500.00      111769.87
+09/05/2023C C                 RN38466                        0.00    11000.00      100769.87
+29/05/2023J J93729            BY GOOGLE                      0.00    10000.00       90769.87
+30/05/2023C C                 RN40255                        0.00     6000.00       84769.87
+20/06/2023C C1                RN41655                        0.00     2000.00       82769.87
+28/06/2023J J94192            BY GOOGLE                      0.00    20000.00       62769.87
+12/08/2023J J94827            BY GOOGLE                      0.00    25000.00       37769.87
+
+                         TOTAL                          155269.87   117500.00       37769.87
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,22 @@
+
+
+A/C DIVYA GENERAL STORE THEOG        In M/S RAM KISHAN JIVA RAM Page No. 1
+ I360 VPO THEOG TEH THEOG                         PAN            8219137722  OBG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+03/05/2023S C627580           TO SALE                    73277.68        0.00       73277.68
+03/05/2023S G286324           TO SALE                     4107.69        0.00       77385.37
+03/05/2023S L167124           TO SALE                    38913.39        0.00      116298.76
+03/05/2023S L167125           TO SALE                    77314.30        0.00      193613.06
+01/06/2023C C                 RN40782                        0.00    80000.00      113613.06
+01/06/2023C C                 RN40374                        0.00    70000.00       43613.06
+22/06/2023S B546571           TO SALE                     3360.00        0.00       46973.06
+22/06/2023S G287128           TO SALE                     4429.94        0.00       51403.00
+23/06/2023J J94127            BY ON LINE                     0.00    50000.00        1403.00
+
+                         TOTAL                          201403.00   200000.00        1403.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

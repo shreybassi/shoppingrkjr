@@ -1,0 +1,17 @@
+
+
+A/C RAJ GORAVE BADHAL       In M/S RAM KISHAN JIVA RAM Page No. 1
+ B864 VPO BADHAL TEH RAMPUR                       PAN            7807236335  2GG
+      AADHAR 902172916340 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       -3020.33
+02/06/2023J J-CH              BY CH 022086 Q103              0.00    36427.00      -39447.33
+04/07/2023J J94290            TO CH 022086 WE            36427.00        0.00       -3020.33
+04/07/2023J J94290            BY CH 022086                   0.00    36427.00      -39447.33
+24/10/2023J J95888            TO W/E TRF                 36427.00        0.00       -3020.33
+
+                         TOTAL                           72854.00    75874.33       -3020.33
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

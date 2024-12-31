@@ -1,0 +1,13 @@
+
+
+A/C SHREE VAISHNOO AGENCIES PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U163 BASEMENT KHASRA NO 434 SEC 1 PARWANOO       PANABHPK0202A           0   0G
+      AADHAR          0   GSTIN 02ABHPK0202A1ZW
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F      -38208.00
+20/05/2023J J93615            TO CH 010201               38208.00        0.00           0.00
+23/05/2023P SVWC23-24-146     BY PURCHASE                    0.00    14358.00      -14358.00
+13/07/2023J J94399            TO CH 101696               14358.00        0.00           0.00
+
+                         TOTAL                           52566.00    52566.00           0.00

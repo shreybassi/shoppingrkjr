@@ -1,0 +1,16 @@
+
+
+A/C BHAI BHAI TRADERS SAGOOR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ U111 VPO SAGOOR TEH BAIJNATH                     PANEBZPK7142B  9418128642   0G
+      AADHAR          0   GSTIN 02EBZPK7142B1ZN
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+06/06/2023P BB223             BY PURCHASE                    0.00   210000.00     -210000.00
+06/06/2023C C51139            TO CASH                      186.00        0.00     -209814.00
+09/06/2023J J93928            TO CH 607619              209814.00        0.00           0.00
+28/10/2023P BB240             BY PURCHASE                    0.00   196000.00     -196000.00
+10/11/2023P BB242             BY PURCHASE                    0.00   196000.00     -392000.00
+14/11/2023J J96240            TO CH 607639              392000.00        0.00           0.00
+
+                         TOTAL                          602000.00   602000.00           0.00

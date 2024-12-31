@@ -1,0 +1,30 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ C044 *LAMA DHABA                    BADHAL              4.25        4.25        4.25       4.25        4.25
+ K128 DIAMOND GENERAL STORE          BAGASARAHAN     36850.02    36850.02
+ K810 BASANT LAL                     BAGIPUL         -1676.48
+ K138 JAGDISH CHAND                  BAGIPUL          -107.25
+ K121 KHUSHI RAM AND SONS FOR        BAGIPUL          -705.69
+ K132 RAMESH KUMAR FOR               BAGIPUL          8883.05      908.94        3.08
+ K125 TEJ RAM                        BAGIPUL          6379.61        3.31
+ L043 MUNI LAL                       BAGNA            2307.55     2307.55
+ L044 PRATAP DAILY NEEDS FOR         BAIDHAR         12486.12
+ L039 BHAWANI SINGH FOR              BANDAL            -19.70
+ L036 HARI RAM FOR                   BANDAL             -0.08
+ L040 SHIV RAM FOR                   BANDAL             -4.95
+ K145 SONNY WAZIR                    BUINI              -0.20
+ K107 TEJ RAM S/O SH MANSA RAM       HIMRABAOLI       7009.12
+ A071 *BANSAL GENERAL STORE          JEORI               4.64        4.64        4.64       4.64
+ K119 DURGA SINGH FOR                KALARAS          -586.61
+ K122 GANGA SINGH FOR                KALARAS            -0.37
+ K131 TULA RAM FOR                   KALARAS            -0.38
+ K135 RAVI GENERAL STORE             KEDAS               7.68
+ U203 MOHAN SINGH HP35 2432          KULTHA          11926.87
+ K052 JOSHI GENERAL STORE            PAJENDA         32671.77
+ K111 SURAT RAM                      PAJENDA          8280.38
+ K123 HIRA LAL FOR                   TIKARI KAINC     6941.14
+ K012 HARSHA NAND                    TIKRI               2.81
+ L041 SITA DEVI CO TANU RAM FOR      URTOO               3.65        3.65        3.65       3.65
+ I397 JISHTUS APPLE CARE             BADHRASH            0.76        0.76        0.76       0.76        0.76

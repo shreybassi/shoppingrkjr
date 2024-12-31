@@ -1,0 +1,27 @@
+
+
+A/C JC HOME CARE PRODUCTS PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U306 NEAR GURUDWARA UNCHA SEC 1  PARWANOO        PANAOKPJ2496R           0   GG
+      AADHAR          0   GSTIN 02AOKPJ2496R2ZB
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+19/05/2023P JCGST-74          BY PURCHASE                    0.00    24900.00      -24900.00
+26/05/2023J J93695            TO CH 10455                24900.00        0.00           0.00
+07/06/2023P JCGST-102         BY PURCHASE                    0.00    42600.00      -42600.00
+21/06/2023J J94098            TO CH 10476                42600.00        0.00           0.00
+11/08/2023P JCGST-209         BY PURCHASE                    0.00    45700.00      -45700.00
+16/08/2023J J94863            TO CH 10763                45700.00        0.00           0.00
+04/09/2023P JCGST-247         BY PURCHASE                    0.00    32000.00      -32000.00
+05/09/2023P JCGST-248         BY PURCHASE                    0.00    27500.00      -59500.00
+14/09/2023P JCPP-35           BY PURCHASE                    0.00    23250.00      -82750.00
+14/09/2023P JCGST-264         BY PURCHASE                    0.00    16200.00      -98950.00
+14/09/2023P JCPP-36           BY PURCHASE                    0.00    16660.00     -115610.00
+14/09/2023J J95272            TO CH 010410               59500.00        0.00      -56110.00
+18/09/2023P JCGST-271         BY PURCHASE                    0.00    69530.00     -125640.00
+20/09/2023J J95346            TO CH 10789               125640.00        0.00           0.00
+27/09/2023P JCGST-296         BY PURCHASE                    0.00    52150.00      -52150.00
+23/10/2023P JCGST-360         BY PURCHASE                    0.00    39120.00      -91270.00
+15/11/2023S C631450           TO SALE                    59919.18        0.00      -31350.82
+
+                         TOTAL                          358259.18   389610.00      -31350.82

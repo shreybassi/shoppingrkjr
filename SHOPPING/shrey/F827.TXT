@@ -1,0 +1,20 @@
+
+
+A/C SHAKUNTLA DEVI RISPA        In M/S RAM KISHAN JIVA RAM Page No. 1
+ F827                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       4128.31
+03/04/2023S L164747           TO SALE                    29185.63        0.00       33313.94
+03/04/2023S L164756           TO SALE                    69408.17        0.00      102722.11
+12/04/2023S L165486           TO SALE                     5196.72        0.00      107918.83
+12/04/2023S L165494           TO SALE                     2039.96        0.00      109958.79
+08/11/2023J J-CH              BY CH 000245 Q109              0.00   200000.00      -90041.21
+16/11/2023J J96295            TO TFR F967                34184.35        0.00      -55856.86
+16/11/2023J J96295            TO TRANS F095              55856.86        0.00           0.00
+
+                         TOTAL                          200000.00   200000.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

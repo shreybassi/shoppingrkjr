@@ -1,0 +1,17 @@
+
+
+A/C SAI ENGINEERS RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M160 VILL & PO RAMPUR                            PANBKUPK0358J  9418033431  EBG
+      AADHAR          0   GSTIN 02BKUPK0358J1ZZ
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+16/05/2023J J93551            TO CH 010593                4200.00        0.00        4200.00
+16/05/2023E SE20              BILL R064EXP794                0.00     4200.00           0.00
+07/09/2023C C52157            TO CASH                     3000.00        0.00        3000.00
+07/09/2023E SE61              BILL R064EXP017                0.00     3000.00           0.00
+
+                         TOTAL                            7200.00     7200.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

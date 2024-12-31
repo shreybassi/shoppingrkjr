@@ -1,0 +1,15 @@
+
+
+A/C OM SAI TRADING CO TABO         In M/S RAM KISHAN JIVA RAM Page No. 1
+ G181 VPO TABO TEH KAZA                           PANIUBPK7415Q  7018178572  Z1G
+      AADHAR 879505186128 GSTIN 02IUBPK7415Q1Z9
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/10/2023S S461167           TO SALE                    76029.43        0.00       76029.43
+16/10/2023J J-CH              BY CH 317255 Q101              0.00    76029.00           0.43
+
+                         TOTAL                           76029.43    76029.00           0.43
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

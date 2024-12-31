@@ -1,0 +1,26 @@
+
+
+A/C RAJIT GEN STORE AND VEGITABLES NARKANDA     In M/S RAM KISHAN JIVA RAM Page No. 1
+ I390 VILL ODDI PO ODDI KACHERI TEH KUMARSAIN     PAN            9816674709  B0G
+      AADHAR 496005779725 GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+13/09/2023S S457431           TO SALE                     1496.46        0.00        1496.46
+15/09/2023C C                 RN48925                        0.00     1496.00           0.46
+12/10/2023S S461399           TO SALE                      938.64        0.00         939.10
+13/10/2023C C                 RN50965                        0.00      939.00           0.10
+01/11/2023S S464156           TO SALE                     4596.80        0.00        4596.90
+02/11/2023S S464182           TO SALE                     7335.95        0.00       11932.85
+03/11/2023C C                 RN53034                        0.00    11933.00          -0.15
+15/11/2023S S466066           TO SALE                     5078.27        0.00        5078.12
+16/11/2023S S466140           TO SALE                     1243.89        0.00        6322.01
+17/11/2023C C                 RN54512                        0.00     6410.00         -87.99
+22/11/2023S S466934           TO SALE                     7065.70        0.00        6977.71
+23/11/2023S S466992           TO SALE                     2007.67        0.00        8985.38
+24/11/2023C C                 RN54174                        0.00     9073.00         -87.62
+
+                         TOTAL                           29763.38    29851.00         -87.62
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

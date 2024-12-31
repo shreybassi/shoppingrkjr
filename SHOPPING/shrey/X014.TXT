@@ -1,0 +1,12 @@
+
+
+A/C AMBA FOODS CHEEKA       In M/S RAM KISHAN JIVA RAM Page No. 1
+ X014 KUSHAL MAJRA ROAD CHEEKA                    PANAANFA4547R           0   GG
+      AADHAR          0   GSTIN 06AANFA4547R1ZS
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+19/08/2023P AFSL-155          BY PURCHASE                    0.00   554554.00     -554554.00
+25/08/2023J J94988            TO ON LINE                540387.00        0.00      -14167.00
+
+                         TOTAL                          540387.00   554554.00      -14167.00

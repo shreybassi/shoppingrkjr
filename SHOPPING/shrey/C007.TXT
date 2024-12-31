@@ -1,0 +1,19 @@
+
+
+A/C ACC THE NICHAR DEV BLOCK MC NICHAR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ C007 VPO NICHAR TEH NICHAR                       PANAADAT9854B           0  HGG
+      AADHAR          0   GSTIN 02AADAT9854B1ZM
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+13/05/2019S A164071           TO SALE                   100878.34        0.00      100878.34
+20/05/2019J J-CH              BY CH 715137 Q106              0.00    70000.00       30878.34
+27/05/2019J J-CH              BY CH 715139 Q106              0.00    30000.00         878.34
+29/05/2019S A164350           TO SALE                   100878.34        0.00      101756.68
+21/09/2019J J-CH              BY CH 716346 Q106              0.00   100000.00        1756.68
+04/10/2019J J-CH              BY CH 717028 Q106              0.00     1757.00          -0.32
+
+                         TOTAL                          201756.68   201757.00          -0.32
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET TIN STATEMENT

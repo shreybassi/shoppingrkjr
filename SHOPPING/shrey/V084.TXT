@@ -1,0 +1,18 @@
+
+
+A/C NARESH MARKITING ZIRAKPUR     In M/S RAM KISHAN JIVA RAM Page No. 1
+ V084 BEHIND ITC GODOWN VILL PABHAT               PANAEHPA7373R           0   GG
+      AADHAR          0   GSTIN 03AEHPA7373R1Z5
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/04/2023P NMCPL-8           BY PURCHASE                    0.00    22463.00      -22463.00
+29/04/2023J J93321            TO CH 010577               22463.00        0.00           0.00
+06/06/2023P NMCPL-66          BY PURCHASE                    0.00    26956.00      -26956.00
+26/06/2023J J94164            TO CH NO 010242            26956.00        0.00           0.00
+17/07/2023P NMCPL-99          BY PURCHASE                    0.00    26956.00      -26956.00
+28/07/2023J J94586            TO CH 010822               26956.00        0.00           0.00
+24/10/2023P NMCPL-157         BY PURCHASE                    0.00    26956.00      -26956.00
+08/11/2023J J96144            TO CH 010730               26956.00        0.00           0.00
+
+                         TOTAL                          103331.00   103331.00           0.00

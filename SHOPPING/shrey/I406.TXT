@@ -1,0 +1,27 @@
+
+
+A/C HIMANSHI GENERAL STORE KASHAPAT     In M/S RAM KISHAN JIVA RAM Page No. 1
+ I406 VILL PAT PO KASHAPAT TEH RAMPUR             PANAGAPL8154E  7807256856  V0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+05/08/2023S T100329           TO SALE                    52481.31        0.00       52481.31
+05/08/2023S T100330           TO SALE                    12717.22        0.00       65198.53
+05/08/2023S T100331           TO SALE                    17794.70        0.00       82993.23
+07/08/2023J J94750            BY GOOGLE                      0.00    50481.00       32512.23
+07/08/2023J J94750            BY GOOGLE                      0.00     2000.00       30512.23
+10/08/2023J J94791            BY GOOGLE                      0.00    12717.00       17795.23
+10/08/2023J J94792            BY GOOGLE                      0.00    17794.70           0.53
+10/10/2023S H400712           TO SALE                    24055.00        0.00       24055.53
+10/10/2023S R252439           TO SALE                    11838.48        0.00       35894.01
+10/10/2023S R252440           TO SALE                     5682.31        0.00       41576.32
+10/10/2023J J95662            BY UPI                         0.00    24055.00       17521.32
+10/10/2023J J95662            BY UPI                         0.00    17520.00           1.32
+16/11/2023S Q164129           TO SALE                    32770.00        0.00       32771.32
+22/11/2023J J96391            BY GOOGLE                      0.00    32770.00           1.32
+
+                         TOTAL                          157339.02   157337.70           1.32
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

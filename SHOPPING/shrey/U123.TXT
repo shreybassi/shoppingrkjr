@@ -1,0 +1,12 @@
+
+
+A/C M K PACKERS KASUMPATI    In M/S RAM KISHAN JIVA RAM Page No. 1
+ U123 LAXMI NIWAS KASUMPATI                       PANBDDPC7447J           0   0G
+      AADHAR          0   GSTIN 02BDDPC7447J1ZR
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+29/03/2022J J88082            TO CH 9489                 27186.00        0.00       27186.00
+30/03/2022P MK1881            BY PURCHASE                    0.00    27186.00           0.00
+
+                         TOTAL                           27186.00    27186.00           0.00

@@ -1,0 +1,23 @@
+
+
+A/C TSS ORCHARD ROPA         In M/S RAM KISHAN JIVA RAM Page No. 1
+ G014 VILL.  PO ROPA VIA CHIASOKHUDH              PAN            9459480626  PGP
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+05/10/2023S L177997           TO SALE                    11830.00        0.00       11830.00
+05/10/2023S P231341           TO SALE                      726.40        0.00       12556.40
+19/10/2023S S462471           TO SALE                    32964.76        0.00       45521.16
+09/11/2023S I100175           TO SALE                   101693.00        0.00      147214.16
+09/11/2023S I100176           TO SALE                   101693.00        0.00      248907.16
+09/11/2023S I100177           TO SALE                   100693.00        0.00      349600.16
+09/11/2023S I100178           TO SALE                    86818.00        0.00      436418.16
+09/11/2023S I100179           TO SALE                    62140.00        0.00      498558.16
+09/11/2023S I100180           TO SALE                    35633.00        0.00      534191.16
+09/11/2023S I100181           TO SALE                    23861.26        0.00      558052.42
+
+                         TOTAL                          558052.42        0.00      558052.42
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

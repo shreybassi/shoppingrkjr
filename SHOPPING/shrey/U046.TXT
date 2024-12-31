@@ -1,0 +1,13 @@
+
+
+A/C GANPATI DEPARMENTAL STORE SOLAN        In M/S RAM KISHAN JIVA RAM Page No. 1
+ U046 SURI CHAMBER CIRCULAR ROAD SOLAN            PANAHEPM2372C           0   GG
+      AADHAR          0   GSTIN 02AHEPM2372C1ZY
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+09/09/2023P GDGS/0000017297   BY PURCHASE                    0.00    31430.88      -31430.88
+14/09/2023J J95272            TO CH 010412               31020.00        0.00        -410.88
+24/11/2023S E192470           TO SALE                      410.64        0.00          -0.24
+
+                         TOTAL                           31430.64    31430.88          -0.24

@@ -1,0 +1,37 @@
+
+
+A/C RAMESH BROTHERS ARSU         In M/S RAM KISHAN JIVA RAM Page No. 1
+ K026 VILL.   PO ARSU VIA NIRMAND                 PAN            9459035048  NGR
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+01/04/2022S S392393           TO SALE                     5513.11        0.00        5513.11
+02/04/2022S S392465           TO SALE                    13497.22        0.00       19010.33
+02/04/2022S S392467           TO SALE                     1050.00        0.00       20060.33
+04/04/2022C A405S             BY CASH S392393 RAMESH B       0.00     5513.11       14547.22
+04/04/2022C A405S             BY CASH S392465 RAMESH B       0.00    13497.22        1050.00
+04/04/2022C A405S             BY CASH S392467 RAMESH B       0.00     1050.00           0.00
+08/04/2022S S393204           TO SALE                     6243.97        0.00        6243.97
+09/04/2022S S393291           TO SALE                    23660.07        0.00       29904.04
+11/04/2022C A405S             BY CASH S393204 RAMESH B       0.00     6243.97       23660.07
+11/04/2022C A405S             BY CASH S393291 RAMESH B       0.00    23660.07           0.00
+15/04/2022S S394082           TO SALE                     4313.10        0.00        4313.10
+16/04/2022S S394178           TO SALE                    17859.38        0.00       22172.48
+18/04/2022C A405S             BY CASH S394082 RAMESH B       0.00     4313.10       17859.38
+18/04/2022C A405S             BY CASH S394178 RAMESH B       0.00    17859.38           0.00
+29/04/2022S S395753           TO SALE                    10377.30        0.00       10377.30
+30/04/2022S S395813           TO SALE                     5505.44        0.00       15882.74
+30/04/2022C A405S             BY CASH S395753 RAMESH B       0.00    10377.30        5505.44
+30/04/2022C A405S             BY CASH S395813 RAMESH B       0.00     5505.44           0.00
+06/05/2022S S396598           TO SALE                     9850.92        0.00        9850.92
+07/05/2022S L140277           TO SALE                     1840.00        0.00       11690.92
+07/05/2022S S396719           TO SALE                    11453.11        0.00       23144.03
+09/05/2022C A405S             BY CASH S396598 RAMESH B       0.00     9850.92       13293.11
+09/05/2022C A405S             BY CASH S396719 RAMESH B       0.00    11453.11        1840.00
+12/05/2022C C                 RN11741                        0.00     1840.00           0.00
+
+                         TOTAL                          111163.62   111163.62           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

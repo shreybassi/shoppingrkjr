@@ -1,0 +1,15 @@
+
+
+A/C RMAIDEN AGENCIES KASSAULI     In M/S RAM KISHAN JIVA RAM Page No. 1
+ U126 THE LOWER MALL KASSAULI                     PANAGPPS2283L           0   0G
+      AADHAR          0   GSTIN 02AGPPS2283L1ZY
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F     -111183.00
+21/04/2023J J93228            TO CH 010563              111183.00        0.00           0.00
+19/05/2023P RARMA/23-24/0440  BY PURCHASE                    0.00   142070.00     -142070.00
+31/05/2023J J93782            TO CH 010217              142070.00        0.00           0.00
+07/07/2023P RARAM/23-24/0936  BY PURCHASE                    0.00   114403.05     -114403.05
+18/10/2023S L178954           TO SALE                   186694.81        0.00       72291.76
+
+                         TOTAL                          439947.81   367656.05       72291.76

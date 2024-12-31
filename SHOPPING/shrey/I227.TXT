@@ -1,0 +1,18 @@
+
+
+A/C CHAUHAN GEN STORE NIRTH        In M/S RAM KISHAN JIVA RAM Page No. 1
+ I227                                             PAN                     0  11G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/03/2023S N298444           TO SALE                     1229.27        0.00        1229.27
+22/03/2023S N298572           TO SALE                      980.37        0.00        2209.64
+23/03/2023C A302S             BY CASH N298444 CHAUHAN        0.00     1229.27         980.37
+23/03/2023C A302N             BY CASH N298572 CHAUHAN        0.00      980.37           0.00
+30/03/2023J MINBAL            BY MINOR BALANCE TRANSFE       0.00        0.17          -0.17
+
+                         TOTAL                            2209.64     2209.81          -0.17
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

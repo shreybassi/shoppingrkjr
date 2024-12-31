@@ -1,0 +1,13 @@
+
+
+A/C LANDMARK LIFESTYLE CARS P LTD KHAJRULA     In M/S RAM KISHAN JIVA RAM Page No. 1
+ V103 KHASRA NO 107 GT ROAD VILL KHAJRULA         PAN                     0   0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+26/03/2022C C46107            TO CASH                      138.00        0.00         138.00
+26/03/2022J J88036            TO ON LINE                 18489.00        0.00       18627.00
+26/03/2022J J88036            BY BILL                        0.00    18627.00           0.00
+
+                         TOTAL                           18627.00    18627.00           0.00

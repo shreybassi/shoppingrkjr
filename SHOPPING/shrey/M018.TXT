@@ -1,0 +1,25 @@
+
+
+A/C CHANDER PRABHA NEGI RAMPUR       In M/S RAM KISHAN JIVA RAM Page No. 1
+ M018 VILL.   PO RAMPUR BUSHAHR                   PAN            9418023309  L3G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+21/06/2023S B546499           TO SALE                     1302.70        0.00        1302.70
+21/06/2023J J94094            BY GOOGLE                      0.00     1303.00          -0.30
+05/07/2023S B547118           TO SALE                     1412.54        0.00        1412.24
+05/07/2023J J94305            BY GOOGLE                      0.00     1412.00           0.24
+23/08/2023S C629687           TO SALE                      553.79        0.00         554.03
+24/08/2023J J94967            BY GOOGLE                      0.00      554.00           0.03
+02/09/2023S C629908           TO SALE                     1318.44        0.00        1318.47
+09/09/2023J J95220            BY GOOGLE                      0.00     1319.00          -0.53
+11/11/2023S B552552           TO SALE                      483.00        0.00         482.47
+13/11/2023J J96227            BY GOOGLE                      0.00      483.00          -0.53
+18/11/2023S B552904           TO SALE                     1203.60        0.00        1203.07
+25/11/2023J J96444            BY GOOGLE                      0.00     1203.00           0.07
+
+                         TOTAL                            6274.07     6274.00           0.07
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

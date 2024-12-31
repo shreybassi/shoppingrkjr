@@ -1,0 +1,24 @@
+
+
+A/C JASVIR SINGH MESS A/C PARWANOO     In M/S RAM KISHAN JIVA RAM Page No. 1
+ I404                                             PAN                     0   GG
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F       8785.00
+10/04/2023S I100005           TO SALE                     2975.18        0.00       11760.18
+15/04/2023J J93166            BY TRF RN 50236                0.00     8785.00        2975.18
+29/04/2023S I100015           TO SALE                     7550.00        0.00       10525.18
+05/06/2023S I100041           TO SALE                     6330.00        0.00       16855.18
+05/07/2023S I100067           TO SALE                     5466.00        0.00       22321.18
+25/07/2023J J94553            BY RN 50237                    0.00    10525.00       11796.18
+31/07/2023S I100089           TO SALE                     7995.00        0.00       19791.18
+10/08/2023J J94801            BY RN50238                     0.00    19791.00           0.18
+08/09/2023S I100122           TO SALE                     9090.00        0.00        9090.18
+30/09/2023S I100136           TO SALE                     8600.00        0.00       17690.18
+31/10/2023S I100162           TO SALE                     8380.00        0.00       26070.18
+
+                         TOTAL                           65171.18    39101.00       26070.18
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT

@@ -1,0 +1,80 @@
+
+          27/11/2023
+       CUSTOMER NAME                 STATION           BALANCE   10DAY OLD  20DAY OLD 32DAY OLD   60DAY OLD
+
+ A574 CASH ON DELIVERY SM 3P JEORI                   41008.77
+ B002 MAMTA TRADERS                  BATHARA         10339.72
+ B025 RANJNA THAKUR                  BONDA             363.84
+ B084 SHARMA BROTHER                 DAWARCH          2075.56
+ B061 BR AND SONS                    GHARAT         154090.25   137505.13    73173.37   34856.57
+ B085 MEHTA GENERAL STORE            GHARAT             -0.25
+ B063 PARSH AND BROTHER              GHARAT            145.75
+ A180 *BUSHAR AGENCIES               JEORI              -1.64
+ A070 ABHISHEK SWEET SHOP AND BAKER  JEORI              -0.33
+ A142 ANAND GARMENTS                 JEORI              -0.02
+ A003 ANISH ENTERPRISE RK NEGI       JEORI           11846.55
+ A168 AR GENERAL STORE FOR           JEORI            8844.28
+ B087 BANSAL GENERAL STORE           JEORI           24169.44
+ A095 BRIJ MOHAN JEORI               JEORI               0.27        0.27        0.27       0.27
+ A191 BUSHAHR AGENCY                 JEORI            2812.52
+ A097 BUSHAHR TRADERS                JEORI           83168.60    83168.60
+ A131 CR DAILY NEED                  JEORI              -1.02
+ A102 DOGRA GENERAL STORE FOR        JEORI               9.25        9.25        9.25       9.25        9.25
+ A099 GS GENERAL STORE               JEORI               7.97
+ A021 HILL STAR                      JEORI             947.02
+ A129 HOTEL THAKUR                   JEORI               1.84
+ B806 KAPILA TRADERS FOR             JEORI           36467.16
+ B855 KRISHNA DAILY NEED             JEORI             -84.53
+ A141 LUCKY GENERAL STORE            JEORI            2327.75
+ A184 MEHAK ENTERPRISES FOR          JEORI            9309.69
+ A105 MEHTA TRADERS                  JEORI             308.27      308.27      308.27     308.27      308.27
+ A170 MEHTA TRADERS FOR              JEORI               0.67        0.67        0.67
+ B819 NEGI DHABA                     JEORI            1374.76
+ A002 PATANJALI SAUDESHI RATHOUR ENT JEORI            6425.29
+ A130 PV THAKUR                      JEORI               0.00
+ A134 RAGHU DASS                     JEORI           13418.20
+ A140 RAHUL KUMAR                    JEORI            1148.98
+ A192 RINZIN MINI MART               JEORI              -0.09
+ A111 RUHANI BOOT HOUSE              JEORI               0.59        0.59        0.59       0.59
+ A106 SADHU RAM KRISHAN GOPAL        JEORI              -0.48
+ A160 SHARMA DAILY NEEDS FOR         JEORI              -0.45
+ A115 SHARMA DAILY NEEDS MADAN LAL   JEORI              21.82
+ A136 SHARMA HARDWARE STORE          JEORI               0.00
+ A186 SHYAM GARMENTS                 JEORI            5165.87        0.33
+ A190 SNEHA                          JEORI            3963.38
+ A162 SOHAN BROTHER FOR              JEORI           18180.25
+ A167 SOHAN SINGH FOR                JEORI            4906.38
+ A029 SURENDER GENERAL STORE         JEORI               0.02
+ A159 TOLTA DAILY NEEDS FOR          JEORI            -804.25
+ A156 TOLTA GENERAL STORE FOR        JEORI            6136.87
+ B828 SK GENERAL STORE               KALEY               0.33
+ B009 HIRA SINGH                     KALEY SARAHA     1171.77 0P
+ B856 PAWAN DAILY NEED               KAYAR           28719.65    28719.65    28719.65       0.29
+ A118 SUNIL SHARMA                   KOCHALI          3080.69
+ A024 AADVIK ENGINEERING WORKS       KOCHRI              0.19        0.19        0.19       0.19
+ B045 KIRAN CHAUHAN                  KOCHRI           2589.88        0.18
+ B840 CHETRI DEVI                    KOCHRI JEORI       -0.31
+ B083 KARITIKA GENERAL STORE         KOTLA            2606.08
+ A135 KIRAN VERMA                    KOTLA           11958.91
+ B824 NEGI GENERAL STORE             KOTLA               0.47        0.47        0.47
+ A152 RAISON GENERAL STORE           KOTLA            2711.33
+ B086 SANJEEV                        KOTLA               0.21        0.21        0.21       0.21
+ A164 TOLTA STORE                    LABHANA SADA     -166.65 0P
+ A166 DAROHA GENERAL STORE           NANAN JEORI      6455.39
+ B052 ANU DAILY NEEDS                SARAHAN            -0.04
+ B039 BUSHAHR BOOK DEPOT             SARAHAN             0.00
+ B059 HANU DAILY NEED                SARAHAN          3792.52
+ B047 HAPPY HOTEL                    SARAHAN          6408.20
+ B077 JAI GIRNARI GENERAL STORE FOR  SARAHAN            -1.35
+ B076 KUMAR GENERAL STORE  FOR       SARAHAN         21015.44
+ B069 LACTOO TRADERS FOR             SARAHAN          1932.75
+ B057 NEGI GENERAL STORE             SARAHAN           -11.18
+ B058 NEW FANCY GENERAL STORE        SARAHAN           533.70
+ B078 NRS FOR                        SARAHAN         14378.02
+ B007 RATTAN CHAND KISHORI LAL       SARAHAN         70779.26    67344.98    67344.98   51602.51
+ B080 RATTAN CHAND KISHORI LAL FOR   SARAHAN         16298.49
+ B866 SHASHI HOTEL                   SARAHAN          3044.62
+ B062 THAKUR GENERAL STORE           SARAHAN           501.99
+ B814 GEET DAILY NEED                TYABAL           2672.62
+ B020 RAJEEV GENERAL STORE           TYAWAL             -0.25
+ A575 CASH ON DELIVERY SM 3P GAURA                   19206.11

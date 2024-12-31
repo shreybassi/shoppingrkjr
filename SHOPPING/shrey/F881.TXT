@@ -1,0 +1,18 @@
+
+
+A/C SUNDER SINGH DV LABRANG      In M/S RAM KISHAN JIVA RAM Page No. 1
+ F881                                             PAN                     0  P0G
+      AADHAR          0   GSTIN                
+   Date    No.      Particulars             Op. Balance      Debit     Credit     Balance
+ **************************************************************************
+                      MLY/YLY BALANCE B/F          0.00
+10/11/2022S L154378           TO SALE                     3131.34        0.00        3131.34
+10/11/2022S L154391           TO SALE                    40834.65        0.00       43965.99
+10/11/2022S L154392           TO SALE                    28752.76        0.00       72718.75
+14/11/2022J J-CH              BY CH 000055 Q109              0.00    72719.00          -0.25
+08/02/2023J MINBAL            TO MINOR BALANCE TRANSFE       0.25        0.00           0.00
+
+                         TOTAL                           72719.00    72719.00           0.00
+
+
+ CREDIT BILLS ONLY ARE SHOWN IN STATEMENT FOR ALL BILLS GET GST-TIN STATEMENT
